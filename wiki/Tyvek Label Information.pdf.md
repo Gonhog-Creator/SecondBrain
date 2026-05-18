@@ -1,0 +1,45 @@
+# Tyvek Label Information.pdf
+
+Source: junk_drawer/Tyvek Label Information.pdf
+
+Category: [[other]]
+
+## Summary
+Information on Tyvek Label The Tyvek Label is attached to the outer nylon of the hard plate by using the Fortex contact adhesive. The information is printed onto the label using the printer and ink specified in previous documents. DuPont™ Tyvek® 1056D is a "hard structure" synthetic material that combines the best properties of paper, plastic film, and fabric. Unlike soft-structure variants (which resemble fabric), the 1056D style features a paper-like texture: it is rigid, smooth, opaque, and e
+
+## Full Content
+Information on Tyvek Label
+The Tyvek Label is attached to the outer nylon of the hard plate by using the Fortex contact
+adhesive. The information is printed onto the label using the printer and ink specified in previous
+documents.
+DuPont™ Tyvek® 1056D is a "hard structure" synthetic material that combines the best
+properties of paper, plastic film, and fabric. Unlike soft-structure variants (which resemble
+fabric), the 1056D style features a paper-like texture: it is rigid, smooth, opaque, and extremely
+durable.
+Key Technical Specifications
+Basis Weight: Approximately 55 g/m² (1.60 oz/yd²).
+Thickness: Approximately 175 µm (6.3 mil).
+Composition: 100% high-density polyethylene (HDPE) produced via a flash-spinning process.
+Treatments: Features a Corona treatment (to enhance ink and adhesive adhesion) and an
+antistatic treatment to facilitate handling during printing processes.
+www.uayna.com.ar
+www.uayna.com.ar
+Key Properties
+Extreme Durability: Highly resistant to tearing, punctures, and abrasion, making it ideal for
+replacing paper when the latter is not sufficiently strong.
+Water and Chemical Resistance: Inherently hydrophobic (repels water) and resistant to most
+acids, bases, and salts.
+Breathability: Although it blocks liquids, it allows water vapor and gases to pass through,
+thereby preventing moisture buildup.
+Printability: Compatible with multiple techniques, including offset, flexography, screen printing,
+and UV or latex inkjet.
+Sustainability: A material that is 100% recyclable as HDPE plastic.
+DuPont Mexico
+DuPont Mexico
+
+
+
+## Metadata
+- Source file: junk_drawer/Tyvek Label Information.pdf
+- Extracted: 2026-05-18
+- Category: other

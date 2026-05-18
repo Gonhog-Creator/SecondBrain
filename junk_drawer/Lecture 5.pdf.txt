@@ -1,0 +1,1056 @@
+Lecture 5
+
+ChE 467/596-012
+Polymer Rheology
+Saad A Khan
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Last Class & Moving Forward
+Last Class ended with:
+• Dynamic oscillatory shear
+
+Today’s Agenda
+
+• Start-up of steady shear – stress growth
+• Stress relaxation following steady shear
+• Step strain -stress relaxation following sudden strain
+• Creep and recovery
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Material Functions for dynamic oscillatory experiments
+G'
+ω
+
+G´=elastic modulus
+
+η" Dynamic Rigidity =
+
+G´´=viscous modulus
+
+G"
+η'  Dynamic Viscosity =
+ω
+
+ yx  G '  o sin( t )  G " o cos( t )
+  "( ) o sin( t )   '( ) o cos( t )
+tan   loss tangent 
+
+G ''
+G'
+
+*  Complex Viscosity
+1/ 2
+
+ G ''  2  G '  2 
+1/ 2
+= '2  ''2   
+    
+
+
+
+
+
+ 
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Significance of Material Functions
+G´=elastic modulus
+
+Energy stored in system– shape and magnitude
+indicates whether sample an elastic network,
+gel, liquid
+
+G´´=viscous modulus
+
+Energy dissipated – relative magnitude w.r.t. G’
+indicates state of material also
+
+G ''
+tan   loss tangent 
+G'
+
+Relative importance of viscous nature over
+elastic nature; usually <1 gels, solids (one
+criteria); usually >1 viscous fluids
+
+*  Complex Viscosity
+1/ 2
+
+ G ''  2  G '  2 
+1/ 2
+= '2  ''2   
+    
+
+
+
+
+
+ 
+
+ChE 598K – Lecture
+
+Analogous to steady viscosity for
+conventional polymeric system
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Material Functions, cont’d
+
+G', G"
+
+Typical polymer melt dynamic data
+10
+
+2
+
+10
+
+1
+
+10
+
+0
+
+10
+
+-1
+
+10
+
+-2
+
+c   c
+G"
+
+1/  c  1 /  c  
+
+1
+
+G'
+10
+
+-3
+
+10
+
+-4
+
+10
+
+-5
+
+2
+
+ – longest relaxation time
+
+
+10
+
+c
+
+-3
+
+10
+
+-2
+
+10
+
+-1
+
+
+
+10
+
+0
+
+10
+
+1
+
+10
+
+2
+
+G’ ~ 2 ; G”~ at low 
+.
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+.
+
+of
+
+Material Functions, cont’d
+Typical polymer melt dynamic data
+
+Plateau Modulus GoN or Gp
+log G'
+log G"
+G"
+
+1
+2
+
+G'
+
+G’ ~ 2 ; G”~ at .low 
+ChE 598K – Lecture
+
+log 
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+.
+
+of
+
+Elastic and Viscous Moduli (G’, G”)
+• The frequency sweep experiment was done at a constant
+strain amplitude,  o
+
+•What strain amplitude do we use?
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Material Functions, cont’d
+
+log G’
+
+• All dynamic material functions discussed represent linear
+viscoelastic properties
+LVE= linear
+viscoelastic
+regime
+
+LVE
+
+%o
+• Experiments have to be done at v. small strain amplitude
+• Do strain sweep first to get LVE; then do frequency sweep at a
+strain in the LVE regime .
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+.
+
+of
+
+   (o)
+
+Material Functions, cont’d
+10
+
+2
+
+10
+
+1
+
+10
+
+0
+
+Cox-Merz Rule
+
+.
+
+
+10
+
+-1
+
+10
+
+-3
+
+10
+
+-2
+
+10
+
+ *( )   ( )
+c   c ;
+ChE 598K – Lecture
+
+1
+
+c
+
+~
+
+1
+
+c
+
+c
+
+=
+
+-1
+
+.
+
+ or 
+
+10
+
+0
+
+10
+
+1
+
+10
+
+2
+
+@  
+  longest relaxation time
+
+.
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+.
+
+of
+
+In-class exercise
+• Plot ’ and ’’ vs  for a polymer
+η" 
+
+G'
+ω
+
+η' 
+
+G"
+ω
+
+• Are there any instances that you would prefer doing
+dynamic experiments over steady shear?
+
+.
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+.
+
+of
+
+G* in terms of Viscous and Elastic Components
+
+G 
+*
+
+
+
+
+G*  amplitude ratio
+
+0
+
+The loss modulus is given
+by the ratio of the stress amplitude
+to the strain amplitude times the
+sine of the phase shift angle
+
+0
+
+G    G  
+
+G 
+
+2
+
+*
+
+2
+
+G  
+
+
+0
+
+sin 
+
+
+0
+
+G 
+ChE 598K – Lecture
+
+
+
+
+0
+
+cos 
+
+The shear storage modulus is given by the ratio
+of the stress amplitude to the strain amplitude
+times the cosine of the phase shift.
+
+0
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+G 
+*
+
+0
+0
+
+G* in terms of complex notation
+G``
+G*  amplitude ratio
+
+G*
+
+
+Expressed in complex notation
+
+G *  G   i G 
+
+G  
+
+
+0
+
+sin 
+
+G`
+
+
+0
+
+G 
+ChE 598K – Lecture
+
+
+
+
+0
+
+cos 
+
+The shear storage modulus
+is the “real”
+component of G*
+
+The shear loss modulus
+is the “imaginary”
+component of G*
+
+0
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Rest of Today’s Agenda
+Time-dependent/transient shear experiments
+start-up of shear flow
+• look at initial transient conditions before
+flow reaches steady state
+stress relaxation following deformation
+• relaxation of stress upon cessation of steady
+shear flow
+• stress relaxation following step strain
+
+Creep experiments
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Stress Growth (Start Up)
+y
+t<0, vx=0
+
+vx  o y
+
+t>0
+
+x
+
+At rest
+
+Transient
+
+Steady state
+
+
+
+ yx   (t,  o )  o
+
+
+ xx   yy  1 (t,  o )  o
+ yy 
+
+
+ zz   2
+
+(t,  o ) 
+
+2
+
+• 3 transient material functions
+
+2
+
+• “+” emphasizes steady rate
+applied for positive times
+
+material functions
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Stress Growth (Start Up)
+Steady-state
+viscosity
+
+log +
+
+Increasing shear rate!
+
+0.01
+
+log t
+
+• Low shear rate -viscosity/stress increase monotonically with time
+• Increasing shear rate - deviation from envelope
+
+• Higher shear rates - observe stress/viscosity overshoot
+• Envelope corresponds to linear regime
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Stress Growth (cont’d)
+
+•What can we say?
+
+
+
+  103
+
+
+  102
+
+102
+
+• Relative overshoot
+
+increases with
+increasing shear
+rate!
+
+
+
+  101
+
+
+
+η
+η
+
+1.0
+
+
+  103
+
+• Maxima shifts to
+
+shorter time with
+increasing shear
+rate
+
+0.0
+
+time
+
+• Any ramifications of stress overshoot?
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Stress Growth (cont’d)
+η
+η
+
+• Overshoot occurs at
+same strain level although
+different times
+
+1.0
+
+• strain level ~2-3
+ Note    o t
+
+ of 2 to 3
+0.0
+
+
+
+Similar behavior observed in normal
+stress with overshoot at  ~2
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Stress Relaxation
+Stress relaxation following steady shear
+
+vx  o y
+
+t<0
+
+
+
+ yx   (t,  o )  o
+ xx   yy  1 (t,  o )  o
+ yy 
+
+ChE 598K – Lecture
+
+
+ zz   2
+
+2
+
+(t,  o ) 
+
+?
+
+At rest
+
+Steady state
+
+
+
+t>0, vx=0
+
+2
+
+• 3 more transient material
+functions
+• “-” emphasizes steady rate
+applied for previous times
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Stress relaxation – after steady shear
+Elastic (rubber)
+
+1.0
+
+η
+log
+η
+
+0.0
+
+time (s)
+
+Newtonian,
+relaxes instantaneously!
+
+How do an elastic material or
+Newtonian fluid behave?
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Stress relaxation – after steady shear
+Elastic (rubber)
+
+1.0
+
+η
+log
+η
+Viscoelastic polymers
+
+
+
+
+0.0
+
+time (s)
+
+Newtonian,
+relaxes instantaneously!
+
+• Increasing initial shear rate – relaxation faster
+• Stresses eventually relax to zero (not shown in drawing)
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Stress relaxation – after steady shear
+Normal vs shear stresses
+1.0
+
+ψ1- /ψ1,0
+
+η- /η0
+0.0
+
+time (s)
+
+• Normal stresses relax more slowly
+• Any implications?
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Stress relaxation
+Stress relaxation following step shear or strain
+t<0, s=0
+
+At rest
+
+s
+
+s  o y
+
+t>0
+
+vx  0
+
+Fluid at rest
+
+Apply strain
+instantaneously
+
+0
+
+
+t0
+
+ o  t
+0
+
+t0
+ChE 598K – Lecture
+
+time (s)
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Stress relaxation-step strain
+What is the shear rate?
+
+   o ( t)
+
+0
+
+Dirac delta function
+
+
+
+ o  t
+
+
+0
+
+time (s)
+
+t0
+
+
+
+0
+ (t)
+
+Stress-strain relation
+
+ yx  G(t,  o )  o
+
+ yx  G(t )  o in the linear viscoelastic regime
+G(t) – relaxation modulus
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Stress relaxation-step strain
+There is overlap for a
+certain strain regime
+
+0 = 0.5
+
+log G (t,0)
+
+0 = 0.1
+
+ This is the LVE, or
+
+0 = 1
+
+linear, regime! The
+relaxation is
+independent of strain
+level
+
+0 = 2
+0 = 3
+
+log time (t)
+
+Increasing strain shifts
+relaxation curve down
+but no change in shape
+
+ There is time strain
+separability
+ChE 598K – Lecture
+
+G(t,)=G(t) h()
+h() is the damping function
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Stress relaxation-step strain
+Damping function
+
+h() is a measure of non-linearity
+1
+
+h()
+
+
+
+Questions
+• What is h() in the LVE?
+• What is h() for an elastic material?
+• Plot G(t) for an elastic solid & Newtonian fluid
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Creep Experiment
+t<0, vx=0
+
+t>0
+
+vx  (t) y
+
+Apply constant stress o
+
+At rest
+Possible Experimental sequence
+Apply constant stress o
+
+Measure  or creep compliance J(t, o)
+
+J(t, o )   (t) / o
+
+Remove stress o, i.e. set o =0
+
+Measure recoverable strain r
+or creep recovery Jr
+
+Note that recovery is also referred to as recoil
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Strain - Time Plot : Perfect Liquid
+
+Strain
+
+No recovery of
+strain on removal
+of applied stress
+
+0
+Time
+
+Stress on
+ChE 598K – Lecture
+
+Stress off
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Strain - Time Plot : Elastic Mat’l
+
+Strain
+
+Application of stress
+results in instantaneous
+deformation
+
+Complete
+elastic recovery
+of strain
+
+0
+Time
+Stress on
+ChE 598K – Lecture
+
+Stress off
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Strain
+
+Strain - Time Plot : Viscoelastic “Fluid”
+
+0
+
+Stress on
+ChE 598K – Lecture
+
+Stress off
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Strain - Time Plot : Viscoelastic “Fluid”
+Strain
+Steady
+Strain Rate
+Attained
+
+Recoverable
+Strain
+
+Instantaneous
+Strain
+
+0
+
+Time
+Stress on
+ChE 598K – Lecture
+
+Stress off
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Strain
+
+Strain - Time Plot : Viscoelastic “Solid”
+
+0
+
+Stress on
+ChE 598K – Lecture
+
+Stress off
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Strain
+
+Strain - Time Plot : Viscoelastic “Solid”
+Instantaneous
+Strain
+Recoverable
+Strain
+
+0
+
+Time
+Stress on
+ChE 598K – Lecture
+
+Stress off
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Recap- Possible experiments
+• Steady shear
+
+• Dynamic oscillatory shear
+• Start-up of steady shear – stress growth
+• Stress relaxation following steady shear
+
+• Step strain -stress relaxation following sudden strain
+• Creep and recovery
+
+.
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+.
+
+of
+
+

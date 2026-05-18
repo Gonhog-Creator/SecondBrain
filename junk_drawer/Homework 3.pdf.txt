@@ -1,0 +1,49 @@
+ChE 596 Polymer Rheology - Fall 2024
+Homework 3
+Due date: Tuesday, October 8th at 1:30 PM EDT
+Show all your work for full credit.
+Problem 1
+A typical plot of the elastic modulus of a polymer as a function of strain is shown below. For what strain
+limits will the linear viscoelastic model be valid for this material?
+
+Problem 2
+Your friend has carefully calculated the stress tensor for a complex flow and come up with the following
+total stress tensor.
+
+(a) Assuming that the fluid is Newtonian, comment on the nature of the flow
+(b) Assuming that the fluid is viscoelastic, comment on the nature of the flow.
+Problem 3
+You are trying to check the reproducibility of your lab experiments by repeating them. You are working
+with a polymer which has a longest relaxation time constant of 1000 seconds. To check for
+reproducibility, you are measuring the viscosity-shear rate behavior by doing experiments back to back.
+Unfortunately, your results are not overlapping. What could be wrong and what would you do to rectify
+it, if possible?
+Problem 4
+Consider a small amplitude oscillatory shear flow being modeled using the linear viscoelastic equation
+with one exponential element, i.e., G(t-t’) = η/λ exp[-(t-t’)/λ]. What would η’ and η” be or how would
+they each scale with frequency ω as: (a) λ → 0; (b) ω → 0.
+Problem 5
+Steady shear viscosity versus shear rate data is provided below for materials on a log-log scale
+
+(a)Estimate the zero shear viscosity for each liquid
+(b) Estimate the relaxation time for each liquid. Explain how you got them, if needed
+(c) Assuming that all of them are the same material, comment on the molecular weight and its
+distribution for each liquid/melt (e.g., A has the medium mol weight and most polydispersity, etc)
+
+Problem 6
+(a) Your supervisor at No-Rheology-Background Technologies has given you a material and asked
+you to measure its viscosity at a specified temperature. You tried the cone and plate geometry,
+but the transducer did not pick up any signal. Then you used the typical couette geometry but
+still the noise was too high as the torque signal was weak, especially at low shear rates.
+i.
+ii.
+
+What other geometry (or geometries) may enable you to measure the viscosity of such a
+liquid?
+Are there other strategies you could take to get adequate torque signal?
+
+(b) Your supervisor (again!) comes back and asks you to measure the viscosity of another material
+for a range of temperatures from 25 ˚C to 150 ˚C. What geometry would you use in this case
+and why? Also describe how you would go about doing the experiments.
+
+

@@ -1,0 +1,14 @@
+In-class exercise 4 (solution)
+Compute the interplanar spacing in a tetragonal crystal
+
+a=bc; α===90
+a*=b*c*; α*=*=*=90
+
+Topic 5 - 33
+
+In-class exercise 4 (solution)
+Compute the interplanar spacing in a tetragonal crystal
+
+Topic 5 - 34
+
+

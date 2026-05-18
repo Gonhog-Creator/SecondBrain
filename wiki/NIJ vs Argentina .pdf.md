@@ -1,0 +1,49 @@
+# NIJ vs Argentina .pdf
+
+Source: junk_drawer/NIJ vs Argentina .pdf
+
+Category: [[other]]
+
+## Summary
+NIJ 0101.07 vs Argentina’s RB Standards Jose Maria Barbeito NIJ Standards - HG and RF Argentina Standards - RB ● ● Adds RB0, less than HG1
+
+## Full Content
+NIJ 0101.07 vs Argentina’s RB Standards
+Jose Maria Barbeito
+
+NIJ Standards - HG and RF
+
+Argentina Standards - RB
+●
+●
+
+Adds RB0, less than HG1
+No Green tip
+
+Threat Level
+
+RB5 —
+
+— RF3
+— RF2
+
+RB4 —
+
+— RF1
+
+RB3 —
+
+— HG2
+
+RB2 —
+
+— HG1
+
+RB1 —
+
+
+
+## Metadata
+- Source file: junk_drawer/NIJ vs Argentina .pdf
+- Extracted: 2026-05-18
+- Category: other

@@ -1,0 +1,50 @@
+CHE-225 Introduction to Chemical Engineering Analysis
+
+Spring 2023
+
+PROBLEM SET 7
+(Due Mar 10 2023 @ 8:30 AM in Gradescope and Moodle)
+This problem set is to be completed individually in part as a hardcopy and in part in Excel. The
+hardcopy portions are: Problem 1, and Problem 2a-d, to be submitted via GradeScope. The Excel portion is: Problem 2e. You will submit your own Excel assignments via Moodle and attach
+screenshots to your Gradescope submission. Do not forget to press the submit button in Moodle.
+Problem 1 (30 points total)
+Find the solution to the following differential equation:
+
+dz
+= 7z + 3
+dk
+
+initial condition: z = 0 at k = 0
+
+a. (15 points) Using the separation variable approach.
+b. (15 points) Using the integrating factor approach.
+
+Problem 2 (70 points total)
+Consider a tank with a shape of a cone standing on its base. The height (H) of the tank is 1 m
+and the radius of the base (R) is 50 cm. The tank is filled initially with water (density: 1 g/cm3)
+up to 25% of its height (h0, measured from the base of the tank). At time t = 0 you deliver water
+from the top of the tank with a volumetric flow (vin) of 1 L/s. Concurrently, you start emptying
+the tank at the bottom with a volumetric flow (vout) of 2 L/s. At a certain time point (tempty), the
+tank is empty. At t = 5 min from the beginning of the whole process (i.e., starting to fill/drain
+the tank), you close the bottom valve (i.e., no water removal from the tank) and start filling the
+tank from the top again with the same volumetric flow as before (i.e., 1 L/s). The process stops
+when the tank is completely filled (tfull). The figure below depicts schematically the entire process.
+
+a. (15 points) Derive a transient balance equation that describes the dependance of liquid height
+change (dh) in the tank on the time change (dt). Use symbols (e.g., R, H) and do not plugin
+numbers.
+b. (15 points) Using the result obtained in part a), derive the expression of the liquid height (h)
+in the tank as a function of time (t). Use symbols (e.g., R, H) and do not plugin numbers.
+c. (10 points) Calculate the time it takes for the liquid initially present in the tank to empty
+completely (tempty).
+d. (10 points) Calculate the time it takes for the liquid to refill the tank (trefill referring to the
+time duration between “start filling” (5 min) and tfull)). Note: You can reset the time of “start
+filling” as t = 0 to simplify your calculation process.
+e. (20 points) Use the equation you derive in part b) and plot the dependence of h on t (i.e.,
+h=h(t)) for the entire process (i.e., from time 0 to time tfull). Submit your solution in an Excel
+file via Moodle (see instructions above). As you may guess this will comprise three processes: i.e., emptying the tank, having tank empty for some time, and filling the tank until it is
+completely filled. In your solution, do not forget to add the result when the tank is completely empty. Be smart about how you approach the problem. We are not necessarily asking you
+to calculate h=h(t); (although you can of course do it). There is an easier way around J.
+Think about it. The key process we ask you to do is to plot the dependence of h on time.
+
+

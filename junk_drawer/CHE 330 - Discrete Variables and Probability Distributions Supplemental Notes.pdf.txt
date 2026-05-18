@@ -1,0 +1,351 @@
+Department of Chemical & Biomolecular Engineering
+North Carolina State University
+CHE 330
+Discrete Variables & Probability Distributions
+
+Spring 2011
+
+†
+
+Discrete Variables
+Discrete variables are variables that take on integer values, examples include number of
+packages of a defective product in a production batch, numbers of cars failing an emission test,
+number of persons afflicted by a certain disease, and number of heads (or tails) turning up in a
+specified number of coin tosses. Every discrete variable x has a probability distribution, P(x),
+n( x )
+which is given by the relative frequency distribution f, P( x) = f ( x) ≡
+(1)
+as N → ∞
+N
+In Eqn (1), n and N denote the frequency of occurrence and number of samples taken,
+respectively. For a small sample population, N < 10, the relative frequency f(x) gives a crude
+estimate of the probability distribution P(x) of the discrete variable x, but as N becomes larger,
+f(x) gives a progressively better estimate of P(x). In the limit of N → ∞ (or with N > 500-1000 in
+practice), f(x) gives an exact estimate of P(x).
+
+The probability distribution of x is used to determine the expectation (or average) values of the
+N
+
+discrete variable x and any function y(x) of x, viz., E ( x) ≡ < x > = ∑ Pi ( xi ) xi
+
+(2)
+
+i =1
+
+N
+
+E[ y ( x)] ≡ < y ( x) > = ∑ Pi ( xi ) yi ( xi )
+
+(3)
+
+i =1
+
+For the special case of y ( x) = [ x − E ( x)]2 , the expectation value of [ x − E ( x)]2 is defined as the
+variance σ2 of x and the square root of σ2 is defined as the standard deviation σ of x, i.e.,
+N
+
+Variance of x ≡ σ 2 ≡ E{[ x − E ( x)]2 } = ∑ Pi ( xi )[ xi − E ( x)]2
+
+(4)
+
+i =1
+
+Standard deviation of x ≡ σ ≡ E{[ x − E ( x)]2 } =
+
+N
+
+∑ P ( x )[ x − E ( x)]
+i =1
+
+2
+
+i
+
+i
+
+i
+
+(5)
+
+A probability distribution function for a discrete variable has the following properties:
+N
+
+(i) 0 ≤ P( x) ≤ 1 , and (ii) ∑ Pi ( xi ) = 1.0 (the probability distribution is said to be normalized) .
+i =1
+
+Some Known Probability Distribution Functions of Discrete Variables
+(A) Binomial Probability Distribution
+A binomial trial is an experimental run that has only two outcomes, success and failure (or
+affirmative and negative), with a constant probability of success p (and, hence, a constant
+probability of failure, 1−p). A binomial experiment is one with n repeat trials, each of which is
+independent and each has a constant probability of success (or failure). The probability
+(6)
+distribution of a binomial variable X in n trials is given by P ( x) = nCx p x (1 − p)( n − x )
+______________________________________________________________________________
+†
+P. K. Lim, Department of Chemical & Biomolecular Engineering, North Carolina State
+University, Raleigh, NC 27695-7905, January 261 2011.
+
+n!
+x !(n − x)!
+P(x) thus gives the probability of x successes in n binomial trials.
+
+where nC x ≡
+
+(7)
+
+Example 1: A fair coin is tossed three times. Let x denotes the number of heads turning up in
+the three tosses. Find the probability distribution for all possible values of x.
+Solution
+For a fair coin, the head and tail have equal probabilities of turning face up. Therefore, the
+probability of head turning up on a toss = 0.5.
+x, # Heads Up
+0
+1
+2
+3
+
+Note:
+
+all possible x i
+
+∑
+
+Possible Toss Outcome(s)
+TTT
+HTT, THT, TTH
+HHT, HTH, THH
+HHH
+
+Probability
+P(x = 0) = (1−0.5)3 = 0.125
+P(x = 1) = 3*0.51(1−0.5)2 = 0.375
+P(x = 2) = 3*0.52(1−0.5)1 = 0.375
+P(x = 3) = 0.53 = 0.125
+
+P( xi ) =0.125 + 0.375 + 0.375 + 0.125 = 1.0
+
+i
+
+Example 2: A blue tetrahedral die has the numbers 1, 3, 5, and 7 on its four faces. A red
+tetrahedral die has the numbers 2, 4, 6 and 8 on its four faces. The two dies are tossed and the
+numbers turned face up on the dies are recorded. If T denotes the sum of the two numbers,
+determine the probability distribution of all possible and determine the expectation value of T, T
+assuming that the two dies are fair.
+Solution
+The possible outcomes can be represented in the table below:
+Blue\Red
+2
+4
+6
+8
+1
+3
+5
+7
+9
+3
+5
+7
+9
+11
+5
+7
+9
+11
+13
+7
+9
+11
+13
+15
+
+The four faces of a fair die have equal probabilities of turning face up. Therefore, probability of
+each face turning face up = ¼ =0.25.
+3
+5
+7
+9
+11
+13
+15
+T
+Σ
+Frequency, f(T)
+1
+2
+3
+4
+3
+2
+1
+16
+1/16 2/16 3/16 4/16
+3/16
+2/16
+1/16
+1.0
+f (Ti )
+Probability, P (T ) =
+∑ f (Ti )
+3/16
+
+T*P(T)
+
+Expectation value of T = ∑ Ti Pi (T ) =
+i
+
+10/16 21/16 36/16
+
+33/16
+
+26/16
+
+1
+144
+= 9.5
+( 3 + 10 + 21 + 36 + 33 + 26 + 15) =
+16
+16
+
+15/16
+
+9.5
+
+Example 4: A discrete random variable x has a probability distribution given in the table below.
+
+-2
+0.1
+
+x
+P(x)
+
+-1
+0.2
+
+1
+0.3
+
+2
+0.2
+
+5
+0.1
+
+10
+0.1
+
+Σ
+1.0
+
+Determine the expectation value of 100/x2.
+Solution
+x
+P(x)
+y(x) =100/x2
+y(x)*P(x)
+
+-2
+0.1
+25
+2.5
+
+-1
+0.2
+100
+20
+
+1
+0.3
+100
+30
+
+2
+0.2
+25
+5
+
+5
+0.1
+4
+0.4
+
+10
+0.1
+1
+0.1
+
+Σ
+1.0
+255
+58
+
+100
+100
+100
+100
+100
+100
+100
+Pi ( x) = 2 0.1 + 2 0.2 + 2 0.3 + 2 0.2 + 2 0.1 + 2 0.1
+2
+xi
+−2
+−1
+1
+2
+5
+10
+i
+
+E[ y ( x)] = ∑ yi ( x) Pi ( x) = ∑
+i
+
+E[ y ( x)] = ∑ yi ( x) Pi ( x) = 2.5 + 20 + 30 + 5 + 0.4 + 0.1 = 58
+i
+
+Example 5: A health department record shows that patients suffering from a certain disease has
+a probability of 75% dying from it. What is the probability that four of six randomly selected
+patients will recover?
+Solution
+For 6 randomly selected patients with four persons recovering, number of patient dying = 2.
+The probability is given by Eqn (6), P ( x) = nC x p x (1 − p)( n − x ) or
+6!
+P (2) = 6C2 0.752 (1 − 0.75) 4 =
+0.752 0.254 = 0.0330
+2!4!
+
+In Excel, there is a binomial distribution function called BINOMDIST(x, n, p, cumulative)
+which can be used to calculate binomial probabilities. In the string specifications, x, n, and p
+correspond to the number of successes, number of trials, and probability of success, respectively.
+Permissible entry for cumulative is either true or false. If true is specified, BINOMDIST will
+return the cumulative distribution function, which is the probability that there are at most x
+successes. If false is specified, BINOMDIST will return the probability function, which is the
+probability that there are x successes. In Example 5 above, the use of BINOMDIST(2, 6, 0.75,
+false) gives a value of 0.032959, in exact agreement with the hand calculation.
+
+(B) Poisson Distribution Function
+Poisson distribution is a discrete probability distribution that refers to the number of events (or
+successes) within a specific time period or region of space. For example: (i) the number of cars
+arriving at a service station in 1 hour (the time interval is 1 hour), (ii) the number of defective
+units in a box of 12 product units (the number interval is 12), and the number of accidents in 1
+day on a particular stretch of highway (the interval is defined by both time, 1 day, and space, the
+e− μ μ x
+particular stretch of highway). The Poisson distribution is given by P ( x) =
+, where μ is
+x!
+the mean number of successes within the interval, and x is the specified number of successes.
+Example 6: A company makes electric motors. The probability an electric motor is defective is
+0.01. What is the probability that a sample of 300 electric motors will contain exactly 5 defective
+motors?
+Solution
+The average number of defectives in 300 motors is μ = 0.01 × 300 = 3
+e −3 35
+The probability of getting 5 defectives is P ( x = 5) =
+= 0.10082
+5!
+If we solve the problem using binomial distribution, we would obtain with n = 300, x = 5, p =
+0.01 and q = 1 − p = 0.99, P(x = 5) = 300C5(0.01)5(0.99)295 = 0.10099. Both results are
+acceptable.
+
+

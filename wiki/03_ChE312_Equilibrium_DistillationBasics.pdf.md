@@ -1,0 +1,649 @@
+# 03_ChE312_Equilibrium_DistillationBasics.pdf
+
+Source: junk_drawer/03_ChE312_Equilibrium_DistillationBasics.pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+ChE 312 – Transport Processes II Combine equilibrium relations with mass balances. Semibatch distillation – Balance on the liquid residue. Continuous stagewise distillation – Coupled balances on stages. © 2024, ChE 312-001 (PRW) Examine PS03. 3a. For pure benzene and pure toluene, construct a spreadsheet (Excel or Google Sheets) to calculate the vapor pressures and vapor-pressure ratio (Pvapor,benzene /
+
+## Full Content
+ChE 312 – Transport Processes II
+Combine equilibrium relations with mass balances.
+Semibatch distillation – Balance on the liquid residue.
+Continuous stagewise distillation – Coupled balances on stages.
+
+© 2024, ChE 312-001 (PRW)
+
+Examine PS03.
+3a. For pure benzene and pure toluene, construct a spreadsheet (Excel or Google
+Sheets) to calculate the vapor pressures and vapor-pressure ratio (Pvapor,benzene /
+Pvapor,toluene) as temperature varies from the boiling point of pure benzene to the
+boiling point of pure toluene. Use Antoine's equation for pure-species vapor pressure.
+– What is the average Pvapor,benzene / Pvapor,toluene, and how much does the actual ratio vary?
+That is, how close is benzene-toluene to having "constant relative volatility"?
+
+3b. Constant relative volatility gives a convenient equation for binary equilibrium, but
+it is an approximation. Construct a spreadsheet to compute a table and plot y vs x
+(that is, y1 vs x1) for ideal binary vapor-liquid equilibrium with a given constant alpha.
+– Note that this calculation is independent of temperature and of pressure.
+– Use the α for benzene-toluene binary vapor-liquid equilibrium.
+– [You should have a table where x and y both vary from zero to 1.]
+© 2024, ChE 312-001 (PRW)
+
+“Constant relative volatility” is useful even if approximate.
+𝑦 /𝑥
+
+𝑃𝑣𝑎𝑝,1
+
+𝑗
+
+𝑃𝑣𝑎𝑝,2
+
+• “Relative volatility” 𝛼𝑖𝑗 𝑇 = 𝑦 𝑖 /𝑥𝑖 =
+⇒ 𝑦 𝑥, 𝑇 =
+• If
+
+𝑃𝑣𝑎𝑝,1 𝑇
+𝑃𝑣𝑎𝑝,2 𝑇
+
+𝛼𝑖𝑗 𝑥
+
+𝑗
+
+;
+
+1+ 𝛼𝑖𝑗 − 1 𝑥
+
+is constant with 𝑇, then “constant
+
+relative volatility.”
+
+• Very convenient when valid, giving 𝑦 𝑥 as
+the 𝑇 effect is eliminated.
+• Usually for molecules with similar
+interactions, like benzene and toluene.
+
+© 2024, ChE 312-001 (PRW)
+
+3
+
+At constant P, graph y vs. x or T vs. x and y.
+P=1 atm
+
+© 2024, ChE 312-001 (PRW)
+
+4
+
+If the mixture y ever equals x, we have an azeotrope,
+𝑦𝐴𝑧 = 𝑥𝐴𝑧 .
+
+• Then there is no difference between y and x to use for separation.
+– Unless vapors and liquids are all < 𝑥𝐴𝑧 or all > 𝑥𝐴𝑧 .
+© 2024, ChE 312-001 (PRW)
+
+5
+
+Example 26.3-2. Simple differential distillation.
+
+© 2024, ChE 312-001 (PRW)
+
+yeq, npentane
+in nheptane
+
+1.000
+
+1.000
+
+0.867
+
+0.984
+
+0.594
+
+0.925
+
+0.398
+
+0.836
+
+0.254
+
+0.701
+
+n-pentane in n-heptane
+1
+0.9
+0.8
+0.7
+y for n-pentane
+
+• 100 mol initially, 50.0 mol
+% n-pentane mixture with
+n-heptane (should be
+ideal)
+• Differential distillation at
+P=101.3 kPa until 40 mol
+are distilled.
+• Average composition of
+total vapor and remaining
+liquid?
+
+xeq, npentane
+in nheptane
+
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+
+0.145
+
+0.521
+
+0.059
+
+0.271
+
+0.000
+
+0.000
+
+0
+0
+
+0.2
+
+0.4
+
+0.6
+
+x for n-pentane
+
+0.8
+
+1
+
+Solve using
+
+𝒅𝑳
+𝒅𝒙
+= 𝒅 ln 𝑳 =
+𝑳
+𝒚𝒆𝒒 −𝒙
+
+• Integrate from 𝐿1 = 100 𝑚𝑜𝑙 and
+𝑥1 = 0.500 to 𝐿2 = 60 using
+𝑥2
+𝐿
+1
+𝑙𝑛 2 = ‫𝑥׬‬
+𝑑𝑥, the
+𝐿1
+1 𝑦𝑒𝑞 −𝑥
+Rayleigh equation.
+
+• One approach: Integrate using a
+𝟏
+graph+table of 𝒚 −𝒙 vs. 𝒙 as a sum
+𝒆𝒒
+
+of
+
+𝟏
+𝒚𝒆𝒒 (𝒙)−𝒙
+
+𝑖,𝑎𝑣𝑒
+
+∙ 𝑥𝑖+1 − 𝑥𝑖
+
+60
+
+𝐿
+
+• Then ln 𝐿2 = 100 = 0.510.
+1
+
+• Before-and-after mole balance is:
+𝐿1 𝑥1 = 𝐿2 𝑥2 + 𝐿1 −𝐿2 𝑦𝑎𝑣𝑒 , giving
+𝐿 𝑥 −𝐿 𝑥
+𝑦𝑎𝑣𝑒 = 1 1 2 2
+𝐿1 −𝐿2
+
+• Thus, we need to find 𝑥2 from the
+integration.
+© 2024, ChE 312-001 (PRW)
+
+Then 𝑥2 =0.277 gives 𝑦𝑎𝑣𝑒 =0.835.
+
+Solve using
+
+𝒅𝑳
+𝒅𝒙
+= 𝒅 ln 𝑳 =
+𝑳
+𝒚𝒆𝒒 −𝒙
+
+• Integrate from 𝐿1 = 100 𝑚𝑜𝑙 and
+𝐿
+𝑥1 = 0.500 to 𝐿2 = 60 using 𝑙𝑛 𝐿2 =
+𝑥2
+1
+‫𝑥׬‬1 𝑦𝑒𝑞−𝑥
+
+• Or fit 𝑦 =
+
+𝛼𝑥
+1+𝑥 𝛼−1
+
+1
+
+𝑑𝑥, the Rayleigh
+
+equation.
+60
+
+𝐿
+
+• Then ln 𝐿2 = 100 = 0.510.
+1
+
+• Before-and-after mole balance is:
+𝐿1 𝑥1 = 𝐿2 𝑥2 + 𝐿1 −𝐿2 𝑦𝑎𝑣𝑒 , giving
+𝐿 𝑥 −𝐿 𝑥
+𝑦𝑎𝑣𝑒 = 1 1 2 2
+𝐿1 −𝐿2
+
+• Thus, we need to find 𝑥2 from the
+integration.
+© 2024, ChE 312-001 (PRW)
+
+to get 𝛼 and
+compute the integral:
+σ
+
+𝟏
+𝛼𝑥
+−𝒙
+1+𝑥 𝛼−1
+
+(yEq-yPred)2
+0.0000
+0.0000
+0.0003
+0.0005
+0.0001
+0.0001
+0.0005
+0.0000
+0.0015
+alpha = 6.63
+
+αx/(1+x(α-1))
+1.0000
+0.9774
+0.9065
+0.8142
+0.6929
+0.5292
+0.2936
+0.0000
+
+∙ 𝑥𝑖+1 − 𝑥𝑖
+𝑖,𝑎𝑣𝑒
+
+using a set of 𝑥 values.
+
+Now consider multi-tray, continuous distillation.
+
+Study https://www.youtube.com/watch?v=I70jgRpf80o (auf Deutsch)
+© 2024, ChE 312-001 (PRW)
+
+Fig. 1.5; Seader, Henley, and Roper, Separation Process Principles, 3rd Ed.
+
+9
+
+“Reflux ratio”=Reflux/D
+
+Continuous
+distillation is a
+workhorse for
+separations.
+
+What steps to develop a
+model for analysis or design?
+
+How
+Supply
+heato
+thru
+feed
+and reboiler;
+analyze?
+Supply coolant at
+top to condense and
+return part of the
+liquid; Thus
+countercurrent V-L
+contacting.
+
+(1)Overall material balance
+(2)Component balance.
+(3)Then single equilibrium stage.
+(4)Then the stages together.
+(5)Possibly energy balances.
+“Boil-up rate” is set by
+reboiler heating rate
+
+View https://www.youtube.com/watch?v=I70jgRpf80o
+© 2024, ChE 312-001 (PRW)
+
+10
+Fig. 1.16; Seader, Henley, and Roper, Separation Process Principles, 3rd Ed.
+
+10
+
+First step is to
+calculate overall
+balances.
+Initially, only some
+information is given,
+such as feed rate &
+composition and a
+product specification
+(purity or % recovery
+of desired species)
+
+© 2024, ChE 312-001 (PRW)
+
+First balance: Total flows
+𝐹 =𝐷+𝐵
+2nd: Higher volatility species
+𝑧𝐹 = 𝑥𝐷 𝐷 + 𝑥𝐵 𝐵
+𝑧 is feed mole fraction.
+𝑥𝐷 may be specified product;
+If a “total condenser”, same as
+the vapor from the top!
+11
+Fig. 1.16; Seader, Henley, and Roper, Separation Process Principles, 3rd Ed.
+
+11
+
+Then stagewise balances: Sketch a stage; label; write balances.
+
+© 2024, ChE 312-001 (PRW)
+
+12
+
+Sketch a stage; label; write balances.
+
+• Key point: Streams leaving stage n have subscripts n.
+• Key point: Streams Ln and Vn are equilibrated (assumed).
+
+© 2024, ChE 312-001 (PRW)
+
+13
+
+Sketch a stage; label; write balances.
+
+• Key point: Streams leaving stage n have subscripts n.
+• Key point: Streams Ln and Vn are equilibrated (assumed).
+• Number other streams from top or from bottom.
+• We have to find the stage equilibrium compositions for all species, plus T and P.
+• A classic approach is McCabe-Thiele analysis (like Theel’-ee).
+© 2024, ChE 312-001 (PRW)
+
+14
+
+Analyze stages 1 thru n of enriching section: R=L0 /D, so L0 /V1 = R/(R+1).
+Vn+1 y n+1 = Ln x n + DxD
+
+D , xD=x0
+L0 , x0
+
+V1 , y1
+
+y n+1 =
+
+æ R ö
+æ x ö
+Ln
+Dx
+xn + D or y n+1 = ç
+÷ xn + ç D ÷
+è R +1 ø
+è R +1 ø
+Vn+1
+Vn+1
+
+Equilibrium: xn=
+
+Stage 1
+
+V2 , y2
+
+y
+y1 2
+
+L1 , x1
+
+y3
+
+Stage 2
+
+V3 , y3
+
+L2 , x2
+
+Vn , yn
+
+Ln-1 , xn-1
+Stage n
+
+Vn+1 , yn+1
+
+yn
+α+(1-α)yn
+
+Ln , xn
+
+Phase eq.
+
+yn
+
+x3
+
+xn
+15
+
+© 2024, ChE 312-001 (PRW)
+
+x2
+
+x
+
+x0
+
+1
+15
+
+Feed stage of staged separation:
+The rectifying-section O.L.
+and the stripping O.L.
+must intersect because both
+must be satisfied at the feed stage.
+
+Vf , yf
+F, xF
+
+To get q line:
+y = q x - 1 xF
+q-1
+q-1
+
+(V,L)
+
+y3
+Phase eq.
+
+yn
+
+xF
+
+xn16
+© 2024, ChE 312-001 (PRW)
+
+Lf , x f
+
+y
+y1 2
+
+q=L-L = 1+V-V
+F
+F
+where q=(heat Q to reach sat’d vapor)/QLV
+
+Lf-1 , xf-1
+
+Stage n
+
+Vf+1 ,yf+1
+
+Solve together (with C.M.O.):
+
+(V,L)
+
+x2
+
+x x0
+1
+16
+
+Stages n->N of stripping sectn; “VB”=s=VN/W:
+Vn , yn
+
+Ln-1 , xn-1
+Stage n
+
+Vn+1 , yn+1
+
+Ln , x n
+
+VN , yN
+
+y
+y1 2
+
+LN-1 , xN-1
+
+y3
+
+N (partial reboiler)
+
+LN =W, xN=xW
+
+Phase eq.
+
+yn
+
+Vn+1 y n+1 + LN xW = Ln x n
+y n+1 =
+© 2024, ChE 312-001 (PRW)
+
+æ s +1 ö
+æx ö
+Ln
+WxW
+xn or y n+1 = ç
+÷ xn - ç W ÷
+è s ø
+è s ø
+Vn+1
+Vn+1
+
+zF
+xW
+
+xn17
+
+x2
+
+x x0
+1
+17
+
+• Ideal equilibrium:
+
+yA =
+
+a AB x A
+1+ (a AB -1)x A
+
+– Or empirical fit (non-ideal):
+
+• q line:
+
+yA =
+
+xA =
+
+yA
+yA + a AB (1- yA )
+
+ax A
++ bx A (1- x A )
+1+ (a -1)x A
+
+æ q ö æ xF ö
+HV - H F
+y =ç
+x
+where
+q
+º
+÷ ç
+÷
+HV - H L
+è q -1 ø è q -1 ø
+
+• Enriching-section operating line (Constant molar overflow):
+æL ö
+æ Dx ö
+æ x ö
+æ R ö
+n
+yn+1 = çç
+x
++
+÷÷ xn + çç D ÷÷ = ç
+÷ n ç D ÷
+è R +1ø
+è R +1ø
+èVn+1 ø
+è Vn+1 ø
+
+• Stripping-section operating line (Constant molar overflow):
+æL ö
+æ Wx ö
+æx ö
+æ s +1ö
+Boil-up rate or VN +1
+ym+1 = çç m ÷÷ xm - çç W ÷÷ = ç
+÷ xm - ç W ÷ where s =
+W
+è s ø
+è s ø
+èVm+1 ø
+è Vm+1 ø
+© 2024, ChE 312-001 (PRW)
+
+18
+
+
+
+## Metadata
+- Source file: junk_drawer/03_ChE312_Equilibrium_DistillationBasics.pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

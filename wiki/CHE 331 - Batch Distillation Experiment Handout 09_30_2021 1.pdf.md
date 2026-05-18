@@ -1,0 +1,1195 @@
+# CHE 331 - Batch Distillation Experiment Handout (09_30_2021) (1).pdf
+
+Source: junk_drawer/CHE 331 - Batch Distillation Experiment Handout (09_30_2021) (1).pdf
+
+Category: [[academic-lab]]
+
+## Summary
+DEPARTMENT OF CHEMICAL AND BIOMOLECULAR ENGINEERING NORTH CAROLINA STATE UNIVERSITY CHE 331 BATCH DISTILLATION EXPERIMENT* 1. Introduction Distillation is the oldest and most widely used separation process in industry. There are two primary distillation configurations, batch distillation and continuous distillation. Batch distillation is a transient process whereas continuous distillation is (or is close to being) a steady
+
+## Full Content
+DEPARTMENT OF CHEMICAL AND BIOMOLECULAR ENGINEERING
+NORTH CAROLINA STATE UNIVERSITY
+CHE 331
+
+BATCH DISTILLATION EXPERIMENT*
+
+1. Introduction
+Distillation is the oldest and most widely used separation process in industry. There are two
+primary distillation configurations, batch distillation and continuous distillation. Batch
+distillation is a transient process whereas continuous distillation is (or is close to being) a steady
+state process. Batch distillation is the simpler of the two processes because it requires much less
+control equipment. Continuous distillation is meant for high throughput separation, such as
+petroleum refining, whereas batch distillation is a low-throughput operation that is used mostly
+in the production of high-valued products, such pharmaceuticals, biochemicals, and specialty
+chemicals where its higher unit separation cost can be justified. Because batch distillation
+requires much less control equipment, it is much more flexible than continuous distillation and a
+batch still can be easily cleaned and utilized for processing different mixtures.
+In batch distillation, a liquid mixture of components to be partially separated is charged to a still
+and heated at a fixed pressure (typically 1 atm or lower). The more volatile component(s) appear
+preferentially in the vapor fraction while the less volatile component(s) remain preferentially in
+the liquid fraction. Condensation and removal of the vapor fraction permits a separation of the
+mixture components.
+In this experiment, the separation characteristics of a methanol-isopropanol mixture will be
+studied in a batch distillation unit.
+2. Objective
+The objective of the experiment is to operate a batch distillation unit and to learn how to collect
+and analyze batch distillation data so that the characteristic features of the process can be
+quantified.
+3. Theory
+The Rayleigh equation, which is derived below, provides the basis for most of the data analysis
+on all batch distillation processes. As will be discussed in DATA ANALYSIS, the data analysis
+may be rigorous or approximate, depending on the assumptions which may be made, but the
+Rayleigh equation is often the starting point for the analysis.
+Consider the transient material balance at time t on a batch distillation unit that contains a liquid
+solution that is boiling at a constant pressure Po. Let T(t) and NL(t) denote the temperature and
+total mole number of the liquid solution remaining in the still at time t, NiL (t) and xi(t) denote
+the corresponding mole number and mole fraction of component i in the liquid solution, and
+dNL(t), dNV(t) and yi(t) denote, respectively, the differential change in the total mole number of
+the liquid solution (in the still) and the corresponding differential mole number and mole fraction
+-------------------------------------------------------------------------------------------------------------------*P. Lim, M. Cooper and K. Dickey, Department of Chemical and Biomolecular Engineering, NC
+State University, Raleigh, NC 27695, revised January 8, 2017.
+
+of component i of the vapor stream leaving the still. All these variables vary with time as the
+batch distillation proceeds.
+An overall material balance requires that
+dNL(t) + dNV(t) = 0 or dNV(t) = dNL(t)
+
+(1)
+
+A component i balance requires that
+dNiL(t) = yi(t)*dNV(t)
+
+(2)
+
+dNiL(t) = d[NL(t)*xi(t)] = NL(t)dxi(t) + xi(t) dNL(t)
+
+(3)
+
+but also
+
+Combining Equations 2 and 3 give
+dNiL(t) = NL(t)dxi(t) + xi(t) dNL(t) = yi(t)*dNV(t)
+
+(4)
+
+Substituting Equation 1 into Equation 4 and rearranging the terms gives
+NL(t)dxi(t) + xi(t) dNL(t) = yi(t)*dNL(t)
+
+or
+
+NL(t)dxi(t) = [yi(t)  xi(t)]dNL(t)
+
+(5)
+
+By separating the variables in Equation 5 and integrating both sides of the resulting equation
+correspondingly, the Rayleigh equation is produced:
+NL(t)
+xi(t)
+L
+L
+L
+L
+ dN (t)/N (t) = ln[N (t)/N o] =  dxi(t)/[yi(t)  xi(t)]
+NLo
+xio
+
+(6)
+
+where NLo is the total mole number of liquid solution initially charged to the still (t = 0) and x io is
+the corresponding mole fraction of component i in the initial charge. Note that the xi(t) and yi(t)
+on the right side of Equation 6 are the instantaneous values of liquid and vapor mole fractions of
+component i at time t (see DATA ANALYSIS).
+4. Experimental
+4.1 Safety Concerns
+1. Methanol and isopropanol are flammable and toxic. Wear gloves when handling the
+chemicals and avoid undue exposure. Clean up all spills and dispose of excess methanol and
+isopropanol in the waste container located at the experiment.
+2. Avoid contact with the hot still while it is operating.
+3. Never Operate the Still with the Heating Coil Fully Exposed, A Fire and Explosion
+
+Could Result!
+
+4.2 APPARATUS AND PROCEDURE
+1. A schematic of the batch distillation unit and the control equipment is shown in Figure 1.
+Examine the distillation column and identify its key features, including the reboiler with its
+heating coil, the condenser and its cooling water inlet and outlet, the three trays below the
+condenser, the two sampling stems (only the one with the small condenser will be used in this
+experiment), the thermocouples at three different locations (only TC3 will be used to monitor the
+temperature of the solution in the pot during the experiment), the reflux switch valve, and the
+refill and drain valves on the still.
+2. Examine the control panel and identify its key features, including the main power switch, the
+thermocouple switch, the heater power switch, the rotary Variac (which controls voltage to the
+heating coils and the heating rate), and the digital display windows for temperature, voltage and
+current readings.
+3. There are five specific jobs which must be completed as distillation proceeds in order to
+collect all necessary data for the experiment, and each task should be the responsibility of a
+single team member. Before proceeding with the experiment, your team should agree on the job
+each member will perform. The jobs and their associated tasks are:
+ Sample Collector – Collect samples of distillate as they emerge from the sampling stem.
+ Timer – Record still temperature and heater voltage/current 1) as soon as the voltage
+switch is turned on, 2) every minute until distillate is formed, 3) after collection of each
+new distillate sample. Communicate with the sample collector during distillate collection
+
+Figure 1. Simple schematics of the batch distillation column and controls.
+
+
+
+
+
+
+Mass Recorder – Record mass of samples as they are handed to you by the Sample
+Collector, before you give them to the Refractive Index Measurer.
+Refractive Index Measurer – Perform initial calibration of refractometer at the beginning
+of the laboratory, then determine refractive index of each sample using the refractometer.
+After measuring the refractive index for each sample, pour the sample into the cumulative
+distillate flask (a large beaker), this should be done near the end of each run to minimize
+evaporative losses. Record refractive index of each sample.
+Spreadsheet Recorder - Put mass and refractive index data into the spreadsheet. It is also
+your job to begin producing the spreadsheet for data analysis.
+
+4. Before proceeding with the experiment, become familiar with use of the refractometer and
+perform its initial air/water calibration by following the instructions in Section 4.3. Prepare a set
+of labeled glass bottles for collecting instantaneous distillate samples. Make sure that the bottles
+are clean and dry. The masses of each of the empty sample bottles should also be recorded at this
+time.
+5. After calibrating the refractometer with air and water, calibration curve must then be produced
+which relates refractive index to wt% methanol in the methanol/isopropanol solution. Following
+the procedure described in Section 4.3.2, record the refractive indexes for standard solutions of 0
+wt%, 25 wt%, 50 wt%, 75 wt% and 100 wt% methanol to produce the calibration curve. Plot
+your data and confirm that the refractive index of a methanol-isopropanol mixture is linearly
+dependent on the weight-fraction composition. Determine the least-square fit for your calibration
+data and use the resulting equation to determine the composition of the distillate samples from
+your experiment. This task should be completed while the still is heating up.
+6. The initial charge to the still should be approximately 4 L of a roughly 40 wt% methanol in
+isopropanol solution. If the TA has not already placed the charge into the still at the beginning of
+the experiment, mix approximately 1600 mL (1269.2 g) of methanol and 2400 mL (1908.4 g) of
+isopropyl alcohol and pour into the reboiler through the top refill valve on the still.
+7. Slowly drain the initial solution in the reboiler through the drain valve into a beaker and
+measure the mass of the solution (don’t forget to record the mass of the empty beaker).
+Withdraw representative samples of the solution and use the refractometer to determine its massfraction composition. These measurements are essential to your data analysis: mass and
+composition of the initial charge will be needed for the required material balances. Close the
+drain valve and return the solution to the reboiler through the top refill valve on the still.
+8. Turn on the water supply line to the condenser by turning the yellow handled valve behind the
+column. (The TA should have pre-adjusted the water flow for sufficient cooling capability) Why
+is it important to turn on the cooling water first before turning on the heating coil in the still?
+9. Set the desired reflux ratio for the run by adjusting the needles on the dial of the reflux unit,
+then turn on the reflux power switch. The reflux ratio on this still is based on a timing
+mechanism which activates a valve that directs condensate either back to the reboiler or through
+
+the sampling stem. The needles on the dial correspond to the reflux ratio (RR) as described in
+Equation 7:
+
+RR 
+
+Needleright
+Needleleft
+
+(7)
+
+For instance, setting the needle on the right side of the dial to 15 and the needle on the left side of
+the dial to 10 would give a reflux ratio of 1.5. Two batch runs should be performed at two
+sufficiently different reflux ratios (e.g., RR1 = 0.75 and RR2 = 2R1 = 1.5) to ensure a clear-cut
+determination of the effect of reflux ratio on the separation.
+10. Plug in the 3-phase, 220-V plug into the wall socket to connect electrical power to the batch
+distillation equipment. Turn on the main power switch located in the middle of the control panel.
+11. Set the Variac to the desired voltage such that the voltmeter reading would be less than
+220V. Turn on the power and simultaneously start a stopwatch. This is the start of the run. (The
+start does NOT correspond to the appearance of the first condensate!). Monitor and record the
+voltage, current and pot temperature readings as a function of time during the run.
+12. Prepare the cumulative distillate flask for holding each instantaneous condensate sample
+after its refractive index has been recorded. Place a magnetic stir bar in the flask and place it on
+the magnetic stirring pad.
+13. Note the time when distillate first drips from the sampling stem and collect samples of
+instantaneous distillate with the dry bottles (this should take 10-20 min). For each sample
+collected, record the collection time and its mass (which can be determined by weight
+difference), and determine its refractive index. Sampling of the instantaneous distillate should be
+more frequent at the start of each distillation run—about once every minute in the first eight
+minutes—but thereafter the sampling period can increase progressively with time. Suggested
+sampling times are: 1, 2, 3, 4, 5, 6, 7, 8, 10, 12, 14, 16, 18, 20, 23, 26, 29, 32, 35 minutes after
+the first drop of distillate appears. You may find it helpful to start a second timer at this point to
+track sampling time separately from overall trial run time. The numbered labels on the glass
+bottles correspond to the elapsed time in the experiment when samples should be taken. Note:
+If any student finds that they are sensitive to the fumes from the distillation column, let the TA
+or Dr. Golpour know.
+14. After each instantaneous condensate sample has been analyzed for its refractive index, pour
+what remains of the sample into the cumulative collection vessel. Exercise care in the transfer
+operation to avoid spills or splashes when the magnetic stirrer turned on.
+15. The run can be stopped after sufficient data have been collected over a run time of about 35
+minutes or if the heating coil becomes exposed, in which case the run should be stopped
+immediately. After the first run has been completed, turn off the heater power, and reflux
+control (this lowers the reflux switch) and allow the still to cool down. While the still is cooling,
+measure the final mass and refractive index of the cumulative distillate to provide a material
+balance check as part of your data analysis.
+
+16. After measuring the mass and refractive index of the drained solution from the still, mix the
+drained solution with the cumulative distillate and measure the total mass and refractive index of
+the resulting solution. These measurements provide the initial starting conditions for the second
+distillation trial.
+17. Carefully transfer the resulting solution to the still and perform a second run with the second
+reflux ratio. Return to Step 9 and repeat Steps 9-15 to complete a batch distillation for the second
+reflux ratio. Upon completion of the second run, turn off the main power switch, the heater
+switch, the reflux control, and the cooling water valve. Return all solution back to the reboiler
+through the top refill valve on the still. Note: Groups should consider rotating tasks for the
+second reflux ratio to gain additional hands-on experience.
+4.3 Refractometer Use
+Since refractive index varies as a function of temperature, the refractometer used in this
+experiment utilizes Peltier thermoelectric modules to ensure the refractive indexes for all
+samples are recorded at the same temperature (25°C). A calibration with air and water must be
+performed when first turning on the refractometer at the beginning of the experiment. Then, a
+calibration curve will be produced which demonstrates the relationship between refractive index
+and mass fraction methanol in the binary methanol/isopropanol system by determining refractive
+indexes for 0, 25, 50, 75 and 100 wt% methanol in isopropanol samples.
+4.3.1 Initial Calibration
+1. Turn on the refractometer with the power button on the front of the device. Once the home
+screen appears, lift the lid of the device and add a few drops of pure isopropanol (given in a
+labeled vial on the lab bench) to the bowl, enough to cover the gray sensor. Wipe out the bowl
+and sensor with a Kimwipe; do NOT use a tissue, towel, etc., which may scratch the delicate
+sensor.
+2. On the home screen, press the “25°Cal” button, then press “Start” on the following screen.
+Wait at the next screen for the sensor temperature to stabilize, which may take a few minutes.
+3. After reaching and maintaining temperature, the refractometer will automatically begin
+recording the refractive index for air. Wait for the air calibration to complete.
+4. Once the air calibration is complete, the system will prompt you to “Add sample.” Open the
+lid of the refractometer and place a few drops of water from the provided squeeze bottle onto the
+sensor. Shut the lid, press “OK” and wait for the device to complete the measurement.
+5. When prompted to “Drain cell,” open the lid and wipe the sensor with a Kimwipe. When
+prompted to “Rinse cell with water,” press “OK.”
+6. At the “Rinse cell with acetone” prompt, add a few drops of pure isopropanol on top of the
+sensor, then press “OK.”
+7. At the “Dry cell” prompt, wipe out the bowl with a Kimwipe to remove the isopropanol. Shut
+the lid and press “OK.”
+
+8. At this point the refractometer will indicate if the initial calibration passed or failed. If the
+calibration passed, continue by determining refractive indexes for the 0, 25, 50, 75 and 100 wt%
+methanol in isopropanol samples. If calibration failed, repeat Steps 2-7 before proceeding.
+4.3.2. Refractive index of samples
+1. To measure the refractive index for a sample, begin by pressing the “RI°25” button on the
+home screen.
+2. At the “Add sample” prompt, lift the lid of the apparatus and add a few drops of the sample to
+the bowl, enough to cover the sensor. Shut the lid and press “OK.”
+3. At the “Drain cell” prompt, lift the lid and use a Kimwipe to wipe the sample from the bowl
+and sensor. Shut the lid and press “OK.”
+4. Record the RI displayed on the screen, then press “OK.”
+5. Lift the lid and add a few drops of isopropanol to the sensor, then wipe out the bowl and
+sensor with a Kimwipe.
+6. Repeat Steps 1-5 for each sample.
+NOTE: The methanol weight percent calibration curve is generated by measuring the standard samples in
+this manner and then generating a curve in Excel, NOT by using the calibration mode in the
+refractometer.
+
+DATA ANALYSIS
+The batch distillation data should be analyzed in different ways as follows: (A) rigorous
+Rayleigh analysis using only collected data and a material balance, (B) approximate Rayleigh
+analysis based on a one-stage equilibrium assumption based only on VLE data, (C) approximate
+Rayleigh analysis based on a one-stage equilibrium assumption in conjunction with a constant
+volatility assumption, (D) McCabe-Thiele point-by-point analysis that is based on the
+assumptions of a multi-stage equilibrium and a pseudo steady state at each data point, and (E)
+Matlab simulation that is based on the assumptions of a one-stage equilibrium and the van Laar
+model for the activity coefficients of the constituent components in the solution. Be sure to
+discuss the effects of reflux ratio on the distillation as part of your data analysis. Note 1: the
+refractometer used in the laboratory is used to determine methanol wt% in each sample; the
+various Rayleigh analyses are calculated on mol% basis. Note 2: DO NOT attempt to perform
+error analysis for this experiment.
+(A) Rigorous Rayleigh Analysis
+The left-hand side of Equation 6 may be determined from the data collected on the solution in
+the still at the beginning and end of the run:
+
+NLf
+ln L  ln
+N o
+
+Mf[
+M o[
+
+wM f
+MWM
+wM o
+MWM
+
+
+
+
+1  wM f
+MW I
+1  wM o
+MW I
+
+]
+
+(8)
+]
+
+where NLo and NLf are the mole numbers of the solution in the still at the start and end of the run,
+respectively, Mo and Mf are the weights of the solution in the still at the start and end of the run,
+
+respectively, MWM and MWI are the molecular weights of methanol and isopropanol,
+respectively, and wM o and wM f are the methanol weight fractions of the solution in the still at the
+start and end of the run, respectively.
+xM f
+
+The right-hand side of Equation 6,
+
+1
+
+ y  x dx , may be evaluated graphically or
+M
+
+xM o
+
+M
+
+M
+
+1
+versus xM(t) as methanol mole fraction xM(t) varies from
+y M (t )  x M (t )
+xM o at the start of the run to xM f at the end of the run. Note that for a total condenser, the
+methanol mole fraction in the vapor phase at time t, yM(t), may be set equal to the methanol
+mole fraction of the corresponding instantaneous condensate sample taken at time t, xMD(t), i.e.,
+yM(t) = xMD(t). The methanol mole fraction of the solution remaining in the still at time t, xM(t),
+is not directly measured during the run, except at the beginning and end of the run. However, it
+may be determined by performing a running component balance on methanol and isopropanol
+after the withdrawal of each instantaneous condensate sample:
+numerically by plotting
+
+n (t )
+1
+[ M o w M o   mi w M i ]
+MWM
+i 0
+x M n (t ) 
+n (t )
+n (t )
+1
+1
+[ M o wM o   mi wM i ] 
+[ M o (1  wM o )   mi (1  wM i )]
+MWM
+MWI
+i 0
+i 0
+
+(9)
+
+In Equation 9, the summation terms include all the n instantaneous distillate samples withdrawn
+from the still up to the time t, xM n(t) is the corresponding methanol mole fraction of the solution
+remaining in the still after the nth instantaneous condensate sample is drawn at time t, mi is the
+weight of the ith instantaneous distillate sample withdrawn, wM i is the corresponding methanol
+weight fraction of the ith instantaneous distillate sample, and the other variables are as defined
+previously.
+1
+1
+
+Thus, knowing
+and xM n(t) as a function of the run time t, one
+D
+y M (t )  x M (t ) x M (t )  x M (t )
+should be able to evaluate the right-hand side of Equation 6, either numerically or graphically
+(using the trapezoid or Simpson rule or by counting squares). The result may then be compared
+with the left hand side of Equation 6. An agreement within ±10% would indicate that the data
+are consistent.
+The data taken on the cumulative distillate provides an independent check on the material
+balance. Instead of Equation 9, the methanol mole fraction of the solution remaining in the still
+may alternatively be determined from the data taken on the cumulative distillate, i.e.,
+1
+TotD
+[ M o wM o  M TotD wM
+]
+MWM
+(9’)
+x M n (t ) 
+1
+1
+TotD
+TotD
+TotD
+TotD
+wM
+[ M o wM o  M
+]
+[ M o (1  wM o )  M
+(1  wM
+)]
+MWM
+MWI
+In Equation 9’, MTotD is the weight of the cumulative distillate collected up till time t (including
+the nth instantaneous distillate sample), wMTotD is the corresponding methanol weight fraction of
+
+the cumulative distillate up to that time, and the other parameters are as defined previously.
+Equations 9 and 9’ should give the same results if there is no loss of material in sampling and
+analysis. Since some loss of material is inevitable in experimentation, Equation 9’ may be
+expected to be less precise than Equation 9. Nevertheless, Equation 9’ can provide a useful
+material balance check on the results given by Equation 9 if there is minimal loss of material in
+analysis.
+(B) Approximate Rayleigh Analysis Based on a One-Stage Equilibrium Assumption via
+only VLE data
+If the distillate may be assumed to be in equilibrium at all times with the solution remaining in
+the still (the one-stage equilibrium assumption), then the right-hand side of Equation 6 may be
+evaluated in two alternate ways. The first alternate way is to determine xM(t) from VLE data,
+such as that provided in Table 1. Knowing yM(t) as the measured xMD(t) of the instantaneous
+distillate sample at time t, the equilibrium yM versus xM plot of the VLE data can be used to
+determine the corresponding value for xM(t), instead of using Equation 9 that is based on a
+rigorous mole balance on methanol and isopropanol. Then a series of xM(t) values corresponding
+to the series of measured xMD(t) values can be generated for the instantaneous distillate samples
+taken over the course of the run, and used to evaluate the right-hand side of Equation 6 in a
+similar way as in the Rigorous Rayleigh analysis. The relative agreement between the two sides
+will determine the relative consistency of the data and the validity of the one-stage equilibrium
+assumption.
+Table 1. VLE data (expressed in terms of methanol mole fractions) on the methanol (M)isopropanol (I) system at 1.0 atm [from Ind. Eng. Chem., 44, p. 2450 (1932)].
+xM
+yM
+T,
+oC
+
+0.000
+0.000
+82.4
+
+0.0810 0.1950 0.2930 0.4080 0.5220 0.6606 0.7900 0.9019 1.000
+0.1320 0.2960 0.4285 0.5700 0.6850 0.8000 0.8910 0.9535 1.000
+81.0
+78.9
+77.1
+74.8
+72.7
+70.2
+67.9
+66.2
+64.96
+
+(C) Approximate Rayleigh Analysis Based on a One-Stage Equilibrium Assumption and
+constant relative volatility
+The second alternate way of evaluating the right-hand side of Equation 6 in conjunction with the
+one-stage equilibrium assumption is to assume a constant relative volatility assumption. The
+relative volatility of the methanol-isopropanol pair is defined by
+yM
+KM
+xM
+ MI 
+
+yI
+KI
+xI
+
+(10)
+
+yI = 1  yM and xI = 1  xM
+
+(11)
+
+For a binary mixture,
+
+hence
+
+yM 
+
+ MI x M
+1  x M (1   MI )
+
+(12)
+
+and
+
+1
+1
+1
+1
+1
+
+(
+
+)
+y M  x M ( MI  1) x M 1  x M
+1  xM
+
+(13)
+
+It follows that for the assumption of a constant relative volatility (αMI) the right-hand side of
+Equation 6 may be integrated analytically and Equation 6 itself may be shown to take on the
+closed form
+
+ln
+
+x M f (1  x M o )
+1  xM o
+NLf
+1
+
+ln
+ ln
+L
+1  xM f
+N o ( MI  1) x M o (1  x M f )
+
+(14)
+
+For analysis of the batch distillation data with Equation 14, the constant MI in the equation may
+be taken to be the mean MI value given by the VLE data over the composition range of interest.
+The relative agreement between the left- and right-hand sides of Equation 14 will determine the
+relative consistency of the data and the validity of the one-stage and constant volatility
+assumptions.
+(D) McCabe-Thiele Point-by-Point Analysis Assuming a Multi-Stage Equilibrium and a
+Pseudo Steady State
+If a multi-stage equilibrium is assumed along with a pseudo steady-state assumption, then the
+McCabe-Thiele analysis, which assumes an equimolal overflow, may be extended to the batch
+distillation data point by point. Recall that, on a y1 vs x1 plot with a 45o-line, the operating line
+for the enriching section of a continuous distillation column (above the feed stage) is given by
+y M ( n 1) 
+
+RR
+1
+RR
+1
+D
+D
+xM (n) 
+xM 
+xM (n) 
+yM
+RR  1
+RR  1
+RR  1
+RR  1
+
+(15)
+
+where yM (n+1) = methanol mole fraction of the vapor stream leaving the (n+1)th stage (counting
+from the top) and rising to the nth stage directly above it, xM (n) = methanol mole fraction of the
+liquid stream leaving the nth stage and falling to the (n+1)th stage directly below it, RR = reflux
+ratio, and xMD = yMD = methanol mole fraction of the instantaneous distillate. Starting with the
+point on the 45o-line that corresponds to methanol mole fraction of the instantaneous distillate
+(xMD or yMD) the operating line is drawn passing through the point and having a slope equal to
+RR/(RR + 1). The total number of equilibrium stages—4 in our experimental setup—is stepped
+off, starting with the point on the 45o-line and then alternating between the equilibrium and
+operating lines. The methanol mole fraction of the solution in the still should then be given by
+xM 4 which is associated with the 4th stage (again, counting from the top). The value of xM 4
+should agree with the corresponding xM calculated using Equation 9, if the data are consistent.
+
+Perform the McCabe Thiele analysis on two data points taken on each run. Pick any two
+instantaneous samples of distillate taken about one-third way, half way, or two-third way into the
+run. Starting with each measured composition of the instantaneous distillate sample and the
+known reflux ratio of the batch distillation run, construct a McCabe-Thiele plot on the yM versus
+xM diagram drawn from the data given in Table 1. Step off the four equilibrium stages and
+determine graphically the composition of the liquid mixture remaining in the still at the instant
+the instantaneous distillate sample was collected. Compare this graphically determined
+composition value with the corresponding composition value determined by Equation 9. How
+close is the agreement between the two values? List possible causes for any discrepancy.
+(E) Matlab Simulation Assuming One-Stage Equilibrium & Van Laar Activity Coefficients
+On the basis of material and energy balances, one can derive the following system of differential
+equations which governs the temperature T, total mole number NL, and methanol mole fraction
+xM of a methanol-isopropanol solution that is undergoing a batch distillation.
+Before boiling occurs or for temperature T(t) < TBo, bubble point of the solution initially charged
+to the still,
+𝜕𝑁
+
+( 𝜕𝑡𝐿) = 0 where NL is the total mole number of the solution in the still at time t
+𝑃
+
+𝜕𝑥
+
+( 𝜕𝑡𝑀 ) = 0 where is xM the methanol mole fraction of the solution in the still at time t
+𝑃
+
+𝜕𝑇
+
+𝑄
+
+( 𝜕𝑡 ) = 𝑁 𝑜𝐶
+𝑃
+
+(D-1)
+(D-2)
+(D-3)
+
+𝐿 𝑝
+
+where Cp = xM*CpM + (1  xM)CpI, CpM = Cp of methanol, CpI = Cp of isopropanol, Qo = rate of
+heat supplied to the batch still, assumed to be a constant for simplicity.
+After boiling starts or for T(t)  TB:
+𝜕𝑁
+
+( 𝜕𝑡𝐿) =
+𝑃
+
+𝑄𝑜
+𝛾
+𝑃𝑠𝑎𝑡
+𝜕𝑇
+𝑀 −1)−∆𝐻
+)( 𝑀𝑇𝑜𝑡
+𝑥𝑀 𝐶𝑝 (
+𝑣𝑎𝑝
+𝜕𝑥𝑀
+𝑃
+
+(D-4)
+
+where Hvap = xMHvapM + (1  xM)HvapI, HvapM = heat of vaporization of methanol, and
+HvapI = heat of vaporization of isopropanol. Also:
+𝜕𝑥
+
+𝑥
+
+𝜕𝑁
+
+( 𝜕𝑡𝑀 ) = 𝑁𝑀 (𝛾𝑀 𝑃𝑀𝑠𝑎𝑡 − 1) ( 𝜕𝑡𝐿)
+𝑃
+
+𝐿
+
+𝜕𝑇
+
+𝜕𝑇
+
+𝜕𝑥
+
+( 𝜕𝑡 ) = (𝜕𝑥 ) ( 𝜕𝑡𝑀 )
+𝑃
+
+𝜕𝑇
+
+where (𝜕𝑥 ) =
+𝑀
+
+𝑃
+
+𝑃−𝑄
+𝑅
+
+, and
+
+𝑀
+
+𝑃
+
+𝑃
+
+𝑃
+
+(D-5)
+(D-6)
+(D-7)
+
+2𝛼2 𝑥𝑀 [1+
+
+𝑃 ≡ 𝛾𝑀 𝑃𝑀𝑠𝑎𝑡
+(
+
+𝑥𝑀
+]
+1−𝑥𝑀
+3
+𝛼
+( )𝑥𝑀
+𝛽
+
+𝛽(1−𝑥𝑀 )[1+
+
+1−𝑥𝑀
+
+−1
+
+(D-8)
+
+]
+
+)
+
+1−𝑥
+
+𝑀]
+2𝛽 2 (1−𝑥𝑀 )[1+
+𝑥𝑀
+𝑄 ≡ 𝛾𝐿 𝑃𝐼𝑠𝑎𝑡 (
+3 − 1)
+𝛽(1−𝑥𝑀 )
+𝛼𝑥𝑀 [1+
+]
+
+(D-9)
+
+𝛼𝑥𝑀
+
+𝐵
+
+𝐵
+
+𝑅 ≡ 𝛾𝑀 𝑥𝑀 𝑃𝑀𝑠𝑎𝑡 (𝑇+𝐶𝑀 )2 + 𝛾𝐼 (1 − 𝑥𝑀 )𝑃𝐼𝑠𝑎𝑡 (𝑇+𝐶𝐼 )2
+𝑀
+
+𝐼
+
+(D-10)
+
+where AM, BM, CM are the Antoine parameters for methanol in log10[Psat/mm Hg]= AMBM/(T/oC
++ CM), AI, BI, CI are the Antoine parameters for isopropanol in log10[Psat/mm Hg] = AI 
+BI/(T/oC + CI),  and  are the parameters in the van Laar equations for activity coefficients of
+methanol and isopropanol, M and I:
+ln(𝛾𝑀 ) =
+
+ln(𝛾𝐼 ) =
+
+𝛼
+2
+𝛼𝑥𝑀
+[1+
+]
+𝛽(1−𝑥𝑀 )
+
+𝛽
+𝛽(1−𝑥𝑀 )
+[1+
+]
+𝛼𝑥𝑀
+
+2
+
+(D-11)
+
+(D-12)
+
+where  = 0.1354 and  = 0.107, with the initial conditions: At t = 0, NL = NL o, xM = xM o
+and T = To.
+Physical Parameters: AM = 8.0868, BM = 1584.02, CM = 239.38; CpM = 23.0 cal/(g-mol.K),
+HvapM = [9207  9(T/oC  25)] cal/g-mol; AI = 8.1430, BI = 1583.43, CI = 218.62;
+CpI = 37.1 cal/(g-mol.K), HvapI = [10064  15.8(T/oC  25)] cal/g-mol
+Equations D-1 through D-12 may be solved numerically using Matlab. Two Matlab M-files
+(Batch Distillation.m and BatchDistillationdv.m) are provided on the CHE 331 Moodle website
+which can be run on Matlab to generate the T, NL and xM profiles as a function of time for the
+following set of data: NL o = 100 g-mol, xMo = 0.70, To = 25oC, Patm = PTot = 1 atm, Qo = 12
+kcal/min, TBo (bubble point of the initial charge with xMo = 0.70) = 69.63oC (Can you verify by a
+bubble point calculation?), Distillation Time Interval = 0-50 min.
+Test run the Matlab program by copying and running M-files on Matlab, which you can access
+on any NT workstation on NCSU campus and through the VCL. You should be able to find
+Matlab on the Application Launcher. Double click the Matlab icon to invoke the Matlab
+command window and click the File pulldown menu to copy the two M-files into Matlab’s
+working directory. Then on the command line (characterized by >>) enter BatchDistillation
+(without the .m extension). If the Matlab program runs successfully, you should see 3 plots on a
+single figure appearing on the screen. If there is any problem, Matlab will provide error
+message(s) on screen to help debugging the problem. You can use the M-files as a template and
+
+modify them to simulate the batch distillation of other binary solution mixtures; the code is
+provided on the following pages.
+For the Matlab part of the data analysis, modify the Matlab M-files—in particular, the input
+data—and generate the T, NL and xM profiles as a function of time. If you have monitored the
+time during the batch distillation run, you can compare the simulation profiles with the
+corresponding experimental profiles. Comment on the fit.
+% Matlab command file BatchDistillation.m for solving numerically the
+following
+% system of differential equations that simulates the batch distillation
+% of a methanol(M)-isopropanol(I) solution:
+%
+% For T(t) < TBuo (bubble point of the solution charged to the still),
+%
+%
+dNL
+%
+--- = 0
+%
+dt
+%
+%
+dxM
+%
+--- = 0
+%
+dt
+%
+%
+dT
+Qo
+%
+-- = ----where Cp = xM*CpM + (1 - xM)CpI
+%
+dt
+NL*Cp
+Qo = heating rate, assumed to be a constant
+%
+% For T(t) = or > TBuo
+%
+%
+dNL
+Qo
+%
+--- = ------------------------------%
+dt
+dT
+gM*PsatM
+%
+xM*Cp(---)(-------- - 1) - Hvap
+%
+dxM
+PTot
+%
+%
+where Hvap = xM*HvapM + (1 - xM)HvapI
+%
+%
+dxM
+xM
+dNL
+%
+--- = --(gM*PsatM - 1)--%
+dt
+NL
+dt
+%
+%
+dT
+dT
+dxM
+dT
+P - Q
+%
+-- = (---)(---) where --- = ----%
+dt
+dxM dt
+dxM
+R
+%
+%
+2A^2xM/B
+% P = gM*PsatM{----------------------------- - 1}
+%
+A*xM
+%
+(1 - xM)^2[1 + ----------]^3
+%
+B*(1 - xM)
+%
+%
+2B^2(1 - xM)/A
+% Q = gI*PsatI{----------------------------- - 1}
+%
+B*(1 - xM)
+%
+xM^2[1 + ----------]^3
+
+%
+A*xM
+%
+% R = gM*xM*PsatM*BM/(T + CM)^2 + gI*(1 - xM)*PsatI*BI/(T + CI)^2
+%
+% with the initial conditions: At time 0, NL = NLo, xM = xMo and T = To
+%
+% Parameter values: NLo = 100 g-mol, xMo = 0.70, PTot = 1 atm, To = 25oC
+%
+TBuo = 69.63oC, Qo = 12.0 kcal/min
+%
+% log10[P/mm Hg] = A - B/(T/oC + C) Antoine Coeff
+A
+B
+C
+%
+Methanol
+8.0868
+1584.02
+239.38
+%
+Isopropanol
+8.1430
+1583.43
+218.62
+%
+%
+Heat capacity Cpi
+Heat of vaporization Hvapi
+% Methanol
+23.0 cal/(g-mol.K)
+9207 - 9(T/oC - 25) cal/g-mol
+% Isopropanol 37.1 cal/(g-mol.K)
+10064 - 15.8(T/oC -25) cal/g-mol
+%
+% van Laar model for activity coefficients
+%
+A
+B
+A = -0.1354
+% ln(gM) = ----------ln(gM) = ----------%
+A*xM 2
+B*xI 2
+B = -0.1075
+%
+[1 + ----]
+[1 + ----]
+%
+B*xI
+A*xM
+clc
+clf
+clear
+global CpM CpI HvapM HvapI Qo To TBuo PTot AM BM CM AI BI CI A B
+A = -0.1354;
+B = -0.1075;
+CpM = 23.0;
+CpI = 37.1;
+AM = 8.0868;
+BM = 1584.02;
+CM = 239.38;
+AI = 8.1430;
+BI = 1583.43;
+CI = 218.62;
+NLo = 100;
+xMo = 0.70;
+To = 25.0;
+PTot = 1.0;
+TBuo = 69.63;
+Qo = 12000;
+to = 0;
+tf = 50;
+tspan = [to tf];
+Y0 = [NLo xMo To];
+% Solve the above differential equations numerically using the "ode15s"
+% solver. The results are stored in a three-column matrix Y with the liquid
+
+% mole number stored in the first column, the methanol mole fraction stored
+% in the second column, and the solution temperature stored in the third
+% column. The derivative functions of the differential equations are
+% defined in a user-created file called BatchDistillationdv.m. Here t is a
+column
+% vector containing the incremental time in min and Y is a three-column
+% matrix containing NL (mole number of the methanol solution remaining in
+% the still) in the first column, xM (the methanol mole fraction of the
+% solution in the still) in the second column, and T (the temperature of
+% the methanol solution in the still) in the third column.
+[t, Y] = ode15s('BatchDistillationdv', tspan, Y0);
+% Plot the Matlab results on a single figure.
+plot (t, Y(:,1), '+', t, 100*Y(:,2), '*', t, Y(:,3), 'o'), title ...
+'Batch Distillation--NL, 100*xM, and T vs. Time',...
+legend ('Liquid Moles = Y(:,1)', 'MeOH Mole % = 100*Y(:,2)',...
+'Temp = Y(:,3)'),...
+xlabel ('t(min)'), ylabel ('NL(g-mol), 100*xM, T(oC)');
+% Matlab derivative function file BatchDistillationdv.m which defines the
+following
+% system of differential equations that is to be solved numerically for
+% the simulation of the batch distillation of aqueous methanol solution:
+%
+% For T(t) < TBuo (bubble point of the solution charged to the still),
+%
+%
+dNL
+%
+--- = 0
+%
+dt
+%
+%
+dxM
+%
+--- = 0
+%
+dt
+%
+%
+dT
+Qo
+%
+-- = ----where Cp = xM*CpM + (1 - xM)CpI
+%
+dt
+NL*Cp
+%
+% For T(t) = or > TBuo
+%
+%
+dNL
+Qo
+%
+--- = ------------------------------%
+dt
+dT
+gM*PsatM
+%
+xM*Cp(---)(-------- - 1) - Hvap
+%
+dxM
+PTot
+%
+%
+where Hvap = xM*HvapM + (1 - xM)HvapI
+%
+%
+dxM
+xM
+dNL
+%
+--- = --(gM*PsatM - 1)--%
+dt
+NL
+dt
+%
+%
+dT
+dT
+dxM
+dT
+P - Q
+%
+-- = (---)(---) where --- = ----%
+dt
+dxM dt
+dxM
+R
+%
+
+%
+2A^2xM/B
+% P = gM*PsatM{----------------------------- - 1}
+%
+A*xM
+%
+(1 - xM)^2[1 + ----------]^3
+%
+B*(1 - xM)
+%
+%
+2B^2(1 - xM)/A
+% Q = gI*PsatI{----------------------------- - 1}
+%
+B*(1 - xM)
+%
+xM^2[1 + ----------]^3
+%
+A*xM
+%
+% R = gM*xM*PsatM*BM/(T + CM)^2 + gI*(1 - xM)*PsatI*BI/(T + CI)^2
+%
+function dY = BatchDistillationdv(t,Y)
+global CpM CpI HvapM HvapI Qo To TBuo PTot AM BM CM AI BI CI A B
+Cp = Y(2)*CpM + (1 - Y(2))*CpI;
+HvapM = 9207 - 9*(Y(3) - 25);
+HvapI = 10064 - 15.8*(Y(3) - 25);
+Hvap = Y(2)*HvapM + (1 - Y(2))*HvapI;
+PsatM = 10^(AM - BM/(Y(3) + CM))/760;
+PsatI = 10^(AI - BI/(Y(3) + CI))/760;
+gM = exp(A/(1 + A*Y(2)/(B*(1-Y(2))))^2);
+gI = exp(B/(1 + B*(1-Y(2))/(A*Y(2)))^2);
+P1 = (1+A*Y(2)/(B*(1-Y(2))))^3;
+P = gM*PsatM*(2*A^2*Y(2)*(1+Y(2)/(1-Y(2)))/(B*(1-Y(2)))/P1-1);
+Q1 = (1+B*(1-Y(2))/(A*Y(2)))^3;
+Q = gI*PsatI*(2*B^2*(1-Y(2))*(1+(1-Y(2))/Y(2))/(A*Y(2))/Q1-1);
+R1 = gM*Y(2)*PsatM*BM/(Y(3)+CM)^2;
+R2 = gI*(1-Y(2))*PsatI*BI/(Y(3)+CI)^2;
+R = R1 + R2;
+dTdxM = (P - Q)/R;
+if Y(3) < TBuo
+dNL = 0;
+dxM = 0;
+dT = Qo/(Y(1)*Cp);
+else
+dNL = Qo/(Cp*dTdxM*Y(2)*(gM*PsatM/PTot - 1) - Hvap);
+dxM = (gM*PsatM/PTot - 1)*Y(2)*dNL/Y(1);
+dT = dTdxM*dxM;
+end
+dY = [dNL; dxM; dT];
+
+REFERENCES
+1. Geankoplis, Christie J., Transport Processes and Unit Operations, 2nd Edition, Allyn &
+Bacon, Boston (1983).
+2. Perry, Robert H. and Green, Don W., Perry’s Chemical Engineers’ Handbook, 7th Edition,
+McGraw Hill, New York (1997).
+
+NOMENCLATURE
+Symbol
+Definition
+AI, BI, CI
+Antoine coefficients for isopropanol
+AM, BM, CM
+Antoine coefficients for methanol
+CPI, CPM
+Molar heat capacities of isopropanol and methanol, respectively
+Hvap I, Hvap M Molar heat of vaporization for isopropanol and methanol, respectively
+KI, KM
+Kay factors for isopropanol and methanol, respectively
+mi
+Weight of the ith instantaneous distillate sample withdrawn from the still
+Mo, Mf
+Weights of the solution in the still at the start and end of the run, respectively
+TotD
+M (t)
+Weight of the cumulative distillate collected up till time t, including the nth
+instantaneous distillate sample
+MWI, MWM
+Molecular weights of isopropanol and methanol, respectively
+NLo, NLf
+Total moles of solution in the still at the start and end of the run, respectively
+L
+N (t)
+Total moles of solution left in the still at time t
+sat
+P
+Saturated vapor pressure
+Qo
+A specified (constant) rate of heat supplied to the still in the simulation
+model
+R
+Reflux ratio
+To
+Initial temperature of the solution in the still
+wM o, wM f
+Methanol weight fractions of solution in the still at the start and end of the
+run, respectively
+wM i
+Methanol weight fraction of the ith instantaneous distillate sample
+wMTotD(t)
+Methanol weight fraction of the cumulative distillate up to time t
+xI
+Isopropanol mole fraction of solution in the still
+xM o, xM f
+Methanol mole fractions of solution in the still at the start and end of the run,
+respectively
+xM n(t) or xM(t) Methanol mole fraction of the solution remaining in the still after the nth
+instantaneous condensate sample is drawn at time t
+xMD(t)
+Methanol mole fraction of the instantaneous distillate sample drawn at time t
+xM (n)
+Methanol mole fraction of the liquid stream leaving the nth stage and falling
+to the (n+1)th stage directly below it
+yI, yM
+Vapor mole fractions of isopropanol and methanol in the still, respectively
+yM (n+1)
+Methanol mole fraction of the vapor stream leaving the (n+1)th stage
+(counting from the top) and rising to the nth stage directly above it
+One of two constants in the van Laar model for activity coefficients
+
+Relative volatility for the methanol-isopropanol pair
+MI
+The second constant in the van Laar model for activity coefficients
+
+Activity coefficients of isopropanol and methanol, respectively
+I, M
+
+Sample Data Collection Spreadsheet:
+Time
+1
+2
+
+Temperature
+
+Mass of
+Empty
+Container
+
+Mass of Sample +
+Container
+
+Mass of
+Sample
+
+Refractive
+Index of
+Sample
+
+Sampling Times: 1, 2, 3, 4, 5, 6, 7, 8, 10, 12, 14, 16, 18, 20, 23, 26, 29, 32, 35 minutes
+
+Voltage
+
+Watts
+
+
+
+## Metadata
+- Source file: junk_drawer/CHE 331 - Batch Distillation Experiment Handout (09_30_2021) (1).pdf
+- Extracted: 2026-05-18
+- Category: academic-lab

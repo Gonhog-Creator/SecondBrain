@@ -1,0 +1,669 @@
+# Fall2022Syllabus (1).pdf
+
+Source: junk_drawer/Fall2022Syllabus (1).pdf
+
+Category: [[academic-syllabus]]
+
+## Summary
+CH 221 – Organic Chemistry I Fall 2022 Section 004: TH 3:00 – 4:15 Dabney 124 Dr. Cassie Lilly Email: cassie_lilly@ncsu.edu Office: FOX 254 Office/Student Hours: W, F 10 a.m – 11 a.m. Course Materials Textbook
+
+## Full Content
+CH 221 – Organic Chemistry I
+Fall 2022
+Section 004: TH 3:00 – 4:15 Dabney 124
+Dr. Cassie Lilly
+Email: cassie_lilly@ncsu.edu
+Office: FOX 254
+Office/Student Hours: W, F 10 a.m – 11 a.m.
+Course Materials
+Textbook
+
+Organic Chemistry by F. A. Carey and R.M. Giuliano, 11th Edition.
+There are many purchase options for the textbook (new, used, ebook,
+rental, etc.)The expectation is that have already read the chapter
+assigned before coming to class.
+If you already have or can get another textbook, most organic chemistry textbooks will work.
+The course schedule will be based on sections from Carey, F. A., Organic Chemistry,
+11th ed. Other acceptable texts include: Carey, F. A., Organic Chemistry, 7th 10th ed.; Bruice, P. Y., Organic Chemistry, 7th - 8th ed.; Wade, L.G., Organic Chemistry,
+7th - 9th ed.; Brown, W.H.; Foote, C.S.; Iverson, B.L.; Anslyn, E. Organic Chemistry, 5th 8th ed.
+
+Solutions
+Manual
+Molecular
+Modeling Kit
+Moodle
+
+Achieve (Online
+HW)
+
+Purchase the solutions manual which accompanies your textbook.
+An organic chemistry model kit is highly recommended (for example:
+Chem-Tutor by Sigma-Aldrich, MolyMod, or MegaMolecules)
+Course materials such as notes, worksheets, quiz/test keys, extra
+resources will be posted on Moodle. Access the LMS through
+http://wolfware.ncsu.edu/
+You must register for the online homework platform Achieve Essentials
+for Organic Chemistry (1-term, ISBN:9781319392017) by Macmillian
+Learning to complete homework assignments. This is accessed by a link
+through the Moodle site.
+
+Laboratory
+CH 222 is the laboratory course which should be taken concurrently with CH 221 and is
+administered separately. Refer all inquiries about CH222 Laboratory to Dr. Cassie Lilly
+(cassie_lilly@ncsu.edu) 254 Fox Hall.
+Grading
+Percentage of Overall Grade
+Homework
+Quizzes (3 in total)
+Exams (3)
+Final Exam
+
+10 %
+15 %
+55 %
+20 %
+
+The standard 10 point scale used by the University will be used to assign letter grades. The
+university grading regulation is located at http://policies.ncsu.edu/regulation/reg-02-50-03.
+Homework: 10% of your course grade will come from homework delivered through Achieve. HW
+assignments will be posted before the first day of class therefore no extensions will be granted
+for reasons that would normally be considered as unexcused absences. The lowest HW grade
+will be dropped to account to technical difficulties and missed homework.
+Quizzes: Quizzes will be administered during class on the days scheduled on Moodle.
+Extra Credit/Curves: If extra credit is given for any assignment, the maximum score possible
+for that assignment will be a 100. Any “excess” extra credit points will not be applied to other
+assignments. There will be no curve applied to ANY assignment.
+Regrading Exams: If you request a regrade, the ENTIRE exam will be regraded at the discretion
+of the instructor, your score can increase or decrease. You have one week from the date of
+exams grades being recorded in Moodle to get your exam regraded.
+Attendance and Missed Quizzes/Examinations: Be aware that missing lecture will put you at
+a serious disadvantage with respect to learning course material. If you will be absent on a quiz
+or exam day due to a preplanned event, you must notify me at least one week prior to that date
+and the quiz/exam will be administered EARLY. If a quiz is missed for a University excused
+absence (http://policies.ncsu.edu/regulation/reg-02-20-03), that quiz will be made up during office
+hours within 7 days of the absence. If an exam is missed for a University excused absence
+(http://policies.ncsu.edu/regulation/reg-02-20-03), the student must notify the instructor as soon
+as possible to determine what course of action will be taken to makeup the absence. It may be
+that a makeup exam is not given. More than one excused exam absence or an excused absence
+for the final exam will result in an IN for the class. Information regarding university considered
+excused absences is given at: http://policies.ncsu.edu/regulation/reg-02-20-03. If an exam is
+cancelled due to adverse weather, the exam will be administered during the next class meeting.
+
+Course Overview
+Prerequisites: CH 101 with a grade of C- or better and CH 102; Corequisite: CH 222
+Course Schedule: The course schedule is in the table below. Please note that this is a tentative
+schedule of the topics that could be adjusted as needed throughout the semester. The final exam
+date can be found here: https://studentservices.ncsu.edu/calendars/exam/#fall
+
+Month
+
+Day
+
+Aug
+
+23
+
+Aug
+
+25
+
+Aug
+
+30
+
+Sept
+
+1
+
+Sept
+
+6
+
+Sept
+
+8
+
+Sept
+
+13
+
+Sept
+
+15
+
+Sept
+
+20
+
+Sept
+
+22
+
+Sept
+
+27
+
+Sept
+
+29
+
+Subject
+Introduction, Review: Lewis Structures,
+Electronegativity, Formal Charges;
+Resonance; Molecular Structure
+Using Curved Arrows in Chemical
+Reaction Mechanisms, Acids and Bases,
+How Structure Effects Acidity, pKa and
+Equilibria, Lewis Acids and Bases
+Valence Bond Theory vs Molecular Orbital
+Theory, Covalent Bonding and
+Hybridization, Bonding in Alkanes, Alkenes
+and Alkynes, Molecular Orbitals and
+Bonding in Methane
+Isomers, Higher Alkanes, Naming,
+Cycloalkanes, Occurrence and Production,
+Physical Properties, Combustion,
+Oxidation/Reduction
+Conformations of Alkanes, Shapes of
+Cycloalkanes, Conformations of
+Cyclohexanes
+Axial and Equatorial Bonds, Cis/Trans
+Isomers, Conformational Analysis of
+Substituted Cyclohexanes and Other Ring
+Systems, Polycyclic Ring Systems,
+Heterocyclic Compounds
+Chirality, Optical Activity, Relative and
+Absolute Configurations, R/S Notation,
+Fischer Projections
+Properties of Enantiomers, Chirality Axis,
+Molecules with Two Chirality Centers,
+Diastereomers, Meso Isomers
+Exam #1
+Functional Groups, Naming Alkyl Halides
+and Alcohols, Bonding, Physical
+Properties, Synthesis of Alkyl Halides from
+Alochols
+SN1 Mechanism , Potential Energy
+Diagrams, Carbocations, Reaction Rate
+Effects, Stereochemistry of Reactions
+Carbocation Rearrangements, SN2
+Reaction, Other Reactions to Make Alkyl
+Halides From Alcohols, Sulfonates
+Functional Group Transformation by
+Nucleophilic Substitution, Relative
+Reactivity, SN2 Mechanism, Steric Effects,
+Nucleophiles and Nucleophilicity
+
+Readings
+in Carey
+
+Extra Problems
+(Carey 11th ed)
+
+1.1 – 1.9
+
+1.10 – 1.15
+
+Chp 1 43,46,4851,53,55,5759,62,63,65-68
+
+2.1 – 2.11
+
+2.12 – 2.24
+
+Chp 2 – 25-2830,32, 35, 38
+
+3.1 – 3.7
+
+3.8 – 3.15
+
+Chp 3 - 2325,25,28,30,31,3
+4-37,42,43
+
+4.1 – 4.7
+4.8 – 4.11
+
+Chp 4: 29-31,3540
+
+Chapters 14
+5.1 – 5.7
+
+5.8 – 5.15
+
+6.1 – 6.5
+
+Chp 5 19,20,3236,41,43,44
+
+Oct
+
+4
+
+Oct
+
+6
+
+Oct
+
+11
+
+Oct
+
+13
+
+Oct
+
+18
+
+Oct
+
+20
+
+Oct
+
+25
+
+Oct
+
+27
+
+SN1 Reaction, Solvent Effects,
+Nucleophilic Substitution of Alkyl
+Sulfonates, Retrosynthetic Analysis,
+Substitution vs Elimination
+Naming and Isomers of Alkenes, Physical
+Properties, Stabilities of Alkenes and
+Cycloalkenes, Making Alkenes By
+Elimination, Alcohol Dehydration
+Mechanism
+No Class- Fall Break
+Rearrangements, Dehydrohalogenation,
+E2 Mechanism, Isotope Effects, E1
+Mechanism, Substitution vs Elimination,
+Elimination of Sulfonates
+Exam #2
+Hydrogenation of Alkenes, Electrophilic
+Addition of Hydrogen Halides, AcidCatalyzed Hydration
+Thermodynamics of Addition-Elimination
+Equilibria, Hydroboration-Oxidation,
+Halogen Addition, Epoxidation,
+Ozonolysis, Retrosynthetic Analysis
+Alkyne Naming, Bonding, Properties,
+Acidity, Making Alkynes
+Alkyne Reactions: Hydrogenation,
+Addition of Hydrogen Halides, Hydration,
+Addition of Halogens, Ozonolysis, Alkynes
+in Synthesis
+Structure, Bonding and Stability of Alkyl
+Radicals, Halogenation of Alkanes,
+Mechanism of Radical Chain Reactions
+Free-radical Addition of HBr to Alkenes,
+Metal-Ammonia Reduction of Alkynes,
+Free-Radical Polymerization of Alkenes
+
+6.6 – 6.12
+
+Chp 6 - 1923,26,27,32,33,3
+5
+
+7.1 – 7.12
+
+7.13 – 7.20
+
+Chp 7 31,39,41,42,43,4
+5,49,50-55
+
+Chapters 57
+8.1 – 8.6
+8.7 – 8.14
+
+Chp 8 - 25,2831,34,46-50,6466
+
+9.1 – 9.7
+9.8 – 9.14
+
+Nov
+
+1
+
+Nov
+
+3
+
+Nov
+
+8
+
+Nov
+
+10
+
+Ethers
+
+Nov
+
+15
+
+Exam #3
+
+Nov
+
+17
+
+Epoxides
+
+17.9-17.13
+
+Nov
+Nov
+Nov
+
+22
+24
+29
+
+IR Spectroscopy
+No Class-Thanksgiving
+1
+H-NMR Interpretation
+
+14.20-14.22
+
+Dec
+
+1
+
+1
+
+H-NMR and 13C-NMR
+
+14.12-14.16
+
+Dec
+
+13
+
+Final Exam at 3:30 p.m.
+
+Comprehen
+sive
+
+Chp 9 17,20,24,25,27,3
+0-32,34,36
+
+10.1 – 10.4
+10.5 – 10.8
+
+Chp 10 – 19,
+20,21,23,25,29,3
+0,32,33
+
+17.1, 17.417.6
+Chapters 810
+Chp 17 26,27,34,35,41,4
+2
+
+14.3-14.11
+Chp 14 31,32,36,39,41,4
+6,48,50,53
+
+Course Description and Student Learning Outcomes:
+Description: First half of two-semester sequence in the fundamentals of modern organic
+chemistry. Structure and bonding, stereochemistry, reactivity and synthesis of carbon
+compounds. Detailed coverage of aliphatic hydrocarbons, alcohols, ethers, and alkyl halides.
+Introduction to spectral techniques of IR, UV-vis, and NMR.
+Learning Outcomes:
+1. Draw structures and name various organic compounds including:
+A. alkanes, alkenes, alkynes
+B. alcohols
+C. alkyl halides
+D. ethers & sulfides
+2. Draw structures and name organic compounds that have configurations including
+A. E/Z
+B. R/S
+3. Describe the physical properties of the compounds listed in #1 above including:
+A. bonding
+B. boiling point trends
+C. heats of combustion/hydrogenation trends
+D. solubility trends
+4. Compare the relative stabilities of various molecules including:
+A. cyclohexane derivatives
+B. hydrocarbon isomers
+5. Describe the proposed mechanism for various reactions by drawing the electron flow
+arrows, transition states and the resulting intermediates and products including:
+A. SN1
+B. SN2
+C. E1
+D. E2
+E. Free radical reactions
+F. Electrophilic addition
+G. Metal catalyzed hydrogenation
+6. Devise synthetic schemes for preparing various organic compounds including:
+A. alkanes
+B. alkenes
+C. alkynes
+D. alcohols
+E. alkyl halides
+F. ethers & sulfides (including epoxide chemistry)
+7. Predict the products for the reactions of various functional groups including:
+A. alkanes
+B. alkenes
+C. alkynes
+D. alcohols
+E. alkyl halides
+F. ethers & sulfides (including epoxide chemistry)
+G. allylic systems
+H. conjugated dienes
+
+8. Predict the products for reactions that are:
+A. stereospecific
+B. stereoselective
+C. regiospecific
+D. regioselective
+9. Describe the property of chirality and how it applies to:
+A. reactions
+B. drugs
+10. Use spectroscopy to elucidate structures by interpreting the spectra generated from:
+A. 1H and 13C NMR spectroscopy
+B. IR spectroscopy
+C. UV-Vis spectroscopy
+Course Status
+Audits: To obtain a grade of AU in the course, the student must take ALL exams. Information
+about
+and
+requirements
+for
+auditing
+a
+course
+can
+be
+found
+at
+http://policies.ncsu.edu/regulation/reg-02-20-04.
+Credit Only: In order to receive a grade of S, students are required to take all exams and quizzes,
+complete all assignments, and earn a grade of C- or better. Conversion from letter grading to
+credit only (S/U) grading is subject to university deadlines. Refer to the Registration and Records
+calendar
+for
+deadlines
+related
+to
+grading.
+For
+more
+details
+refer
+to
+http://policies.ncsu.edu/regulation/reg-02-20-15.
+Changing your Status (or dropping): Friday, August 26this the last day to drop a course
+without a W grade. Wednesday, October 19th is the last day to change to credit only and
+the last day to drop with a W grade. After this date, modifications to your status in this class
+are determined by the COS Late Schedule Revision Policy. A full description of this policy can be
+found at the following website; http://sciences.ncsu.edu/students/academic-changes/latechanges/. Dropping specific courses (or changing to CR or AU) after this deadline is considered
+only for unforeseen and unavoidable extenuating personal situations (not poor performance).
+
+https://studentservices.ncsu.edu/calendars/academic/#fall
+
+University Policies
+Incomplete Grades: If an extended deadline is not authorized by the instructor or department,
+an unfinished incomplete grade will automatically change to an F after either (a) the end of the
+next regular semester in which the student is enrolled (not including summer sessions), or (b) the
+end of 12 months if the student is not enrolled, whichever is shorter. Incompletes that change to
+F will count as an attempted course on transcripts. The burden of fulfilling an incomplete grade is
+the responsibility of the student. The university policy on incomplete grades is located at
+http://policies.ncsu.edu/regulation/reg-02-50-03.
+
+Responsible Conduct: Students are required to comply with the university policy on academic
+integrity found in the Code of Student Conduct found at http://policies.ncsu.edu/policy/pol-11-3501. See http://policies.ncsu.edu/policy/pol-11-35-01 for a detailed explanation of academic
+
+honesty. Your signature on any test or assignment indicates "I have neither given nor received
+unauthorized aid on this test or assignment."
+
+Accommodations for Disabilities: Reasonable accommodations will be made for students with
+verifiable disabilities. In order to take advantage of available accommodations, students must
+register with the Disability Resource Office at Holmes Hall, Suite 304, 2751 Cates Avenue,
+Campus Box 7509, 919-515-7653. For more information on NC State’s policy on working with
+students with disabilities, please see the Academic Accommodations for Students with Disabilities
+Regulation (REG02.20.01).
+Supporting Fellow Students in Distress: As members of the NC State Wolfpack community,
+we each share a personal responsibility to express concern for one another and to ensure that
+the classroom and the campus as a whole remains a safe environment for learning. Occasionally,
+you may come across a fellow classmate whose personal behavior concerns or worries you. If
+this is the case, you are encouraged to report this behavior to the NC State Cares website.
+Although you can report anonymously, it is preferred that you share your contact information so
+they can follow-up with you personally. Students are responsible for reviewing the NC State
+University PRR’s which pertains to their course rights and responsibilities:
+• Equal Opportunity and Non-Discrimination Policy Statement
+• Code of Student Conduct
+• Grades and Grade Point Average
+
+Health and Well-Being Resources
+Sometimes during a student’s undergraduate career, academic and personal stress is a natural
+result. All students are encouraged to take care of themselves and their peers. If you need
+additional support, there are many resources on campus to help you:
+• Counseling Center (https://counseling.dasa.ncsu.edu/)
+• Health Center (https://healthypack.dasa.ncsu.edu/)
+• If you or someone you know are experiencing food, housing or financial insecurity, please
+
+see the Pack Essentials Program (https://dasa.ncsu.edu/pack-essentials/).
+
+COVID-19 Syllabus Content
+Due to the COVID-19 pandemic, public health measures continue to be implemented across
+campus. Students should stay current with these practices and expectations through the Protect
+the Pack website (https://www.ncsu.edu/coronavirus/). The sections below provide expectations
+and conduct related to COVID-19 issues.
+Health and Participation in Class
+We are most concerned about your health and the health of your classmates and instructors/TAs.
+●
+
+If you test positive for COVID-19, or are told by a healthcare provider that you are
+presumed positive for the virus, you should not attend any hybrid or face-to-face (F2F)
+
+●
+●
+
+●
+
+classes and work with your instructor on any adjustments necessary; also follow other
+university guidelines, including self reporting (Coronavirus Self Reporting): Self-reporting
+is not only to help provide support to you, but also to assist in contact tracing for containing
+the spread of the virus.
+If you feel unwell, even if you have not been knowingly exposed to COVID-19, please do
+not come to a F2F class or activity.
+If you are in quarantine, have been notified that you may have been exposed to COVID19, or have a personal or family situation related to COVID-19 that prevents you from
+attending this course in person (or synchronously), please connect with your instructor to
+make alternative plans, as necessary.
+If you need to make a request for an academic consideration related to COVID-19, such
+as a discussion about possible options for remote learning, please talk with your instructor.
+
+Health and Well-Being Resources
+These are difficult times, and academic and personal stress are natural results. Everyone is
+encouraged to take care of themselves and their peers. If you need additional support, there are
+many resources on campus to help you:
+●
+●
+●
+
+●
+
+Counseling Center (NCSU Counseling Center)
+Student Health Services (Health Services | Student)
+If the personal behavior of a classmate concerns or worries you, either for the classmate’s
+well-being or yours, we encourage you to report this behavior to the NC State CARES
+team: (Share a Concern).
+If you or someone you know are experiencing food, housing or financial insecurity, please
+see the Pack Essentials Program (Pack Essentials).
+
+Community Standards related to COVID-19
+We are all responsible for protecting ourselves and our community. Please see the community
+standards (which have been updated for 2021) and Rule 04.21.01 regarding Personal Safety
+Requirements Related to COVID-19 RUL 04.21.01 – Personal Safety Requirements Related to
+COVID-19 – Policies, Regulations & Rules
+Course Expectations Related to COVID-19:
+●
+
+●
+
+Face Coverings: All members of the NC State academic community are expected to
+follow all university policies and guidelines, including the Personal Safety Rule and
+community standards, for the use of face coverings. Face coverings are required in
+instructional spaces. Face coverings should be worn to cover the nose and mouth and be
+close fitting to the face with minimal gaps on the sides.
+Course Attendance: NC State attendance policies can be found at: REG 02.20.03 –
+Attendance Regulations – Policies, Regulations & Rules. Please refer to the course’s
+attendance, absence, and deadline policies for additional details. If you are quarantined
+or otherwise need to miss class because you have been advised that you may have been
+exposed to COVID-19, you should not be penalized regarding attendance or class
+participation. However, you will be expected to develop a plan to keep up with your
+coursework during any such absences. If you become ill with COVID-19, you should follow
+the steps outlined in the health and participation section above. COVID 19-related
+
+●
+
+absences will be considered excused; documentation need only involve communication
+with your instructor.
+Technology Requirements: This course may require particular technologies to complete
+coursework. Be sure to review the syllabus for these expectations, and see the syllabus
+technical requirements for your course. If you need access to additional technological
+support, please contact the Libraries’ Technology Lending Service: (Technology
+Lending).
+
+Course Changes Related to COVID-19
+NO LONGER AVAILABLE - Grading/Scheduling Changing Options Related to COVID-19
+Two policies, enhanced S/U Grading Option and Late Drop, put in place at the beginning of the
+COVID-19 pandemic have been discontinued.
+In some cases, an option may be to request an “incomplete” in the course. If you are experiencing
+difficult or extenuating circumstances, you should discuss possible options with your instructor
+and your academic advisor.
+Need Help?
+If you find yourself in a place where you need help, academically or otherwise, please review
+these Step-by-Step Help Topics.
+Other Important Resources
+●
+●
+●
+●
+●
+●
+●
+●
+
+Keep Learning: Keep Learning
+Protect the Pack FAQs: Frequently Asked Questions | Protect the Pack
+NC State Protect the Pack Resources for Students: Resources for Students | Protect
+the Pack
+Academic Success Center (tutoring, drop in advising, career and wellness advising):
+Academic Success Center.
+NC State Keep Learning, tips for students opting to take courses remotely:
+Keep Learning Tips for Remote Learning
+Introduction to Zoom for students:
+https://youtu.be/5LbPzzPbYEw
+Learning with Moodle, a student’s guide to using Moodle:
+https://moodle-projects.wolfware.ncsu.edu/course/view.php?id=226
+NC State Libraries Technology Lending Program
+
+
+
+## Metadata
+- Source file: junk_drawer/Fall2022Syllabus (1).pdf
+- Extracted: 2026-05-18
+- Category: academic-syllabus

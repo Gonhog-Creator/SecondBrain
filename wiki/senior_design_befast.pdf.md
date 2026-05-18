@@ -1,0 +1,144 @@
+# senior_design_befast.pdf
+
+Source: junk_drawer/senior_design_befast.pdf
+
+Category: [[other]]
+
+## Summary
+Design-build-fly of a RDC-turbine Project: Transform the gaseous rotating detonation combustor (RDC) to a subsonic or supersonic cooled RDC with power extraction. The time of testing will be 5 seconds at 1 lb/sec of oxidizer. Maximum power extraction will be a few kilo-watt at RPMS of 10-50,000 RPM. Size of the combustor is ~ 5 inch. The combustor geometry will be shared with you as well as all the auxiliary systems. 4 intermediate goals 1) Integration of a shaft in the upstream plenum 2) Design
+
+## Full Content
+Design-build-fly of a RDC-turbine
+
+Project:
+Transform the gaseous rotating detonation combustor (RDC) to a subsonic or supersonic cooled RDC with power extraction. The time of testing will be 5 seconds at 1 lb/sec of oxidizer.
+Maximum power extraction will be a few kilo-watt at RPMS of 10-50,000 RPM. Size of the combustor is ~ 5 inch. The combustor geometry will be shared with you as well as all the
+auxiliary systems.
+4 intermediate goals
+1) Integration of a shaft in the upstream plenum
+2) Design-build-test of a turbine downstream of the combustor to extract power
+3) Measurements of power in a reliable way
+4) Cooling (gaseous) > you can build off existing cooling schemes or come up with new ones but those then need to be thoroughly vetted
+Ultimate goal: proof of concept of a (bladed) turbine that survives for 5 seconds in an RDE environment
+Extra information for you:
+1) The combustor itself is already designed and machined and will be tested in November.
+2) There is a lot of measurement techniques that are already available that can be used by the senior design team
+3) all auxiliary systems (air , test stand) are already available to use for the students
+3) Just like with the previous project: safety is again a trop priority (health and safety system etc)
+4) There are publications on cooling available (also from our group)
+
+Budget: ~4000$
+?What is the novelty for this senior design group?
+Currently rotating detonation combustors are mainly tested only as a combustor, however the next step is to integrate them with a downstream turbine, and has not yet been shown in
+lab scale (except for a few trials in the past by the air force and other select labs). Your findings can easily fit within an AIAA conference such as Scitech or ASME Turbo expo.
+
+Motivation
+
+turbine stage
+
+combustor
+
+compressor
+
+compressor power ~
+
+T0,inlet γ−1
+mcp
+ሶ
+(Π γ − 1)
+ηc
+
+Compressor power reduction in function of
+diffuser total pressure drop
+
+0%
+
+20%
+
+30%
+
+Π=~9
+
+21%
+
+~11%
+
+~4%
+
+Π=~7
+
+24%
+
+~16 %
+
+~8%
+
+Liu Z., Braun J., Paniagua G., Thermal Power Plant Upgrade via a Rotating Detonation Combustor and
+Retrofitted Turbine with Optimized Endwalls, International Journal of Mechanical Sciences, 2020
+
+Types of turbines
+
+Go for a nozzle and a supersonic nozzle (lower power extraction) or subsonic turbine (with a diffuser)
+
+Integration of supersonic STATOR in THOR
+
+Credits: Braun, Meyer, Athmanathan, Paniagua, Fugger
+
+Nozzle + Stator strategy for RDCs
+
+0.5
+
+M [-] 1.95
+
+0.5 p [bar] 5
+
+Braun J., Cuadrado D.G., Andreoli V., Paniagua G., Liu Z., Saavedra J., Meyer T., Characterization of an integrated nozzle and
+supersonic axial turbine with a rotating detonation combustor, AIAA Propulsion and Energy Forum, Indianapolis, August 2019
+
+Gaseous cooling
+
+COOLING > Paper Scitech
+Surface Heat Flux – Mach number slice
+
+Surface heat flux– Temperature slice
+
+Heat flux
+[MW/m2]
+1
+
+Heat flux
+[W/m2]
+
+10
+
+1
+
+10
+
+M [-]
+
+T [K]
+
+0.5
+200
+
+2000
+
+1.1
+
+CAD design for the 3 slots
+
+Machining
+
+Power absorption: Lynch thesis
+
+Flexure
+From
+Thrust
+
+
+
+## Metadata
+- Source file: junk_drawer/senior_design_befast.pdf
+- Extracted: 2026-05-18
+- Category: other

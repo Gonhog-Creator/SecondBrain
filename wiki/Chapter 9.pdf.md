@@ -1,0 +1,1874 @@
+# Chapter 9.pdf
+
+Source: junk_drawer/Chapter 9.pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+Chapter 9: Phase Diagrams ISSUES TO ADDRESS... • When we combine two elements... what equilibrium state do we get? • In particular, if we specify... --a composition (e.g., wt% Cu - wt% Ni), and --a temperature (T ) then...
+
+## Full Content
+Chapter 9: Phase Diagrams
+ISSUES TO ADDRESS...
+• When we combine two elements...
+what equilibrium state do we get?
+
+• In particular, if we specify...
+--a composition (e.g., wt% Cu - wt% Ni), and
+--a temperature (T )
+
+then...
+How many phases do we get?
+What is the composition of each phase?
+How much of each phase do we get?
+
+Phase B
+
+Phase A
+Nickel atom
+Copper atom
+
+1
+
+Phase Equilibria: Solubility Limit
+Introduction
+– Solutions – solid solutions, single phase
+– Mixtures – more than one phase
+Adapted from Fig. 9.1,
+Callister 7e.
+
+Sucrose/Water Phase Diagram
+
+• Solubility Limit:
+
+Question: What is the
+solubility limit at 20°C?
+
+Answer: 65 wt% sugar.
+
+Temperature (°C)
+
+Max concentration for
+which only a single phase
+solution occurs.
+
+100
+Solubility
+Limit
+
+80
+
+L
+(liquid)
+
+60
+
+L
+
+40
+
+(liquid solution
+i.e., syrup)
+
+20
+
++
+S
+(solid
+sugar)
+
+o
+
+Pure
+Sugar
+
+Pure
+Water
+
+If Co < 65 wt% sugar: syrup
+0
+20
+40
+6065 80
+100
+If Co > 65 wt% sugar: syrup + sugar.
+C =Composition (wt% sugar)
+
+2
+
+Components and Phases
+• Components:
+The elements or compounds which are present in the mixture
+(e.g., Al and Cu)
+
+• Phases:
+The physically and chemically distinct material regions
+that result (e.g., a and b).
+AluminumCopper
+Alloy
+
+b (lighter
+phase)
+
+a (darker
+phase)
+Adapted from
+chapter-opening
+photograph,
+Chapter 9,
+Callister 3e.
+
+3
+
+Effect of T & Composition (Co)
+• Changing T can change # of phases: path A to B.
+• Changing Co can change # of phases: path B to D.
+B (100°C,70) D (100°C,90)
+1 phase
+
+watersugar
+system
+
+Adapted from
+Fig. 9.1,
+Callister 7e.
+
+Temperature (°C)
+
+100
+
+2 phases
+
+L
+
+80
+
+(liquid)
+
+60
+
+L
+(liquid solution
+
+40
+
+i.e., syrup)
+
++
+S
+(solid
+sugar)
+
+A (20°C,70)
+
+20
+
+2 phases
+
+0
+
+0
+
+20
+40
+60 70 80
+100
+Co =Composition (wt% sugar)
+4
+
+Phase Equilibria
+Simple solution system (e.g., Ni-Cu solution)
+Crystal
+Structure
+
+electroneg
+
+r (nm)
+
+Ni
+
+FCC
+
+1.9
+
+0.1246
+
+Cu
+
+FCC
+
+1.8
+
+0.1278
+
+• Both have the same crystal structure (FCC) and have
+similar electronegativities and atomic radii (W. Hume –
+Rothery rules) suggesting high mutual solubility.
+
+• Ni and Cu are totally miscible in all proportions.
+5
+
+Phase Diagrams
+• Indicate phases as function of T, Co, and P.
+• For this course:
+-binary systems: just 2 components.
+-independent variables: T and Co (P = 1 atm is almost always used).
+
+T(°C)
+• Phase
+Diagram
+for Cu-Ni
+system
+
+• 2 phases:
+
+1600
+1500
+
+L (liquid)
+a (FCC solid solution)
+
+L (liquid)
+
+1400
+1300
+
+a
+(FCC solid
+solution)
+
+1200
+1100
+1000
+
+0
+
+20
+
+40
+
+60
+
+80
+
+• 3 phase fields:
+L
+L+a
+a
+Adapted from Fig. 9.3(a), Callister 7e.
+(Fig. 9.3(a) is adapted from Phase
+Diagrams of Binary Nickel Alloys, P. Nash
+(Ed.), ASM International, Materials Park,
+OH (1991).
+
+100 wt% Ni
+
+6
+
+Phase Diagrams:
+# and types of phases
+• Rule 1: If we know T and Co, then we know:
+--the # and types of phases present.
+
+A(1100°C, 60):
+1 phase: a
+B(1250°C, 35):
+2 phases: L + a
+
+1600
+
+L (liquid)
+B (1250°C,35)
+
+• Examples:
+
+T(°C)
+1500
+1400
+1300
+1200
+
+Adapted from Fig. 9.3(a), Callister 7e.
+(Fig. 9.3(a) is adapted from Phase
+Diagrams of Binary Nickel Alloys, P. Nash
+(Ed.), ASM International, Materials Park,
+OH, 1991).
+
+1100
+1000
+
+Cu-Ni
+phase
+diagram
+
+a
+(FCC solid
+solution)
+
+A(1100°C,60)
+0
+
+20
+
+40
+
+60
+
+80
+
+100 wt% Ni
+7
+
+Phase Diagrams:
+composition of phases
+• Rule 2: If we know T and Co, then we know:
+--the composition of each phase.
+
+• Examples:
+
+T(°C)
+
+Cu-Ni
+system
+
+A
+TA
+Co = 35 wt% Ni
+tie line
+1300 L (liquid)
+At T A = 1320°C:
+Only Liquid (L)
+B
+TB
+CL = Co ( = 35 wt% Ni)
+a
+At T D = 1190°C:
+(solid)
+1200
+D
+Only Solid ( a)
+TD
+Ca = Co ( = 35 wt% Ni)
+20
+3032 35 4043
+50
+At T B = 1250°C:
+CLCo
+Ca wt% Ni
+Both a and L
+Adapted from Fig. 9.3(b), Callister 7e.
+9.3(b) is adapted from Phase Diagrams
+CL = C liquidus ( = 32 wt% Ni here) (Fig.
+of Binary Nickel Alloys, P. Nash (Ed.), ASM
+Ca = C solidus ( = 43 wt% Ni here) International, Materials Park, OH, 1991.)
+8
+
+Phase Diagrams:
+weight fractions of phases
+• Rule 3: If we know T and Co, then we know:
+--the amount of each phase (given in wt%).
+
+• Examples:
+Co = 35 wt% Ni
+At T A : Only Liquid (L)
+W L = 100 wt%, W a = 0
+At T D: Only Solid ( a)
+W L = 0, Wa = 100 wt%
+At T B : Both a and L
+
+WL =
+
+Wa =
+
+S = 43 − 35 = 73 wt %
+R + S 43 − 32
+R
+= 27 wt%
+R +S
+
+Cu-Ni
+system
+
+T(°C)
+
+A
+
+TA
+
+tie line
+
+L (liquid)
+
+1300
+
+TB
+
+B
+R S
+
+1200
+
+D
+
+TD
+20
+
+3032 35
+
+CLCo
+
+a
+(solid)
+
+40 43
+
+50
+
+Ca wt% Ni
+
+Adapted from Fig. 9.3(b), Callister 7e.
+(Fig. 9.3(b) is adapted from Phase Diagrams of
+Binary Nickel Alloys, P. Nash (Ed.), ASM
+International, Materials Park, OH, 1991.)
+
+9
+
+The Lever Rule
+• Tie line – connects the phases in equilibrium with each
+other - essentially an isotherm
+T(°C)
+
+How much of each phase?
+Think of it as a lever (teeter-totter)
+
+tie line
+1300
+
+L (liquid)
+
+B
+
+TB
+
+a
+(solid)
+
+1200
+
+R
+20
+
+S
+
+R
+
+30C C
+40 C
+a
+L o
+
+wt% Ni
+
+WL =
+
+Ma
+
+ML
+
+50
+
+S
+
+M a S = M L R
+
+Adapted from Fig. 9.3(b),
+Callister 7e.
+
+C − C0
+ML
+S
+=
+= a
+ML + M a R + S Ca − CL
+
+Wa =
+
+C − CL
+R
+= 0
+R + S Ca − CL
+10
+
+Ex: Cooling in a Cu-Ni Binary
+• Phase diagram:
+Cu-Ni system.
+
+• System is:
+--binary
+i.e., 2 components:
+Cu and Ni.
+
+T(°C) L (liquid)
+130 0
+L: 35 wt% Ni
+a: 46 wt% Ni
+
+• Consider
+Co = 35 wt%Ni.
+
+Cu-Ni
+system
+
+A
+35
+32
+
+--isomorphous
+i.e., complete
+solubility of one
+component in
+another; a phase
+field extends from
+0 to 100 wt% Ni.
+
+L: 35wt%Ni
+
+B
+C
+
+46
+43
+
+D
+
+24
+
+L: 32 wt% Ni
+
+36
+
+120 0
+
+a: 43 wt% Ni
+
+E
+
+L: 24 wt% Ni
+a: 36 wt% Ni
+
+a
+(solid)
+110 0
+20
+
+30
+
+Adapted from Fig. 9.4,
+Callister 7e.
+
+35
+Co
+
+40
+
+50
+
+wt% Ni
+11
+
+Cored vs Equilibrium Phases
+• Ca changes as we solidify.
+• Cu-Ni case: First a to solidify has Ca = 46 wt% Ni.
+
+Last a to solidify has Ca = 35 wt% Ni.
+
+• Fast rate of cooling:
+Cored structure
+
+• Slow rate of cooling:
+Equilibrium structure
+
+First a to solidify:
+46 wt% Ni
+Last a to solidify:
+< 35 wt% Ni
+
+Uniform C a:
+35 wt% Ni
+
+12
+
+Mechanical Properties: Cu-Ni System
+• Effect of solid solution strengthening on:
+--Ductility (%EL,%AR)
+
+400
+TS for
+pure Ni
+
+300
+TS for pure Cu
+200
+0 20 40
+Cu
+
+60 80 100
+Ni
+
+Composition, wt% Ni
+
+Elongation (%EL)
+
+Tensile Strength (MPa)
+
+--Tensile strength (TS)
+
+60
+
+%EL for pure Cu
+%EL for
+pure Ni
+
+50
+40
+30
+20
+0 20
+Cu
+
+40
+
+60
+
+80 100
+Ni
+
+Composition, wt% Ni
+
+Adapted from Fig. 9.6(a), Callister 7e.
+
+Adapted from Fig. 9.6(b), Callister 7e.
+
+--Peak as a function of Co
+
+--Min. as a function of Co
+13
+
+Binary-Eutectic Systems
+has a special composition
+with a min. melting T.
+
+2 components
+
+Cu-Ag
+system
+
+T(°C)
+
+Ex.: Cu-Ag system
+
+1200
+
+• 3 single phase regions
+L (liquid)
+1000
+(L, a, b)
+a L + a 779°C
+• Limited solubility:
+L+b b
+800
+T
+a: mostly Cu
+8.0
+71.9 91.2
+E
+b: mostly Ag
+600
+• TE : No liquid below TE
+a+b
+400
+• CE : Min. melting TE
+composition
+200
+• Eutectic transition
+
+L(CE)
+
+0
+
+a(CaE) + b(CbE)
+
+20
+
+40
+
+60 CE 80
+
+100
+
+Co , wt% Ag
+Adapted from Fig. 9.7,
+Callister 7e.
+
+14
+
+EX: Pb-Sn Eutectic System (1)
+• For a 40 wt% Sn-60 wt% Pb alloy at 150°C, find...
+--the phases present: a + b
+T(°C)
+--compositions of phases:
+CO = 40 wt% Sn
+Ca = 11 wt% Sn
+Cb = 99 wt% Sn
+
+--the relative amount
+of each phase:
+Wa =
+
+C - CO
+S
+= b
+R+S
+Cb - Ca
+
+Pb-Sn
+system
+
+300
+
+L (liquid)
+
+a
+200
+150
+100
+
+99 - 40
+59
+=
+= 67 wt%
+99 - 11
+88
+C - Ca
+Wb = R = O
+Cb - Ca
+R+S
+
+L+ a
+
+L+b b
+
+183°C
+
+18.3
+
+61.9
+
+R
+
+S
+
+97.8
+
+a+b
+
+=
+
+=
+
+40 - 11
+29
+=
+= 33 wt%
+99 - 11
+88
+
+0 11 20
+Ca
+
+40
+Co
+
+60
+
+80
+
+C, wt% Sn
+
+99100
+Cb
+
+Adapted from Fig. 9.8,
+Callister 7e.
+
+15
+
+EX: Pb-Sn Eutectic System (2)
+• For a 40 wt% Sn-60 wt% Pb alloy at 220°C, find...
+--the phases present: a + L
+T(°C)
+--compositions of phases:
+CO = 40 wt% Sn
+Ca = 17 wt% Sn
+CL = 46 wt% Sn
+
+--the relative amount
+of each phase:
+CL - CO
+46 - 40
+=
+Wa =
+CL - Ca
+46 - 17
+6
+=
+= 21 wt%
+29
+
+Pb-Sn
+system
+
+300
+
+a
+
+220
+200
+
+L (liquid)
+
+L+a
+R
+
+L+b b
+
+S
+183°C
+
+100
+
+CO - C a
+23
+=
+WL =
+= 79 wt%
+CL - C a
+29
+
+a+b
+0
+
+17 20
+Ca
+
+40 46 60
+Co CL
+
+80
+
+100
+
+C, wt% Sn
+
+Adapted from Fig. 9.8,
+Callister 7e.
+
+16
+
+Microstructures
+in Eutectic Systems: I
+• Co < 2 wt% Sn
+• Result:
+--at extreme ends
+--polycrystal of a grains
+i.e., only one solid phase.
+
+T(°C)
+
+L: Co wt% Sn
+
+400
+L
+a
+
+L
+
+300
+
+a
+
+200
+
+(Pb-Sn
+System)
+
+a: Co wt% Sn
+
+TE
+
+a+ b
+
+100
+
+Adapted from Fig. 9.11,
+Callister 7e.
+
+L+ a
+
+0
+Co
+
+10
+
+20
+
+30
+
+Co, wt% Sn
+
+2
+(room T solubility limit)
+
+17
+
+Microstructures
+in Eutectic Systems: II
+L: Co wt% Sn
+
+• 2 wt% Sn < Co < 18.3 wt% Sn T(°C)
+• Result:
+
+400
+
+L
+
+▪ Initially liquid + a
+300
+▪ then a alone
+▪ finally two phases
+200
+➢ a polycrystal
+TE
+➢ fine b-phase inclusions
+
+L
+a
+
+L+a
+
+a: Co wt% Sn
+
+a
+
+a
+b
+
+100
+
+a+ b
+
+0
+
+10
+
+Adapted from Fig. 9.12,
+2
+Callister 7e.
+(sol. limit at T room )
+
+20
+Co
+
+Pb-Sn
+system
+30
+
+Co , wt% Sn
+
+18.3
+(sol. limit at TE)
+
+18
+
+Microstructures
+in Eutectic Systems: III
+• Co = CE
+• Result: Eutectic microstructure (lamellar structure)
+--alternating layers (lamellae) of a and b crystals.
+
+T(°C)
+L: Co wt% Sn
+
+300
+
+Pb-Sn
+system
+
+a
+
+200
+
+L+ a
+
+L
+L+b b
+
+183°C
+
+TE
+
+100
+
+a+b
+0
+
+20
+18.3
+
+Adapted from Fig. 9.13,
+Callister 7e.
+
+Micrograph of Pb-Sn
+eutectic
+microstructure
+
+40
+
+b: 97.8 wt% Sn
+a: 18.3 wt%Sn
+
+60
+CE
+61.9
+
+80
+
+160 m
+Adapted from Fig. 9.14, Callister 7e.
+
+100
+97.8
+
+C, wt% Sn
+
+19
+
+Lamellar Eutectic Structure
+
+Adapted from Figs. 9.14 & 9.15, Callister
+7e.
+
+20
+
+Microstructures
+in Eutectic Systems: IV
+• 18.3 wt% Sn < Co < 61.9 wt% Sn
+• Result: a crystals and a eutectic microstructure
+L: Co wt% Sn
+
+T(°C)
+300
+
+L
+a
+
+L
+
+Pb-Sn
+system
+
+a
+
+200
+
+a L
+
+L+a
+R
+
+TE
+
+R
+
+100
+
+a+b
+
+L+b b
+
+S
+
+S
+
+20
+18.3
+
+Adapted from Fig. 9.16,
+Callister 7e.
+
+40
+
+60
+61.9
+
+Ca = 18.3 wt% Sn
+CL = 61.9 wt% Sn
+Wa = S = 50 wt%
+R+S
+WL = (1- Wa) = 50 wt%
+
+• Just below TE :
+primary a
+eutectic a
+eutectic b
+
+0
+
+• Just above TE :
+
+80
+
+Co, wt% Sn
+
+100
+97.8
+
+Ca = 18.3 wt% Sn
+Cb = 97.8 wt% Sn
+Wa = S = 73 wt%
+R+S
+Wb = 27 wt%
+21
+
+Hypoeutectic & Hypereutectic
+300
+
+L
+
+T(°C)
+
+Adapted from Fig. 9.8,
+Callister 7e. (Fig. 9.8
+adapted from Binary Phase
+Diagrams, 2nd ed., Vol. 3,
+T.B. Massalski (Editor-inChief), ASM International,
+Materials Park, OH, 1990.)
+
+a
+
+200
+
+L+ a
+a+b
+
+20
+
+40
+
+hypoeutectic: Co = 50 wt% Sn
+
+a
+a
+
+(Pb-Sn
+System)
+
+100
+
+0
+(Figs. 9.14 and 9.17
+from Metals
+Handbook, 9th ed.,
+Vol. 9,
+Metallography and
+Microstructures,
+American Society for
+Metals, Materials
+Park, OH, 1985.)
+
+L+b b
+
+TE
+
+a
+
+60
+
+80
+
+eutectic
+61.9
+
+hypereutectic: (illustration only)
+
+b
+b
+
+a
+
+Adapted from
+Fig. 9.17, Callister 7e.
+
+Co, wt% Sn
+
+eutectic: Co = 61.9 wt% Sn
+
+a a
+175 m
+
+100
+
+b
+b b
+b
+
+160 m
+eutectic micro-constituent
+Adapted from Fig. 9.14,
+Callister 7e.
+
+Adapted from Fig. 9.17,
+Callister 7e. (Illustration
+only)
+
+22
+
+Intermetallic Compounds
+Adapted from
+Fig. 9.20, Callister 7e.
+
+Mg2Pb
+
+Note: intermetallic compound forms a line - not an area because stoichiometry (i.e. composition) is exact.
+
+23
+
+Eutectoid & Peritectic
+• Eutectic - liquid in equilibrium with two solids
+L cool a + b
+heat
+
+• Eutectoid - solid phase in equation with two solid
+phases
+intermetallic compound
+S2
+S1+S3
+- cementite
+ cool a + Fe3C
+(727ºC)
+heat
+
+• Peritectic - liquid + solid 1 → solid 2 (Fig 9.21)
+S1 + L
+S2
+cool
+ + L heat 
+(1493ºC)
+
+24
+
+Eutectoid & Peritectic
+
+Peritectic transition  + L
+
+
+
+Cu-Zn Phase diagram
+
+Eutectoid transition 
+
++
+
+Adapted from
+Fig. 9.21, Callister 7e.
+
+25
+
+Iron-Carbon (Fe-C) Phase Diagram
+
+-Eutectoid (B):
+
+1600
+
+
+
+L
+
+1400
+
+ +L
+
+1200
+(austenite)
+
+  a + Fe3C
+
+ 
+ 
+
+1000
+
+a
+
+800
+600
+
+120 m
+
+Result: Pearlite =
+alternating layers of
+a and Fe3C phases
+(Adapted from Fig. 9.27, Callister 7e.)
+
+L+Fe3C
+
+R
+
+S
+
+ +Fe3C
+727°C = Teutectoid
+
+B
+R
+
+S
+
+400
+0
+1
+0.76
+(Fe)
+
+A
+
+1148°C
+
+2
+
+3
+
+a+Fe3C
+4
+
+5
+
+6
+
+Fe3C (cementite)
+
+L   + Fe3C
+
+T(°C)
+
+C eutectoid
+
+• 2 important
+points
+-Eutectic (A):
+
+6.7
+
+4.30
+Co, wt% C
+Fe3C (cementite-hard)
+a (ferrite-soft)
+
+Adapted from Fig. 9.24,Callister 7e.
+
+26
+
+Hypoeutectoid Steel
+T(°C)
+1600
+
+
+
+L
+
+ 
+ 
+ 
+ 
+a
+
+
+a
+ a
+
+ +L
+
+1200
+(austenite)
+1000
+
+ + Fe3C
+
+800 r s
+
+727°C
+
+aRS
+
+w a =s/(r +s) 600
+w  =(1- wa )
+
+a + Fe3C
+
+400
+0
+1
+(Fe) C0
+pearlite
+
+w pearlite = w 
+
+2
+
+3
+
+4
+
+5
+
+6.7
+
+100 m
+
+w a =S/(R+S)
+w Fe3 =(1-w a )
+C
+
+6
+
+Adapted from Figs. 9.24
+and 9.29,Callister 7e.
+(Fig. 9.24 adapted from
+Binary Alloy Phase
+Diagrams, 2nd ed., Vol.
+1, T.B. Massalski (Ed.-inChief), ASM International,
+Materials Park, OH,
+1990.)
+
+Co , wt% C
+
+0.76
+
+a
+
+L+Fe3C
+
+1148°C
+
+(Fe-C
+System)
+
+Fe3C (cementite)
+
+1400
+
+pearlite
+
+Hypoeutectoid
+steel
+
+proeutectoid ferrite
+Adapted from Fig. 9.30,Callister 7e.
+
+27
+
+Hypereutectoid Steel
+T(°C)
+1600
+
+
+
+L
+
+ +L
+
+1200
+(austenite)
+
+ 
+ 
+
+800
+
+w Fe3C =r/(r +s)
+w  =(1-w Fe3C )
+
+ +Fe3C
+r
+
+a R
+600
+
+400
+0
+(Fe)
+pearlite
+
+L+Fe3C
+
+1148°C
+
+1000
+
+0.76
+
+Fe3C
+
+ 
+ 
+ 
+ 
+
+(Fe-C
+System)
+
+s
+S
+
+1 Co
+
+w pearlite = w 
+w a =S/(R+S)
+w Fe3C =(1-w a )
+
+a +Fe3C
+2
+
+3
+
+4
+
+5
+
+6
+
+Fe3C (cementite)
+
+1400
+
+Adapted from Figs. 9.24
+and 9.32,Callister 7e.
+(Fig. 9.24 adapted from
+Binary Alloy Phase
+Diagrams, 2nd ed., Vol.
+1, T.B. Massalski (Ed.-inChief), ASM International,
+Materials Park, OH,
+1990.)
+
+6.7
+
+Co , wt%C
+60 mHypereutectoid
+steel
+
+pearlite
+
+proeutectoid Fe3C
+Adapted from Fig. 9.33,Callister 7e.
+
+28
+
+Example: Phase Equilibria
+For a 99.6 wt% Fe-0.40 wt% C at a temperature just below the
+eutectoid, determine the following
+a) composition of Fe3C and ferrite (a)
+b) the amount of carbide (cementite) in grams that forms per 100 g of
+steel
+c) the amount of pearlite and proeutectoid ferrite (a)
+
+29
+
+Chapter 9 – Phase Equilibria
+Solution:
+
+a) composition of Fe3C and ferrite (a)
+
+b) the amount of carbide
+(cementite) in grams that
+forms per 100 g of steel
+
+CO = 0.40 wt% C
+Ca = 0.022 wt% C
+CFe C = 6.70 wt% C
+3
+
+1600
+
+
+
+1200
+
+=
+
+0.4 − 0.022
+x 100 = 5.7g
+6.7 − 0.022
+
+L
+
+
+
+a = 94.3 g
+
+L+Fe3C
+
+1148°C
+
+(austenite)
+
+1000
+
+ + Fe3C
+
+800
+
+Fe3C = 5.7 g
+
+ +L
+
+Fe3C (cementite)
+
+Fe3C
+Co − Ca
+1400
+=
+x100 T(°C)
+Fe3C + a CFe 3C − Ca
+
+727°C
+
+R
+
+S
+a + Fe3C
+
+600
+400
+0
+
+Ca CO
+
+1
+
+2
+
+3
+
+4
+
+Co , wt% C
+
+5
+
+6
+
+6.7
+
+CFe C
+3
+
+30
+
+Chapter 9 – Phase Equilibria
+the amount of pearlite and proeutectoid ferrite (a)
+note: amount of pearlite = amount of  just above TE
+
+Co = 0.40 wt% C
+Ca = 0.022 wt% C
+Cpearlite = C = 0.76 wt% C
+
+1600
+
+
+
+L
+
+1400
+
+T(°C)
+ +L
+
+Co − Ca
+
+=
+x 100 = 51.2 g 1200
+1148°C
+(austenite)
+ + a C − Ca
+1000
+
+ + Fe3C
+
+800
+
+
+
+L+Fe3C
+
+727°C
+
+RS
+
+pearlite = 51.2 g
+proeutectoid a = 48.8 g
+
+a + Fe3C
+
+600
+400
+0
+
+1
+
+Ca CO C
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Fe3C (cementite)
+
+c.
+
+6.7
+
+Co , wt% C
+31
+
+Alloying Steel with More Elements
+
+Ti
+
+Mo
+
+Si
+
+W
+Cr
+Mn
+
+Ni
+
+• Ceutectoid changes:
+Ceutectoid (wt%C)
+
+T Eutectoid (°C)
+
+• Teutectoid changes:
+
+Ni
+Cr
+Si
+Ti Mo
+
+W
+
+Mn
+
+wt. % of alloying elements
+
+wt. % of alloying elements
+
+Adapted from Fig. 9.34,Callister 7e. (Fig. 9.34
+from Edgar C. Bain, Functions of the Alloying
+Elements in Steel, American Society for Metals,
+1939, p. 127.)
+
+Adapted from Fig. 9.35,Callister 7e. (Fig. 9.35
+from Edgar C. Bain, Functions of the Alloying
+Elements in Steel, American Society for Metals,
+1939, p. 127.)
+
+32
+
+Summary
+• Phase diagrams are useful tools to determine:
+--the number and types of phases,
+--the wt% of each phase,
+--and the composition of each phase
+
+for a given T and composition of the system.
+• Alloying to produce a solid solution usually
+--increases the tensile strength (TS)
+--decreases the ductility.
+
+• Binary eutectics and binary eutectoids allow for
+a range of microstructures.
+
+33
+
+APPLICATION: REFRACTORIES
+• Need a material to use in high temperature furnaces.
+• Consider Silica (SiO2) - Alumina (Al2O3) system.
+• Phase diagram shows:
+mullite, alumina, and crystobalite (made up of SiO2)
+tetrahedra as candidate refractories.
+2200
+T(°C)
+2000
+
+3Al2O3-2SiO2
+Liquid
+(L)
+
+1800
+
+1400
+0
+
+alumina + L
+mullite
++L
+
+crystobalite
++L
+
+1600
+
+mullite
+
+mullite
++ crystobalite
+
+20
+
+alumina
++
+mullite
+
+Adapted from Fig.
+12.27, Callister 6e.
+(Fig. 12.27 is adapted
+from F.J. Klug and R.H.
+Doremus, "Alumina
+Silica Phase Diagram in
+the Mullite Region", J.
+American Ceramic
+Society 70(10), p. 758,
+1987.)
+
+40
+60
+80
+100
+Composition (wt% alumina)
+
+25
+
+
+
+## Metadata
+- Source file: junk_drawer/Chapter 9.pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

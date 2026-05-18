@@ -1,0 +1,2409 @@
+# Graphene-based wearable biosensors for point-of-care diagnostics.pdf
+
+Source: junk_drawer/Graphene-based wearable biosensors for point-of-care diagnostics.pdf
+
+Category: [[research-paper]]
+
+## Summary
+Materials Today Bio 32 (2025) 101667 Contents lists available at ScienceDirect Materials Today Bio journal homepage: www.journals.elsevier.com/materials-today-bio Graphene-based wearable biosensors for point-of-care diagnostics: From surface functionalization to biomarker detection Jiawen Song a,1, Yang Luo b,1 , Zhuang Hao a,*, Menglong Qu a , Cong Huang c,** , Ziran Wang d ,
+
+## Full Content
+Materials Today Bio 32 (2025) 101667
+
+Contents lists available at ScienceDirect
+
+Materials Today Bio
+journal homepage: www.journals.elsevier.com/materials-today-bio
+
+Graphene-based wearable biosensors for point-of-care diagnostics: From
+surface functionalization to biomarker detection
+Jiawen Song a,1, Yang Luo b,1 , Zhuang Hao a,*, Menglong Qu a , Cong Huang c,** , Ziran Wang d ,
+Jun Yang e, Qingrou Liang e, Yuan Jia e,*** , Qiuming Song e,****, Qiuting Zhang a , Sida Luo a
+a
+
+School of Mechanical Engineering & Automation, Beihang University, Beijing, 100191, China
+State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, 110016, China
+State Key Laboratory of Robotics and Systems, School of Mechatronics Engineering, Harbin Institute of Technology, Harbin, 150001, China
+d
+Key Laboratory of High-efficiency and Clean Mechanical Manufacture of MOE, School of Mechanical Engineering, Shandong University, Jinan, 250061, China
+e
+Sino-German College of Intelligent Manufacturing, Shenzhen Technology University, Shenzhen, 518118, China
+b
+c
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Graphene
+Surface functionalization
+Graphene field-effect transistor
+Electrochemical sensor
+Biomarkers
+Integration and application
+
+The growing demand for non-invasive, real-time health monitoring has driven the development of graphenebased wearable biosensors for point-of-care (POC) diagnostics. This review explores the surface functionaliza­
+tion of graphene and its critical role in enhancing the performance of wearable biosensors for biomarker
+detection. Leveraging graphene’s exceptional electrical, mechanical, and biocompatible properties, we discuss
+how surface functionalization—such as covalent and non-covalent functionalization, biomolecular probes, and
+passivation layers—enable highly sensitive and selective detection of biomarkers in biofluids. We categorize
+biomarkers based on their physical properties and explore various wearable designs, including patches, contact
+lenses, microneedles, and textiles, highlighting their integration into POC devices. Furthermore, we examine the
+challenges and opportunities in translating graphene-based sensors from the lab to real-world applications,
+emphasizing the importance of biocompatibility and surface functionalization for improved performance. By
+bridging the gap between material science and biomedical engineering, this review provides a roadmap for the
+development of next-generation graphene biosensors that could revolutionize personalized medicine and pointof-care diagnostics.
+
+1. Introduction
+With the rapid development of society, the fast-paced daily life and
+enormous work pressure have led to an increase in people’s health
+problems. Diseases related to unhealthy lifestyles are becoming
+increasingly common among people of all ages, and the occurrence of
+major diseases such as cancer is also becoming more frequent [1,2]. The
+public’s awareness of sub-health hazards and attention to their daily
+health status are gradually increasing. More and more people are also
+choosing to undergo regular physical examinations at hospitals. Espe­
+cially for some chronic disease patients who experience physical
+
+discomfort, they will choose to seek medical attention immediately.
+However, the tedious examination process and long waiting times for
+test results hinder the timely prediction of some chronic disease emer­
+gencies. In addition, some patients may experience fainting or anxiety
+during the blood draw process, which not only reduces the reliability of
+the test samples, but also exacerbates patients’ fear of such procedures.
+Given this dilemma, the emergence of non-invasive point of care (POC)
+testing may pave a new way to address this issue [3]. It is of great sig­
+nificance to use wearable sensors to non-invasively detect biomarkers
+that can be used as indicators of health status assessment, so that pa­
+tients can understand their health status anytime and anywhere, and
+
+This article is part of a special issue entitled: Surface & Interface published in Materials Today Bio.
+* Corresponding authors.
+** Corresponding author.
+*** Corresponding authors.
+**** Corresponding author.
+E-mail addresses: zhuanghao@buaa.edu.cn (Z. Hao), huangc@hit.edu.cn (C. Huang), jiayuan@sztu.edu.cn (Y. Jia), songqiuming@sztu.edu.cn (Q. Song).
+1
+Jiawen Song and Yang Luo contributed equally to this work.
+https://doi.org/10.1016/j.mtbio.2025.101667
+Received 19 January 2025; Received in revised form 5 March 2025; Accepted 13 March 2025
+Available online 14 March 2025
+2590-0064/© 2025 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC license (http://creativecommons.org/licenses/bync/4.0/).
+
+Materials Today Bio 32 (2025) 101667
+
+J. Song et al.
+
+even predict the occurrence of certain major diseases. For example,
+detecting inflammatory markers related to nutritional metabolism can
+help assess the body’s inflammation and nutritional status, thereby
+aiding in adjusting dietary structure and irregular lifestyle to support
+health management [4–6].
+Therefore, the development of wearable sensors based on nano­
+materials has gained profound interest in the recent decades. Nano­
+materials serve as highly sensitive analytical probes in the realm of
+single-molecule detection, due to their exceptional physical and chem­
+ical properties, high adsorption and reactivity, and large surface-tovolume ratio, which are not present in bulk materials [7,8]. Among
+the diverse nanomaterials categorized by their dimensionality (0D, 1D,
+2D, and 3D), two-dimensional (2D) nanomaterials have garnered sig­
+nificant attention in the biosensor domain. The most widely studied 2D
+materials include graphene [9], transition metal dichalcogenides (TMD)
+[10], black phosphorus (BP) [11] and MXenes [12]. Moreover, while
+carbon nanotube [13] are fundamentally one-dimensional materials,
+their exceptional structure and properties grant them significant po­
+tential in applications associated with two-dimensional materials. Each
+of these materials possess unique properties that make them suitable for
+various sensing applications. The properties of each material are listed
+in Table 1. It is noteworthy to mention here that graphene exhibits
+extraordinary electrical properties and mechanical strength, making it
+an ideal candidate for wearable sensors that demand high sensitivity and
+durability under mechanical strain.
+Graphene is a zero-bandgap semiconductor material composed of
+carbon atoms arranged in a honeycomb structure, with sp2 hybridized
+orbitals forming a six-membered ring [29]. It possesses good properties,
+which are helpful for sensitive sensor detection, such as (1) Electrical
+properties: Carbon atoms form planar covalent bonds through sp2 hy­
+bridization, facilitating the unrestricted movement of electrons across a
+two-dimensional lattice with minimal scattering, thereby endowing
+graphene with exceptionally high electron mobility [30,31]. The hon­
+eycomb structure of graphene provides a continuous conjugated
+π-electron system, enabling electrons to move freely throughout the
+material, thereby offering graphene high conductivity [32]. Schedin. F,
+and colleagues [33] developed micron-sized sensors based on graphe­
+ne’s high electron mobility that can detect gas molecules adhering to or
+detaching from the graphene surface. (2) Mechanical flexibility: Gra­
+phene owes a Young’s modulus (E) of 1.0 TPa and an exceptional tensile
+strength of 130 GPa, allowing it to endure substantial external forces
+without undergoing plastic deformation [34,35]. (3) Surface function­
+alization: Due to its high specific surface area and abundant chemical
+active sites, graphene’s surface can interact with a variety of functional
+groups and molecules [36]. This unique characteristic allows surface
+functionalization via chemical or physical methods, enabling the mod­
+ulation of its electrical, chemical, mechanical, and biocompatible
+properties for use in medical environments to detect various biomarkers
+[37]. Thanks to this convenient condition, Pratima Labroo and col­
+leagues [38] designed flexible sensors with surface-modified graphene
+that effectively detected lactate. (4) Economically, since Professor Andre
+Geim’s [39] groundbreaking achievement of isolating monolayer gra­
+phene from graphite in 2004, this scientific milestone has spurred a
+series of technological innovations. With the advent of new technologies
+enabling large-scale production of graphene, commercialization has
+become more feasible, and the preparation of graphene-based materials
+
+has become more convenient [40]. As a result, the outstanding electrical
+properties, mechanical flexibility, surface functionalization ability, and
+economic viability of graphene have made it a material of great interest
+to scientists [41].
+Leveraging graphene’s exceptional electrical characteristics such as
+ultra-high carrier mobility, the sensitivity, low-frequency noise, and the
+resolution of graphene-based wearable sensors are improved. Moreover,
+graphene’s ultra-thin thickness aids in rapid responses to external
+changes, improving the responsiveness of wearable biosensors, thereby
+enabling them to detect biomarkers from various sources instantly and
+effectively [4,42].
+In this review article, we comprehensively summarize the latest
+developments and cutting-edge technologies of graphene based wear­
+able biosensors. Firstly, this article explores the influence of surface
+functionalization on the electrical properties and biocompatibility of
+graphene, and elaborates on the role of graphene in field-effect tran­
+sistors and electrochemical detection. Then, we categorize common
+biomarkers in the human body into five types based on their physical
+properties: 1) cytokines and other immune proteins, 2) glucose, 3)
+metabolic molecules, 4) hormones, 5) others, in order to better under­
+stand the types of biomarkers and how graphene wearable biosensors
+can be used to detect them. In addition, We also discuss the wearable
+design forms of wearable graphene biosensors (WGB) for different body
+fluids or excreta samples, covering various components, graphene
+integration modes, and the necessity of achieving real-time, efficient,
+and durable wearable biosensing applications, along with the execution
+mechanism that promptly delivers medication upon detecting diseaseinduced biomarker abnormalities. At the conclusion of this paper, we
+present an outlook on the future and development of graphene-based
+wearable biomedical sensors. Finally, this review does not aim to pro­
+vide an exhaustive coverage of all available literature but rather em­
+phasizes the key issues, opportunities, trends, and challenges in this
+field. We hope that this discussion will offer valuable guidance for future
+research on the application of graphene in flexible biomedical sensing
+technologies.
+2. From graphene material to devices
+During graphene synthesis, different methods directly impact its
+defect density, morphological structure, and electrochemical activity,
+which in turn influence its performance in biomarker detection. For
+instance, graphene prepared via exfoliation typically exhibits high
+defect density and uneven layer distribution, leading to reduced elec­
+trochemical activity [43]. While chemical vapor deposition (CVD) is of
+high quality with low defect density, its morphology is highly
+substrate-dependent, potentially reducing interfacial charge transfer
+efficiency [44]. Meanwhile, laser induced graphene (LIG) forms a
+porous three-dimensional structure, which enhances specific surface
+area and conductivity, yet its high defect density may compromise the
+long-term stability of sensors [45].
+In summary, the defects and limitations introduced by different
+synthesis methods significantly hinder the application of graphene in
+biosensing. To address this, surface functionalization has emerged as a
+key strategy for performance enhancement. For example, polymer
+coating (e.g., polyaniline) can effectively repair surface defects, thereby
+improving mechanical stability and long-term durability [46]. Thus,
+
+Table 1
+The properties of each material.
+Material
+graphene
+SWCNT
+TMD(WS2)
+Black phosphorus
+MXene(Ti3C2Tx)
+
+(
+)
+electron mobility cm2 V− 1 s− 1
+4
+
+5
+
+10 ∼ 2.5 × 10
+∼
+200
+1 × 105 ∼ 2.6 × 105
+106
+
+Young’s modulus (GPa)
+
+tensile strength (GPa)
+
+(
+specific surface area m2 /g)
+
+Ref
+
+1000
+1000
+278.3 ∼ 326.5
+44 ∼ 166
+72.4
+
+130
+300
+38.4 ∼ 55.6
+4.09 ∼ 8.42
+0.739
+
+∼ 2630
+1315
+∼ 145.9
+∼ 2630
+235.6
+
+[14,15]
+[16–18]
+[19–21]
+[22–25]
+[26–28]
+
+2
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+surface functionalization provides a promising approach for optimizing
+graphene-based biosensors, laying a solid foundation for their wide­
+spread application in the field of biosensing. Then this section will focus
+on methods for surface functionalization of graphene and explain how
+its electronic properties and derivatives are utilized in biomarker
+molecule detection.
+
+Exponential Enrichment) [58–60]. They can recognize specific targets,
+such as proteins, small molecules, and even viral particles, through their
+spatial structures, showing great potential in protein and small molecule
+detection [59,61,62]. Moreover, antibody probes play a crucial role in
+protein detection. Antibodies, due to their high affinity and specificity
+for specific antigens, are widely used in disease diagnosis, pathogen
+detection, and cancer biomarker identification [63]. Unlike nucleic acid
+probes, antibody probes rely on antigen-antibody interactions,
+providing unparalleled advantages in detecting proteins and macro­
+molecular complexes. According to the property of antibody probes,
+antibody-aptamer hybrid probes integrating nucleic acid aptamers have
+gained prominence in multiplex detection and advanced biological
+research recently [64].
+Differently, Enzyme probes refer to catalytic proteins synthesized by
+organisms [65]. They can accelerate chemical reactions without being
+consumed in the process. Additionally, enzyme probes show remarkable
+specificity, selectively interacting with specific substrates to create
+enzyme-substrate complexes [66]. This specificity enables enzyme sen­
+sors to detect specific analytes, enhancing their selectivity. Apart from
+nucleic acid aptamers, antibody probes, and enzyme probes, biomole­
+cular probes also encompass small molecule probes, peptide probes, and
+others, which are valuable for specialized applications.
+But not only are the type and selection of probes crucial in influ­
+encing their effectiveness in biosensor applications, the anchoring
+methods used for the probes are equally important. The anchoring of
+probes determines their stability, binding strength, and signal trans­
+mission efficiency on the sensor surface [67]. Anchoring approaches are
+typically categorized into covalent and non-covalent methods, each of­
+fering distinct pros and cons suited for particular applications. In the
+anchoring process of biomolecular probes, covalent anchoring forms
+stable covalent bonds between probe molecules and the graphene sur­
+face through chemical reactions [68]. Active sites are introduced
+through functionalization, using agents like aryl diazonium salts [69] or
+1-pyrenebutyric acid [70] to functionalize graphene, and immobilizing
+probes with EDC/NHS reactions. Covalent anchoring offers high binding
+strength and excellent stability, ideal for applications demanding
+extreme stability. Nonetheless, its key drawback lies in potentially dis­
+rupting graphene’s sp2 hybrid structure, impairing electronic properties,
+especially in high-sensitivity GFET applications [71]. By comparison,
+non-covalent anchoring is a favored approach in numerous sensors for
+preserving graphene’s structure and its ease of operation. This method
+stabilizes probe molecules on the graphene surface through
+non-covalent interactions (e.g., π–π stacking, electrostatic interactions,
+or hydrophobic interactions) without disrupting its electronic properties
+[72]. Notably, 1-pyrenebutyric acid succinimidyl ester (PBASE) is
+widely recognized as a prevalent non-covalent immobilization agent.
+PBASE binds to graphene via π–π interactions and reacts with probe
+molecule amines through succinimidyl ester groups, forming stable
+connections [73]. Its simplicity and efficiency make this method suitable
+for aptamer and protein immobilization, excelling in GFET sensors.
+Additionally, non-covalent anchoring includes using non-specific in­
+teractions between probe molecules and graphene or employing metal
+nanoparticles (e.g., gold, platinum) as intermediaries for immobilization
+[74]. Such methods improve the flexibility and versatility of
+non-covalent immobilization approaches.
+
+2.1. Surface functionalization
+Although graphene excels as an advanced material, in practical
+biosensor applications, these properties often require adjustment and
+optimization through surface functionalization to meet specific de­
+mands. For example, introducing specific modification materials can
+enable graphene to demonstrate properties like selective catalysis [47],
+biomolecular recognition [48], or environmental adaptability [49].
+Therefore, surface functionalization serves as a critical bridge for gra­
+phene to transition from "material properties" to "functional properties,"
+meeting practical application needs. This section classifies the objectives
+of surface functionalization into: 1) Biocompatibility and antibacterial
+properties, 2) Enhancing biomolecular recognition specificity, and 3)
+Surface passivation.
+2.1.1. Biocompatibility and antibacterial properties
+Grahene demonstrates immense potential in biosensor applications,
+particularly in wearable devices such as microneedles and tattoo-like
+sensors, necessitating the fulfillment of two critical demands: biocom­
+patibility and antimicrobial properties. Graphene inherently possesses
+antibacterial properties by damaging bacterial cell membranes with its
+sharp edges [50,51] and boosting reactive oxygen species (ROS) [52,
+53], thereby inhibiting bacterial metabolic functions. Nevertheless,
+graphene’s natural antimicrobial traits may conflict with its biocom­
+patibility, especially because physical damage mechanisms could impact
+biological tissues. To address this conflict, surface functionalization of­
+fers an effective solution. Surface functionalization can enhance gra­
+phene’s biocompatibility by introducing hydrophilic functional groups
+(e.g., carboxyl, hydroxyl) and biomolecules (e.g., polyethylene glycol,
+chitosan) [37,54], while its antibacterial properties can be improved by
+incorporating antibacterial agents (e.g., silver nanoparticles, antimi­
+crobial peptides) and optimizing charge distribution [55,56]. Conse­
+quently, the chemically modifiable surface of graphene allows a balance
+between its natural antimicrobial properties and biocompatibility,
+facilitating the optimization of its performance for practical applications
+through surface property tuning.
+2.1.2. Enhancing biomolecular recognition specificity
+In biosensors, enhancing biomolecular recognition specificity is
+crucial to ensuring high sensitivity. Although graphene has good mo­
+lecular recognition capabilities, its inherent surface properties still have
+certain limitations, making it challenging to precisely recognize specific
+biomolecules (e.g., DNA, proteins, or antibodies). To further enhance
+biomolecular recognition specificity, commonly used techniques include
+the selection and anchoring of biomolecular probe types, as well as
+molecular imprinting technology (MIP).
+2.1.2.1. Selection and anchoring of biomolecular probes. Biomolecular
+probes are molecules with high affinity and specificity for specific bio­
+molecules, typically used as recognition elements to detect or capture
+target molecules [57], thereby significantly enhancing the specificity
+and sensitivity of biosensors. Biomolecular probes come in various
+forms, including nucleic acids, proteins, peptides, and small molecules.
+This article highlights some commonly utilized and widely applicable
+probe types, such as nucleic acid aptamer probes, antibody probes, and
+enzyme probes. Nucleic acid aptamer probes are single-stranded DNA or
+RNA molecules that form specific three-dimensional structures and can
+be selected using SELEX (Systematic Evolution of Ligands by
+
+2.1.2.2. Molecular imprinting technology (MIP). Molecularly Imprinted
+Polymers (MIPs) are materials with specific molecular recognition ca­
+pabilities, achieved by forming specific cavities in a polymer matrix that
+match the shape and chemical properties of target molecules (template
+molecules) [75]. MIP preparation involves three main steps: binding
+template molecules to functional monomers (via covalent, non-covalent,
+or semi-covalent bonds), polymerizing with a cross-linker to form a rigid
+network, and removing the templates using chemical, solvent, or elec­
+trochemical methods. This process leaves behind cavities tailored for
+3
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+molecular recognition. MIPs are widely applied in biosensors. For
+example, in detecting the myocardial biomarker cardiac troponin T,
+MIPs are prepared with template molecules removed using acetic acid,
+resulting in a sensor with high sensitivity and selectivity [76]. Although
+MIPs and biomolecular probes share similar goals in molecular recog­
+nition, they differ significantly in recognition mechanisms, materials,
+and applicable scenarios. Biomolecular probes use natural molecules
+like DNA, RNA, or antibodies for highly specific target recognition,
+excelling in gene diagnostics and dynamic biological environments.
+MIPs, with artificially synthesized cavities, are cost-effective, adaptable,
+and reliable in extreme conditions [77].
+
+composite surface modifications as key optimization strategies.
+2.2. Detection mechanisms in graphene-based electrical biosensors
+Surface functionalization of graphene not only enhances its funda­
+mental properties but also imparts the ability to specifically bind with
+biomolecules, offering new avenues for achieving high sensitivity, high
+selectivity, and rapid response in various types of biosensors detecting
+biomarkers. This section will illustrate these features by discussing
+electrochemical sensors and field-effect transistor sensors, and explain
+the evaluation parameters for graphene-based sensors in practical
+scenarios.
+
+2.1.3. Surface passivation
+Passivating the exposed graphene surface is essential for improving
+sensor interference resistance, particularly in complex biological
+matrices like serum or plasma. Passivation minimizes background
+interference by blocking nonspecific interactions of non-target mole­
+cules with the graphene surface. Depending on the mechanism and
+application scenarios, blockers can be categorized into protein blockers,
+polymer blockers, small molecule blockers, and dielectric materials.
+Protein blockers such as bovine serum albumin (BSA) form a physical
+adsorption layer on the graphene surface, filling gaps between probe
+molecules and preventing binding of non-target proteins or other mol­
+ecules [78]. These blockers are particularly effective when interacting
+with biomolecules such as antibodies and proteins, as they efficiently
+shield against nonspecific protein adsorption in biological samples.
+Polymer blockers, such as polyethylene glycol (PEG), utilize their highly
+hydrophilic long-chain structures to create a barrier layer on graphene
+surfaces, blocking nonspecific molecules in complex samples [79]. They
+are ideal for extended detection scenarios or cases with low molecular
+weight interferents due to their hydrophilicity reducing sample adhe­
+sion. Small molecule blockers like glycine and ethanolamine react with
+active groups on the graphene surface (e.g., carboxyl) to block unbound
+active sites [80]. These blockers are simple to use and suitable for ex­
+periments requiring rapid passivation, especially when residual chemi­
+cally active groups remain after functionalization. Both protein and
+polymer blockers rely on physical adsorption, but protein blockers are
+better suited for complex biological samples, whereas polymer blockers
+excel in combating low molecular weight interferents. Small molecule
+blockers passivate graphene from chemical and physical isolation per­
+spectives; the former is ideal for quick experiments, while the latter is
+more suitable for devices requiring high stability. A rational selection of
+blockers can optimize sensor performance for different detection needs,
+effectively reducing nonspecific interference and improving detection
+sensitivity and selectivity.
+
+2.2.1. Graphene-based three-electrode electrochemical sensors
+The fundamental principle of electrochemical biosensors is redox
+reactions, where one chemical species gains electrons (reduced), and
+another loses electrons (oxidized) [83]. In the field of electrochemistry,
+the species gaining electrons is termed the reduced state, the species
+losing electrons is called the oxidized state, and the pair facilitating
+electron transfer is identified as a redox couple. The equilibrium be­
+tween the reduced and oxidized states is governed by the Nernst
+equation:
+Ecell = E0 +
+
+RT [red]
+ln
+zF
+[ox]
+
+(1)
+
+Here, R represents the universal gas constant, F stands for the Faraday
+constant, T denotes the temperature, z refers to the number of electrons
+transferred, E0 is the standard reduction potential, Ecell indicates the
+applied potential in the reaction, and [red] and [ox] are the concentra­
+tions of the reduced and oxidized states, respectively. The Nernst
+equation quantifies the relationship between electrode potential and the
+concentration of reactants, demonstrating a direct correlation between
+electrode potential and target molecule concentration (Fig. 1a). But at
+high analyte levels, the signal stops rising due to saturation.
+While electrochemical reactions serve as the fundamental mecha­
+nism for detecting target molecules, their implementation and signal
+acquisition depend on the support of an electrochemical circuit. An
+electrochemical circuit integrates reactions, electron transfer, and signal
+conversion into a cohesive system. A properly designed circuit allows
+the conversion of weak chemical reaction signals into readily measur­
+able electrical signals. Among these, the three-electrode system is the
+most common configuration, consisting of a working electrode, counter
+electrode, and reference electrode [84]. The working electrode (WE)
+directly interacts with the target molecules on its surface, converting
+chemical reaction signals into electrical signals; the counter electrode
+(CE) provides a pathway for reaction current, ensuring circuit closure;
+the reference electrode (RE) offers a stable reference potential, ensuring
+the accuracy of potential measurements. The three-electrode configu­
+ration achieves target molecule detection by distinctly dividing the roles
+of current conduction and potential measurement.
+Based on the graphene three-electrode electrochemical sensor sys­
+tem, numerous detection methods reflecting redox reaction processes
+have emerged. In voltammetry [88], a time-dependent voltage is
+applied, and the resulting current-voltage relationship is measured to
+produce a voltammogram. The voltammogram assists in analyte iden­
+tification, with distinct peak positions corresponding to each analyte,
+governed by the compounds’ formal potentials. In Cyclic voltammetry
+(CV), The dynamic interplay of redox reactions, depletion layer forma­
+tion, and diffusion typically results in a "duck-shaped" voltammogram.
+For a freely diffusing electroactive species A, as the potential is scanned
+positively to oxidize A (A → A+), the concentration of A near the elec­
+trode decreases. Initially, the current increases with voltage following
+the Nernst equation until a peak oxidative current is reached. As a
+depletion layer forms, diffusion of A to the electrode becomes the
+rate-limiting step, causing the current to decrease from its peak, aligning
+
+2.1.4. Long-term effectiveness, reproducibility, and large-scale production
+In addition to enhancing the performance of graphene, surface
+functionalization demonstrates significant potential in improving the
+long-term effectiveness, reproducibility, and scalability of graphenebased devices. However, it also presents numerous challenges. Specif­
+ically, graphene surface functionalization enhances its chemical stability
+and anti-fouling capability in complex environments by incorporating
+functional groups or polymer modifications, thereby improving longterm efficacy. Nevertheless, it may also introduce structural defects
+into the graphene lattice, leading to performance degradation [81].
+Regarding reproducibility, functionalization facilitates performance
+consistency and batch stability of graphene through controlled modifi­
+cation strategies. However, overly intricate procedures may hinder
+reproducibility. For large-scale production, functionalization expands
+the application scope of graphene and enables cost optimization through
+efficient, low-cost batch technologies. But challenges such as process
+intricacy, scalability issues, and quality assurance persist [82].
+To maximize the advantages of surface functionalization, it is
+essential to comprehensively consider functionalization approaches,
+standardize processing workflows, and explore multifunctional
+4
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+Fig. 1. The measurement of graphene-based three-electrode electrochemical sensor: (a) Process in a biosensing system. (b) Repeated scans of cyclic voltammetry.
+Reproduced with permissions from Ref. [83]. Copyright 2024 American Chemical Society. (c) The Randles circuit design. Adapted with permissions from Ref. [85].
+Copyright 2014 Elsevier. (d) The Randles equivalent circuit and its behavior at low and high frequencies. Adapted with permissions from Ref. [86]. Copyright 2022
+Wiley. (e) The Randles equivalent electrical circuit over a wide frequency range. Reproduced with permissions from Ref. [87]. Copyright 2023 American Chemical
+Society, under CC-BY-NC-ND 4.0.
+
+with the Cottrell equation:
+it =
+
+1
+nFAD2 C
+1 1
+
+π2 t2
+
+parameters by studying an electrochemical system’s response to varying
+frequency signals. In experiments, a frequency response analyzer and an
+electrochemical interface measure the system’s current response to an
+input sinusoidal signal E = E0 sin ωt applied to the sample. The response
+is analyzed relative to the generated current I = I0 sin(ωt + ϕ), where ϕ
+represents the phase shift. By fitting impedance data, an equivalent
+circuit model can be obtained, typically comprising resistors, capacitors,
+and constant phase elements. The Randles circuit is a frequently
+employed equivalent circuit model in biosensor applications. This model
+includes solution resistance (Rs), double-layer capacitance (Cdl), elec­
+tron transfer resistance (Ret), and Warburg impedance (W) in parallel
+(Fig. 1c). Using this model, system characteristics can be inferred,
+typically achieved through impedance spectrum visualization and
+fitting impedance data to the model (Fig. 1d).
+
+(2)
+
+Where n = number of electrons transferred in the oxidation (or reduc­
+tion) of the analyte, F = Faraday constant, A = active electrode area, D
+= diffusion coefficient of the analyte, C = bulk concentration of analyte,
+t = time. The voltammogram shape reflects a transition from electro­
+chemical to diffusion control. Reversing the scan direction results in a
+peak reductive current (Fig. 1b). In bioanalysis, voltammetry is exten­
+sively applied as it offers more information and higher selectivity than
+amperometry, facilitating compound differentiation. Besides, Electro­
+chemical impedance spectroscopy (EIS) identifies and evaluates model
+5
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+While traditional electrochemical sensors have enhanced sensitivity,
+the limitations of working electrode materials continue to challenge the
+detection of low-concentration analytes [89,90]. The incorporation of
+graphene, especially surface-functionalized graphene, provides a trans­
+formative solution for enhancing working electrode performance [91].
+Graphene-enhanced electrochemical sensor electrodes, through surface
+functionalization, introduce specific molecules or nanostructures,
+boosting target molecule binding and sensor selectivity and detection.
+Additionally, Graphene’s mechanical flexibility and biocompatibility,
+along with its surface-modified properties, render it ideal for wearable
+device electrodes, enabling real-time health monitoring and personal­
+ized medicine through three-electrode sensors.
+
+2.2.2. Graphene field-effect transistor (GFET)
+Unlike electrochemical sensors, field-effect transistor (FET) sensors
+respond directly to environmental changes by modulating carrier den­
+sity in the channel through electrostatic field effects [60,92]. This
+detection mechanism relies on the direct influence of the target on the
+channel’s electrical properties, bypassing electrochemical reactions and
+providing a notable advantage of high sensitivity [93]. Building on this
+principle, graphene field-effect transistors (GFETs) use graphene as the
+carrier channel, exhibiting exceptional performance such as rapid
+response, high sensitivity, and good specificity, marking a significant
+breakthrough in biosensor technology. The remarkable performance of
+GFETs originates from their unique structural design and operational
+
+Fig. 2. Operating principles: (a) Solid-gate GFETs (b) Solution-gate GFETs. Adapted with permissions from Ref. [95]. Copyright 2024 Wiley-VCH GmbH. (c) Insight
+into solution-gate GFETs operation. Reprinted with permissions from Ref. [96]. Copyright 2021 Springer Nature. (d).
+6
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+principles, which will be elaborated upon in the subsequent discussion.
+Typically, a GFET consists of a substrate, graphene active layer, gate
+dielectric, and source, drain, and gate electrodes. Based on the gate
+dielectric material, GFETs can be categorized into solid-gate and
+solution-gate types (Fig. 2a and b). Solid-gate GFETs operate similarly to
+conventional silicon-based field-effect transistors, using gate voltage to
+control carrier density within the channel [94,95]. Since biomarkers are
+usually present in liquid-phase environments, solution-gate GFETs are
+more advantageous for biosensing applications.
+The change in the relative position of DNA charges with respect to
+the charge plane of graphene before and after the G-quadruplex
+structure-switching results in a change in the hole density in graphene,
+thereby enhancing the p-type doping characteristics of GFET. Adapted
+with permissions from Ref. [102]. Copyright 2016 Elsevier.
+Unlike the solid-gate type, solution-gate GFETs use an electrolyte
+solution as the gate dielectric, replacing conventional insulating mate­
+rials [96]. The mechanism relies on ion dynamics within the electrolyte
+solution: applying voltage between the gate and source-drain electrodes
+leads to cation and anion formation of two electrochemical double
+layers (EDL) at the semiconductor/electrolyte and gate/electrolyte in­
+terfaces [93,97]. Gate voltage modulates the potential of the graphene
+channel through these double layers, producing carriers (electrons or
+holes) within the channel. Driven by the source-drain voltage (VSD),
+these carriers flow from the source to the drain, generating current [98].
+The process of charge regulation induces notable changes in the chan­
+nel’s electrical signals (Fig. 2c). Despite their high sensitivity, GFETs are
+prone to environmental noise and interference [99]. In complex bio­
+logical samples, nonspecific adsorption or multiple ions can impair
+signal accuracy, while graphene surface contamination, humidity, and
+temperature fluctuations may compromise detection stability and
+reproducibility. Functionalizing the surface can improve target mole­
+cule specificity, optimize graphene’s charge distribution, and bolster its
+stability and adaptability to environmental conditions [100].
+Then, the dynamic process of target molecule capture in graphene
+field-effect transistor sensors is illustrated through characteristic curves.
+The characteristic curves of GFET include transfer characteristics,
+output characteristics, and time response characteristics [71]. The
+transfer characteristic curve illustrates the effect of gate voltage (VG) on
+source-drain current (ISD), reflecting the trend of carrier density in the
+GFET channel changing with the applied electric field. This curve typi­
+cally shows a "V" shape, representing the transition of GFET from hole
+conduction (p-type) to electron conduction (n-type) under different
+voltages. At the Dirac point, also known as the charge neutrality point
+(CNP), electron and hole concentrations are equal, resulting in minimal
+current. This phenomenon indicates that there is no significant doping
+effect in the graphene channel at this point [101]. For example, The
+presence of Pb2+ ions causes G-rich DNA strands to form G-quadruplex
+structures, pulling negatively charged nucleotides closer to the graphene
+surface and increasing the hole density, which enhances p-type doping
+and alters the electrical conductivity. This change can be detected by
+measuring the drain current of a graphene field-effect transistor (GFET),
+enabling label-free Pb2+ ion detection [102] (Fig. 2d).
+By analyzing the transfer characteristic curve, the interaction be­
+tween target molecules and the sensor can be quantitatively analyzed
+through the Dirac point shift, thereby evaluating the sensitivity of the
+GFET. Moreover, the curve’s slope (transconductance) offers insights
+into carrier mobility, shedding light on the channel material’s electrical
+characteristics [103]. Another curve is output characteristic curve de­
+scribes the relationship between source-drain current (ISD) and
+source-drain voltage (VSD), showcasing the GFET channel’s conduc­
+tivity and resistance characteristics [104]. In biosensing applications,
+the output characteristic curve can evaluate whether the GFET exhibits
+linear response in liquid environments, ensuring the reliability of
+real-time monitoring, particularly for analyzing molecular concentra­
+tion changes in complex samples (e.g., serum, blood).
+The time response characteristic curve further supplements the
+
+dynamic performance evaluation of the sensor. This type of curve re­
+cords the variation of source-drain current over time under a fixed
+voltage, demonstrating the sensor’s real-time response capability to
+changes in target molecule concentration or environmental conditions
+[105]. Time response characteristics are vital for rapid detection sce­
+narios, including monitoring biomolecular binding/dissociation re­
+actions or detecting abrupt environmental changes. GFETs can produce
+significant current responses to the presence or concentration changes of
+target molecules within an extremely short time, making them partic­
+ularly suitable for scenarios such as disease biomarker detection and
+environmental monitoring.
+By comprehensively analyzing characteristic curves, the perfor­
+mance of GFETs is thoroughly evaluated. From the Dirac point shifts and
+transconductance changes in transfer characteristic curves, to conduc­
+tivity analysis in output characteristic curves, and dynamic detection in
+time response characteristics, these features reflect not only the elec­
+trical performance of GFETs but also their unique advantages in bio­
+sensing, providing a solid foundation for design optimization and
+practical applications.
+3. Biomarkers
+The human body contains various biomarkers, such as cytokines,
+immune proteins, glucose, uric acid, lactate, and hormones like dopa­
+mine and cortisol. These biomarkers are of great importance in the early
+diagnosis, therapeutic monitoring, and health management of diseases
+[106–108]. This review aims to explore the application of wearable
+graphene-based devices (WGB) in monitoring these biomarkers.
+3.1. Cytokines and other immune proteins
+Cytokine storm is an acute immune response, and early precise
+detection is crucial for preventing severe complications [109–112].
+Graphene-based biosensors, owing to their electronic transport proper­
+ties and the ease of surface probe modification, enable real-time,
+high-sensitivity monitoring of cytokine storms, compensating for the
+low sensitivity and slow response of traditional detection methods.
+Traditional cytokine detection methods include enzyme-linked
+immunosorbent assay (ELISA) [113] and bead-based immunoassays
+[110]. While these methods are mature and effective, they suffer from
+the drawbacks of complex sample labeling processes and long detection
+times [114]. Graphene, with its ability to be modified for sensitive
+detection of specific biomolecules, can be used to create graphene-based
+biosensors that enable rapid, continuous, and label-free detection of
+biomarkers, addressing the aforementioned issues. Laliberte [115] et al.
+functionalized graphene with PBASE linker molecules to attach nucleic
+acid aptamers specific to IL-6, enabling label-free detection. The
+biosensor demonstrated high sensitivity, with a detection range of 10
+pM–100 nM and a lower detection limit than traditional methods. This
+PBASE-based aptamer conjugation strategy is also applicable for the
+detection of MMP-9 enzyme molecules [116]. Regarding TNF-α cyto­
+kine, Hao [117] et al. employed a nucleic acid aptamer known as VR11
+to modify the graphene surface, enabling highly specific detection of
+TNF-α, with a detection limit (LOD) of 26 pM (pM). Wang [118] et al.
+improved TNF-α detection with a GFET using nucleic acid aptamers and
+a PEG nanosheet layer. The aptamers enabled selective binding, while
+PEG reduced nonspecific adsorption, enhancing accuracy and lowering
+the detection limit to 0.34 pM in undiluted artificial tears. In contrast,
+Huang [119] et al. proposed a graphene field-effect transistor (GFET)
+sensor integrated with a Janus membrane. The sensor surface was
+further functionalized with nucleic acid aptamers that specifically
+recognize TNF-α, enabling highly selective binding to the target mole­
+cules (Fig. 3a). The sensor utilizes the Janus membrane’s bilayer
+structure, combining hydrophobic and hydrophilic layers to automati­
+cally guide sweat to the sensor surface, while effectively filtering out
+skin debris and airborne particles, ensuring sample purity (Fig. 3b).
+7
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+Fig. 3. cytokines and glucose:(a) An illustration of the wearable patch showing the principal components. (b) An illustration of the Janus channel showing the
+principal polymer components. Adapted with permission from Ref. [119] Copyright 2023 Wiley-VCH GmbH. (c) An illustration of detecting CRP along with a
+schematic showing the reconstitution of AuNP probes, their delivery to the sensor, and detection of CRP. Adapted with permission from Ref. [123] Copyright 2023
+Springer Nature.
+
+Benefiting from the sample processing capability of the Janus membrane
+and the precise recognition by nucleic acid aptamers, this sensor
+exhibited exceptional sensitivity, with a detection limit of 0.31 pM. In
+addition, the sensor’s detection range spans from 0.5 pM to 500 pM,
+meeting the detection needs for low-concentration cytokines in sweat. In
+further studies, Wang [112] et al. proposed a single-layer graphene
+field-effect transistor (SGFET) sensor, transferring a single layer of gra­
+phene onto a soft and thin polymer substrate. Nucleic acid aptamers
+specific to TNF-α and IFN-γ functionalize graphene via π-π stacking, with
+Tween80 surfactant suppressing nonspecific adsorption. This design
+achieves highly specific detection, with detection limits of 2.75 pM for
+TNF-α and 2.89 pM for IFN-γ.
+Furthermore, during the inflammatory response, hepatocytes in the
+liver produce C-reactive protein (CRP) in response to cytokine stimu­
+lation. CRP is considered a crucial biomarker for various bacterial in­
+fections, and in the case of appendicitis, it serves as an indicator for
+postoperative complications [120,121]. The elevation of CRP levels also
+aids in the detection of conditions such as acute appendicitis, cardio­
+vascular diseases, and pediatric infections [122]. To effectively and
+accurately detect CRP protein, TU [123] et al. developed a
+graphene-based electrochemical sensor for CRP, integrating a micro­
+fluidic device to collect sweat and calibrate the sensor. On the func­
+tionalized graphene electrode, gold nanoparticles (AuNPs) are used to
+increase surface area and conductivity, and anti-CRP capture antibodies
+are fixed to enable specific binding of CRP molecules in sweat. When
+CRP binds to the antibodies on the electrode, the redox marker thionine
+generates an electrochemical signal proportional to the CRP concen­
+tration, thereby facilitating CRP detection and evaluating systemic
+
+inflammation levels (Fig. 3c). The sensor shows exceptional perfor­
+mance, with an ultra-low detection limit of 8 pM and good inter-batch
+reproducibility.
+3.2. Glucose
+Diabetes is a prevalent chronic disease characterized by elevated
+blood glucose levels. Regular blood glucose monitoring is one of the
+crucial methods for early intervention in diabetes progression [124].
+Recent studies indicate that other bodily fluids, such as sweat and
+interstitial fluid, can also provide valuable information for glucose
+testing and are easier to obtain than blood [125,126]. To measure
+glucose concentration, Ji [127] et al. developed a superconducting
+graphene film on a flexible substrate using laser engraving technology,
+eliminating the need for further metal deposition. The superconducting
+graphene film directly detects glucose, avoiding the complexity of
+traditional enzyme-based sensors (Fig. 4a). The dynamic detection range
+for glucose is 0.5–8 mM (mM), with a detection limit of 0.41 mM.
+However, to achieve more effective glucose detection, sensors usu­
+ally employ glucose oxidase (GOD) as the biomarker recognition
+element, and glucose detection is accomplished by monitoring the
+hydrogen peroxide (H2O2) produced during the GOD catalytic reaction.
+Glucose reacts with oxygen to generate H2O2, which undergoes redox
+reactions on the electrode, generating an electrical current. The
+magnitude of the current is proportional to the glucose concentration
+[128,129]. You [130] et al. successfully developed graphene on a fibroin
+substrate using chemical vapor deposition (CVD) technology. Glucose
+oxidase (GOx) was immobilized in the fibroin film, which not only
+8
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+Fig. 4. glucose:(a) Schematic illustration showing the laser engraving process on GF to fabricate the GF-based 3-electrode system. Reprints and permissions from
+Ref. [127]. Copyright 2023 Springer Nature Link. (b) Schematic illustrations depict the p-type doping process of graphene via H2O2 reduction and the glucose
+sensing process of a graphene FET embedded between a silk/Gox functionalized film and silk substrate. Reprinted with permission from Ref. [130]. Copyright 2014
+Elsevier. (c) An illustration of a GFET with AuNPs/RGO nanocomposite-functionalized gate and monolayer graphene channel, potential distribution changes before
+and after glucose addition, and transfer curves for different glucose concentrations. Adapted with permission from Ref. [131]. Copyright 2022, Elsevier B.V. (d) An
+illustration of an iontophoretic biosensing system for non-invasive glucose sensing, including the system schematic, front view, modification of GA@PB and
+CTS/GOx, and the glucose biosensing operation. Reprinted with permission from Ref. [133]. Copyright 2023 Royal Society of Chemistry.
+
+stabilized the enzyme structure but also maintained its activity (Fig. 4b).
+Glucose monitoring was accomplished by measuring the current change
+between the source and drain electrodes and the Dirac point shift of the
+transistor. Gao [131] et al. proposed a graphene electrochemical tran­
+sistor and integrated it with a glycerol-based gel electrolyte to detect
+glucose levels in human sweat. The glycerol gel electrolyte, a stable and
+moisture-retaining medium, replaces traditional liquid electrolytes and
+maintains functionality in dry skin conditions (Fig. 4c). This sensor has a
+low detection limit of 10 nM (nM) and spans a glucose concentration
+range from 10 nM to 25 mM. After 1000 bending cycles, the sensor
+showed stability with minimal performance loss, ensuring its stability
+during long-term wear. Apart from using gel-based extraction of glucose
+from sweat, Yao [132] et al. applied reverse electrodialysis to extract
+glucose from interstitial fluid (ISF) integrating the extraction unit with a
+detection module into a streamlined device. This dual-electrode sensor
+simplifies traditional glucose monitoring, detecting glucose as low as
+0.06 μM (μM) without multiple modules. Li [133] et al. leveraged the
+electrochemical properties of Prussian Blue (PB) combined with gra­
+phene aerogels. As a good electron transfer medium, PB catalyzes the
+reduction of hydrogen peroxide (H2O2) [134], releasing electrons and
+generating an electrical current signal, thereby enabling precise glucose
+concentration detection (Fig. 4d). The combination with graphene aer­
+ogels further enhanced the catalytic performance of PB, improved the
+conductivity and stability of the electrode, and significantly increased
+the efficiency of the electrochemical reaction.
+
+Unlike enzyme-based biosensors, Zhao [135] et al. introduced a
+flexible, enzyme-free glucose biosensor, developed by embedding cobalt
+oxide (Co3O4) nanoparticles in laser-induced graphene (LIG). The sensor
+demonstrated a sensitivity of 214 μA mM− 1 cm− 2 and could detect
+glucose concentrations from 1 μM to 9 mM, with a detection limit as low
+as 0.41 μM. Furthermore, Zhang [136] et al. adopted a novel catalyst by
+binding platinum (Pt) single atoms onto cobalt oxide (Co3O4) and
+reduced graphene oxide (rGO) nanocomposites. This configuration is
+designed to enhance glucose detection capabilities through the syner­
+gistic catalytic effect, showing a broad detection range (1–800 μM) and a
+low detection limit (0.76 μM).
+3.3. Metabolites - uric acid, lactate
+Metabolism is the process by which organisms convert external en­
+ergy and substances into the resources necessary for growth, reproduc­
+tion, and the maintenance of life activities, while also responding
+adaptively to environmental changes [137]. During this process, or­
+ganisms produce a range of metabolites, including intermediates and
+end products, which are direct manifestations of metabolic activity
+[138]. Among these, uric acid and lactate are two important metabo­
+lites, originating from purine metabolism and glycolysis, respectively.
+Uric acid is the end product of purine nucleotide degradation, generated
+in the liver and excreted via the kidneys, playing a role in purine waste
+elimination and antioxidation [139]. Lactate is one of the end products
+9
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+of glycolysis, particularly under anaerobic conditions, where it is con­
+verted from pyruvate and can be reused as glucose in the liver through
+the Cori cycle [140,141]. Abnormal metabolism of uric acid or lactate
+can result in conditions like gout and lactic acidosis, potentially causing
+adverse health effects. Therefore, the detection of these metabolites is of
+significant importance in clinical diagnosis and health monitoring.
+Enzyme-catalyzed and electrochemical methods are commonly used
+in the detection of uric acid with graphene-based sensors. Sharifuzza­
+man [142] et al. achieved highly sensitive detection of uric acid (UA) by
+immobilizing uricase on a laser-guided graphene-MXene (LGG-MXene)
+scaffold. Furthermore, the redox reaction of uric acid can generate a
+current signal on the electrode, enabling quantitative analysis of uric
+
+acid. Zhang [143] et al. optimized the sensor’s performance by
+electro-depositing gold clusters (Au) onto the surface of laser-induced
+graphene (LIG) to improve conductivity and cover surface defects, fol­
+lowed by coating with chitosan to enhance hydrophilicity. This modi­
+fication enabled the long-term monitoring of uric acid and pH levels in
+human sweat (Fig. 5a). This sensor uses differential pulse voltammetry
+(DPV) to apply short voltage pulses, amplifying the reaction signal be­
+tween uric acid molecules and the electrode surface, allowing for the
+precise detection of trace substances with a detection limit of 0.5 μM and
+outstanding stability. Similarly, based on differential voltammetry, Zhao
+[144] et al. embedded iron nanocatalysts (FeNCs) into LIG, utilizing
+their active surface sites to interact with target molecules such as uric
+
+Fig. 5. metabolites and hormones:(a) Schematic diagram of the C-Au-LIG fabrication process. Adapted with permission from Ref. [143]. Copyright 2022 American
+Chemical Society. (b) A wearable lactate biosensor developed by in-situ fabrication of a PB sensing membrane integrated rGO and urchin-like AuNPs on flexible
+SPCE. Adapted with permission from Ref. [145]. Copyright 2022 Elsevier. (c) Schematic illustration shows the lactate-NAD + reaction on the graphene channel,
+enzyme-functionalization effects on morphology (AFM), and changes in graphene’s electrical properties each functionalization step. Adapted with permission from
+Ref. [146]. Copyright 2024 Wiley-VCH GmbH. (d) Schematic illustration for Ti3C2Tx MXene-loaded/LBG-based cortisol biomarker detection. Reprinted with
+permission from Ref. [151]. Copyright 2021 Elsevier. (e) Schematic illustration showing the electrooxidation mechanism of dopamine and serotonin at the WGP and
+the fabrication process of the WS2/graphene heterostructure on a flexible PI electrode, along with a photograph of the WGP electrode. Reproduced with permission
+from Ref. [155]. Copyright 2021 Wiley-VCH Verlag GmbH.
+10
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+acid and tyrosine, promoting electron transfer and enhancing sensor
+performance. The detection limit of this sensor patch for uric acid is
+1.37 μM, making it suitable for monitoring physiological concentrations
+of uric acid in sweat.
+In lactate detection, different enzymes react with lactate to generate
+specific products, which can be quantified through electrochemical
+signals. Lactate oxidase (LOx) converts lactate into pyruvate and
+hydrogen peroxide. The hydrogen peroxide oxidation generates a cur­
+rent signal, which is efficiently processed by graphene, enabling highly
+sensitive detection. Asaduzzaman [142] et al. modified LOx onto the
+surface of laser-induced graphene (LIG) and integrated nanoporous
+carbon (H-NPC) into the flexible LIG framework to enhance electro­
+catalytic activity. To further enhance the graphene sensor’s performance
+in lactate detection, Jiang [145] et al. developed a lactate sensing film
+on a flexible substrate using a layer-by-layer spin-coating method,
+ensuring uniform Prussian blue (PB) and graphene oxide (GO) layers.
+GO was then electrochemically reduced to rGO, improving electrode
+conductivity. Urchin-like gold nanoparticles added abundant active sites
+for lactate oxidase, boosting sensor performance (Fig. 5b). The biosensor
+demonstrated a sensitivity of 40.6 μA/mM/cm2 in the 1–222 μM range,
+with a detection limit of 0.8 μM, and 1.9 μA/mM/cm2 sensitivity in a
+range up to 25 mM.
+In contrast to the lactate oxidase method, Hao and colleagues [146]
+designed a wearable biosensor patch called SIGN (Skin Interface Gra­
+phene Nanoelectronics). The patch uses 1-pyrene butyric acid succini­
+mide ester (PASE) to immobilize lactate dehydrogenase (LDH) and
+NAD+ onto the graphene surface. LDH catalyzes the reaction of lactate
+with NAD+, producing pyruvate, NADH, and H+. NADH alters the car­
+rier concentration in the graphene field-effect transistor (G-FET),
+creating a detectable current for precise lactate measurement. The patch
+incorporates a Janus membrane for sweat direction and impurity
+filtration, while a planar electrolyte-gated configuration boosts detec­
+tion speed and sensitivity. A TWEEN 80 passivation layer prevents
+contamination and interference from other sweat components (Fig. 5c).
+The SIGN patch detects lactate levels as low as 0.31 mM and maintains
+signal deviation below 6.86 % over a month of continuous use,
+demonstrating excellent long-term stability.
+
+sweat.
+In dopamine detection research, apart from solving concentration
+detection problems, dopamine detection is often interfered with by
+other molecules in biological fluids, such as ascorbic acid and uric acid
+[152]. Therefore, improving the stability of the sensor is also crucial. Xu
+[153] et al. used laser-scribed graphene (LSG) electrodes and modified
+the graphene with poly(3,4-ethylenedioxythiophene) (PEDOT). The
+electrochemical activity of PEDOT can activate dopamine molecules,
+making it easier for them to undergo oxidation at the working electrode
+of the electrochemical sensor [154], thereby enhancing the response
+signal to dopamine and effectively reducing interference from
+non-target molecules such as ascorbic acid (AA) and uric acid (UA). Kim
+[155] et al. used low-temperature plasma-enhanced chemical vapor
+deposition (PECVD) to fabricate tungsten disulfide (WS2)/graphene
+heterostructures. The WS2/graphene heterostructures selectively adsorb
+dopamine and serotonin primarily through π-π interactions and elec­
+trostatic interactions, promoting the adsorption of both neurotrans­
+mitter molecules on the electrode surface. Meanwhile, the
+heterostructure can differentiate their distinct oxidation potentials and
+oxidation products, aiding in the identification of these two substances.
+Furthermore, the wide bandgap of WS2, the chemical inertness of gra­
+phene, and the stability of the heterostructure effectively resist inter­
+ference, enhancing the accuracy and reliability of the detection (Fig. 5e).
+Consequently, it showed excellent selectivity for detecting dopamine
+and serotonin, with detection peaks of 188 mV for each. The detection
+limit of the sensor for dopamine is 1.24 μM, while for serotonin it is 0.25
+μM.
+3.5. Others biomarkers
+With the continuous advancement of technology, graphene-based
+wearable biosensors have shown great potential in the field of disease
+detection, particularly in the detection of respiratory pathogens, iden­
+tification of cancer biomarkers, and real-time monitoring of pH changes.
+Respiratory pathogens, such as the novel coronavirus, pose a sig­
+nificant threat to human health, making fast and accurate detection and
+diagnosis of these diseases essential. Li [156] et al. developed a wireless,
+battery-free bioelectronic system for rapid SARS-CoV-2 detection
+through exhaled breath and aerosols. The graphene surface was func­
+tionalized with PBASE, enabling covalent binding of specific antibodies,
+including the Spike S1 antibody for recognizing SARS-CoV-2 and others
+for variant detection (Fig. 6a). This design enhanced the sensor’s
+sensitivity and specificity for efficient virus detection. The system also
+integrates machine learning to analyze breathing patterns, biomarkers
+like temperature and breathing frequency, offering comprehensive
+diagnostic support and infection severity assessment.
+Circulating cell-free DNA (cfDNA), particularly circulating tumor
+DNA (ctDNA), holds significant potential for early cancer diagnosis,
+treatment monitoring, and prognostic evaluation [157,158]. Yang and
+colleagues [159] modified the graphene surface with tetrahedral DNA
+nanostructures (TDNs) and an NgAgo-guided DNA recognition system.
+TDNs serve as nanoscaffolds to anchor NgAgo and guide DNA, thereby
+enhancing molecular recognition capabilities. The NgAgo protein and
+guided DNA combine to specifically bind the target nucleic acid
+sequence. The target nucleic acids are then introduced into the detection
+region through reverse iontophoresis, with graphene detecting the
+electrochemical changes (Fig. 6b). This method achieves a detection
+limit as low as 0.3 fM (fM) without the need for amplification, demon­
+strating its strong capability in detecting biomarkers related to sepsis
+and inflammatory diseases.
+Unlike the previous probe types, Yang [160] et al. designed a pro­
+grammable CRISPR-Cas9 microneedle patch, which painlessly punc­
+tures the skin and enters the dermis, using reverse iontophoresis to
+enrich cfDNA on the surface of the microneedles. The microneedle
+surface is then modified with catalytically inactive Cas9 (dCas9) and
+single-guide RNA (sgRNA), which bind to cfDNA via the CRISPR-Cas9
+
+3.4. Hormones - dopamine, cortisol
+Hormones are signaling molecules that are transmitted to distant
+organs to regulate various physiological and behavioral functions [147].
+Hence, understanding the precise fluctuations in hormone levels within
+the human body is critical for better understanding their roles and the
+potential health impacts of their imbalance. Hormone levels are an
+important diagnostic indicator of potential disease states.
+Cortisol levels in physiological fluids vary widely, ranging from
+0.004 to 70 μM, depending on the fluid type. In sweat, normal cortisol
+concentrations are typically between 0.02 and 0.5 μM. Elevated cortisol
+caused by stress can impair the cardiovascular, immune, skeletal, and
+endocrine systems [148,149]. So Garg [150] et al. used molecularly
+imprinted polymer (MIP) technology to create binding sites specific to
+the cortisol molecular structure on laser-induced graphene (LIG) elec­
+trodes. This allows for continuous, real-time biomarker analysis without
+the need for complex modifications of biological probes. Nah [151] et al.
+integrated Ti3C2Tx MXene into laser-ablated graphene (LBG) structures,
+reconnecting any broken LBG sheets and improving conductivity.
+Furthermore, the MXene modification also enhanced hydrophilicity,
+which is crucial for interactions with biological fluids. The hydrophilic
+surface promotes liquid penetration and diffusion, allowing sweat to
+more efficiently contact the sensor’s detection area, thereby improving
+detection efficiency. Finally, cortisol antibodies were immobilized on
+the sensor surface via EDC/NHS coupling to ensure selective binding of
+cortisol molecules (Fig. 5d). The sensor achieved a detection limit of
+3.88 pmol (pM), with a linear range from 10 pmol to 100 nM, making it
+highly suitable for detecting physiological concentrations of cortisol in
+11
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+Fig. 6. others biomarkers:(a) An illustration shows the structure and components for monitoring exhaled viruses, respiration rate (RR) using the immune biosensor
+(IBS), and exhaled breath temperature (EBT) via the temperature biosensor (TBS). Reproduced with permissions from Ref. [156]. Copyright 2023 Springer Nature.
+(b) An illustration shows the biosensing interface on a microneedle with TDN anchoring graphene and NgAgo-gDNA, where target nucleic acids are selectively
+recognized, generating electrochemical signals based on Gaussian box theory. Reproduced with permissions from Ref. [159]. Copyright 2024 Springer Nature. (c)
+Schemic illustration showing the wearable patch fabrication, CRISPR microneedles with dCas9 enzyme and shRNA on graphene, and real-time cfDNA monitoring
+using reverse iontophoresis, where cfDNA recognition modulates the electrochemical properties of the graphene layer. Adapted with permissions from Ref. [160].
+Copyright 2022 Springer Nature. (d) An illustration shows patterned graphene paper electrodes for real-time sweat sensing, including motion and sweat pH
+monitoring, and the sensing mechanisms for both. Adapted with permissions from Ref. [163]. Copyright 2024 Elsevier.
+
+system. The electrochemical signal generated is converted into a
+detectable electrical signal, leveraging the excellent conductivity of
+graphene for high-sensitivity real-time cfDNA monitoring (Fig. 6c). This
+patch detects the binding of the Cas9/sgRNA complex to the target
+cfDNA sequence via electrochemical signals, with a detection limit as
+low as 1.1 fM. Moreover, the sensor demonstrates high specificity for
+detecting cfDNA biomarkers associated with Epstein-Barr virus (EBV),
+sepsis, and kidney transplant rejection.
+Physiological processes like dehydration, muscle hypoxia, and
+wound healing are strongly correlated with pH changes [161,162]. pH
+sensors detect electrochemical potential shifts caused by protonation or
+deprotonation of conductive polymers to respond to pH fluctuations.
+These changes are manifested in the sensor’s voltage output: proton­
+ation increases the charge carrier count, improving conductivity, while
+deprotonation reduces charge carrier density and lowers conductivity.
+To improve pH sensor performance, researchers have introduced several
+innovative designs. Sharifuzzaman [142] et al. functionalized
+laser-guided graphene (LGG) with MXene, creating a highly conductive
+and flexible composite scaffold through covalent C-O-Ti crosslinking,
+and electro-polymerized polyaniline (PANI) for pH measurements. This
+sensor shows a linear response within the pH range of 4–9, with a
+sensitivity of − 57.03 mV/pH. Additionally, Wang [163] et al. employed
+a polyaniline/polypyrrole (PANI/PPY) material combination to measure
+sweat pH changes through its electrochemical response. They used a
+bacterial cellulose (BC) paper structure to concentrate hydrogen ions,
+thereby improving the sensor’s sensitivity to pH variations. The sensor
+shows a sensitivity of 68 mV/pH, which is more than 30 % higher than
+conventional sensors (Fig. 6d).
+
+4. Integration and practical applications
+In human body fluids, sweat, tears, and interstitial fluid are ideal
+candidates for non-invasive monitoring owing to their direct accessi­
+bility. To optimize the extraction of physiological fluids and enhance
+sensor sensitivity, graphene, renowned for its superior mechanical
+properties, is integrated with flexible and deformable substrates. This
+approach facilitates the development of WGB in various wearable forms,
+including patches, contact lenses, microneedles, and textiles, enabling
+seamless adaptation to body surfaces with complex curvatures. Those
+design not only simplifies physiological fluid sampling but also ensures
+comfort during wear, effectively fulfilling the key demands of noninvasive monitoring. Additionally, by integrating diverse modules,
+WGB can perform long-term, real-time, and effective biomarker moni­
+toring in various environments [164–166]. Simultaneously, by inte­
+grating actuators, WGB can intervene in and alleviate certain diseases.
+Therefore, exploring how diverse wearable forms and modular designs
+of WGB can be combined will help adapt more flexibly to various
+application scenarios, comprehensively supporting precise physiological
+fluid monitoring and effective disease intervention.
+4.1. Patch
+In biological detection, a patch is a thin device integrating sensors,
+electronics, and functional materials, designed to adhere to the skin for
+monitoring physiological signals and body fluids. Polyimide (PI) offers
+excellent flexibility and mechanical robustness, serving as electrode
+material, insulation, or structural support in flexible biosensor fabrica­
+tion [167]. By inducing polyimide (PI) with lasers to generate graphene
+12
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+(LIG), a nanoporous structure is formed, greatly enhancing surface area,
+adsorption capacity, and the diffusion of gases and liquids, while
+simplifying the preparation process [168–170]. These good properties
+make PI widely applicable in graphene biosensors patch (GBP).
+During physical activity, efficiently extracting sweat and accurately
+
+detecting biomarkers in complex environments is a challenge. To
+address this, Yang [171] et al. designed a multi-module graphene bio­
+sensing patch (MGBP) capable of effectively extracting sweat and
+detecting biomarkers such as uric acid and tyrosine. The patch uses CO2
+laser technology to fabricate graphene electrodes, temperature and
+
+Fig. 7. the wearable form of patch:(a) Schematic illustration of a laser-engraved sensor with a microfluidic module and LEG-based sensors for sweat UA and Tyr
+detection, sweat rate estimation, and monitoring temperature. Reproduced with permissions from Ref. [171]. Copyright 2020 Springer Nature. (b) Schematic di­
+agram of a glucose sensor developed based on PDMS modified by PEG for continuous analysis of swear. Reproduced with permissions from Ref. [172]. Copyright
+2023 Wiley-VCH GmbH. (c) Schematic illustration shows the design, assembly, and application of microfluidic patch for sweat biosensing. Reproduced with per­
+missions from Ref. [173]. Copyright 2022, Springer Nature.
+13
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+strain sensors on PI films, and microfluidic channels with reservoirs on
+medical adhesive, improving sweat sampling efficiency and accuracy.
+MGBP encapsulated with PI and medical adhesives uses calibrated
+temperature and strain sensors while microfluidics minimizes sweat
+impurities, boosting real-time and continuous detection (Fig. 7a). The
+patch accurately detects uric acid and tyrosine concentrations in sweat
+without modifying the LIG working electrode surface, showing high
+correlation with high-performance liquid chromatography (HPLC) and
+commercial colorimetric kits. Lorestani [172] et al. enhanced the hy­
+drophilicity of polydimethylsiloxane (PDMS) by PEG modification,
+facilitating sweat collection and transport. Laser-patterned and reduced
+LIG electrodes enable a stable and sensitive platform for non-enzymatic
+glucose and dual pH sensing. Additionally, by integrating a flexible
+temperature sensor based on LIG, the patch can calibrate glucose
+detection through simultaneous temperature and pH measurements.
+With an integrated microfluidic network, the device demonstrates po­
+tential for convenient, accurate, and continuous sweat analysis under
+various environmental conditions (Fig. 7b). Furthermore, Wang [173]
+et al. developed an MGBP with an ion-conducted sweat induction
+module (IP) for detecting metabolites and nutrients in sweat. A micro­
+current transmitted to the gel drives carbachol ions into the skin, trig­
+gering sweat gland activation for sweat secretion. Sweat flows through a
+microfluidic module over an LIG electrode with molecularly imprinted
+polymers and redox nanoparticles for analysis, while a temperature
+sensor calibrates the system (Fig. 7c). Through this process, the MGBP
+can monitor amino acid intake and levels in real-time during exercise
+and assess the risk of metabolic syndrome.
+Although PI materials are commonly used as substrate materials,
+many other polymer materials can also serve as substrates and exhibit
+different effects. For example, materials such as polyethylene tere­
+phthalate (PET) and PDMS offer excellent mechanical flexibility and
+biocompatibility. Wang [174] et al. designed a renewable graphene
+field-effect transistor patch (GFETP), where the Nafion membrane
+effectively suppresses nonspecific adsorption, reducing interference
+with aptamer-target molecule specific binding. The Nafion membrane is
+also reusable; dissolving it removes attached target and probe mole­
+cules, allowing the GFET patch to be regenerated and reused. The
+rational structural design of the GFET patch allows it to endure multiple
+folding cycles without significant mechanical damage. Huang [175]
+et al. introduced a PET-based GFETP for L-cysteine detection, immobi­
+lizing the high-affinity receptor PEMA on the graphene surface, enabling
+precise measurement of L-cysteine concentrations in tears through
+output characteristic curves. Moreover, in the field of saliva detection,
+Mannoor [176] et al. proposed an innovative approach by printing
+graphene onto water-soluble silk substrates and utilizing the dissolution
+of the silk matrix to achieve efficient transfer and intimate integration of
+GBP on biomaterial surfaces such as tooth enamel.
+
+effectively and improving energy transfer efficiency for power supply
+[183–185]. The combination of these technologies ensures that contact
+lenses not only provide excellent wearing comfort but also efficiently
+monitor biosignals.
+Kim [186] et al. introduced a contact lens designed for wireless
+glucose monitoring. This contact lens integrates graphene/silver nano­
+wire (G/AgNW) hybrid electrodes, an Ecoflex silicone elastomer layer,
+and a silver nanowire antenna on a Parylene substrate, forming a
+sandwich-like structure. For glucose detection, a field-effect transistor
+with graphene-AgNW electrodes and glucose oxidase (GOD) on the
+graphene channel catalyzes glucose oxidation. The reaction produces
+gluconic acid and hydrogen peroxide, increasing charge carriers and
+drain current, proportional to glucose concentration (Fig. 8a). Resis­
+tance changes also affect the sensor’s parameter at a specific resonance
+frequency. The electrodes and antenna are designed as an RLC (resis­
+tor-inductor-capacitor) circuit, enabling glucose monitoring via radio
+frequency detection. External antennas enable wireless reading of
+reflection changes, allowing glucose level monitoring (Fig. 8b). The
+entire system operates without an external power source, offering a
+non-invasive, real-time solution for monitoring ocular health, making
+glucose monitoring more convenient and comfortable. Park [187] et al.
+designed a Parylene-based smart contact lens integrating a glucose
+sensor, display, and antenna. The contact lens is powered by wireless RF
+signals, converting received AC signals into DC power via a rectifier
+circuit to power the glucose sensor and LED display pixels. The glucose
+sensor’s graphene channel is modified with glucose oxidase (GOD) and
+catalase (CAT), enabling selective glucose detection in tears and
+generating resistance changes, which are directly displayed via LED
+feedback (Fig. 8c). Moreover, the design ensures comfort and visual
+clarity, validated for reliability and safety in live rabbit studies. To
+achieve more precise measurement of low-concentration biomarkers, Ku
+[188] et al. designed a GFET-contact lens (GFETCL) for real-time cortisol
+level detection in tears. The lens incorporates a cortisol sensor, AgN­
+F/AgNW composite antenna, and an NFC chip. The GFETCL detects
+cortisol in tears as monoclonal antibodies bind cortisol, altering the
+graphene channel’s conductivity and modulating the drain current.
+Signal changes are digitized, read by an NFC chip, and wirelessly sent to
+a smartphone through a transparent antenna (Fig. 9a). Additionally, the
+system uses passive components like capacitors and resistors for stability
+and accuracy, and rigid islands protecting sensitive electronics and
+ensuring durability. In this context, the sensor can detect extremely low
+cortisol concentrations in tears, with a detection limit as low as 10
+pg/mL, which is significantly below the typical range of 1–40 ng/mL
+found in human tears.
+Jang [189] et al. designed an integrated system for real-time remote
+detection and treatment of chronic ocular surface inflammation (OSI).
+The system comprises a soft smart contact lens for diagnosis and a heat
+patch attached to the eyelid for thermotherapy to alleviate OSI. Re­
+searchers integrated a GFET into the Elastofilcon A-based smart contact
+lens, with electrodes made of ultra-long metal nanofibers (AgNF) to
+connect circuit components while maintaining the lens’s transparency
+and flexibility. Pyrrole linkers anchored F(ab’)2 fragments onto the
+graphene surface, facilitating the quantitative measurement of MMP-9
+concentration in tears by analyzing GFET drain current changes.
+Detection data is wirelessly sent to a smartphone through an NFC chip. If
+OSI is detected, the smartphone app transmits commands to the heat
+patch. The Bluetooth module in the heat patch receives the command
+and controls the heating film’s temperature via a microcontroller unit
+(MCU). This process promotes meibum secretion from the meibomian
+glands of the upper and lower eyelids, stabilizes the tear film, and al­
+leviates OSI symptoms (Fig. 9b).
+
+4.2. Contact lens
+Biomarkers in tears demonstrate significant diagnostic potential in
+the prediction, prevention, and personalized treatment of ocular and
+systemic diseases, providing critical support for precision medicine
+[177–179]. In this context, contact lenses, as integrated devices adhered
+to the eyeball, require materials with biocompatibility, mechanical
+flexibility, wettability, and transparency to ensure wearer comfort,
+avoid ocular allergies, and maintain good visual performance. Materials
+such as Parylene [180,181] and PET [182] are ideal choices for inte­
+grating biosensors into contact lenses due to their excellent biocom­
+patibility, mechanical flexibility, and high transparency. Such materials
+enable precise conformation to the eyeball’s curvature, improving
+comfort while ensuring the stable performance of sensor components.
+Regarding sensor circuitry, innovative spiral electrode designs maintain
+conductive integrity during lens movement, improving reliability and
+durability. Meanwhile, the spiral wiring enhances coupling efficiency
+with external magnetic fields, capturing magnetic field changes more
+
+4.3. Microneedles (MN)
+Differing from patches and contact lenses that adhere to the body
+surface to extract biofluids, microneedles create micron-sized channels
+14
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+Fig. 8. the wearable form of contact lens: (a) Schematic illustration shows a contact lens sensor integrating glucose and pressure sensors. (b) Schematic illustration
+shows a contact lens sensor with its detection mechanism and wireless sensing circuit. Reproduced with permissions from Ref. [186]. Copyright 2017 Springer
+Nature. (c) Schematic illustration shows a smart contact lens circuit and operation, where wireless power activates LED and glucose sensor, turning off the LED at
+high glucose levels. Reproduced with permissions from Ref. [187]. Copyright 2018 AAAS.
+
+15
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+Fig. 9. the wearable form of contact lens: (a) Schematic illustration shows the C-Mab immobilization process, design and components of a smart contact with a
+cortisol sensor, and its cortisol measurement mechanism. Reproduced with permissions from Ref. [188]. Copyright 2020 AAAS. (b) Schematic illustrations of the
+integrated system of the diagnostic and therapeutic devices for the real-time monitoring and therapy of chronic OSI. Reproduced with permissions from Ref. [189].
+Copyright 2021 AAAS.
+
+on the skin, allowing sensors to bypass the stratum corneum, improve
+transdermal penetration efficiency, and detect biomarkers at specific
+depths [190]. Compared to traditional injections, microneedles cause
+less skin damage and minimal pain. These features render microneedles
+(MN) ideal for detecting biomarkers in interstitial fluid.
+Jin [191] et al. developed a minimally invasive electrode-based
+biosensor, Pt/rGO microneedle (MN), for detecting H2O2 biomarkers
+in interstitial fluid, indicative of oxidative stress. During the preparation
+process, Laser processing was employed to fabricate conductive micro­
+needle arrays on stainless steel substrates, followed by layer-by-layer
+self-assembly and chemical reduction to form Pt/rGO nanohybrids on
+the microneedle surface. Additionally, a polyvinylpyrrolidone (PVP)
+
+coating, dissolvable in interstitial fluid, protects the Pt/rGO nano­
+structure from damage during skin insertion (Fig. 10a). In pigskin and in
+vivo mouse tests, Pt/rGO exposed to interstitial fluid catalyzed the
+reduction of H2O2. Using cyclic voltammetry, results showed significant
+current signals in the presence of H2O2. Wang [192] et al. developed a
+wearable graphene-based electrochemical biosensor for detecting ke­
+tones and glucose. Ceramic microneedles fabricated via 3D printing
+guide interstitial fluid to graphene electrodes for enzymatic
+reaction-based detection.
+Unlike rigid materials, organic polymers used as microneedle sub­
+strate materials reduce device weight due to their low density and me­
+chanical flexibility, improving adhesion to the human body surface and
+16
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+Fig. 10. The wearable form of mirconeedles: (a) Illustration of a transdermal H2O2 biosensor with Pt/rGO-coated microneedles, protected by a dissolvable PVP
+layer, enabling painless skin penetration and in vivo H2O2 sensing. Reproduced with permissions from Ref. [191]. Copyright 2019 Wiley-VCH GmbH. (b) Schematic
+illustration presents the MeHA PP-GO HMN electrode as a flexible working electrode in a three-electrode sensor, with its synthesis, material interactions, and
+incorporation of PEDOT:PSS and GO in a MeHA hydrogel network. Adapted with permissions from Ref. [193], under a Creative Commons CC BY 4.0 License. (c)
+Schematic illustration shows a microneedle system, including its schematic, photographs of the microneedle on skin, a PS microneedle sensor with graphene-PB
+electrodes, an electroosmotic micropump, and its operating principle. Adapted with permissions from Ref. [194]. Copyright 2024 Springer Nature.
+
+enhancing user comfort. Yang [160] et al. introduced a
+CRISPR-Cas9-based programmable microneedle patch (MNP) for
+long-term, real-time cfDNA monitoring. The microneedle substrate uses
+plasma-treated PDMS to ensure biocompatibility. Among organic poly­
+mers, hydrogels’ porous structure allows efficient absorption and
+retention of biofluids, enabling more effective biomarker detection.
+Shirzadi [193] et al. developed a hydrogel microneedle patch (HMNP)
+composed
+of
+PEDOT:PSS.
+Using
+polyethylene
+glycol
+methacrylate-modified hyaluronic acid (MeHA) as the hydrogel frame­
+work, the highly conductive polymer PEDOT:PSS was crosslinked with
+graphene oxide (GO) to form a stable hydrogel network. Meanwhile, GO
+sheets are effectively dispersed in the hydrogel network, avoiding stress
+concentration and enhancing electrode mechanical properties. In vivo
+experiments showed that HMN electrodes penetrate approximately 80
+μm into rat skin. Ferro/ferricyanide in ISF was employed as a model
+biomarker to assess HMNP electrode performance (Fig. 10b). Lastly,
+microneedles are not limited to singular detection tools, Liu [194] et al.
+developed a multifunctional integrated microneedle patch for
+closed-loop diabetes management. PS-based microneedles with
+graphene-glucose oxidase (GOD) composite electrodes detect glucose in
+interstitial fluid collected by the microneedle array. Upon detecting
+glucose levels above a set threshold, a micropump is triggered to release
+insulin from a reservoir, delivering it via hollow microneedles to the
+dermis for systemic circulation and blood glucose reduction. Simulta­
+neously, the integrated circuit board automatically adjusts insulin
+dosage based on the sensor-detected glucose concentration, maintaining
+blood glucose within a normal range (Fig. 10c).
+
+4.4. Textiles
+Traditional 2D planar or curved shapes (e.g., patches, contact lenses,
+and microneedles) have certain limitations, such as fixed shapes and
+poor adaptability, which cannot fully meet comfort requirements.
+Therefore, graphene composite fibers, as a 1D material, can be woven
+into textiles of various shapes and sizes, offering high flexibility, com­
+fort, and breathability to meet diverse needs and provide broader
+application scenarios [195–197]. Yao and colleagues [132] innovatively
+designed a graphene textile biosensor (GTB) capable of detecting
+glucose in interstitial fluid. This sensor utilizes electrochemical fibers
+made of graphene and carbon nanotubes (CNTs), demonstrating
+outstanding conductivity, mechanical strength, and catalytic perfor­
+mance [198–200]. During detection, directional ion electrophoresis is
+first used to extract interstitial fluid, followed by amperometry with the
+two electrodes to measure glucose concentration in the fluid. Chu [201]
+et al. designed a GTB for cytokine detection. The sensor’s electro­
+chemical fibers are functionalized with gold nanoparticles on CNT/G
+fibers, with high-affinity IL-6 aptamers immobilized via Au-S bonding
+on the gold-modified CNT/G fibers (Fig. 11a). This electrochemical
+fabric achieves a detection limit of 280 fg/mL for IL-6 monitoring. This
+flexible, breathable fabric adapts to various body parts and can monitor
+different biomarkers by substituting aptamers, making it a versatile
+sweat analysis platform. Departing from CNT/G fibers, Napier [202]
+et al. developed a multifunctional GTB for lactate detection using
+reduced graphene oxide (rGO) fibers. The GTB yarn is woven from four
+fibers: 1) a PtNP-rGO fiber coated with Nafion, LOx enzyme, and PU
+membranes as the working electrode for lactate detection; 2) a
+PtNP-rGO fiber modified with platinum nanoparticles as the counter
+electrode; 3) an rGO fiber coated with Ag/AgCl film as the reference
+17
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+Fig. 11. The wearable form of textile: (a) An illustration shows sensing fabric made from woven functional fibers and its application as wearable sensors in various
+forms. Adapted with permissions from Ref. [201]. Copyright 2023 Elsevier. (b) the multi-sensing lactate braid comprises four fibers: three for lactate sensing
+(reference, counter, and enzymatic electrodes) and one for pH calibration with a polymeric ISE membrane on a ferrocene-functionalized rGO fiber. Adapted with
+permissions from Ref. [202]. Copyright 2024 Springer Nature. (c) Schematic graph shows the process of creating fLEG on fabric via transfer printing and laser
+engraving, its PI-based principle, a cross-section of fLEG on fabric, and a smart wristband for TNF-α sweat detection. Reprinted with permissions from Ref. [203].
+under a Creative Commons CC BY 4.0.
+
+electrode; and 4) an rGO fiber coated with pH-sensitive polymer film as a
+pH sensor (Fig. 11b). During detection, sweat penetrates the yarn, and
+the lactate sensor and pH sensor generate electrical signals corre­
+sponding to lactate concentration and pH value. Collected electrical
+signals are processed by a signal circuit and transmitted wirelessly
+through Bluetooth or similar technologies to smartphones or other
+devices.
+Unlike using one-dimensional materials to address the limitations of
+two-dimensional planes, Ma [203] et al. proposed a laser engraving
+method for fabricating graphene on textiles, applicable to various fabric
+types. First, the PI precursor was transferred onto the textile surface
+through hot pressing to form a patterned PI layer. Next, a CO2 laser was
+used to engrave the PI layer, converting it into graphene and forming
+graphene patterns. Finally, the PI layer residues and impurities gener­
+ated during laser engraving were removed using a solvent wash, and the
+sample was dried to complete patterned graphene fabrication (Fig. 11c).
+Following this, TNF-α aptamers were immobilized on the
+laser-patterned graphene surface, creating a smart wristband with an
+integrated TNF-α immunosensor. The detection limit for TNF-α was
+1.155 pg/mL, with a linear range of 10–1000 pg/mL. Ma [204] et al.
+successfully fabricated highly compatible graphene nanofilms through
+
+simple oil-water self-assembly, with surfaces decorated by electroactive
+Prussian blue (PB) and photoresponsive quantum dots (QDs). On tex­
+tiles, the hydrogen peroxide sensor exhibited a sensitivity of 53.8 μA
+mM− 1 cm− 2 and a detection limit of 1.49 μM, while the glucose
+biosensor showed a sensitivity of 37.24 μA mM− 1 cm− 2 and a detection
+limit of 11.2 μM. Alternatively, Salahandish [205] et al. utilized the
+properties of conductive inks to develop a strip-shaped immunosensor
+by mixing graphene nanosheets with PEDOT:PSS conductive polymer
+ink, embedding it into a screen-printed carbon matrix to enable auto­
+mated sensing without complex electrode modification. The immuno­
+sensor exhibited a detection limit of 281.7 fg/mL and a sensitivity of
+322.6 Ω mL/pg/mm2, with good linearity in clinically relevant con­
+centration ranges.
+5. Conclusion and outlook
+Combining the composite properties of graphene with other mate­
+rials and advanced biosensor detection technologies, wearable graphene
+biosensors have brought groundbreaking advancements to the field of
+wearable health monitoring devices. Particularly in real-time tracking of
+biomarkers in sweat, tears, saliva and interstitial fluid, this technology
+18
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+has introduced numerous innovative and efficient design concepts.
+Leveraging graphene’s exceptional material properties, such as zero
+bandgap, high electron mobility, low noise characteristics, and surface
+functionalization, electrochemical and field-effect transistor sensors can
+detect extremely low concentrations, significantly enhancing sensitivity
+and specificity. Among these, graphene surface functionalization has
+significantly improved the performance of sensors fabricated from it. By
+introducing antibacterial molecules or functional groups, functionalized
+graphene enhances biocompatibility while simultaneously improving
+antibacterial properties. Introducing specific molecular probes onto
+graphene surfaces enables specific binding with target biomarkers,
+enhancing the sensitivity and selectivity of sensors. Passivation of gra­
+phene surfaces minimizes nonspecific adsorption, enhancing sensor
+stability and reusability. These advancements have endowed graphene
+sensors with higher performance and reliability in health monitoring.
+Different wearable forms of graphene sensors, with their superior me­
+chanical flexibility and biocompatibility, can snugly fit onto skin and
+eyes, ensuring durability and stability in health monitoring even during
+frequent movements. Furthermore, integrating with various functional
+modules has expanded the applicable detection environments for these
+graphene sensors and enabled remote real-time monitoring, further
+enhancing the intelligence of health management. These devices have
+already demonstrated great potential in non-invasive detection of dis­
+eases such as inflammation, diabetes, gout, and heart diseases.
+Meanwhile, it is noteworthy that graphene possesses not only
+excellent electrical signals but also outstanding optical and thermal
+properties. Graphene’s extensive light absorption from ultraviolet to
+infrared wavelengths renders it ideal for wide-spectrum optical sensing
+elements [206]. This material can monitor subtle changes in biomarkers
+through variations in light absorption or scattering. Combined with
+surface-enhanced Raman scattering (SERS) or fiber-optic sensing tech­
+nology, graphene enhances sensitivity for detecting low-concentration
+molecules [207]. Furthermore, the integration of graphene’s electrical
+and optical sensors supports multi-biomarker detection, enhancing
+overall sensor performance. Beside its electrical and optical capabilities,
+graphene boasts exceptional thermal conductivity, with theoretical
+single-layer values of 3000–5000 W/m⋅K, vastly surpassing metals like
+copper (~400 W/m⋅K) [208]. This exceptional property arises from its
+unique two-dimensional lattice structure and strong carbon-carbon
+bonds, enabling rapid phonon-mediated heat transfer [209]. High
+thermal conductivity makes graphene an ideal heat dissipation material,
+capable of rapidly and evenly distributing heat to prevent localized
+overheating. Consequently, graphene’s thermal properties enable mul­
+tiple sensor modules to function concurrently without generating
+excessive heat, promoting device integration and compactness. wear­
+able graphene biosensors can integrate various technologies to reduce
+diagnostic inaccuracies caused by interindividual differences in certain
+diseases. For instance, using big data to establish personalized health
+baselines combined with patients’ historical health data can mitigate
+misjudgments caused by individual variability [210]. Machine learning
+and AI facilitate pattern recognition, identifying consistent interindi­
+vidual deviations to enhance the precision of positive and negative
+result differentiation [211,212]. Through these methods, challenges
+posed by individual differences can be effectively addressed, enabling
+more precise disease diagnoses.
+However, in the research and application of WGB, several critical
+challenges remain. In electrical biosensors, when a solution containing
+target molecules contacts the energized graphene, an electric double
+layer (EDL) forms at the interface, with equal and opposite charges
+[213]. Due to the Debye screening effect in the EDL [214,215], target
+molecules beyond the Debye length (λD) have their electric field effect
+shielded, impairing the distribution of carriers within the sensor and
+thus lowering sensitivity. Mitigating the Debye screening effect involves
+adjusting channel material morphology and surface functionalization,
+such as 3D nanostructures [216] or polymer and lipid layers [217] to
+reduce ion buildup and extend the Debye length, or employing electric
+
+field perturbations like high-frequency AC or DC fields to destabilize the
+EDL and improve sensitivity [218]. These methods collectively offer
+new possibilities for improving sensor performance and expanding their
+applications in biological detection. In wearable sensors, data acquisi­
+tion and transmission typically rely on integrated circuits (ICs). How­
+ever, ICs have certain limitations in mechanical flexibility compared to
+sensor detection units. Especially in environments with frequent joint
+movements or complex human body surface curves, ICs struggle to
+achieve close adhesion to the body surface. Poor adhesion hinders
+effective stacking between ICs and sensor units, limiting miniaturiza­
+tion. To overcome ICs’ mechanical inflexibility, graphene electronic
+tattoos could redefine IC and detection unit layouts in future designs.
+This graphene-based tattoo can seamlessly conform to the body’s nat­
+ural contours, including joints and complex skin curves, offering me­
+chanical adaptability absent in traditional ICs [219]. Graphene’s high
+conductivity ensures rapid electronic signal transmission, making these
+tattoos efficient data acquisition and transmission channels. Advancing
+research into human skin reveals it as not only a protective barrier but
+also an electrolyte, offering new possibilities for signal transmission
+[220]. Kireev and colleagues [221] developed an innovative graphene
+electronic tattoo. By incorporating a Nafion layer into the graphene
+electronic tattoo, the layer simulates neural signal transmission by
+altering its electrochemical state. Similar to electrochemical
+random-access memory (EC-RAM), the Nafion layer transforms the
+electronic tattoo into a neuromorphic bioelectronic device, achieving
+neuromorphic functionality. Neuromorphic features enable intelligent
+signal processing and transmission via the skin, ensuring enhanced ef­
+ficiency and precision. In commercial applications, the commercializa­
+tion of WGB encounters numerous regulatory challenges. Firstly,
+medical device certification processes such as FDA and CE are complex,
+potentially delaying product launch. Secondly, data privacy and security
+regulations (such as GDPR and the Data Security Law) impose strict
+requirements on the collection and use of health data, necessitating the
+integration of privacy protection mechanisms in product design. How­
+ever, the pathway of commercialization provides crucial support for
+optimizing regulatory policies. During the research and development
+phase, technologies like inkjet printing and laser-induced graphene
+(LIG) enhance sensor sensitivity, stability, and biocompatibility, offering
+support for the formulation of more rigorous technical standards. During
+the mass production phase, companies optimize manufacturing pro­
+cesses (such as chemical vapor deposition) to reduce costs and improve
+efficiency, and these practical experiences help regulatory agencies
+better understand the risks in production. Additionally, the clinical data
+and user feedback collected during the market promotion phase validate
+the technology’s safety and effectiveness, offering valuable insights for
+regulatory agencies to refine approval procedures. Therefore, while
+stringent regulatory requirements increase commercialization diffi­
+culties, the data and experience gained during commercialization
+contribute to improving the regulatory system, creating a positive
+feedback loop. Looking ahead, with technological advancements and
+regulatory improvements, wearable graphene biosensors are likely to
+gain wider adoption across global markets.
+Come to an end, as technology progresses and costs decline, wear­
+able graphene biosensors are integral to enhancing life quality and
+facilitating disease prevention and treatment. It is foreseeable that with
+ongoing technological progress and cost reductions, these products will
+become more widespread and convenient, contributing significantly to
+global health.
+CRediT authorship contribution statement
+Jiawen Song: Writing – original draft. Yang Luo: Writing – original
+draft, Funding acquisition. Zhuang Hao: Writing – review & editing,
+Writing – original draft, Resources, Project administration. Menglong
+Qu: Writing – original draft. Cong Huang: Resources, Investigation.
+Ziran Wang: Methodology. Jun Yang: Investigation. Qingrou Liang:
+19
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+Investigation. Yuan Jia: Writing – review & editing, Funding acquisi­
+tion. Qiuming Song: Writing – review & editing. Qiuting Zhang:
+Investigation. Sida Luo: Methodology.
+
+[13] K. Jiang, J. Wang, Q. Li, L. Liu, C. Liu, S. Fan, Superaligned carbon nanotube
+arrays, films, and yarns: a road to applications, Adv. Mater. 23 (2011)
+1154–1161, https://doi.org/10.1002/adma.201003989.
+[14] P. Izquierdo-García, J.M. Fernández-García, N. Martín, Twenty years of graphene:
+from pristine to chemically engineered nano-sized flakes, J. Am. Chem. Soc. 146
+(2024) 32222–32234, https://doi.org/10.1021/jacs.4c12819.
+[15] M.J. Mcallister, J.-L. Li, D.H. Adamson, H.C. Schniepp, A.A. Abdala, J. Liu,
+M. Herrera-Alonso, D.L. Milius, R. Car, R.K. Prud’homme, I.A. Aksay, Single sheet
+functionalized graphene by oxidation and thermal expansion of graphite, Chem.
+Mater. 19 (2007) 4396–4404, https://doi.org/10.1021/cm0630800.
+[16] M.M.J. Treacy, T.W. Ebbesen, J.M. Gibson, Exceptionally high Young’s modulus
+observed for individual carbon nanotubes, Nature 381 (1996) 678–680, https://
+doi.org/10.1038/381678a0.
+[17] M.J. Treacy, T.W. Ebbesen, J.M. Gibson, Exceptionally high Young’s modulus
+observed for individual carbon nanotubes, Nature 381 (1996) 678–680.
+[18] A. Peigney, C. Laurent, E. Flahaut, R. Bacsa, A. Rousset, Specific surface area of
+carbon nanotubes and bundles of carbon nanotubes, Carbon 39 (2001) 507–514.
+[19] S. Roy, P. Bermel, Electronic and optical properties of ultra-thin 2D tungsten
+disulfide for photovoltaic applications, Sol. Energy Mater. Sol. Cells 174 (2018)
+370–379.
+[20] A. Falin, M. Holwill, H. Lv, W. Gan, J. Cheng, R. Zhang, D. Qian, M.R. Barnett, E.
+J. Santos, K.S. Novoselov, Mechanical properties of atomically thin tungsten
+dichalcogenides: WS2, WSe2, and WTe2, ACS Nano 15 (2021) 2600–2610.
+[21] G. An, C. Lu, C. Xiong, Solid-phase reaction synthesis of mesostructured tungsten
+disulfide material with a high specific surface area, Mater. Res. Bull. 46 (2011)
+1323–1326.
+[22] J. Cheng, L. Gao, T. Li, S. Mei, C. Wang, B. Wen, W. Huang, C. Li, G. Zheng,
+H. Wang, H. Zhang, Two-dimensional black phosphorus nanomaterials: emerging
+advances in electrochemical energy storage science, Nano-Micro Lett. 12 (2020)
+179, https://doi.org/10.1007/s40820-020-00510-5.
+[23] A. Carvalho, M. Wang, X. Zhu, A.S. Rodin, H. Su, A.H. Castro Neto, Phosphorene:
+from theory to applications, Nat. Rev. Mater. 1 (2016) 1–16.
+[24] Q. Wei, X. Peng, Superior mechanical flexibility of phosphorene and few-layer
+black phosphorus, Appl. Phys. Lett. 104 (2014).
+[25] L. Li, J. Yang, On mechanical behaviors of few-layer black phosphorus, Sci. Rep. 8
+(2018) 3227.
+[26] Y. Jiang, Applications and perspectives of Ti3C2Tx MXene in electrochemical
+energy storage systems, Int. J. Electrochem. Sci. (2025) 100948.
+[27] S. Wan, X. Li, Y. Chen, N. Liu, S. Wang, Y. Du, Z. Xu, X. Deng, S. Dou, L. Jiang,
+Ultrastrong MXene films via the synergy of intercalating small flakes and
+interfacial bridging, Nat. Commun. 13 (2022) 7340.
+[28] X.-B. Min, F.-S. Liu, Y.-Y. Wang, Y.-Q. Yan, H.-Y. Wang, Synthesis and
+electrochemical behavior of monolayer-Ti3C2Tx for capacitive deionization,
+J. Cent. S. Univ. 29 (2022) 359–372, https://doi.org/10.1007/s11771-022-48930.
+[29] A.K. Geim, K.S. Novoselov, The rise of graphene, Nat. Mater. 6 (2007) 183–191,
+https://doi.org/10.1038/nmat1849.
+[30] Y. Wang, P. Yang, L. Zheng, X. Shi, H. Zheng, Carbon nanomaterials with sp2 or/
+and sp hybridization in energy conversion and storage applications: a review,
+Energy Storage Mater. 26 (2020) 349–370, https://doi.org/10.1016/j.
+ensm.2019.11.006.
+[31] A.H. Castro Neto, F. Guinea, N.M.R. Peres, K.S. Novoselov, A.K. Geim, The
+electronic properties of graphene, Rev. Mod. Phys. 81 (2009) 109–162, https://
+doi.org/10.1103/RevModPhys.81.109.
+[32] K.I. Bolotin, K.J. Sikes, Z. Jiang, M. Klima, G. Fudenberg, J. Hone, P. Kim, H.
+L. Stormer, Ultrahigh electron mobility in suspended graphene, Solid State
+Commun. 146 (2008) 351–355, https://doi.org/10.1016/j.ssc.2008.02.02.
+[33] F. Schedin, A.K. Geim, S.V. Morozov, E.W. Hill, P. Blake, M.I. Katsnelson, K.
+S. Novoselov, Detection of individual gas molecules adsorbed on graphene, Nat.
+Mater. 6 (2007) 652–655, https://doi.org/10.1038/nmat1967.
+[34] A.K. Geim, Graphene: status and prospects, Science 324 (2009) 1530–1534,
+https://doi.org/10.1126/science.1158877.
+[35] D.G. Papageorgiou, I.A. Kinloch, R.J. Young, Mechanical properties of graphene
+and graphene-based nanocomposites, Prog. Mater. Sci. 90 (2017) 75–127,
+https://doi.org/10.1016/j.pmatsci.2017.07.004.
+[36] M. Ioniţă, G.M. Vlăsceanu, A.A. Watzlawek, S.I. Voicu, J.S. Burns, H. Iovu,
+Graphene and functionalized graphene: extraordinary prospects for
+nanobiocomposite materials, Compos. B Eng. 121 (2017) 34–57, https://doi.org/
+10.1016/j.compositesb.2017.03.031.
+[37] R. Teixeira-Santos, S. Belo, R. Vieira, F.J.M. Mergulhão, L.C. Gomes, Graphenebased composites for biomedical applications: surface modification for enhanced
+antimicrobial activity and biocompatibility, Biomolecules 13 (2023) 1571.
+[38] P. Labroo, Y. Cui, Flexible graphene bio-nanosensor for lactate, Biosens.
+Bioelectron. 41 (2013) 852–856, https://doi.org/10.1016/j.bios.2012.08.024.
+[39] K.S. Novoselov, A.K. Geim, S.V. Morozov, D. Jiang, Y. Zhang, S.V. Dubonos, I.
+V. Grigorieva, A.A. Firsov, Electric field effect in atomically thin carbon films,
+Science 306 (2004) 666–669, https://doi.org/10.1126/science.1102896.
+[40] J. Zhao, P. Ji, Y. Li, R. Li, K. Zhang, H. Tian, K. Yu, B. Bian, L. Hao, X. Xiao,
+W. Griffin, N. Dudeck, R. Moro, L. Ma, W.A. De Heer, Ultrahigh-mobility
+semiconducting epitaxial graphene on silicon carbide, Nature 625 (2024) 60–65,
+https://doi.org/10.1038/s41586-023-06811-0.
+[41] K. Hjelt, H. Döscher, The commercialization of graphene electronics, Nature
+Electronics 7 (2024) 844–846, https://doi.org/10.1038/s41928-024-01270-5.
+[42] S. Wu, X. Wang, Z. Li, S. Zhang, F. Xing, Recent advances in the fabrication and
+application of graphene microfluidic sensors, Micromachines 11 (2020) 1059.
+
+Declaration of competing interest
+The authors declare that they have no known competing financial
+interests or personal relationships that could have appeared to influence
+the work reported in this paper.
+Acknowledgement
+This work was supported by the National Key R&D Program of China
+(No. 2022YFB4700700), Beijing Natural Science Foundation (Grant No.
+3252005), Guangdong Provincial Engineering Technology Research
+Center for Materials for Advanced MEMS Sensor Chip
+(No.2022GCZX005), the Young Talents Plan of Beihang University (No.
+YWF-23-L-1210), State Key Laboratory of Robotics and System (HIT)
+(No. SKLRS-2025-KF-06 and SKLRS-2023-KF-03), National Natural
+Science Foundation of China (No. 52305606), Taishan Scholars Project
+of Shandong Province (No. tsqn202306028), Shandong Provincial Nat­
+ural Science Foundation (No. ZR2023QE187), Natural Science Foun­
+dation of Jiangsu Province (No. BK20230254), Qilu Young Scholars
+Program of Shandong University, the University-enterprise cooperation
+research and development project of SZTU (No. 20221061030010 and
+20221064010022), MEMS Technology Innovation and Application
+Joint Laboratory (SZTU-CSL) (No. 20241064010058) and Shenzhen
+University Stability Support Project (20220718173849001).
+Data availability
+No data was used for the research described in the article.
+References
+[1] M.R. Sharma, R.L. Schilsky, New standards and a predictive biomarker for
+adjuvant therapy, Nat. Rev. Clin. Oncol. 8 (2011) 70–72, https://doi.org/
+10.1038/nrclinonc.2010.219.
+[2] A.H. Fox, M. Alexander, J.A. Forcucci, G.A. Silvestri, Biomarker testing for
+guiding precision medicine for patients with non-small cell lung cancer, Chest
+(2024), https://doi.org/10.1016/j.chest.2024.08.006.
+[3] J. Wu, H. Liu, W. Chen, B. Ma, H. Ju, Device integration of electrochemical
+biosensors, Nature Reviews Bioengineering 1 (2023) 346–360, https://doi.org/
+10.1038/s44222-023-00032-w.
+[4] J. Peña-Bahamonde, H.N. Nguyen, S.K. Fanourakis, D.F. Rodrigues, Recent
+advances in graphene-based biosensor technology with applications in life
+sciences, J. Nanobiotechnol. 16 (2018) 75, https://doi.org/10.1186/s12951-0180400-z.
+[5] M.L. Verma, Sukriti, B.S. Dhanya, R. Saini, A. Das, R.S. Varma, Synthesis and
+application of graphene-based sensors in biology: a review, Environ. Chem. Lett.
+20 (2022) 2189–2212, https://doi.org/10.1007/s10311-022-01404-1.
+[6] M.J. Hart, S.J. Torres, S.A. Mcnaughton, C.M. Milte, Dietary patterns and
+associations with biomarkers of inflammation in adults: a systematic review of
+observational studies, Nutr. J. 20 (2021) 24, https://doi.org/10.1186/s12937021-00674-9.
+[7] A. Tripathi, J. Bonilla-Cruz, Review on healthcare biosensing nanomaterials, ACS
+Appl. Nano Mater. 6 (2023) 5042–5074, https://doi.org/10.1021/
+acsanm.3c00941.
+[8] S.U. Nanayakkara, J. Van De Lagemaat, J.M. Luther, Scanning probe
+characterization of heterostructured colloidal nanomaterials, Chem. Rev. 115
+(2015) 8157–8181, https://doi.org/10.1021/cr500280t.
+[9] X. Cao, Z. Yin, H. Zhang, Three-dimensional graphene materials: preparation,
+structures and application in supercapacitors, Energy Environ. Sci. 7 (2014)
+1850–1865, https://doi.org/10.1039/C4EE00050A.
+[10] S. Manzeli, D. Ovchinnikov, D. Pasquier, O.V. Yazyev, A. Kis, 2D transition metal
+dichalcogenides, Nat. Rev. Mater. 2 (2017) 17033, https://doi.org/10.1038/
+natrevmats.2017.33.
+[11] X. Ge, Z. Xia, S. Guo, Recent advances on black phosphorus for biomedicine and
+biosensing, Adv. Funct. Mater. 29 (2019) 1900318, https://doi.org/10.1002/
+adfm.201900318.
+[12] D. Mohanapriya, J. Satija, S. Senthilkumar, V. Kumar Ponnusamy, K. Thenmozhi,
+Design and engineering of 2D MXenes for point-of-care electrochemical detection
+of bioactive analytes and environmental pollutants, Coord. Chem. Rev. 507
+(2024) 215746, https://doi.org/10.1016/j.ccr.2024.215746.
+
+20
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+[43] W. Ahmad, Z. Ullah, N.I. Sonil, K. Khan, Introduction, production,
+characterization and applications of defects in graphene, J. Mater. Sci. Mater.
+Electron. 32 (2021) 19991–20030.
+[44] A.I. Inozemtseva, A.V. Sergeev, K.S. Napolskii, S.E. Kushnir, V. Belov, D.M. Itkis,
+D.Y. Usachov, L.V. Yashina, Graphene electrochemistry: ‘Adiabaticity’ of electron
+transfer, Electrochim. Acta 427 (2022) 140901, https://doi.org/10.1016/j.
+electacta.2022.140901.
+[45] Z. Zhang, H. Zhu, W. Zhang, Z. Zhang, J. Lu, K. Xu, Y. Liu, V. Saetang, A review of
+laser-induced graphene: from experimental and theoretical fabrication processes
+to emerging applications, Carbon 214 (2023) 118356, https://doi.org/10.1016/j.
+carbon.2023.118356.
+[46] C. Senger, X. Fan, J.N. Pagaduan, X. Zhang, J. Ping, R. Katsumata, Defect healing
+in graphene via rapid thermal annealing with polymeric “nanobandage”, Small
+19 (2023) 2206295 https://doi.org/10.1002/smll.202206295.
+[47] Y. Yan, W.I. Shin, H. Chen, S.-M. Lee, S. Manickam, S. Hanson, H. Zhao, E. Lester,
+T. Wu, C.H. Pang, A recent trend: application of graphene in catalysis, Carbon
+Lett. 31 (2021) 177–199, https://doi.org/10.1007/s42823-020-00200-7.
+[48] D. Li, W. Zhang, X. Yu, Z. Wang, Z. Su, G. Wei, When biomolecules meet
+graphene: from molecular level interactions to material design and applications,
+Nanoscale 8 (2016) 19491–19509, https://doi.org/10.1039/C6NR07249F.
+[49] H. Fu, K.A. Gray, Graphene-encapsulated nanocomposites: synthesis,
+environmental applications, and future prospects, Sci. Total Environ. 955 (2024)
+176753, https://doi.org/10.1016/j.scitotenv.2024.176753.
+[50] K. Kim, S. Coh, C. Kisielowski, M.F. Crommie, S.G. Louie, M.L. Cohen, A. Zettl,
+Atomically perfect torn graphene edges and their reversible reconstruction, Nat.
+Commun. 4 (2013) 2723, https://doi.org/10.1038/ncomms3723.
+[51] O. Akhavan, E. Ghaderi, Toxicity of graphene and graphene oxide nanowalls
+against bacteria, ACS Nano 4 (2010) 5731–5736, https://doi.org/10.1021/
+nn101390x.
+[52] S. Liu, T.H. Zeng, M. Hofmann, E. Burcombe, J. Wei, R. Jiang, J. Kong, Y. Chen,
+Antibacterial activity of graphite, graphite oxide, graphene oxide, and reduced
+graphene oxide: membrane and oxidative stress, ACS Nano 5 (2011) 6971–6980,
+https://doi.org/10.1021/nn202451x.
+[53] H. Mohammed, A. Kumar, E. Bekyarova, Y. Al-Hadeethi, X. Zhang, M. Chen, M.
+S. Ansari, A. Cochis, L. Rimondini, Antimicrobial mechanisms and effectiveness of
+graphene and graphene-functionalized biomaterials. A scope review, Front.
+Bioeng. Biotechnol. 8 (2020), https://doi.org/10.3389/fbioe.2020.00465.
+[54] A.D. Sontakke, S. Tiwari, M.K. Purkait, A comprehensive review on graphene
+oxide-based nanocarriers: synthesis, functionalization and biomedical
+applications, FlatChem 38 (2023) 100484, https://doi.org/10.1016/j.
+flatc.2023.100484.
+[55] Y. Tang, H. Xu, X. Wang, S. Dong, L. Guo, S. Zhang, X. Yang, C. Liu, X. Jiang,
+M. Kan, S. Wu, J. Zhang, C. Xu, Advances in preparation and application of
+antibacterial hydrogels, J. Nanobiotechnol. 21 (2023) 300, https://doi.org/
+10.1186/s12951-023-02025-8.
+[56] P. Kumar, P. Huo, R. Zhang, B. Liu, Antibacterial properties of graphene-based
+nanomaterials, Nanomaterials 9 (2019) 737.
+[57] Y. Alapan, K. Icoz, U.A. Gurkan, Micro- and nanodevices integrated with
+biomolecular probes, Biotechnol. Adv. 33 (2015) 1727–1743, https://doi.org/
+10.1016/j.biotechadv.2015.09.001.
+[58] Z. Chen, Y. Yang, X. Cui, L. Chai, H. Liu, Y. Pan, Y. Zhang, Y. Xie, T. Le, Process,
+advances, and perspectives of graphene oxide-SELEX for the development of
+aptamer molecular probes: a comprehensive review, Anal. Chim. Acta 1320
+(2024) 343004, https://doi.org/10.1016/j.aca.2024.343004.
+[59] B. Sequeira-Antunes, H.A. Ferreira, Nucleic acid aptamer-based biosensors: a
+review, Biomedicines 11 (2023) 3201.
+[60] Z. Wang, Z. Hao, S. Yu, C.G. De Moraes, L.H. Suh, X. Zhao, Q. Lin, An ultraflexible
+and stretchable aptameric graphene nanosensor for biomarker detection and
+monitoring, Adv. Funct. Mater. 29 (2019) 1905202, https://doi.org/10.1002/
+adfm.201905202.
+[61] M. Domsicova, J. Korcekova, A. Poturnayova, A. Breier, New insights into
+aptamers: an alternative to antibodies in the detection of molecular biomarkers,
+Int. J. Mol. Sci. 25 (2024) 6833.
+[62] Z. Hao, Y. Pan, C. Huang, Z. Wang, Q. Lin, X. Zhao, S. Liu, Modulating the linker
+immobilization density on aptameric graphene field effect transistors using an
+electric field, ACS Sens. 5 (2020) 2503–2513, https://doi.org/10.1021/
+acssensors.0c00752.
+[63] M.I.J. Raybould, C. Marks, K. Krawczyk, B. Taddese, J. Nowak, A.P. Lewis,
+A. Bujotzek, J. Shi, C.M. Deane, Five computational developability guidelines for
+therapeutic antibody profiling, Proc. Natl. Acad. Sci. USA 116 (2019) 4025–4030,
+https://doi.org/10.1073/pnas.1810576116.
+[64] M. Jarczewska, E. Malinowska, The application of antibody–aptamer hybrid
+biosensors in clinical diagnostics and environmental analysis, Anal. Methods 12
+(2020) 3183–3199, https://doi.org/10.1039/D0AY00678E.
+[65] H. Fang, B. Peng, S.Y. Ong, Q. Wu, L. Li, S.Q. Yao, Recent advances in activitybased probes (ABPs) and affinity-based probes (AfBPs) for profiling of enzymes,
+Chem. Sci. 12 (2021) 8288–8310, https://doi.org/10.1039/D1SC01359A.
+[66] H.H. Jung, H. Lee, J. Yea, K.I. Jang, Wearable Electrochemical Sensors for RealTime Monitoring in Diabetes Mellitus and Associated Complications, OAE
+Publishing Inc., 2024.
+[67] L. Li, S. Xu, H. Yan, X. Li, H.S. Yazd, X. Li, T. Huang, C. Cui, J. Jiang, W. Tan,
+Nucleic acid aptamers for molecular diagnostics and therapeutics: advances and
+perspectives, Angew. Chem. Int. Ed. 60 (2021) 2221–2231, https://doi.org/
+10.1002/anie.202003563.
+
+[68] Y. He, M. Garnica, F. Bischoff, J. Ducke, M.-L. Bocquet, M. Batzill, W. Auwärter, J.
+V. Barth, Fusing tetrapyrroles to graphene edges by surface-assisted covalent
+coupling, Nat. Chem. 9 (2017) 33–38, https://doi.org/10.1038/nchem.2600.
+[69] M. Liu, Y. Duan, Y. Wang, Y. Zhao, Diazonium functionalization of graphene
+nanosheets and impact response of aniline modified graphene/bismaleimide
+nanocomposites, Mater. Des. 53 (2014) 466–474, https://doi.org/10.1016/j.
+matdes.2013.07.027.
+[70] H.J. Sim, P. Xiao, H. Lu, Pyrenebutyric acid-assisted room-temperature synthesis
+of large-size monolayer graphene oxide with high mechanical strength, Carbon
+185 (2021) 224–233, https://doi.org/10.1016/j.carbon.2021.09.013.
+[71] A. Béraud, M. Sauvage, C.M. Bazán, M. Tie, A. Bencherif, D. Bouilly, Graphene
+field-effect transistors as bioanalytical sensors: design, operation and
+performance, Analyst 146 (2021) 403–428, https://doi.org/10.1039/
+D0AN01661F.
+[72] J.W. Kim, Y.-H. Jang, G.M. Ku, S. Kim, E. Lee, K. Cho, K.-I. Lim, W.H. Lee, Liquid
+coplanar-gate organic/graphene hybrid electronics for label-free detection of
+single and double-stranded DNA molecules, Org. Electron. 62 (2018) 163–167,
+https://doi.org/10.1016/j.orgel.2018.07.032.
+[73] V. Mishyn, A. Hugo, T. Rodrigues, P. Aspermair, H. Happy, L. Marques, C. Hurot,
+R. Othmen, V. Bouchiat, R. Boukherroub, W. Knoll, S. Szunerits, The holy grail of
+pyrene-based surface ligands on the sensitivity of graphene-based field effect
+transistors, Sensors & Diagnostics 1 (2022) 235–244, https://doi.org/10.1039/
+D1SD00036E.
+[74] I. Shown, A. Ganguly, Non-covalent functionalization of CVD-grown graphene
+with Au nanoparticles for electrochemical sensing application, Journal of
+Nanostructure in Chemistry 6 (2016) 281–288, https://doi.org/10.1007/s40097016-0201-6.
+[75] M. Garg, N. Pamme, Strategies to remove templates from molecularly imprinted
+polymer (MIP) for biosensors, TrAC, Trends Anal. Chem. 170 (2024) 117437,
+https://doi.org/10.1016/j.trac.2023.117437.
+[76] K. Phonklam, R. Wannapob, W. Sriwimol, P. Thavarungkul, T. Phairatana,
+A novel molecularly imprinted polymer PMB/MWCNTs sensor for highlysensitive cardiac troponin T detection, Sensor. Actuator. B Chem. 308 (2020)
+127630, https://doi.org/10.1016/j.snb.2019.127630.
+[77] Y. Li, C. Guan, C. Liu, Z. Li, G. Han, Disease diagnosis and application analysis of
+molecularly imprinted polymers (MIPs) in saliva detection, Talanta 269 (2024)
+125394, https://doi.org/10.1016/j.talanta.2023.125394.
+[78] H. Zhang, Z. Zhu, Y. Wang, Z. Fei, J. Cao, Changing the activities and structures of
+bovine serum albumin bound to graphene oxide, Appl. Surf. Sci. 427 (2018)
+1019–1029, https://doi.org/10.1016/j.apsusc.2017.08.130.
+[79] L. Xu, X. Yang, Molecular dynamics simulation of adsorption of
+pyrene–polyethylene glycol onto graphene, J. Colloid Interface Sci. 418 (2014)
+66–73, https://doi.org/10.1016/j.jcis.2013.12.005.
+[80] H.T. Larijani, M. Jahanshahi, M.D. Ganji, M.H. Kiani, Computational studies on
+the interactions of glycine amino acid with graphene, h-BN and h-SiC monolayers,
+Phys. Chem. Chem. Phys. 19 (2017) 1896–1908, https://doi.org/10.1039/
+C6CP06672K.
+[81] M. Bhandari, N. Kumari, Surface functionalization reactions of graphene-based
+nanostructure and their practical application [M]//E.W. Wambu. Chemistry of
+Graphene - Synthesis, Reactivity, Applications and Toxicities, IntechOpen, Rijeka,
+2024.
+[82] G. Feng, H. Zhang, J. Chen, Z. Fang, X. Hu, Modified graphene oxide (GO)
+embedded in nanofiltration membranes with high flux and anti-fouling for
+enhanced surface water purification, J. Environ. Chem. Eng. 13 (2025) 115172,
+https://doi.org/10.1016/j.jece.2024.115172.
+[83] K. Sankar, U. Kuzmanović, S.E. Schaus, J.E. Galagan, M.W. Grinstaff, Strategy,
+design, and fabrication of electrochemical biosensors: a Tutorial, ACS Sens. 9
+(2024) 2254–2274, https://doi.org/10.1021/acssensors.4c00043.
+[84] A.R. Harris, D.B. Grayden, S.E. John, Electrochemistry in a two- or threeelectrode configuration to understand monopolar or bipolar configurations of
+platinum bionic implants, Micromachines 14 (2023) 722.
+[85] Z.O. Uygun, H.D. Ertuğrul Uygun, A short footnote: circuit design for faradaic
+impedimetric sensors and biosensors, Sensor. Actuator. B Chem. 202 (2014)
+448–453, https://doi.org/10.1016/j.snb.2014.05.029.
+[86] A.J. Bard, L.R. Faulkner, H.S. White, Electrochemical Methods: Fundamentals and
+Applications, John Wiley & Sons, 2022.
+[87] A.C. Lazanas, M.I. Prodromidis, Electrochemical impedance Spectroscopy─A
+Tutorial, ACS Measurement Science Au 3 (2023) 162–193, https://doi.org/
+10.1021/acsmeasuresciau.2c00070.
+[88] B.J. Venton, D.J. Discenza, Chapter 3 - Voltammetry [M]//B. Patel,
+Electrochemistry for Bioanalysis, Elsevier, 2020, pp. 27–50.
+[89] X. Li, Z.-Y. Zhang, F. Li, Flexible electrochemical sensors based on nanomaterials:
+Constructions, applications and prospects, Chem. Eng. J. (2024) 158101, https://
+doi.org/10.1016/j.cej.2024.158101.
+[90] H. Shamkhalichenar, J.-W. Choi, Review—non-enzymatic hydrogen peroxide
+electrochemical sensors based on reduced graphene oxide, J. Electrochem. Soc.
+167 (2020) 037531, https://doi.org/10.1149/1945-7111/ab644a.
+[91] M. Pumera, A. Ambrosi, A. Bonanni, E.L.K. Chng, H.L. Poh, Graphene for
+electrochemical sensing and biosensing, TrAC, Trends Anal. Chem. 29 (2010)
+954–965, https://doi.org/10.1016/j.trac.2010.05.011.
+[92] R. Campos, J. Borme, J.R. Guerreiro, G. Machado Jr., M.F. Cerqueira, D.
+Y. Petrovykh, P. Alpuim, Attomolar label-free detection of DNA hybridization
+with electrolyte-gated graphene field-effect transistors, ACS Sens. 4 (2019)
+286–293, https://doi.org/10.1021/acssensors.8b00344.
+[93] T.T.-H. Nguyen, C.M. Nguyen, M.A. Huynh, H.H. Vu, T.-K. Nguyen, N.-T. Nguyen,
+Field effect transistor based wearable biosensors for healthcare monitoring,
+
+21
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+J. Nanobiotechnol. 21 (2023) 411, https://doi.org/10.1186/s12951-023-021531.
+[94] L. Anzi, A. Tuktamyshev, A. Fedorov, A. Zurutuza, S. Sanguinetti, R. Sordan,
+Controlling the threshold voltage of a semiconductor field-effect transistor by
+gating its graphene gate, npj 2D Materials and Applications 6 (2022) 28, https://
+doi.org/10.1038/s41699-022-00302-y.
+[95] M. Sun, C. Zhang, S. Lu, S. Mahmood, J. Wang, C. Sun, J. Pang, L. Han, H. Liu,
+Recent advances in graphene field-effect transistor toward biological detection,
+Adv. Funct. Mater. 34 (2024) 2405471, https://doi.org/10.1002/
+adfm.202405471.
+[96] F. Torricelli, D.Z. Adrahtas, Z. Bao, M. Berggren, F. Biscarini, A. Bonfiglio, C.
+A. Bortolotti, C.D. Frisbie, E. Macchia, G.G. Malliaras, I. Mcculloch, M. Moser, T.Q. Nguyen, R.M. Owens, A. Salleo, A. Spanu, L. Torsi, Electrolyte-gated
+transistors for enhanced performance bioelectronics, Nature Reviews Methods
+Primers 1 (2021) 66, https://doi.org/10.1038/s43586-021-00065-8.
+[97] W. Fu, L. Jiang, E.P. Van Geest, L.M.C. Lima, G.F. Schneider, Sensing at the
+surface of graphene field-effect transistors, Adv. Mater. 29 (2017) 1603610,
+https://doi.org/10.1002/adma.201603610.
+[98] S. Latil, L. Henrard, Charge carriers in few-layer graphene films, Phys. Rev. Lett.
+97 (2006) 036803, https://doi.org/10.1103/PhysRevLett.97.036803.
+[99] N.a.M. Tran, I. Fakih, O. Durnan, A. Hu, A.M. Aygar, I. Napal, A. Centeno,
+A. Zurutuza, B. Reulet, T. Szkopek, Graphene field effect transistor scaling for
+ultra-low-noise sensors, Nanotechnology 32 (2021) 045502, https://doi.org/
+10.1088/1361-6528/abc0c8.
+[100] T. Hayasaka, Y. Kubota, Y. Liu, L. Lin, The influences of temperature, humidity,
+and O2 on electrical properties of graphene FETs, Sensor. Actuator. B Chem. 285
+(2019) 116–122, https://doi.org/10.1016/j.snb.2019.01.037.
+[101] C. Andronescu, W. Schuhmann, Graphene-based field effect transistors as
+biosensors, Curr. Opin. Electrochem. 3 (2017) 11–17, https://doi.org/10.1016/j.
+coelec.2017.03.002.
+[102] Y. Li, C. Wang, Y. Zhu, X. Zhou, Y. Xiang, M. He, S. Zeng, Fully integrated
+graphene electronic biosensor for label-free detection of lead (II) ion based on Gquadruplex structure-switching, Biosens. Bioelectron. 89 (2017) 758–763,
+https://doi.org/10.1016/j.bios.2016.10.061.
+[103] G. Song, M. Ranjbar, R.A. Kiehl, Operation of graphene magnetic field sensors
+near the charge neutrality point, Commun. Phys. 2 (2019) 65, https://doi.org/
+10.1038/s42005-019-0161-5.
+[104] M.H. Fuad, M.F. Nayan, M.A. Raihan, R. Yeassin, R.R. Mahmud, Performance
+analysis of graphene field effect transistor at nanoscale regime, e-Prime advances in Electrical Engineering, Electronics and Energy 9 (2024) 100679,
+https://doi.org/10.1016/j.prime.2024.100679.
+[105] G. Saltzgaber, P.M. Wojcik, T. Sharf, M.R. Leyden, J.L. Wardini, C.A. Heist, A.
+A. Adenuga, V.T. Remcho, E.D. Minot, Scalable graphene field-effect sensors for
+specific protein detection, Nanotechnology 24 (2013) 355502, https://doi.org/
+10.1088/0957-4484/24/35/355502.
+[106] A. Ahmad, M. Imran, H. Ahsan, Biomarkers as biomedical bioindicators:
+approaches and techniques for the detection, analysis, and validation of novel
+biomarkers of diseases, Pharmaceutics 15 (2023) 1630.
+[107] C. Dai, D. Kong, C. Chen, Y. Liu, D. Wei, Graphene transistors for in vitro
+detection of health biomarkers, Adv. Funct. Mater. 33 (2023) 2301948, https://
+doi.org/10.1002/adfm.202301948.
+[108] C. Huang, W. Yang, H. Wang, S. Huang, S. Gao, D. Li, J. Liu, S. Hou, W. Feng,
+Z. Wang, F. Li, Z. Hao, X. Zhao, P. Hu, Y. Pan, Flexible/regenerative nanosensor
+with automatic sweat collection for cytokine storm biomarker detection, ACS
+Nano 18 (2024) 21198–21210, https://doi.org/10.1021/acsnano.4c04456.
+[109] G. Liu, C. Jiang, X. Lin, Y. Yang, Point-of-care detection of cytokines in cytokine
+storm management and beyond: significance and challenges, VIEW 2 (2021)
+20210003, https://doi.org/10.1002/VIW.20210003.
+[110] X.-D. Tang, T.-T. Ji, J.-R. Dong, H. Feng, F.-Q. Chen, X. Chen, H.-Y. Zhao, D.K. Chen, W.-T. Ma, Pathogenesis and treatment of cytokine storm induced by
+infectious diseases, Int. J. Mol. Sci. 22 (2021) 13009.
+[111] P. Chauhan, A. Nair, A. Patidar, J. Dandapat, A. Sarkar, B. Saha, A primer on
+cytokines, Cytokine 145 (2021) 155458, https://doi.org/10.1016/j.
+cyto.2021.155458.
+[112] Z. Wang, Z. Hao, S. Yu, C. Huang, Y. Pan, X. Zhao, A wearable and deformable
+graphene-based affinity nanosensor for monitoring of cytokines in biofluids,
+Nanomaterials 10 (2020) 1503.
+[113] C.K. Dixit, S.K. Vashist, B.D. Maccraith, R. O’kennedy, Multisubstrate-compatible
+ELISA procedures for rapid and high-sensitivity immunoassays, Nat. Protoc. 6
+(2011) 439–445, https://doi.org/10.1038/nprot.2011.304.
+[114] Y. Park, B. Ryu, B.-R. Oh, Y. Song, X. Liang, K. Kurabayashi, Biotunable
+nanoplasmonic filter on few-layer MoS2 for rapid and highly sensitive cytokine
+optoelectronic immunosensing, ACS Nano 11 (2017) 5697–5705, https://doi.org/
+10.1021/acsnano.7b01162.
+[115] K.E. Laliberte, P. Scott, N.I. Khan, M.S. Mahmud, E. Song, A wearable graphene
+transistor-based biosensor for monitoring IL-6 biomarker, Microelectron. Eng.
+262 (2022) 111835, https://doi.org/10.1016/j.mee.2022.111835.
+[116] E. Fernandes, P.D. Cabral, R. Campos, G. Machado, M.F. Cerqueira, C. Sousa, P.
+P. Freitas, J. Borme, D.Y. Petrovykh, P. Alpuim, Functionalization of single-layer
+graphene for immunoassays, Appl. Surf. Sci. 480 (2019) 709–716, https://doi.
+org/10.1016/j.apsusc.2019.03.004.
+[117] Z. Hao, Z. Wang, Y. Li, Y. Zhu, X. Wang, C.G. De Moraes, Y. Pan, X. Zhao, Q. Lin,
+Measurement of cytokine biomarkers using an aptamer-based affinity graphene
+nanosensor on a flexible substrate toward wearable applications, Nanoscale 10
+(2018) 21681–21688, https://doi.org/10.1039/C8NR04315A.
+
+[118] Z. Wang, W. Dai, S. Yu, Z. Hao, R. Pei, C.G. De Moraes, L.H. Suh, X. Zhao, Q. Lin,
+Towards detection of biomarkers in the eye using an aptamer-based graphene
+affinity nanobiosensor, Talanta 250 (2022) 123697, https://doi.org/10.1016/j.
+talanta.2022.123697.
+[119] C. Huang, D. Li, J. Liu, S. Hou, W. Yang, H. Wang, J. Wang, Z. Wang, F. Li, Z. Hao,
+S. Huang, X. Zhao, P. Hu, Y. Pan, A flexible aptameric graphene field-effect
+nanosensor capable of automatic liquid collection/filtering for cytokine storm
+biomarker monitoring in undiluted sweat, Adv. Funct. Mater. 34 (2024) 2309447,
+https://doi.org/10.1002/adfm.202309447.
+[120] S. Balayan, N. Chauhan, W. Rosario, U. Jain, Biosensor development for Creactive protein detection: a review, Applied Surface Science Advances 12 (2022)
+100343, https://doi.org/10.1016/j.apsadv.2022.100343.
+[121] Z. Hao, Y. Luo, C. Huang, Z. Wang, G. Song, Y. Pan, X. Zhao, S. Liu, An intelligent
+graphene-based biosensing device for cytokine storm syndrome biomarkers
+detection in human biofluids, Small 17 (2021) 2101508, https://doi.org/
+10.1002/smll.202101508.
+[122] J. Heikenfeld, A. Jajack, B. Feldman, S.W. Granger, S. Gaitonde, G. Begtrup, B.
+A. Katchman, Accessing analytes in biofluids for peripheral biochemical
+monitoring, Nat. Biotechnol. 37 (2019) 407–419, https://doi.org/10.1038/
+s41587-019-0040-3.
+[123] J. Tu, J. Min, Y. Song, C. Xu, J. Li, J. Moore, J. Hanson, E. Hu, T. Parimon, T.Y. Wang, E. Davoodi, T.-F. Chou, P. Chen, J.J. Hsu, H.B. Rossiter, W. Gao,
+A wireless patch for the monitoring of C-reactive protein in sweat, Nat. Biomed.
+Eng. 7 (2023) 1293–1306, https://doi.org/10.1038/s41551-023-01059-5.
+[124] S. Viswanathan, T.N. Narayanan, K. Aran, K.D. Fink, J. Paredes, P.M. Ajayan,
+S. Filipek, P. Miszta, H.C. Tekin, F. Inci, U. Demirci, P. Li, K.I. Bolotin,
+D. Liepmann, V. Renugopalakrishanan, Graphene–protein field effect biosensors:
+glucose sensing, Mater. Today 18 (2015) 513–522, https://doi.org/10.1016/j.
+mattod.2015.04.003.
+[125] D. Holmes, Sweat-sensing patch for glucose monitoring and drug delivery, Nat.
+Rev. Endocrinol. 12 (2016) 247, https://doi.org/10.1038/nrendo.2016.56.
+[126] M. Bariya, H.Y.Y. Nyein, A. Javey, Wearable sweat sensors, Nature Electronics 1
+(2018) 160–171, https://doi.org/10.1038/s41928-018-0043-y.
+[127] X. Ji, X. Zhao, Z. Zhang, Y. Si, W. Qian, H. Fu, Z. Chen, Z. Wang, H. Jin, Z. Yang,
+D. He, Scalable fabrication of graphene-assembled multifunctional electrode with
+efficient electrochemical detection of dopamine and glucose, Nano Res. 16 (2023)
+6361–6368, https://doi.org/10.1007/s12274-023-5459-7.
+[128] M. Govindaraj, A. Srivastava, M.K. Muthukumaran, P.-C. Tsai, Y.-C. Lin, B.
+K. Raja, J. Rajendran, V.K. Ponnusamy, J. Arockia Selvi, Current advancements
+and prospects of enzymatic and non-enzymatic electrochemical glucose sensors,
+Int. J. Biol. Macromol. 253 (2023) 126680, https://doi.org/10.1016/j.
+ijbiomac.2023.126680.
+[129] Y. Hao, M. Fang, C. Xu, Z. Ying, H. Wang, R. Zhang, H.-M. Cheng, Y. Zeng,
+A graphene-laminated electrode with high glucose oxidase loading for highlysensitive glucose detection, J. Mater. Sci. Technol. 66 (2021) 57–63, https://doi.
+org/10.1016/j.jmst.2020.04.070.
+[130] X. You, J.J. Pak, Graphene-based field effect transistor enzymatic glucose
+biosensor using silk protein for enzyme immobilization and device substrate,
+Sensor. Actuator. B Chem. 202 (2014) 1357–1365, https://doi.org/10.1016/j.
+snb.2014.04.079.
+[131] N. Gao, R. Zhou, B. Tu, T. Tao, Y. Song, Z. Cai, H. He, G. Chang, Y. Wu, Y. He,
+Graphene electrochemical transistor incorporated with gel electrolyte for
+wearable and non-invasive glucose monitoring, Anal. Chim. Acta 1239 (2023)
+340719, https://doi.org/10.1016/j.aca.2022.340719.
+[132] Y. Yao, J. Chen, Y. Guo, T. Lv, Z. Chen, N. Li, S. Cao, B. Chen, T. Chen, Integration
+of interstitial fluid extraction and glucose detection in one device for wearable
+non-invasive blood glucose sensors, Biosens. Bioelectron. 179 (2021) 113078,
+https://doi.org/10.1016/j.bios.2021.113078.
+[133] X. Li, T. Li, B. Liu, N. Hu, T. Hu, Z. Ni, Boosting the performance of an
+iontophoretic biosensing system with a graphene aerogel and Prussian blue for
+highly sensitive and noninvasive glucose monitoring, Analyst 148 (2023)
+3184–3192, https://doi.org/10.1039/D3AN00212H.
+[134] A.A. Karyakin, E.E. Karyakina, L. Gorton, On the mechanism of H2O2 reduction at
+Prussian Blue modified electrodes, Electrochem. Commun. 1 (1999) 78–82.
+[135] J. Zhao, C. Zheng, J. Gao, J. Gui, L. Deng, Y. Wang, R. Xu, Co3O4 nanoparticles
+embedded in laser-induced graphene for a flexible and highly sensitive enzymefree glucose biosensor, Sensor. Actuator. B Chem. 347 (2021) 130653, https://
+doi.org/10.1016/j.snb.2021.130653.
+[136] Y. Zhang, Z. Yang, C. Qiao, Y. Liu, C. Wang, X. Zeng, J. Hou, D. Huo, C. Hou,
+Synergistic enhancement of wearable biosensor through Pt single-atom catalyst
+for sweat analysis, Biosens. Bioelectron. 258 (2024) 116354, https://doi.org/
+10.1016/j.bios.2024.116354.
+[137] J.K. Nicholson, I.D. Wilson, Understanding ’global’ systems biology:
+metabonomics and the continuum of metabolism, Nat. Rev. Drug Discovery 2
+(2003) 668–676, https://doi.org/10.1038/nrd1157.
+[138] R. Haas, D. Cucchi, J. Smith, V. Pucino, C.E. Macdougall, C. Mauro, Intermediates
+of metabolism: from bystanders to signalling molecules, Trends Biochem. Sci. 41
+(2016) 460–471, https://doi.org/10.1016/j.tibs.2016.02.003.
+[139] G. Ragab, M. Elshahaly, T. Bardin, Gout: an old disease in new perspective – a
+review, J. Adv. Res. 8 (2017) 495–511, https://doi.org/10.1016/j.
+jare.2017.04.008.
+[140] H. Rho, A.R. Terry, C. Chronis, N. Hay, Hexokinase 2-mediated gene expression
+via histone lactylation is required for hepatic stellate cell activation and liver
+fibrosis, Cell Metab. 35 (2023), https://doi.org/10.1016/j.cmet.2023.06.013,
+1406-23.e8.
+
+22
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+[141] J.D. Rabinowitz, S. Enerbäck, Lactate: the ugly duckling of energy metabolism,
+Nat. Metab. 2 (2020) 566–571, https://doi.org/10.1038/s42255-020-0243-4.
+[142] M. Sharifuzzaman, A. Chhetry, M.A. Zahed, S.H. Yoon, C.I. Park, S. Zhang,
+S. Chandra Barman, S. Sharma, H. Yoon, J.Y. Park, Smart bandage with integrated
+multifunctional sensors based on MXene-functionalized porous graphene scaffold
+for chronic wound care management, Biosens. Bioelectron. 169 (2020) 112637,
+https://doi.org/10.1016/j.bios.2020.112637.
+[143] L. Zhang, L. Wang, J. Li, C. Cui, Z. Zhou, L. Wen, Surface engineering of laserinduced graphene enables long-term monitoring of on-body uric acid and pH
+simultaneously, Nano Lett. 22 (2022) 5451–5458, https://doi.org/10.1021/acs.
+nanolett.2c01500.
+[144] P. Zhao, Y. Zhang, Y. Liu, D. Huo, J. Hou, C. Hou, Wearable electrochemical patch
+based on iron nano-catalysts incorporated laser-induced graphene for sweat
+metabolites detection, Biosens. Bioelectron. 249 (2024) 116012, https://doi.org/
+10.1016/j.bios.2024.116012.
+[145] D. Jiang, C. Xu, Q. Zhang, Y. Ye, Y. Cai, K. Li, Y. Li, X. Huang, Y. Wang, In-situ
+preparation of lactate-sensing membrane for the noninvasive and wearable
+analysis of sweat, Biosens. Bioelectron. 210 (2022) 114303, https://doi.org/
+10.1016/j.bios.2022.114303.
+[146] Z. Hao, X. Fang, Z. Wang, C. Huang, F. Li, Y. Luo, Y. Ying, S. Ma, Y. Jia, X. Wang,
+Y. Pan, Intelligent wearable graphene nano-electronics with switchable surface
+wettability capabilities for autonomous sweat enrichment-purification-analysis,
+Adv. Funct. Mater. 34 (2024) 2400947, https://doi.org/10.1002/
+adfm.202400947.
+[147] N. Haroon, K.J. Stine, Electrochemical detection of hormones using
+nanostructured electrodes, Coatings 13 (2023) 2040.
+[148] E. Knezevic, K. Nenic, V. Milanovic, N.N. Knezevic, The role of cortisol in chronic
+stress, neurodegenerative diseases, and psychological disorders, Cells 12 (2023)
+2726.
+[149] H. Yaribeygi, Y. Panahi, H. Sahraei, T.P. Johnston, A. Sahebkar, The impact of
+stress on body function: a review, Excli j 16 (2017) 1057–1072, https://doi.org/
+10.17179/excli2017-480.
+[150] M. Garg, H. Guo, E. Maclam, E. Zhanov, S. Samudrala, A. Pavlov, M.S. Rahman,
+M. Namkoong, J.P. Moreno, L. Tian, Molecularly imprinted wearable sensor with
+paper microfluidics for real-time sweat biomarker analysis, ACS Appl. Mater.
+Interfaces 16 (2024) 46113–46122, https://doi.org/10.1021/acsami.4c10033.
+[151] J.S. Nah, S.C. Barman, M.A. Zahed, M. Sharifuzzaman, H. Yoon, C. Park, S. Yoon,
+S. Zhang, J.Y. Park, A wearable microfluidics-integrated impedimetric
+immunosensor based on Ti3C2Tx MXene incorporated laser-burned graphene for
+noninvasive sweat cortisol detection, Sensor. Actuator. B Chem. 329 (2021)
+129206, https://doi.org/10.1016/j.snb.2020.129206.
+[152] A. Karim, M. Yasser, A. Ahmad, H. Natsir, A. Wahid Wahab, S. Fauziah, P. Taba,
+I. Pratama, Rosalin, A. Rajab, A. Nur Fitriani Abubakar, T. Widayati Putri,
+R. Munadi, A. Fudhail Majid, A. Nur, Fadliah, A. Rifai, M. Syahrir, A review:
+progress and trend advantage of dopamine electrochemical sensor, J. Electroanal.
+Chem. 959 (2024) 118157, https://doi.org/10.1016/j.jelechem.2024.118157.
+[153] G. Xu, Z.A. Jarjes, V. Desprez, P.A. Kilmartin, J. Travas-Sejdic, Sensitive,
+selective, disposable electrochemical dopamine sensor based on PEDOT-modified
+laser scribed graphene, Biosens. Bioelectron. 107 (2018) 184–191, https://doi.
+org/10.1016/j.bios.2018.02.031.
+[154] W. Li, Y. Li, Z. Song, Y.-X. Wang, W. Hu, PEDOT-based stretchable optoelectronic
+materials and devices for bioelectronic interfaces, Chem. Soc. Rev. 53 (2024)
+10575–10603, https://doi.org/10.1039/D4CS00541D.
+[155] H.-U. Kim, A. Koyappayil, H. Seok, K. Aydin, C. Kim, K.-Y. Park, N. Jeon, W.
+S. Kang, M.-H. Lee, T. Kim, Concurrent and selective determination of dopamine
+and serotonin with flexible WS2/graphene/polyimide electrode using cold
+plasma, Small 17 (2021) 2102757, https://doi.org/10.1002/smll.202102757.
+[156] H. Li, H. Gong, T.H. Wong, J. Zhou, Y. Wang, L. Lin, Y. Dou, H. Jia, X. Huang,
+Z. Gao, R. Shi, Y. Huang, Z. Chen, W. Park, J.Y. Li, H. Chu, S. Jia, H. Wu, M. Wu,
+Y. Liu, D. Li, J. Li, G. Xu, T. Chang, B. Zhang, Y. Gao, J. Su, H. Bai, J. Hu, C.K. Yiu,
+C. Xu, W. Hu, J. Huang, L. Chang, X. Yu, Wireless, battery-free, multifunctional
+integrated bioelectronics for respiratory pathogens monitoring and severity
+evaluation, Nat. Commun. 14 (2023) 7539, https://doi.org/10.1038/s41467023-43189-z.
+[157] C. Fiala, E.P. Diamandis, New approaches for detecting cancer with circulating
+cell-free DNA, BMC Med. 17 (2019) 159, https://doi.org/10.1186/s12916-0191400-z.
+[158] M. Cisneros-Villanueva, L. Hidalgo-Pérez, M. Rios-Romero, A. Cedro-Tanda, C.
+A. Ruiz-Villavicencio, K. Page, R. Hastings, D. Fernandez-Garcia, R. Allsopp, M.
+A. Fonseca-Montaño, S. Jimenez-Morales, V. Padilla-Palma, J.A. Shaw,
+A. Hidalgo-Miranda, Cell-free DNA analysis in current cancer clinical trials: a
+review, Br. J. Cancer 126 (2022) 391–400, https://doi.org/10.1038/s41416-02101696-0.
+[159] B. Yang, H. Wang, J. Kong, X. Fang, Long-term monitoring of ultratrace nucleic
+acids using tetrahedral nanostructure-based NgAgo on wearable microneedles,
+Nat. Commun. 15 (2024) 1936, https://doi.org/10.1038/s41467-024-46215-w.
+[160] B. Yang, J. Kong, X. Fang, Programmable CRISPR-Cas9 microneedle patch for
+long-term capture and real-time monitoring of universal cell-free DNA, Nat.
+Commun. 13 (2022) 3999, https://doi.org/10.1038/s41467-022-31740-3.
+[161] S.L. Percival, S. Mccarty, J.A. Hunt, E.J. Woods, The effects of pH on wound
+healing, biofilms, and antimicrobial efficacy, Wound Repair Regen. 22 (2014)
+174–186, https://doi.org/10.1111/wrr.12125.
+[162] J.C. Berkmann, A.X. Herrera Martin, A. Ellinghaus, C. Schlundt, H. Schell,
+E. Lippens, G.N. Duda, S. Tsitsilonis, K. Schmidt-Bleek, Early pH changes in
+musculoskeletal tissues upon injury—aerobic catabolic pathway activity linked to
+inter-individual differences in local pH, Int. J. Mol. Sci. 21 (2020) 2513.
+
+[163] C. Wang, R. Wu, L. Wang, X. Wang, Multifunctional flexible graphene oxide/
+bacterial cellulose composite paper platforms for realtime monitoring sweat and
+strain in wearable devices, Chem. Eng. J. 481 (2024) 148390, https://doi.org/
+10.1016/j.cej.2023.148390.
+[164] F. Li, B. Bhushan, Y. Pan, X. Zhao, Bioinspired superoleophobic/superhydrophilic
+functionalized cotton for efficient separation of immiscible oil-water mixtures and
+oil-water emulsions, J. Colloid Interface Sci. 548 (2019) 123–130, https://doi.
+org/10.1016/j.jcis.2019.04.031.
+[165] F. Li, S. Wang, X. Zhao, L. Shao, Y. Pan, Durable superoleophobic Janus fabric
+with oil repellence and anisotropic water-transport integration toward energeticefficient oil–water separation, ACS Appl. Mater. Interfaces 14 (2022)
+37170–37181, https://doi.org/10.1021/acsami.2c09545.
+[166] F. Li, S. Wang, Z. Wang, K. Jiang, X. Zhao, L. Shao, Y. Pan, Fouling-proof cooling
+(FP-cool) fabric hybrid with enhanced sweat-elimination and heat-dissipation for
+personal thermal regulation, Adv. Funct. Mater. 33 (2023) 2210769, https://doi.
+org/10.1002/adfm.202210769.
+[167] D.-J. Liaw, K.-L. Wang, Y.-C. Huang, K.-R. Lee, J.-Y. Lai, C.-S. Ha, Advanced
+polyimide materials: syntheses, physical properties and applications, Prog.
+Polym. Sci. 37 (2012) 907–974, https://doi.org/10.1016/j.
+progpolymsci.2012.02.005.
+[168] Y.-S. Hsiao, C.-W. Chang-Jian, T.-Y. Huang, Y.-L. Chen, C.-W. Huang, J.-H. Huang,
+N.-J. Wu, S.-C. Hsu, C.-P. Chen, Lightweight flexible polyimide-derived laserinduced graphenes for high-performance thermal management applications,
+Chem. Eng. J. 451 (2023) 138656, https://doi.org/10.1016/j.cej.2022.138656.
+[169] S. Bai, Y. Tang, L. Lin, L. Ruan, R. Song, H. Chen, Y. Du, H. Lin, Y. Shan, Y. Tang,
+Investigation of micro/nano formation mechanism of porous graphene induced
+by CO2 laser processing on polyimide film, J. Manuf. Process. 84 (2022) 555–564,
+https://doi.org/10.1016/j.jmapro.2022.10.037.
+[170] G. Ren, H. Fan, L. Zhang, S. He, C. Zhu, K. Gao, Y. Zhang, J. Wang, X. Kang,
+Y. Song, A laser-induced graphene-based flexible and all-carbon organic
+electrochemical transistor, J. Mater. Chem. C 11 (2023) 4916–4928.
+[171] Y. Yang, Y. Song, X. Bo, J. Min, O.S. Pak, L. Zhu, M. Wang, J. Tu, A. Kogan,
+H. Zhang, T.K. Hsiai, Z. Li, W. Gao, A laser-engraved wearable sensor for sensitive
+detection of uric acid and tyrosine in sweat, Nat. Biotechnol. 38 (2020) 217–224,
+https://doi.org/10.1038/s41587-019-0321-x.
+[172] F. Lorestani, X. Zhang, A.M. Abdullah, X. Xin, Y. Liu, M.M. Rahman, M.a.
+S. Biswas, B. Li, A. Dutta, Z. Niu, S. Das, S. Barai, K. Wang, H. Cheng, A highly
+sensitive and long-term stable wearable patch for continuous analysis of
+biomarkers in sweat, Adv. Funct. Mater. 33 (2023) 2306117, https://doi.org/
+10.1002/adfm.202306117.
+[173] M. Wang, Y. Yang, J. Min, Y. Song, J. Tu, D. Mukasa, C. Ye, C. Xu, N. Heflin, J.
+S. Mccune, T.K. Hsiai, Z. Li, W. Gao, A wearable electrochemical biosensor for the
+monitoring of metabolites and nutrients, Nat. Biomed. Eng. 6 (2022) 1225–1235,
+https://doi.org/10.1038/s41551-022-00916-z.
+[174] Z. Wang, Z. Hao, X. Wang, C. Huang, Q. Lin, X. Zhao, Y. Pan, A flexible and
+regenerative aptameric graphene–nafion biosensor for cytokine storm biomarker
+monitoring in undiluted biofluids toward wearable applications, Adv. Funct.
+Mater. 31 (2021) 2005958, https://doi.org/10.1002/adfm.202005958.
+[175] C. Huang, Z. Hao, Z. Wang, H. Wang, X. Zhao, Y. Pan, An ultraflexible and
+transparent graphene-based wearable sensor for biofluid biomarkers detection,
+Advanced Materials Technologies 7 (2022) 2101131, https://doi.org/10.1002/
+admt.202101131.
+[176] M.S. Mannoor, H. Tao, J.D. Clayton, A. Sengupta, D.L. Kaplan, R.R. Naik,
+N. Verma, F.G. Omenetto, M.C. Mcalpine, Graphene-based wireless bacteria
+detection on tooth enamel, Nat. Commun. 3 (2012) 763.
+[177] X. Zhan, J. Li, Y. Guo, O. Golubnitschaja, Mass spectrometry analysis of human
+tear fluid biomarkers specific for ocular and systemic diseases in the context of 3P
+medicine, EPMA J. 12 (2021) 449–475, https://doi.org/10.1007/s13167-02100265-y.
+[178] S. Hagan, E. Martin, A. Enríquez-De-Salamanca, Tear fluid biomarkers in ocular
+and systemic disease: potential use for predictive, preventive and personalised
+medicine, EPMA J. 7 (2016) 15, https://doi.org/10.1186/s13167-016-0065-3.
+[179] A. Barmada, S.A. Shippy, Tear analysis as the next routine body fluid test, Eye 34
+(2020) 1731–1733, https://doi.org/10.1038/s41433-020-0930-0.
+[180] M. Golda-Cepa, K. Engvall, M. Hakkarainen, A. Kotarba, Recent progress on
+parylene C polymer for biomedical applications: a review, Prog. Org. Coat. 140
+(2020) 105493, https://doi.org/10.1016/j.porgcoat.2019.105493.
+[181] D.C. Rodger, J.D. Weiland, M.S. Humayun, Y.-C. Tai, Scalable high lead-count
+parylene package for retinal prostheses, Sensor. Actuator. B Chem. 117 (2006)
+107–114, https://doi.org/10.1016/j.snb.2005.11.010.
+[182] R. Moreddu, D. Vigolo, A.K. Yetisen, Contact lens technology: from fundamentals
+to applications, Adv. Healthcare Mater. 8 (2019) 1900368, https://doi.org/
+10.1002/adhm.201900368.
+[183] K. Roy, P. Devi, P. Kumar, Magnetic-field induced sustainable electrochemical
+energy harvesting and storage devices: recent progress, opportunities, and future
+perspectives, Nano Energy 87 (2021) 106119, https://doi.org/10.1016/j.
+nanoen.2021.106119.
+[184] K. Na, H. Ma, J. Park, J. Yeo, J.U. Park, F. Bien, Graphene-based wireless
+environmental gas sensor on PET substrate, IEEE Sens. J. 16 (2016) 5003–5009,
+https://doi.org/10.1109/JSEN.2016.2531121.
+[185] J. Park, J. Kim, K. Kim, S.-Y. Kim, W.H. Cheong, K. Park, J.H. Song, G. Namgoong,
+J.J. Kim, J. Heo, F. Bien, J.-U. Park, Wearable, wireless gas sensors using highly
+stretchable and transparent structures of nanowires and graphene, Nanoscale 8
+(2016) 10591–10597, https://doi.org/10.1039/C6NR01468B.
+[186] J. Kim, M. Kim, M.-S. Lee, K. Kim, S. Ji, Y.-T. Kim, J. Park, K. Na, K.-H. Bae,
+H. Kyun Kim, F. Bien, C. Young Lee, J.-U. Park, Wearable smart sensor systems
+
+23
+
+J. Song et al.
+
+Materials Today Bio 32 (2025) 101667
+
+integrated on soft contact lenses for wireless ocular diagnostics, Nat. Commun. 8
+(2017) 14997, https://doi.org/10.1038/ncomms14997.
+[187] J. Park, J. Kim, S.-Y. Kim, W.H. Cheong, J. Jang, Y.-G. Park, K. Na, Y.-T. Kim, J.
+H. Heo, C.Y. Lee, J.H. Lee, F. Bien, J.-U. Park, Soft, smart contact lenses with
+integrations of wireless circuits, glucose sensors, and displays, Sci. Adv. 4 (2018)
+eaap9841, https://doi.org/10.1126/sciadv.aap9841.
+[188] M. Ku, J. Kim, J.-E. Won, W. Kang, Y.-G. Park, J. Park, J.-H. Lee, J. Cheon, H.
+H. Lee, J.-U. Park, Smart, soft contact lens for wireless immunosensing of cortisol,
+Sci. Adv. 6 (2020) eabb2891, https://doi.org/10.1126/sciadv.abb2891.
+[189] J. Jang, J. Kim, H. Shin, Y.-G. Park, B.J. Joo, H. Seo, J.-E. Won, D.W. Kim, C.
+Y. Lee, H.K. Kim, J.-U. Park, Smart contact lens and transparent heat patch for
+remote monitoring and therapy of chronic ocular surface inflammation using
+mobiles, Sci. Adv. 7 (2021) eabf7194, https://doi.org/10.1126/sciadv.abf7194.
+[190] Y. Cheng, X. Luan, J. Weng, L. Zhang, F. Ye, Engineering sampling microneedles
+for biomolecules sensing, Chem. Eng. J. 499 (2024) 156130, https://doi.org/
+10.1016/j.cej.2024.156130.
+[191] Q. Jin, H.-J. Chen, X. Li, X. Huang, Q. Wu, G. He, T. Hang, C. Yang, Z. Jiang, E. Li,
+A. Zhang, Z. Lin, F. Liu, X. Xie, Reduced graphene oxide nanohybrid–assembled
+microneedles as mini-invasive electrodes for real-time transdermal biosensing,
+Small 15 (2019) 1804298, https://doi.org/10.1002/smll.201804298.
+[192] Q. Wang, Q. Liu, G. Zhong, T. Xu, X. Zhang, Wearable vertical graphene-based
+microneedle biosensor for real-time ketogenic diet management, Anal. Chem. 96
+(2024) 8713–8720, https://doi.org/10.1021/acs.analchem.4c00960.
+[193] E. Shirzadi, M. Huynh, P. Ghavaminejad, H. Zheng, A. Saini, F. Bakhshandeh,
+F. Keyvani, D. Mantaila, F.A. Rahman, J. Quadrilatero, L. Soleymani,
+M. Poudineh, A PEDOT:PSS-based composite hydrogel as a versatile electrode for
+wearable microneedle sensing platforms, Advanced Sensor Research 3 (2024)
+2300122, https://doi.org/10.1002/adsr.202300122.
+[194] Y. Liu, L. Yang, Y. Cui, A wearable, rapidly manufacturable, stability-enhancing
+microneedle patch for closed-loop diabetes management, Microsystems &
+Nanoengineering 10 (2024) 112, https://doi.org/10.1038/s41378-024-00663-y.
+[195] S. Afroj, S. Tan, A.M. Abdelkader, K.S. Novoselov, N. Karim, Highly conductive,
+scalable, and machine washable graphene-based E-textiles for multifunctional
+wearable electronic applications, Adv. Funct. Mater. 30 (2020) 2000293, https://
+doi.org/10.1002/adfm.202000293.
+[196] X. Qing, Y. Wang, Y. Zhang, X. Ding, W. Zhong, D. Wang, W. Wang, Q. Liu, K. Liu,
+M. Li, Wearable fiber-based organic electrochemical transistors as a platform for
+highly sensitive dopamine monitoring, ACS Appl. Mater. Interfaces 11 (2019)
+13105–13113.
+[197] Y. Wang, X. Qing, Q. Zhou, Y. Zhang, Q. Liu, K. Liu, W. Wang, M. Li, Z. Lu,
+Y. Chen, The woven fiber organic electrochemical transistors based on
+polypyrrole nanowires/reduced graphene oxide composites for glucose sensing,
+Biosens. Bioelectron. 95 (2017) 138–145.
+[198] Y. Li, W. Zhou, H. Wang, L. Xie, Y. Liang, F. Wei, J.-C. Idrobo, S.J. Pennycook,
+H. Dai, An oxygen reduction electrocatalyst based on carbon nanotube–graphene
+complexes, Nat. Nanotechnol. 7 (2012) 394–400, https://doi.org/10.1038/
+nnano.2012.72.
+[199] C. Liu, N. Wu, F. Pan, X. Zhang, Z. Wang, L. Wu, J. Lin, W. Liu, J. Liu, Z. Zeng,
+Graphene/carbon nanotube aerogels with ultralow filling ratio through perfect
+cross-linking interface for efficient microwave absorption, Compos. B Eng. 287
+(2024) 111835, https://doi.org/10.1016/j.compositesb.2024.111835.
+[200] H. Bao, Q. Zhao, Y. Miao, Y. Li, H. Liu, F. Ma, Vacancy-induced interfacial
+crosslinking in graphene/carbon nanotube composites and its influence on
+mechanical behaviors: a molecular dynamics simulation, Carbon 232 (2025)
+119768, https://doi.org/10.1016/j.carbon.2024.119768.
+[201] H. Chu, X. Hu, C.-Y. Lee, A. Zhang, Y. Ye, Y. Wang, Y. Chen, X. Yan, X. Wang,
+J. Wei, S. He, Y. Li, A wearable electrochemical fabric for cytokine monitoring,
+Biosens. Bioelectron. 232 (2023) 115301, https://doi.org/10.1016/j.
+bios.2023.115301.
+[202] B. Napier, G. Matzeu, F.G. Omenetto, Multi-sensing yarns for continuous wireless
+sweat lactate monitoring, Communications Materials 5 (2024) 246, https://doi.
+org/10.1038/s43246-024-00680-4.
+[203] H. Ma, H. Liang, G. Zhu, J. Jin, J. Song, A. Chen, Y. Zhang, Laser-engraved
+graphene on fabrics for customizable and scalable textile electronics, Device.http
+://doi.org/10.1016/j.device.2024.100573.
+
+[204] J. Ma, Y. Jiang, L. Shen, H. Ma, T. Sun, F. Lv, Y. Liu, J. Liu, N. Zhu, Oil-water selfassembly engineering of Prussian blue/quantum dots decorated graphene film for
+wearable textile biosensors and photoelectronic unit, Chem. Eng. J. 427 (2022)
+131824, https://doi.org/10.1016/j.cej.2021.131824.
+[205] R. Salahandish, F. Haghayegh, S. Khetani, M. Hassani, A.S. Nezhad, Immunoaffinity potent strip with pre-embedded intermixed PEDOT:PSS conductive
+polymers and graphene nanosheets for bio-ready electrochemical biosensing of
+central nervous system injury biomarkers, ACS Appl. Mater. Interfaces 14 (2022)
+28651–28662, https://doi.org/10.1021/acsami.2c07322.
+[206] J. Zhu, C. Li, J.-Y. Ou, Q.H. Liu, Perfect light absorption in graphene by two
+unpatterned dielectric layers and potential applications, Carbon 142 (2019)
+430–437, https://doi.org/10.1016/j.carbon.2018.10.073.
+[207] R.K. Gangwar, A.K. Pathak, F. Chiavaioli, M.H. Abu Bakar, Y.M. Kamil, M.
+A. Mahdi, V.K. Singh, Optical fiber SERS sensors: unveiling advances, challenges,
+and applications in a miniaturized technology, Coord. Chem. Rev. 510 (2024)
+215861, https://doi.org/10.1016/j.ccr.2024.215861.
+[208] A.A. Balandin, Thermal properties of graphene and nanostructured carbon
+materials, Nat. Mater. 10 (2011) 569–581, https://doi.org/10.1038/nmat3064.
+[209] J.D. Renteria, D.L. Nika, A.A. Balandin, Graphene thermal properties:
+applications in thermal management and energy storage, Appl. Sci. 4 (2014)
+525–547.
+[210] M. Karatas, L. Eriskin, M. Deveci, D. Pamucar, H. Garg, Big data for healthcare
+industry 4.0: applications, challenges and future perspectives, Expert Syst. Appl.
+200 (2022) 116912, https://doi.org/10.1016/j.eswa.2022.116912.
+[211] S.A. Alowais, S.S. Alghamdi, N. Alsuhebany, T. Alqahtani, A.I. Alshaya, S.
+N. Almohareb, A. Aldairem, M. Alrashed, K. Bin Saleh, H.A. Badreldin, M.S. Al
+Yami, S. Al Harbi, A.M. Albekairy, Revolutionizing healthcare: the role of
+artificial intelligence in clinical practice, BMC Med. Educ. 23 (2023) 689, https://
+doi.org/10.1186/s12909-023-04698-z.
+[212] K.-H. Yu, A.L. Beam, I.S. Kohane, Artificial intelligence in healthcare, Nat.
+Biomed. Eng. 2 (2018) 719–731, https://doi.org/10.1038/s41551-018-0305-z.
+[213] J. Liu, S. Bao, X. Wang, Applications of graphene-based materials in sensors: a
+review, Micromachines 13 (2022) 184.
+[214] Q. Meng, H. Li, W. Zhao, M. Song, W. Zhang, X. Li, J. Chen, L. Wang, Overcoming
+Debye screening effect in field-effect transistors for enhanced biomarker detection
+sensitivity, Nanoscale 16 (2024) 20864–20884, https://doi.org/10.1039/
+D4NR03481C.
+[215] V. Kesler, B. Murmann, H.T. Soh, Going beyond the Debye length: overcoming
+charge screening limitations in next-generation bioelectronic sensors, ACS Nano
+14 (2020) 16194–16201, https://doi.org/10.1021/acsnano.0c08622.
+[216] I. Utke, J. Michler, R. Winkler, H. Plank, Mechanical properties of 3D
+nanostructures obtained by focused electron/ion beam-induced deposition: a
+review, Micromachines 11 (2020) 397.
+[217] E. Piccinini, S. Alberti, G.S. Longo, T. Berninger, J. Breu, J. Dostalek, O. Azzaroni,
+W. Knoll, Pushing the boundaries of interfacial sensitivity in graphene FET
+sensors: polyelectrolyte multilayers strongly increase the Debye screening length,
+J. Phys. Chem. C 122 (2018) 10181–10188, https://doi.org/10.1021/acs.
+jpcc.7b11128.
+[218] C.-R. Wu, S.-L. Wang, P.-H. Chen, Y.-L. Wang, Y.-R. Wang, J.-C. Chen,
+Demonstration of the enhancement of gate bias and ionic strength in electricdouble-layer field-effect-transistor biosensors, Sensor. Actuator. B Chem. 334
+(2021) 129567, https://doi.org/10.1016/j.snb.2021.129567.
+[219] D. Kireev, S.K. Ameri, A. Nederveld, J. Kampfe, H. Jang, N. Lu, D. Akinwande,
+Fabrication, characterization and applications of graphene electronic tattoos, Nat.
+Protoc. 16 (2021) 2395–2417, https://doi.org/10.1038/s41596-020-00489-8.
+[220] N. Cho, J. Yoo, S.J. Song, J. Lee, S. Jeon, H.J. Yoo, The human body
+characteristics as a signal transmission medium for intrabody communication,
+IEEE Trans. Microw. Theor. Tech. 55 (2007) 1080–1086, https://doi.org/
+10.1109/TMTT.2007.895640.
+[221] D. Kireev, N. Koripally, S. Liu, G.C. Fleming, P. Varkey, J. Belle, S. Mohan, S.
+S. Han, D. Xu, Y. Jung, Skin controlled electronic and neuromorphic tattoos, arXiv
+preprint arXiv:2410.05449 (2024).
+
+24
+
+
+
+## Metadata
+- Source file: junk_drawer/Graphene-based wearable biosensors for point-of-care diagnostics.pdf
+- Extracted: 2026-05-18
+- Category: research-paper

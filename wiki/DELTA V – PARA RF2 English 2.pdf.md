@@ -1,0 +1,86 @@
+# DELTA V – PARA RF2 (English) (2).pdf
+
+Source: junk_drawer/DELTA V – PARA RF2 (English) (2).pdf
+
+Category: [[work-deltav]]
+
+## Summary
+HARD PLATE RF2 • Product Name / Model Number: DELTA V – PARA RF2 • Armor type: Hard •
+
+## Full Content
+HARD PLATE RF2
+•
+
+Product Name / Model Number: DELTA V – PARA RF2
+
+•
+
+Armor type: Hard
+
+•
+
+NIJ standard version: 0101.07
+
+•
+
+Claimed threat level: RF2
+
+•
+
+Construction description: Construction description: 2 layers of woven
+aramid, 5 mm thick Monolitic Silicon Carbide, 1 layer of Polivinyl Butiral,16
+mm thick layer of Ultra High Molecular Weight Polyethylene (UHMWPE)
+and 5 mm thick layer of Cross-linked Polyolefin Foam for trauma protection.
+The plate is covered in nylon fabric
+
+•
+
+Nominal dimensions:
+Size
+
+Width [mm]
+
+Length [mm]
+
+Small
+
+222
+
+300
+
+Medium
+
+240
+
+300
+
+Standard
+
+254
+
+305
+
+Large
+
+260
+
+320
+
+•
+
+Nominal weight: 2.1 kg (Size standard)
+
+•
+
+Areal density (kg/m² or lb/ft²): 32.5 kg/m²
+
+•
+
+Thickness: 31 mm
+
+
+
+## Metadata
+- Source file: junk_drawer/DELTA V – PARA RF2 (English) (2).pdf
+- Extracted: 2026-05-18
+- Category: work-deltav

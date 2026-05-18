@@ -1,0 +1,94 @@
+NE235 - REACTOR OPERATIONS
+References:
+
+HOMEWORK #4
+
+Read Reactor Theory Manual Chapter 1: §1.4
+On Moodle:
+• Lecture Module #4 slides and K-Effective, Reactivity & Criticality Handout PDF
+• Lab #3 – Normal Reactor Startup PDF
+
+1. Give 3 examples of nuclear reactions yielding “Source Neutrons” in the reactor core:
+
+2. List 2 “SOURCES” and 4 “SINKS” of fission reaction induced neutrons (not source neutrons) in the
+reactor core, AND give the factor in the 6-FACTOR FORMULA that accounts for each:
+“6-Factor”
+
+SOURCES:
+A.
+B.
+SINKS:
+A.
+B.
+C.
+D.
+
+3. 6 Factor Formula Definitions - MATCHING
+Factor:
+Definitions:
+A. Ratio of number of fast neutrons that start to slow down (moderate), to the
+
+number of fast neutrons from fast and thermal fission.
+
+
+
+B. Ratio of the number of thermal neutrons that are absorbed in the core, to the
+number of neutrons that reach thermal energy.
+
+p
+
+C. Ratio of fast neutrons from both fast & thermal fission, to the number of fast
+neutrons from thermal fission alone.
+
+
+
+D. Ratio of the number of neutrons that reach thermal energy, to the number of
+neutrons that started to slow down (moderate).
+
+LTH
+
+E. Ratio of the number of thermal neutrons that are absorbed by the fuel, to the
+number of thermal neutrons that are absorbed in the core.
+
+LF
+
+F. Ratio of the number of neutrons generated from thermal fission, to the
+number of thermal neutrons absorbed in the fuel.
+
+Page 1 of 2
+
+NE235 - REACTOR OPERATIONS
+
+HOMEWORK #4
+
+4. Fill in the blanks with either a value or a range of values where appropriate (i.e. 0 <  $0.5
+etc) using the correct units. (Hint: if  = $1 = 730 pcm then Keff = 1.0073)
+
+If the reactor is:
+
+Keff is:
+
+Reactivity
+ ($) is:
+
+Super-prompt critical:
+Prompt-critical:
+Super delayed critical:
+Critical:
+Sub-critical:
+
+Lab Questions
+REF: Reactor Startup Lab Handout
+1. What are the three characteristics of subcritical multiplication that were observed while taking the reactor
+from shutdown to (super) critical?
+
+2. What are two indications on the reactor console that the reactor is super-critical?
+
+3. Which indicates a faster rate of power increase, a 10 second or a 30 second Period  (sec)?
+
+4. According to INPO, what is the first thing you should do before performing a reactor operations
+procedure?
+
+Page 2 of 2
+
+

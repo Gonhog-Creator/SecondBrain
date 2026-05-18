@@ -1,0 +1,211 @@
+SHANGHAI BRILLIANT TEXTILE CO.,LTD.
+Add.:4 Floor,Building 2,No.6372 Yinggang East Road,Qingpu District,Shanghai,China(201703)
+Tel:+86 21-36582868
+
+E-mail:info@brilliant-tex.com
+
+Technical Confirmation
+TC No.:
+
+TC25010008
+
+Download No.：
+
+Customer:
+
+Delta V S.A.
+
+Atten.:
+
+Fernando Quinodoz
+
+Date:
+
+2025-01-14
+
+Customer Art.:
+
+KR01/JUOO6O
+
+Product Name:
+
+Nylon Rockdura 500D Ripstop 4mm*4mm
+
+Finishing：
+
+Dyed+C6 W/R+PU clear coating
+
+Mechanical Properties
+
+Care Instructions
+
+TEST ITEMS
+
+UNIT
+
+TEST STANDARD
+
+Cuttable width
+
+cm
+
+EN 1773
+
+147
+
+Total weight
+
+g/m2
+
+EN 12127
+
+250±5%
+
+Dimensional change in washing-warp
+
+%
+
+ISO 5077;ISO 6330-4N
+
+±3
+
+Dimensional change in washing-weft
+
+%
+
+ISO 5077;ISO 6330-4N
+
+±3
+
+Breaking force-warp
+
+N
+
+EN ISO 13934-1
+
+1600
+
+Breaking force-weft
+
+N
+
+EN ISO 13934-1
+
+1200
+
+Elongation at break-warp
+
+%
+
+EN ISO 13934-1
+
+Elongation at break-weft
+
+%
+
+EN ISO 13934-1
+
+Tear force-warp
+
+N
+
+ISO 13937-2
+
+75
+
+Tear force-weft
+
+N
+
+ISO 13937-2
+
+60
+
+Water penetration Hydrostatic head-Original
+
+mm
+
+ISO 811 60cm
+
+Spray test-Original
+
+Grade
+
+EN 24920, ISO 4920
+
+Abrasion resistance, Martindale method 12 kPa
+(r)
+
+r
+
+EN ISO 12947-2
+
+100000
+
+Colour fastness to laundering, change in shade
+
+Grade
+
+EN ISO 105-C06
+
+4
+
+Staining of multifibre: CA, CO, PA, PES, AC,
+WO
+
+Grade
+
+EN ISO 105 C06
+
+4
+
+Colour fastness to perspiration, change in shade
+
+Grade
+
+EN ISO 105-E04
+
+4
+
+Staining of multifibre: CA, CO, PA, PES, AC,
+WO
+
+Grade
+
+EN ISO 105-E04
+
+4
+
+Colour fastness to rubbing, dry
+
+Grade
+
+EN ISO 105-X12
+
+4
+
+Colour fastness to rubbing, wet
+
+Grade
+
+EN ISO 105-X12
+
+3-4
+
+Colour fastness to light- Xenon arc light
+
+Grade
+
+EN ISO 105-B02
+
+4
+
+Remark:BR25010006
+
+REQUIRED DATA
+
+CONFIRM DATA
+
+4
+
+

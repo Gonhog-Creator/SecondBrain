@@ -1,0 +1,447 @@
+# Lecture 14 handout.pdf
+
+Source: junk_drawer/Lecture 14 handout.pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+CHE 435/525 Process Systems Analysis and Control Lecture 14: Closed-Loop Transfer Functions and Closed-Loop Stability Wentao Tang Assistant Professor, Chemical & Biomolecular Engineering North Carolina State University
+
+## Full Content
+CHE 435/525
+
+Process Systems Analysis and Control
+
+Lecture 14: Closed-Loop Transfer Functions and
+Closed-Loop Stability
+
+Wentao Tang
+Assistant Professor, Chemical & Biomolecular Engineering
+North Carolina State University
+
+March 6, 2025
+
+Wentao Tang (NCSU)
+
+Closed-Loop Transfer Functions
+
+March 6, 2025
+
+0 / 13
+
+Recapture: Feedback Loop
+PID controller: A commonly used form
+
+
+P′ (s)
+1
+= Gc (s) = Kc 1 +
++ τD s
+E(s)
+τI s
+Feedback Loop: Blending example
+
+Wentao Tang (NCSU)
+
+Closed-Loop Transfer Functions
+
+March 6, 2025
+
+1 / 13
+
+Learning objectives of this lecture
+
+1
+
+Reduce the loop to derive closed-loop transfer functions
+
+2
+
+Calculate closed-loop responses to setpoint changes and
+disturbances
+
+3
+
+Determine offset and closed-loop stability
+
+Wentao Tang (NCSU)
+
+Closed-Loop Transfer Functions
+
+March 6, 2025
+
+2 / 13
+
+Block diagram of a feedback control system
+
+Gp : process transfer function (plant), Gd : disturbance t.f.
+Gc : controller, Gv : valve, Gm : measurement (sensor)
+Km : gain of Gm
+If the sensor and valve are fast enough, we may assume Gm = 1 (and
+hence Km = 1) and Gv = 1
+Wentao Tang (NCSU)
+
+Closed-Loop Transfer Functions
+
+March 6, 2025
+
+3 / 13
+
+Simplifying the loop
+The closed-loop system is a system from Ysp (s) and D(s) to Y (s)
+Question: What are Y (s)/Ysp (s) and Y (s)/D(s) – closed-loop transfer
+functions?
+Answer: Calculate on the block diagram
+1
+2
+3
+4
+
+Y = Gp U + Gd D
+U = Gv P = Gv Gc E = Gv Gc (Ỹsp − Ym ) = Gv Gc (Km Ysp − Gm Y )
+Y = Gp Gv Gc (Km Ysp − Gm Y ) + Gd D
+Solve Y !
+Y=
+
+Gp Gv Gc Km
+Gd
+Ysp +
+D
+1 + Gp Gv Gc Gm
+1 + Gp Gv Gc Gm
+
+Call GOL = Gp Gv Gc Gm as the open-loop transfer function. The
+denominators of the closed-loop transfer functions are both 1 + GOL .
+Wentao Tang (NCSU)
+
+Closed-Loop Transfer Functions
+
+March 6, 2025
+
+4 / 13
+
+**General rules for loop simplification
+Whenever there is a feedback loop on the block diagram, with Zi
+entering the loop and Z exiting the loop:
+Πf
+Z
+=
+Zi
+1 + Πe
+▶
+▶
+
+Πf : product of the t.f.s on the forward path from Zi to Z
+Πe : product of every t.f. in the (negative) feedback loop
+
+Complex control system [Seborg Example 11.1]
+
+Wentao Tang (NCSU)
+
+Closed-Loop Transfer Functions
+
+March 6, 2025
+
+5 / 13
+
+**General rules for loop simplification
+
+Wentao Tang (NCSU)
+
+Closed-Loop Transfer Functions
+
+March 6, 2025
+
+6 / 13
+
+Example: First-order process with P control
+K
+
+p
+d
+Consider a first-order plant Gp (s) = τ s+1
+, Gd (s) = τ Ks+1
+
+Assume Gv (s) = Kv , Gm (s) = Km (fast valve and sensor)
+If we use a P-controller Gc (s) = Kc , what will be the closed-loop TFs?
+Answer:
+K
+
+p
+KOL
+Kc Kv Km
+Gp Gc Gv Km
+Y
+=
+= τ s+1Kp
+= τ s+1
+OL
+Ysp
+1 + Gp Gc Gv Gm
+1 + τKs+1
+1+
+Kc Kv Km
+
+τ s+1
+
+K1
+KOL
+=
+=
+τ s + 1 + KOL
+τ1 s + 1
+KOL
+τ
+where KOL = Kp Kc Kv Km , K1 = 1+K
+, τ1 = 1+K
+OL
+OL
+and also
+Y
+Gd
+=
+=
+D
+1 + Gp Gc Gv Gm
+1+
+Kd
+where K2 = 1+K
+OL
+Wentao Tang (NCSU)
+
+Kd
+K2
+τ s+1
+= ··· =
+Kp
+τ1 s + 1
+τ s+1 Kc Kv Km
+
+Closed-Loop Transfer Functions
+
+March 6, 2025
+
+7 / 13
+
+Example: First-order process with P control
+KOL
+τ
+1
+Response to setpoint: YYsp = τ1Ks+1
+where K1 = 1+K
+, τ1 = 1+K
+OL
+OL
+▶
+
+For a step change of magnitude M in the setpoint, the response is
+y(t) = K1 M(1 − e−t/τ1 )
+
+▶
+▶
+
+1
+Offset = M − K1 M = 1+K
+M
+OL
+If KOL = Kp Kc Kv Km ≫ 1, then the offset is small but never reaches 0
+
+Kd
+Y
+2
+= τ1Ks+1
+where K2 = 1+K
+Response to disturbance: D
+OL
+▶
+
+For a step change of magnitude M in the disturbance, the response is
+y(t) = K2 M(1 − e−t/τ1 )
+
+▶
+
+If KOL ≫ 1, the gain from disturbance is small but never reaches 0
+
+Observation: P-controller is not offset-free!
+
+Wentao Tang (NCSU)
+
+Closed-Loop Transfer Functions
+
+March 6, 2025
+
+8 / 13
+
+Example: First-order process with PI control
+K
+
+p
+d
+Still consider Gp (s) = τ s+1
+, Gd (s) = τ Ks+1
+
+Assume Gv (s) = Kv , Gm (s) = Km (fast valve and sensor)
+If we use a PI-controller Gc (s) = Kc (1 + τ1I s ), what will be the
+closed-loop TFs?
+Answer:
+K
+
+p
+Kc (1 + τ1I s )Kv Km
+Gp Gc Gv Km
+Y
+=
+= τ s+1Kp
+Ysp
+1 + Gp Gc Gv Gm
+Kc (1 + 1 )Kv Km
+1+
+
+τ s+1
+
+τI s
+
+Kp Kc Kv Km (τI s + 1)
+KOL (τI s + 1)
+=
+=
+2
+(τ s + 1)τI s + Kp Kc (τI s + 1)Kv Km
+τ τI s + (1 + KOL )τI s + KOL
+τI s + 1
+= τ τI
+(gain = 1 by evaluating at s = 0)
+1+KOL
+2
+KOL s + KOL τI s + 1
+Observation: PI-controller is offset-free!
+Wentao Tang (NCSU)
+
+Closed-Loop Transfer Functions
+
+March 6, 2025
+
+9 / 13
+
+Closed-loop stability and characteristic equation
+Now we can calculate closed-loop responses based on a given
+controller (Gc → Y /Ysp , Y /D)
+The actual question is the converse – how to design a controller to
+achieve desirable response?
+Most basic requirement for control: closed-loop stability
+Gp Gv Gc Km
+Gd
+Y
+Y
+Ysp = 1+GOL and D = 1+GOL must be stable TFs!
+
+General stability criterion
+The feedback control system is stable if and only if all the roots of the
+characteristic equation
+1 + GOL (s) = 0
+(1)
+have negative real parts.
+
+Wentao Tang (NCSU)
+
+Closed-Loop Transfer Functions
+
+March 6, 2025
+
+10 / 13
+
+Example: P-controller for an unstable first-order system
+
+K
+
+p
+Question: Given Gp (s) = τp s−1
+and Gv = Gm = 1, if a P-controller
+Gc (s) = Kc is to be used, what is the range for Kc to guarantee
+closed-loop stability?
+
+Answer: The characteristic equation is
+Kc Kp
+=0
+τp s − 1
+τp s − 1 + Kc Kp = 0
+
+1 + GOL (s) = 1 +
+
+In order that the root has negative real part, we need Kc Kp > 1.
+Insight: Feedback controllers can stabilize unstable processes, if using
+sufficiently large controller gains.
+
+Wentao Tang (NCSU)
+
+Closed-Loop Transfer Functions
+
+March 6, 2025
+
+11 / 13
+
+Example: P-controller for a non-minimum-phase system
+K (1−τ s)
+
+0
+Question: Given Gp (s) = (1+τp1 s)(1+τ
+and Gv = Gm = 1, if a
+2 s)
+P-controller Gc (s) = Kc is to be used, what is the range for Kc to
+guarantee closed-loop stability?
+Answer: The characteristic equation is
+Kc Kp (1 − τ0 s)
+1 + GOL (s) = 1 +
+=0
+(1 + τ1 s)(1 + τ2 s)
+(1 + τ1 s)(1 + τ2 s) + Kc Kp (1 − τ0 s) = 0
+
+τ1 τ2 s2 + (τ1 + τ2 − Kc Kp τ0 )s + Kc Kp = 0
+τ +τ2 −Kc Kp τ0
+τ1 τ2
+
+Note that the two roots (say s1 , s2 ) satisfies s1 + s2 = − 1
+K K
+
+and s1 s2 = τ1c τ2p
+In order that the root has negative real part, we need
+τ1 + τ2 − Kc Kp τ0
+Kc Kp
+τ1 + τ2
+−
+< 0 and
+> 0 ⇒ 0 < Kc Kp <
+τ1 τ2
+τ1 τ2
+τ0
+Insight: Non-minimum-phase requires a “not-too-large” controller
+gain.
+Wentao Tang (NCSU)
+
+Closed-Loop Transfer Functions
+
+March 6, 2025
+
+12 / 13
+
+Far from enough...
+
+Analysis for higher-order processes and controllers with multiple
+parameters (e.g., PID)
+Analysis in the presence of time delays
+Approaches for designing generic controllers beyond “PID”
+
+Wentao Tang (NCSU)
+
+Closed-Loop Transfer Functions
+
+March 6, 2025
+
+13 / 13
+
+
+
+## Metadata
+- Source file: junk_drawer/Lecture 14 handout.pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

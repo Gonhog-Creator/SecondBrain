@@ -1,0 +1,57 @@
+# CHE 311H_F23_HW7.pdf
+
+Source: junk_drawer/CHE 311H_F23_HW7.pdf
+
+Category: [[academic-homework]]
+
+## Summary
+CHE 311H - Fall 2023 HW #7 Due: November 28, 2023, during class. Submit as a hardcopy. **For full credit on all problems, make sure to indicate which figure from Geankoplis you used to obtain each Y value** Problem 1: A thermocouple junction, which may be approximated as a sphere, is to be used for temperature measurement in a gas stream. The heat transfer coefficient between the junction surface and gas is given by h = 400 W/m2.K, and the junction thermophysical properties are k = 20 W/m.K; Cp 
+
+## Full Content
+CHE 311H - Fall 2023
+HW #7
+Due: November 28, 2023, during class. Submit as a hardcopy.
+**For full credit on all problems, make sure to indicate which figure from Geankoplis you used
+to obtain each Y value**
+Problem 1: A thermocouple junction, which may be approximated as a sphere, is to be used for
+temperature measurement in a gas stream. The heat transfer coefficient between the junction
+surface and gas is given by h = 400 W/m2.K, and the junction thermophysical properties are k =
+20 W/m.K; Cp = 400 J/kg.K and r = 8500 kg/m3.
+a) Determine the junction diameter needed for the thermocouple to have a time constant of 1
+s. The time constant is defined as t = (r.V.Cp)/(A.h), where V and A represent volume and area
+respectively.
+b) If the junction is at 25 °C and is placed in a gas stream that is 200 °C, how long will it take for
+the junction to reach 199 °C?
+Problem 2: In laying water mains, utilities must be concerned with the possibility of freezing
+during cold periods. Although the problem of determining the temperature in soil as a function
+of time is complicated by changing surface conditions, reasonable estimates can be based on
+the assumption of a constant surface temperature over a prolonged period of cold weather.
+What minimum burial depth x would you recommend to avoid freezing under conditions for
+which soil, initially at uniform temperature of 20 °C, is subjected to a constant surface
+temperature of -15 °C for 60 days? Use the given properties of soil at 300 K: r = 2050 kg/m3; k =
+0.52 W/m.K; Cp = 1840 J/kg; a = 0.138x10-6 m2 /s
+Problem 3: In a manufacturing process, stainless steel cylinders initially at 600 K are quenched
+by submersion in an oil bath maintained at 300 K with h = 500 W/m2 . Each cylinder is of length
+2L = 60 mm and diameter D = 80 mm. Consider a time 3 minutes into the cooling process and
+determine the temperature at the center of the cylinder. Note that there is heat transfer from
+all surfaces and that the temperature within the cylinder is a function of both position and time.
+Properties of stainless steel at T = (600+300)/2 = 450 K: r = 7900 kg/m3; k = 17.4 W/m.K; Cp =
+526 J/kg; a = 4.19x10-6 m2/s
+Problem 4: Let us consider a spherical cantaloupe 10 cm in diameter that is taken from a 24 °C
+environment and placed in a refrigerator at 4 °C. Assume the thermal conductivity of the
+cantaloupe is k = 5 W/cm.K; a = 1.25x10-2 cm2/s; and the heat transfer coefficient for air is h =
+1 W/cm2 .K.
+
+a) Determine the temperature in the cantaloupe 1 cm radially out from the center after 50
+minutes.
+b) How long does the cantaloupe have to be in the refrigerator to bring its temperature 3 cm
+below the surface to 6 °C?
+Problem 5: BSL 14A.9 You will need to look up thermal properties of air to solve this problem –
+make sure to report the source(s) from which you obtained the thermal properties.
+
+
+
+## Metadata
+- Source file: junk_drawer/CHE 311H_F23_HW7.pdf
+- Extracted: 2026-05-18
+- Category: academic-homework

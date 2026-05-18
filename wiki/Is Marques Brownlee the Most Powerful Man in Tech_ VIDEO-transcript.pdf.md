@@ -1,0 +1,1226 @@
+# Is Marques Brownlee the Most Powerful Man in Tech_ [VIDEO]-transcript.pdf
+
+Source: junk_drawer/Is Marques Brownlee the Most Powerful Man in Tech_ [VIDEO]-transcript.pdf
+
+Category: [[media-transcript]]
+
+## Summary
+0 (0s): So I'll, I'll tell you one of the funniest stories actually that I've heard from the halls of Congress. You Know, in and around the TikTok ban, all these congress people, the senators, and You Know, Congress, they're like, we're gonna ban TikTok, we're gonna ban TikTok. And they have this huge meeting about TikTok, right? Apparently what happens is one of the senators goes to, like one of the people at TikTok and is like, this app is, is disgusting. It's, it's making people hate other pe
+
+## Full Content
+0 (0s):
+So I'll, I'll tell you one of the funniest stories actually that I've heard from the halls of Congress. You Know, in
+and around the TikTok ban, all these congress people, the senators, and You Know, Congress, they're like,
+we're gonna ban TikTok, we're gonna ban TikTok. And they have this huge meeting about TikTok, right?
+Apparently what happens is one of the senators goes to, like one of the people at TikTok and is like, this app
+is, is disgusting. It's, it's making people hate other people, and it's, it's anti-American, and it's all of this. And
+then he goes, and look at this, look at the salacious content that it's showing people. And he pulls up his for
+you page, right? And he goes, look at the things that it's shows you children are seeing these images. And
+then the person from TikTok very kindly had to say, no, I'm sorry, sir.
+
+0 (47s):
+That algorithm is based on what you like looking at. And so all of these titties that you're seeing are an
+indication of like how you live. This is What Now with Trevor Noah.
+
+Atlassian (1m 7s):
+This episode is brought to you by Atlassian. Atlassian team collaboration software like Jira, confluence, and
+Loom help power collaboration for enterprise companies around the globe with products that enable AI
+powered teamwork. Doing the impossible just became possible. So join the 83% of the Fortune 500 that trust
+Atlassian to help transform their enterprise. Learn how to unleash the potential of your team at Atlassian dot
+com.
+
+Ultra Running (1m 43s):
+This episode is brought to you by ultra running, ultra mixed performance running shoes that are insanely
+comfortable with a roomy toe box and zero to low drop. This helps keep your feet in a more natural position
+so you can move how you were designed to perfect for the road trail or gym. You could wear them for miles
+and forget that they're there. Stay out there with Ultra. Try Ultra for yourself with a free 30 day trial and free
+shipping@ultrarunning.com.
+
+0 (2m 16s):
+Marquez, welcome to the podcast, man.
+
+3 (2m 18s):
+Thanks for having me.
+
+0 (2m 20s):
+I'll admit, I've been a fan of yours for a very long time, so this is a selfish podcast. This almost has nothing to
+do with anything except for my love of tech and my love of what you do. If I think about what this
+conversation would've been, let's say, I don't know, 10 years ago, it would've just been about gadgets. I'd be
+like, Hey, Marquez, what, what, what Do you think of the galaxy? Wh which one Do you think we should get?
+What Do you think of the HTC? Yeah. And then maybe like five years ago, I would've been like, vr, what Do
+
+you think? We're going with the vibe. What Do you think we're gonna do? How Do you rate the Oculus? I
+think that's what it would've been. Now I feel like tech has become the forefront of everything that everyone
+talks about. Tech used to be the realm of like tech nerds, and then now even like a, a mom who's not
+connected to tech.
+
+0 (3m 5s):
+And yes, I'm looking at you, Christiana is going, what is ai? What is my phone doing? What is technology?
+Maybe that's the first question I have for you is like, what has it been like being arguably the most influential
+person in the world of tech and watching tech go from being a niche conversation to something that even like
+senators and presidents are talking about now,
+
+3 (3m 29s):
+I felt lucky, first of all, as like a content creator that the topic of my videos is ever evolving and it's ever
+interesting. So I don't have to be interesting. It's just the tech that always changes. But you're right, the
+conversations in especially our political atmosphere, like there's way more tech on the tips of people's
+tongues. I just made a video about AI and everyone's talking about AI now. It's everywhere. Yeah. So it is, I
+think how I describe it is the weight of the publish button is a little heavier, but it's, it's a good place to be.
+
+0 (4m 0s):
+So here's, here's what, what I think about ai, and I'd love to know, I'd love to know how you see it because
+you, you've had such an interesting journey with it. Like, I think AI is experiencing a weird PR nightmare
+because many of the people who make AI are trying to promise that AI can do everything and will do
+everything.
+
+3 (4m 22s):
+Yeah.
+
+0 (4m 22s):
+Partially because they want the value of their companies to shoot up. Yeah. You Know, and they just want
+billions of dollars. And then maybe partially because they believe some of it, right? But then because they're
+doing that, people in the streets now think that AI is gonna do everything, can do everything, can think for
+them, and then is gonna come and kill them in their sleep. And I, I feel like, and, and again, I I, I'm gonna be
+wrong, depending on time, I think in tech you are always wrong. It just depends on when you are saying the
+thing, or you're right. It depends on when you're saying it. I feel like most of what AI is gonna be is just like
+very good at doing stuff for you assistant world type thing. But I don't think we're getting the terminated
+tomorrow. And I'd love to know what you think.
+
+0 (5m 3s):
+'cause you, you play with it way more than I do, but I, but you're also like in the space, You Know?
+
+3 (5m 8s):
+Yeah. Okay. So every tech has, every technology has a bit of an a curve to start. It's this really, really steep
+improvement curve. And then it levels out and then it sort of flat lines at some point, right? Yeah. Like what's
+the difference between the iPhone 15 and 16, like not that much. So we're kind of, we're flattened out with
+the mature categories, If you will.
+
+0 (5m 26s):
+I just felt Apple convulse, as you said, that Marques Brown's says not that much,
+
+3 (5m 31s):
+But what's the difference between the first iPhone and the second iPhone? That was like, we've doubled the
+screen resolution, we've added a camera. Like, man, there's huge, huge differences, right? So every tech
+does this. EVs are going through this right now, and AI is doing the same thing, right? So it's going through
+this really, really steep improvement. And no one knows where the flat line is, which is the concerning part. Is
+it above human intelligence? Yeah. Is it right below? Is it way, way higher? Is it gonna take over? We don't
+know. We just know we're in this steep thing and everyone's sort of projecting it to be this amazing future
+and it could be an amazing future, or not. We don't know. It's just up to the tech. It's up to the people working
+on it.
+
+3 (6m 11s):
+It's also a little bit up to the people regulating the people working on it. But it is in that exciting, interesting
+steep phase where everyone pays attention to it.
+
+4 (6m 21s):
+In your like dream scenario, what Do you think AI would be able to do for us? Because right now, like I, I
+hate ai. I'm scared. I think it's weird shit, I'm scared. I think we should shut it all down. But I'm curious about,
+You Know, kind of like AI enthusiasts, like what's the best case scenario in terms of this thing helping the
+world?
+
+0 (6m 41s):
+This is your moment, Marques winner over, winner over photo.
+
+4 (6m 44s):
+Please ditch me.
+
+3 (6m 45s):
+Okay, well let me paint you a picture. Let me paint you a picture. So your phone is the most useful tool you
+have. Basically, it knows basically everything about you. If you could, and this is something I would love to
+
+do, I would like hire a personal assistant that knows everything about me, but most of us don't have that
+luxury. Most of us don't wanna pay for that. But picture this, you wake up in the morning and you immediately
+get a report of where you need to be at what times during the day of what time you need to leave your house
+based on traffic, based on your calendar to get to your next appointment. It tells you everything you need to
+know about your next meeting and who's in that meeting and what you should be bringing to that meeting.
+
+3 (7m 25s):
+And it's just super helpful for you all the time because it knows everything about you. That to me is pretty
+sweet. And it's without me having to have a person know everything about me, it's just the AI has the
+information in my phone and can give me all this value. I think when people picture AI though, just because
+it's called intelligence, I think people are picturing like this sort of general human intelligence in the form of a
+robot, which is maybe not what we need. I think there's a lot, I think there's a lot of humanoid robot shaped
+things walking around with companies trying to make them do interesting things. And I think when you say
+you hate ai, you've probably seen some of those too.
+
+3 (8m 8s):
+And I don't, I don't think we need that either. If,
+
+0 (8m 11s):
+If You were in charge of this, what Do you think you would regulate? Because I, I'll be honest with you, I don't
+think most of the people in the government have an idea of what to regulate because they don't even
+understand what it is. Yeah. And I Mean this on like a rudimentary level, I'm not an AI expert, but I know I
+know a lot more than the people who are supposed to regulate ai. Do You Know what I mean?
+
+3 (8m 31s):
+Sure, yeah. I mean, I guess the whole idea is to prevent it from being able to do bad things or, or ever doing
+anything bad. And I, up until this point, a lot of the regulation has been in the hands of those making it like, I,
+I'll just use my recent example. I made a video about Sora, which is open AI's video generation tool. Yeah.
+And they self-imposed their own limits of like, this will not represent people's likenesses. This will not
+generate anything with, You Know, violent acts. It won't do anything with minors. And I think a lot of those
+very basic, obvious regulations, which is like, okay, this should not be used to harm people. It should not be
+used to deliberately misinform people.
+
+3 (9m 12s):
+Some version of that is what we're all after. I don't know, again, I'm not a politician. I don't know how that
+ends up becoming a law, but we're all after that. We just want it to be safe and not hurt people, but all
+preserve all the upside of being super useful, super convenient artificial intelligence.
+
+4 (9m 32s):
+
+I, I, I guess I come from it. 'cause like as a writer, all this machine learning, it's taking people's innate and
+creative thoughts. I think what they're feeding the machine kind of worries me. I I I think it's plagiarism, right?
+Like I was think
+
+0 (9m 47s):
+Actually this is, this is a great Yeah. I Mean you, you experienced this head on by the way, like, no, no. Mark
+Harris, you found out that AI models, they were basically, I want to, You Know, how to stealing your content,
+taking your content without your permission, using your work to train themselves. Like what, what, what
+exactly happened there? How did you discover this?
+
+3 (10m 7s):
+Yeah. Okay. So I, on a basic level, these models, in order to be as intelligent as possible, need to know as
+much as possible. So the company is making them in this race to make them as good as possible. They're
+trying to train them on as much data as they can possibly get their hands on, kind of just the entire internet if
+they can. So if I ask it for a picture of a silver Porsche Macon, then it knows what silver is, it knows what a
+Porsche Macon is. And it can make that because it, it knows everything. And it turns out these enormous
+data sets with billions and billions of data points, a lot of the pieces of data in them are questionably sourced.
+
+3 (10m 49s):
+They'll come from publicly available, but also just YouTube videos taken from creators. They'll, they'll just
+start scraping things from websites that, that journalists have written. And they didn't really agree for their
+work to be scraped, but it's in there too. So I've come across several data sets that have been used to train
+these models that include hundreds of my videos. Hundreds of my videos. And that's concerning because
+now there is theoretically an ability for someone to ask for a video or a photo in the style of an M-K-B-H-D
+video, and it would actually be able to reproduce that. So I feel you, I I actually did a video with SOA where I
+asked it for a video of a tech reviewer.
+
+0 (11m 35s):
+Oh, this was amazing by the way.
+
+3 (11m 37s):
+And all I really asked for was a tech reviewer sitting at a desk with a phone in his hand. And it gave me a
+generated video of that. And without me asking it, put a little fake green plant on the desk in front of him. I
+didn't ask for that. That was so's own creative decision based on me asking for a tech reviewer. And I saw
+that plant and I went like, I've seen that plant before because that plant has been in many of my videos and
+many other tech reviewers videos. And Sora has seen that plant somehow, meaning it's been trained on
+some data that, that for some reason it thought that there should be one of those plants in that video.
+
+3 (12m 18s):
+
+So yeah, I kind of have no choice but to believe lots of my work has been taken and is being used to the
+model. It's
+
+0 (12m 22s):
+Like type of
+
+3 (12m 23s):
+Thing. Right? Exactly. Yeah. Yeah. It's so, but
+
+0 (12m 26s):
+It's, it's so, it's so random. Do You Know what I mean? Yeah. But it's not, no, no. What I Mean is, is this is not
+the hallmark of tech reviews. I feel like you're skipping over one of the elephants in the room. You typed in
+just basic sentence, you said tech reviewer, right? And it showed him himself. Yeah. But it showed you, yo, I
+thought this was amazing. It showed you a black tech reviewer. Do you I know the plant is like specific.
+Yeah, but I, I, I also think there's a level of like being the Michael Jordan of this shit that you, that you
+sometimes, because you're a humble guy, but I, I don't know, man. Was there a little part of you that went,
+huh? Even ai, If you say tech reviewer, it's like, well, I Mean, If you want tech reviewer, the def the definition
+of tech reviewer is a person who looks like this, A black guy with a plant.
+
+0 (13m 10s):
+Yeah. And I, and I'm saying this, I'm not even saying this for like, like, You Know, some people are like, oh,
+it's a race thing. No, no, it's not a race thing. It's, it's like, because there is almost nobody in the tech game
+who is black, who is at your level. Yeah. It is only you. But it's crazy that you've dominated the game that
+much that AI goes, yeah, yeah, yeah. This has to be, there must have been a little part of you that felt good,
+
+3 (13m 32s):
+Maybe a little bit. I I always have to be careful with that because I can never quite fully attribute, like, I hear
+what you're saying. I remember a long, a long time ago, maybe 8, 9, 10 years ago, I went to a conference
+and there was a little billboard and it was a tech conference and there was a cartoon black character with
+like this red and black striped shirt. And I, in my profile picture at the time, I was, it had the same hairstyle as
+me. It was a cartoon and it had the same, I was wearing the same striped shirt. And I was like, I, I think that's
+me. I don't really know if I can say it's me. I'm like 93% sure it's me. But yeah, You Know, it's, I think again,
+these, these are models that are like using some form of a statistical mean to find what they end up creating.
+
+3 (14m 20s):
+It's like, yeah, if the thing that you feed it is common enough, it'll spit it out. So if there is enough videos of
+me and the training data, then you ask for things with keywords that relate to me, and it'll probably make
+something that looks like me. And I guess that's what it's supposed to do. Not great.
+
+0 (14m 37s):
+I think it means you killed it. I, I understand all of the concerns and the privacy and the, but I think there's
+also moments of being like, huh, like imagine if the machines do take over the machines will be like, ah,
+markel's, you are markel's brownley. I mean, that's a, that's a pretty cool place to be. I think
+
+3 (14m 54s):
+It's like when you Google something, you're the first result. You're like, all right, that's good. I get,
+
+0 (14m 58s):
+I made it. Exactly. Yeah. Depending on what you're Googling, but yeah. Yeah. Let's, let's talk a little bit about
+like, the world that tech inhabits now. Like, You Know, like when you started off, I've watched that first video
+that you uploaded. It's, it's a young mark has, and you're just talking about like the devices that you like, You
+Know, and, and you have like no great equipment. It's you and I think your bedroom.
+
+5 (15m 24s):
+All right, welcome to my first video. Bought a new laptop, and I, it's an HP Pavilion DB seven T. So of course
+I got the media center remote with it. Quite a nice remote.
+
+0 (15m 43s):
+You Know, it, it's just a kid who likes tech. And that's what tech was for many people. And now you say tech
+people are in front of Congress, You Know, the European Union is making laws against it, You Know, and
+maybe, maybe I'll, I'll clarify by saying it this way. There was a time when hip hop was niche, right? If you
+listen to hip hop or If you performed hip hop, people were like, whoa, what is this? The hip hop? Whoa. Very
+interesting. And then now hip hop is ubiquitous. Yeah, right? You watch a a T-Mobile ad and there's a hip hop
+song playing. That was not a normal thing a very long time ago. I feel like tech is in that space now where it's
+sort of aged out of being this novel new idea and has now become like the dominant force almost to the
+point of being like hated and people being afraid of it.
+
+0 (16m 29s):
+When you think of like big tech or the idea of tech, like where Do you think we are from your perspective?
+
+3 (16m 37s):
+The word that comes to mind for me was saturated. But I, I also think there's a bunch of different parts of
+tech now. So when I was starting, when you saw that, that old 15-year-old video of me holding a little remote
+control up to the webcam on the laptop, that to me was gadgets. And that's a part of tech. Yeah. But like, I've
+always loved gadgets. I've loved the little knickknacks, little camera stuff, a little accessory to my phone that
+I'm plugging in. Like gadgets have always been, they've always been tech. But that's a part of tech. Yeah.
+Another part of tech is social networks, right? So we remember the, the MySpace days, and then suddenly
+Facebook comes along and now, oh wait, you can have both a Facebook and an Instagram and a Snapchat.
+
+3 (17m 21s):
+Oh, and a YouTube channel. Like there's, it's this sudden massive thing. And social networks is a part of
+tech, but they've grown independently. Then there's also, there's just production too. Like when I started with
+just that laptop on YouTube, that was a good enough video for people to click subscribe, believe it or not, 15
+years ago. I upload that video today and people are like, what happened to you? Like, what went wrong?
+Because the barrier for entry is so much higher, or not the barrier for entry, but the expectations are so much
+higher in production and cameras and on YouTube as well. And I love that too. I'm a video nerd, so I'm about
+that. But yeah, I kind of, I guess I'm, I'm, I divide tech into a bunch of different buckets and then I have
+feelings about each of the buckets.
+
+3 (18m 5s):
+Sense.
+
+0 (18m 5s):
+Let's talk about, let's talk about some of those feelings. 'cause I feel like you're uniquely positioned to, to get
+into this social media that's, that's a tech that everyone understands and everyone's affected by and it's
+properly in the spotlight. Yeah. My belief is, I think the biggest mistake the United States made was creating
+that law that immunized tech companies from being sued or held liable for the things that were held on their
+platforms. Because I think what they've done now is, what is it? Section two 30? I'm not good with numbers
+and remembering dates. That's it. But I think, I think that's what it was. Because what they've done is
+they've, they've abused that rule, which was meant to encourage the growth of their business.
+
+0 (18m 45s):
+And now they've made it so that they can push things on us as people. Yeah. And not get held liable. 'cause
+here's the thing, I, and I, I think this is a key distinction for me. If somebody writes something on Facebook,
+Instagram, TikTok, what you put a video, whatever it is, okay, fine, you did that. I don't think that the
+company should be held liable, but if they push that video out to people because they think it's catchy and
+grabby, I don't understand why they're not getting sued or why they're not being held liable. If somebody got
+radicalized by fake news that was pushed to them and they act on that fake news, how are these companies
+not liable?
+
+3 (19m 22s):
+Yeah. Yeah. So it's interesting what you said was like, social media is one of those things that's just simple
+and everyone understands it. But I actually do think there's a lot of nuance to it that people don't understand.
+I think something I learned about YouTube recently, and I literally learned that this year, is I think as a
+creator, I'm always like trying to make videos that YouTube will push out. And when I ask YouTube about
+things that I can do in a video to get them to push it more out, they said to me, no, no, no, no, no. That's not
+actually how this works. YouTube doesn't take videos and push them out. YouTube treats every individual
+
+account logging in and goes and searches for the things that they're most likely to watch and brings it in for
+them. Oh
+
+0 (20m 1s):
+Wow. It's not, wait, wait, say that, say that all again. Say, so YouTube doesn't, yeah, so,
+
+3 (20m 6s):
+So YouTube isn't pushing my video out to as many people randomly as possible. YouTube is for each
+individual that logs in pulling videos that they think are good for them and relevant for them. So when you
+publish a video and it goes really viral and you feel like YouTube's pushing it out for you, what's really
+happening is you've made a video that the first few people who engage with it really liked it. And then
+subsequent people who logged in that were similar YouTube thought, I've seen this type of person before,
+they're gonna like this video. And then it shared it with that type of person. So you're, you're creating a thing
+that people have engaged with and YouTube is what feels like rewarding you by finding hopefully other
+people, people, connection people finding those people.
+
+3 (20m 50s):
+Exactly. So it does feel like YouTube does bear some responsibility for all of this because they wrote those
+algorithms, they're responsible for this behavior inside of, of, of that sort of microcosm. But it's not exactly
+YouTube. Like someone at the control is going, all right, push this video, don't push this video, push this
+video. So it's complicated. So
+
+4 (21m 12s):
+That means there's no YouTube plants. 'cause I know loads of people have that conspiracy that YouTube
+plants these creators and that's why they're so popular. So you're saying that's that that, wait, have you
+
+0 (21m 22s):
+Ever been called one of those?
+
+3 (21m 24s):
+I've never, no. 'cause I started from 2009. Ah.
+
+0 (21m 27s):
+But I think there are. Okay. You got grandfather then, but
+
+3 (21m 29s):
+There people Yeah, but I've seen what you're talking about, which is like, someone shows up. What, what
+really happens is like someone will show up and they'll immediately have like videos with a bunch of
+celebrities and you're like, how did all these people end up getting on this channel so fast? And that feels like
+
+a plant. But there are also channels. I saw a stat this year there, the top three channels on YouTube of for
+growth this year. Each of them gained independently more than 60 million subscribers each. So their videos
+were so successful and were engaged with so much Wow. That of the people who watch them. 60 million
+people subscribed in a year. So yeah. What
+
+0 (22m 7s):
+All those videos, do You Know offhand?
+
+3 (22m 10s):
+Oh, there's a lot of shorts. So the number one channel is Mr. Beast. He gained like 110 million subscribers
+this year. Yeah. There's another channel that does a lot of shorts. Again, they've got billions of new views
+this year from the stuff that they made. And actually the third one was Christiana Ronaldo joined YouTube
+this year.
+
+0 (22m 27s):
+Oh, okay. Yeah. Yeah. That
+
+3 (22m 28s):
+Makes sense. 68 million subscribers. Yeah.
+
+4 (22m 30s):
+That's so interesting. 'cause normally, like people that are famous, like outside of the realm of the internet,
+don't necessarily have much success on the internet itself. Right. 'cause I think like on the online space is
+filled with people like you, like disruptors, people that are like no one knew of before they picked up a
+camera and they blew up on whether it's Instagram or Twitter or YouTube. And so to hear, like Christiana
+Leonardo, of course, he's one of the biggest athletes in the world, but all athletes don't have successful
+YouTube channels. So there's must fascinating be something about him. Fascinat. Yeah.
+
+3 (22m 59s):
+Yeah. Well, I Mean, he's literally one of the top five most famous humans alive. But it is always fascinating to
+me to see people who are famous outside of the internet attempting to sort of own their own personal image
+by running their own YouTube channel. And that's what it's for, I think. And a lot of people view it the other
+way around. If you're building up something on YouTube, a lot of people's goal is to use that to jump off and,
+and graduate to something bigger. I want my own show, I want my own, whatever it is. But you have people
+like Will Smith who are who I've been movie star for decades, starting a YouTube channel and like showing
+their own personality, For example.
+
+3 (23m 40s):
+It's for people really actually willing to put in the time to share their actual personality with people.
+
+0 (23m 45s):
+I, I actually, I actually wonder if that's why some people aren't successful on YouTube. Like some, if we call
+them legacy famous. Yeah. Because You Know, If you look at celebrities from a bygone era, You Know, like
+the real era of movies and TV and before social media, before any of this, their image was so curated, their
+image was so insulated that we didn't know them. We thought we knew them. Yeah. But we didn't know
+them. Like I, I love visiting game companies, like video game companies, right? And then I'll ask them, I'm
+like, oh, who are you working with? And they're like, oh, we got this new campaign. And they'll say, some
+celebrity. And I go, oh wow. They game. And they're like, no, they don't game at all.
+
+0 (24m 25s):
+But everyone thinks that they game and everyone feels like they're a gamer. And I'm like, huh, that's
+interesting. And I, I feel like the reason a lot of those people can't be successful on YouTube is because
+there's a realness to creators online that hasn't necessarily been what you needed to be successful in, in
+legacy. Yeah. Media. Like, I, I like, would you agree with that? 'cause I, I feel like you are the most you
+person I know. And I don't even know you by the way.
+
+3 (24m 54s):
+There, there is a type of, of, I guess it's access to the person that this sort of social media grants you that
+would maybe ruin the illusion for a lot of people who are curating their image. You think of someone like
+some, I'm, I'm just using examples, I don't know these people, but like Beyonce, Taylor Swift, like I don't
+know anything about their personality, but I think a lot of people have this really, really pristine image of them
+because of what's been curated and shared that might be ruined if they started to share way more pers of
+their real personality. Yeah, yeah, yeah. The only reason they appeal to 500 million people is because they
+have this really nice bright, shiny thing that they've created. And I think for, for YouTubers, for Twitch
+streamers, for social media personalities, you may inherently have a lower ceiling because it's just you.
+
+3 (25m 43s):
+But it is a way stronger depth of connection, I think. Like, you can't, this is what people say about going on
+like the Joe Rogan podcast, like for four hours, you can't fake a four hour conversation like it's you after a
+
+0 (25m 55s):
+While. It's hour three.
+
+3 (25m 56s):
+Yeah. So I I, there is a depth of connection there that, that really makes it different.
+
+4 (26m 1s):
+I wanna go back to something you said earlier about like, If you did the video you did 10 plus years ago
+
+today, you probably wouldn't break through, right? So now we have like this higher bar to just get through the
+noise. Do you think that's like really impacted the type of content creators that we actually now get to
+become famous?
+
+3 (26m 20s):
+Oh, a thousand percent. So here's, here's the way I've described it. It was when I started in 2009, I was one
+of a few tech channels and that was enough to stand out, which was I log in and I'm interested in tech
+videos. So I'll find like a dozen channels that do it. Fast forward a couple years and a bunch more people are
+starting to do it. So now you have some software tutorial channels, you have some hardware channels,
+some people who just do unboxings. You might have seen those. I love Unbox. Now there's a couple Oh,
+
+0 (26m 49s):
+Like unboxings
+
+4 (26m 50s):
+Handbags though. Oh, they're fun. There's handbags,
+
+3 (26m 52s):
+People like unboxings. And now there's, now there's a couple different types of tech channels, which is cool.
+Fast forward again, it's 2024 and I promise you there's an, there's a channel for every single niche. There's
+the Apple Channel, there's the anti-Apple Channel, there's the anti-Apple nerd channel, there's the
+anti-Apple unboxings channel, there's the unboxing hardware for accessories for cameras channel. Like
+every single niche is taken and saturated. And so what we kind of figure out now is the only way to
+differentiate your content is to just be you. Like you, every niche is fully filled up and taken.
+
+3 (27m 33s):
+And If you, you stand out at all, it's because it's you that people like, look, I make a video on the new iPhone
+when it comes out in September, and there is about 5,000 other people who are going to unbox the same
+phone in the same exact way that I unbox it. So why would anybody watch mine? Hopefully I can give you a
+little bit of entertainment value, a little bit of my personality. And that's enough for you to stick around and
+watch it. Otherwise you're gonna get the same information everywhere.
+
+0 (28m 0s):
+You Know, when you, when you talk about the niche of every category, there's this idea that I've been
+playing with and I, You Know, I could be wrong. One of, one of the, the great gifts we've received from the
+internet and You Know, social media and everything is the ification of everything. If you are interested in
+something, you can probably find a space where it exists now. So where before we all had to watch the
+sitcom that was on tv. Now you don't Yeah. You don't like that kind of comedy. You can find your own kind of
+comedy. You wanna watch a video about people sharpening knives? You can, yeah. You can literally watch
+
+big genre
+
+4 (28m 40s):
+On YouTube, by the way. Knives. Yeah.
+
+0 (28m 42s):
+You Know, this whole thing, You Know, one of my best friends just loves knife sharpening videos. I have
+reported him, by the way too, like people who just watch people. 'cause I'm just like, it's weird because I, I
+love him, but I'm also, I've also put him on a list because I think there's something that we, we don't realize
+we've lost because of that. And in a weird way, I feel like you are starting to be part of the solution, even in
+this niche world. And that is, as everything has become niche, we share fewer places where we have a
+collective reality. Yeah. So now back in the day, you'd walk into the office or you'd walk into school and you'd
+go, oh, did you see what happened last night? And we also, what happened last night? And now you're like,
+no, what, what happened? Oh, you didn't watch that video? No, I didn't see that video. Have you watched
+the series?
+
+0 (29m 22s):
+I haven't watched that series. Yeah. Have you streamed this? I haven't gotten to it yet. And now we're
+starting to lose all the things that brought us together. And then the only things that bring us together now
+are politics and sports. Yeah. So now the only thing you can talk about is, hey, did you see what happened in
+Ukraine? Oh yeah. This is gonna be a fun conversation. Mm. I feel like you're part of the thing thing that's
+done that, but then now you are becoming the, the other part, which I think is very important, and that is
+everyone watches your videos. And I, I Mean, I use everyone loosely, but lemme put it this way, apple
+watches it. That's the best way to put it. Do You Know what I mean? I knew that we had reached the tipping
+point when Tim Cook at an Apple launch talked about Marquez and his YouTube page and M-K-B-H-D.
+
+0 (30m 6s):
+Like, I've never seen Apple look for favor from anyone. They've never gone, like the Wall Street Journal
+loves this phone, but they went M-K-B-H-D called it a and I was like, damn. So, You Know, like how Do you,
+how Do you feel about that? Like yes. Niche, everything. Yeah. But then also at the same time, you are
+becoming, I don't wanna say mainstream, but a different type of mainstream. Do You Know what I Mean?
+
+3 (30m 30s):
+Yeah. Okay. Two main things come to mind. One, the first thing you were talking about, the audience of one.
+I'm sure you've, you've heard this like this filter before, but like, If you fast forward enough in this ification,
+like every single person's, did you see that last night is different? It's a whole bunch of things with one view.
+Like nobody has seen the same stuff. And that's, that's an interesting dystopian future, but that's a whole
+nother thing. But the other thing you said is that politics and sports bring people together. I feel like I would
+expand that to just current events, like things that actually happen in real life. So yes, there is fiction and you
+
+might watch that series, you might watch that Netflix thing. You might, You Know, invest in a storyline here or
+there.
+
+3 (31m 10s):
+But in the real world things are actually happening happening. And so that is the thing that sort of brings
+together humans. That's the defining human experiences. Yeah. The current events of what's actually
+happening. It's, it's sports. Sometimes it's new, sometimes, sometimes it's a tech event and everybody
+wants to know about the thing that just got unveiled. Lucky for me, I'm one of the people who is involved with
+showing you what just happened. So I happen to be one of those faces that a lot of people see instead of
+just one.
+
+0 (31m 40s):
+Do you, Do you think that's part of the reason that you haven't had to resort to crazier and crazier methods of
+getting views? Because this is something that I've noticed, not just for big YouTubers, but I've also noticed for
+like, let's say kids jumping on YouTube now we've noticed a shift from passively consuming to joining in and
+creating to not trying to outdo people. So now it's like, it's not enough that you threw a pie at your dad by
+mistake. Now your whole life has to be like pies everywhere in the house. And now we are the pie family and
+Do You Know what I mean? And then it, it, it culminates. You Know, it's, I remember when I was on, on the
+Daily Show, I, I spoke to, I always forget which brother Paul or Jake or one of the one I always forget.
+
+0 (32m 26s):
+It was Logan or or Jake, one of them. What's the one that punches and the one that doesn't? They both
+punch. They both, that's why it got confusing for me. Okay. Alright. But anyway, he was talking about the
+video and he was really, I loved how he broke it down, but he was saying like, this thing became a monster
+that was pushing me and I couldn't stop it. And he said, I, I had to do a crazier and crazier and crazier thing
+until I was, I even didn't realize why I was doing it. But it, it, it's all about the views. Do you think you've been
+immunized from that? Like, like why haven't you had more fireworks in your videos? Why aren't you like
+driving tanks over phones? What You Know, is that 'cause you don't have to or is it because you, you don't
+want to?
+
+3 (33m 3s):
+No, that's, and I have an exact answer for that. The star of my videos is not me. The star of my videos is the
+tech. I'm pointing the camera at the tech, at the gadgets at the thing that just came out at the Sora
+announcement, whatever it is. And I'm a face that happens to walk you through it and guide you through it.
+But it's, the pressure is on the tech industry to get more and more interesting in advance and advance. And I
+point the camera at it and that's the subject of the video. For a lot of creators, the subject of the video is them
+or their life or their family or their stunt. And once you find success with pointing the camera at that thing, the
+pressure is now on you. Oh yeah. To one up the last thing you just did.
+
+3 (33m 45s):
+And so if you're, Jake, if you're Logan, if you're Mr. Beast, if you're, if you're pointing the camera at yourself
+and or I see this a lot with family vlog channels where it's like the kids are in it And now you have to do a
+
+4 (33m 56s):
+Crazy thing. Well, they keep having babies every time the views go down. Exactly. They have another baby.
+
+3 (33m 59s):
+That's a real thing.
+
+4 (34m 0s):
+Wait, that's a do that. Yeah. My favorite genre of family channels is like people that have over seven kids. I
+just, I'm obsessed with them. Wait, so people
+
+0 (34m 7s):
+Have more babies to get more
+
+4 (34m 9s):
+Views, views, babies are great for views. Gender reveals, You Know, unfortunately it's very cynical. It's kind
+of dark, but like family vlog channels are driven by like how many kids you can have.
+
+3 (34m 17s):
+So that's the internal thing that I have is I, the, the star of the show is the tech, not me. But If you find
+yourself making videos where the star of the show is you or your life or your daily vlog or your family best
+believe that has a sort of a cap that has a sort of a ticking time bomb.
+
+0 (34m 34s):
+I hear what you're saying there and I agree with it. But the one, one part that sticks out to me is, is you, so I
+hear what you're saying, but like, I think of like the video that you did about golf or the, the, the PGAI, I Mean
+I like tech, but I'm I'm not a big golf person. I watched that video because of you. And I think you, I know
+what you mean. I I know what you mean about, about aiming the camera. And you could argue again. Oh
+yes. But Trevor, the tech at the golf was the star and I was just there. But then I argue there's some videos of
+yours now that don't even have the tech. Right. So when you were talking about ultimate Frisbee, which we,
+we gotta get into by the way, like this man is like an elite athlete bucking every trend of, of tech here, by the
+way.
+
+0 (35m 22s):
+Right? Sure,
+
+3 (35m 23s):
+Sure.
+
+0 (35m 24s):
+When you spoke about that, that's just you, that video didn't get three views. It's not like people were like,
+shut up, we don't talk about your life. And Frisbees. And people were like, oh man, this is amazing. You, oh,
+ultimate Frisbee. You got the world championships and you, you competing at the highest level and then you
+won, you came back with a medal and you, and you showed us the medal. And so Have you noticed that
+now even without the tech in the video, people are still there for you and the conversation.
+
+3 (35m 49s):
+Yeah. You Know, so you're right. It's a little bit of a balancing act. I remember maybe five, six years, eh, a
+little longer ago there was a little bit of a trend. There was a whole bunch of YouTube channels doing tech
+videos that never showed their face. And I thought it was fascinating. And I was like, what If I was a faceless
+tech YouTube channel? And for a couple months I was, I did, I stopped showing my face. I was just a voice.
+Oh wow. And it was just, it was this nice anonymous feeling. And what I sort of learned from that is people
+do connect with the character. People start to trust the character that is giving 'em information, that is telling
+them how they wanna, You Know, what you might buy. And my videos when they were at their best were sort
+of just like a conversation.
+
+3 (36m 33s):
+They were like a, it would be like me and you. Like what, so what phone Do you have now? Which one are
+you trying to get? Because I think my HTC one is, is about to die and I think this new one's not that great. So
+I should be looking at Samsung. And so while the tech is still what we are talking about in our conversation,
+you're right, there is an element of are you good at presenting the tech? Are you good at stealing information
+and making it digestible to a certain audience? Do You Know who your audience is? Can you speak to
+them? That's a fraction of it for sure. So maybe it's 70% subject, 30% host. Sure. I'll, I'll, I'll accept the pat on
+the back that I do have a little bit of a You deserve it. A little charm going for me. Sure.
+
+0 (37m 11s):
+We're gonna continue this conversation right after this short break.
+
+Ultra Running (37m 17s):
+This episode is brought to you by ultra running, ultra mixed performance running shoes that are insanely
+comfortable with a roomy toe box and zero to low drop. This helps keep your feet in a more natural position
+so you can move how you were designed to perfect for the road trail or gym. You could wear them for miles
+and forget that they're there. Stay out there with Ultra. Try Ultra for yourself with a free 30 day trial and free
+shipping@ultrarunning.com.
+
+Apple (37m 44s):
+If you love iPhone, you'll love Apple Card. It comes with the privacy and security you expect from Apple. Plus
+you earn up to 3% daily cash back on every purchase, which can automatically earn interest when you open
+a high yield savings account through Apple Card. Apply for Apple Card in the wallet app subject to credit
+approval savings is available to Apple Card owners subject to eligibility Apple Card and savings by Goldman
+Sachs Bank, USA Salt Lake City branch member FDIC terms and more at Apple Card dot com.
+
+4 (38m 26s):
+You Know, I'm, I'm really curious 'cause there's always like this kind of trope of the people that run these tech
+companies, they have minimal tech in their personal lives and they're very keen that their children have no
+exposure to tech. Right? So there's a story about Steve Jobs and You Know, all these people, they don't let
+their kids have iPads and
+
+0 (38m 45s):
+Most, most of the people who like work high up at Facebook when they throw birthday parties and those
+types of things for their kids, they have a sign that says no social media, no phones, no posting, no
+collecting, no. Yeah. Yeah.
+
+4 (38m 59s):
+And it, it's always been like this interesting paradox 'cause they like, they sell this stuff to other people and a
+lot of like wor out parents, You Know, you, the iPad kid is kind of a trope of being in the restaurant and just
+like swiping on the iPad. Right.
+
+0 (39m 13s):
+Coco melon for the win. Yeah. I'm
+
+4 (39m 15s):
+Curious about your thoughts on it. About how much should children have access to, whether it's iPhones, the
+gab, which is really popular that I know a lot of kids have these watches. What are your feelings on it?
+
+3 (39m 27s):
+That is such an interesting question. So I don't have kids, so I I this is, I'm gonna have to come up to this
+decision at some point where it's like, how young are we going to let them use the internet or a phone or
+screen at all? Yeah. And, and we've all seen Wally, we've all seen that, that like, You Know, the dystopian
+future where humans are just blobs sitting around in chairs watching screens all the time. And that feels like
+the, If you let it go too far where we'll end up. But yeah, I just, I think there is, there's obviously a healthy
+balance you have to try to strike to not just be constantly on your screen and everyone's gonna draw that
+line in a different place. I personally try to put my phone away by a certain hour.
+
+3 (40m 9s):
+I try not to, I try to actually start my day hopefully by getting all the way to work without looking at my phone,
+which is hard. It's really hard. So yeah, there's, the line's gonna be a different place for everyone, but I, I
+suspect that those people draw the line as conservatively as they possibly can because they've seen,
+they've seen the other side
+
+0 (40m 27s):
+Speak. Speaking of like just ramifications in general, I wanna go back a little bit to the personality of
+everything. I feel like this year was an interesting year for M-K-B-H-D like for you as a person, right?
+Because in all the time I've been watching you and following you, you have been, and I Mean this in the
+most like respectful and loving way you've been like non-offensive, non anything. And then this year was the
+first time where it felt like people started having different types of opinions about M-K-B-H-D one was when,
+when you launched the, the app, the wallpapers app, right. And people We reall angry and they were coming
+at you. And, and, and my question is not so much about the incident 'cause I think everyone in life is gonna
+have some sort of, If you are in public and it may even in private, there's gonna be something you do that
+people don't like.
+
+0 (41m 13s):
+Right. And there's degrees of this. Some people it's a wallpapers app, some people it's a war crime, right?
+We have degrees. But like you did this and then you had another video where you are driving, I think it was a
+Ferrari very fast. Which I,
+
+4 (41m 26s):
+Which I, what Ferrari is are for
+
+0 (41m 28s):
+Which I can I, so can I tell you something? Just can I just say this just, just as an aside, just as an aside, this
+is is my thing. I feel like it's all a trap. I'll tell you why cars are governed, right? Cars are limited at a certain
+speed. They, they literally do this to cars and it's like, it'll be a law sometimes, but they'll say this car cannot
+go over the speed. The car can go over that speed, but they'll govern the car. I'm always like, why do they
+give us the car? Why don't they just put the governing at the speed limit? That's just my conspiracy theory
+and I'm not bringing anyone else into it. But going back to everything. So you drive the car, you have the
+wallpapers app. What really fascinated me was how you handled it. No PR team, no crisis response.
+
+0 (42m 8s):
+No, I'm gonna paraphrase your tweet. But basically you came out and you were like, Hey guys, I messed up.
+I didn't explain what I was trying to do here. I was trying to create this app for creators where they can
+actually earn money. So people are not just downloading stuff online and they don't get the money. And this
+is what I was trying to do. I you're right, I messed up with the ads and this thing, I'm gonna figure this out.
+
+We're gonna tweak it, we'll put it down, we'll we'll change. Yeah, my bad. And you're like, and, and that was
+that. And then with the car video as well, you're like, Hey, that was a stupid decision. I dunno why I did that.
+Shouldn't have done it. Sorry about that. Don't do it yourself, blah blah. But, but what struck me was how I
+don dunno if unafraid is the right word. Maybe it's like authentically unafraid. You were, it's help me
+understand how you navigate to those moments.
+
+0 (42m 49s):
+Because I know personally, and I don't speak for everybody, but a lot of people were like, they, We reall
+impressed that you just said, Hey, this is what happened. And I, I wanna know how you came to that
+because you're big enough that you could have a PR company and you're big enough that you could have a
+publicist who's like handling that for you.
+
+3 (43m 7s):
+There's I think, a bit of a misconception about YouTubers now versus a long time ago. I think a long time ago,
+YouTuber was one person uploading to their channel and it was just them and that was it. Maybe one or two
+people. And now everyone more or less understands that it's a job now. And, and people have teams and
+they have like PR and they have editors and there's, there's these whole operations. And I think a lot of
+people forget that there's still people under there. And so I think when, when I'm sort of talking to my
+audience, I, I just want to talk to them as me, like I always have when it was just me versus when it was my
+team. Now I've always wanted to talk to 'em as just me.
+
+3 (43m 49s):
+And then the other thing is, I, I mentioned this earlier, but the weight of the publish button being heavier than
+ever is, is actually taking that like really seriously. So a lot of times I'll sort of casually drop a, You Know, a
+clip in my video or, or drop something in a video where I think, yeah, it'll be cool if some people see this or
+notice this. And then the next day the video goes up and there's articles about it, there's like in the news
+posts about it. And I realize, oh, right, this is, this is way more of a big deal than I originally intended to. Yeah,
+yeah. Because the weight of that button is so heavy, right? So, so, You Know, panels the wallpaper app, to
+me that was just like, I figured I would casually drop it in my iPhone review and then people would, would
+check it out.
+
+3 (44m 32s):
+And it was like, no, no, no, I, I really should have explained that way more. And I, I realized that in public, like
+failing in public is a thing that we do now and sort of owning that. And the other one was, You Know, putting
+a clip from an action cam of, of test driving a Lamborghini and it's like, oh, I thought
+
+0 (44m 49s):
+It was Ferrari.
+
+3 (44m 50s):
+Yeah. A lot of people, again, there's a ton of articles about it and half of them are saying things like, it was a
+school zone, even though it was a sign that said one thing that they're kind of just parroting and it, there's no
+context that makes it okay. But I, I should always know that the weight of the publish button is heavy and any
+one thing that I do can feel very casual. Yeah. But it's also putting it in front of 20, 20 million people. It can
+feel like an endorsement of something, even If it's just a casual mention. But at the end of the day, You
+Know, I'm a person, I'm gonna, I'm gonna continue to screw up in the future and hopefully continue to talk to
+my audience as me, as a person at that makes mistakes and learns from 'em and hopefully gets better and
+evolves over time. So that's the goal.
+
+0 (45m 31s):
+I, so here's my thing. I hope you don't change too much, and I'll tell you why I say this because it's
+something I've grappled with. I I actually think that there's a, a fake outrage machine that oftentimes feeds on
+some real outrage, don't get me wrong, but I think there's like a fake outrage machine that we've encouraged
+too much, right? And, and the reason I say the fake outrage part of it's like sometimes people can be
+outraged in a fun way. And I think we all, we should all be allowed to do that as human beings. I do it with
+you, Christiana, I hope you do it, You Know, marque with your friends. Sometimes it's fun to be like, I can't
+believe they did that. Ba ha ha, whatever. Great. But I've noticed there's this weird like tail wagging, the dog
+effect that's happening now in life where the, the news and I, I've watched this happen, right?
+
+0 (46m 20s):
+We'd be at the Daily Show talking about these things. A few people online would say something. And when I
+say a few, I Mean a few, a few hundred right? Would say something online, the news like as in like
+mainstream, You Know, like let's say CBS and NBC and CN they would report on it and they would say, You
+Know, this person taking flack from social media. And then they'd start posting the things up. Many people
+commenting on how they're putting people in danger. Yeah. And they put those things up and they put, and
+then they start putting up the post and they're putting up the post and then they talk about it like it is news.
+But I'm like, no, no, you also making news.
+
+0 (46m 60s):
+This is a very sinister thing that you're doing for sure. Then thing gets bigger online. And so the news reports
+kind of like a self-fulfilling prophecy. Yeah. And then there's, there's a part of me that goes, and please don't
+get me wrong, I I'm not like bandwagoning, I'm, I'm not even like trying to gas you up. I go like, yeah, okay,
+you screwed up. But I just feel like there's like a level of outrage that's not real. It's like disproportionate to
+what actually happens. Yeah. Like, like people made it seem like you drove through a playground is is the
+way I'm saying it. Right? And and people made it seem like you rated their bank accounts and hacked them
+to steal money for a wallpapers app. And while I get criticism, criticism I think is very different to outrage.
+Someone can say, Hey, I didn't think you did that the right way.
+
+0 (47m 40s):
+Outrage is when someone goes, this hurt me deeply. Marquez. Yeah. This wallpapers app has, and I'm just
+like, yo man, is this, is this a real thing? Yeah. And even in my own life, I've tried my best to be cognizant of
+those moments where I'm participating in it, but then also like, as a person putting stuff out. I think it's part of
+the reason people feel like there's like shackles that they need to break in society now. Where they're like,
+what? No, actually that person didn't mean that. Yeah. Marquez wasn't trying to kill anyone. Trevor wasn't
+trying to like, You Know, incite violence. Christiano wasn't trying to,
+
+4 (48m 13s):
+Well that's why I wanted to ask him, You Know what I mean? Because you keep saying that the, the weight
+of the published button feels heavy, which is like very grave I think for like existing online. Do you miss the
+days when it wasn't heavy, when you kind of, it was this creative space where you could explore and talk
+about the things you love without being afraid of like this outrage machine. Yeah. You're a tech for the rollout
+of a product that you were excited about or, You Know, being silly. Do you miss when you are just like, I
+would publish 'cause I like this shit and I, I want people to be into what I'm into or what I don't like, You Know,
+
+3 (48m 47s):
+It is a privilege to have that sort of pressure. Like I, back in the day, yeah. I was just, I was just publishing
+whatever. I would make a video that was literally one take. I would do a 92nd video and as soon as I hit stop
+recording and the file appeared on my desktop, I would upload that video. It was that, it was that easy, right?
+
+0 (49m 3s):
+Ah, the
+
+3 (49m 4s):
+Good old days. And that was fun. And that was the good old days. And there was the casualness about it
+and it was fun. But a lot of what we're able to do, a lot of like the PGA tour pulling back the curtain and going,
+yeah, we would love to show you all of the tech that goes into a broadcast and we would love for you to
+show it with your audience. That comes with also the downside of the coin, which is everyone with like
+binoculars on everything you ever do. So, yeah, You Know, a part of me does miss the old days of that a
+little bit, but I, I do feel like treating it with respect, like the only reason we get to do these cool things is
+because a lot of people care a lot about what we say. So I'm, I'm willing to accept that.
+
+0 (49m 43s):
+How, how Do you find the balance though? 'cause, 'cause here's, here's the loop I sometimes think about
+people love you because you're genuine. A genuine person comes with complexities. You and I talk about
+this all the time. You'll say a thing and then I'll be like, no ways. And I fight with you, but we're friends. Yeah.
+And I'll say a thing that'll do the same thing to you, but we, we know that we are people in our full
+complexities. How Do you, how Do you find that balance between saying, this is me, this is what I feel, or
+
+this is how I was gonna say it with the, oh, I want to get invited to the PGA because I, I think sometimes
+there's this weird little tipping point if we're not careful where we start to lose a little bit of what got us there in
+the first place. The source Source, yeah, the source of it. And I'd love to know, how Do you keep your
+source? Like how Do you make sure that you are still you and then manage the weight of the publish button?
+
+3 (50m 30s):
+Yeah, I think a lot of people have said things like, oh, You Know, if you're not really a, If you don't make tech,
+then how Do you ev how Do you evaluate tech? Like if you're not coding, then how Do you review an app?
+What I've found is I feel like I'm basically a professional user. I use tech and I'm able to show you my
+experience using it. And so my guiding like North star for that is, I'm just gonna show you the truth. I'm gonna
+show you how it actually went. I'm gonna tell you what actually happened. I'm gonna share with you what I
+actually saw. And as long as I'm delivering that truth, I don't really worry about too much else. It might be a
+little harsh in the way I say it. It might be a little bit light in the way I say it. And you may take issue with one
+or the other. But You Know, I'll, I'll do a shout out to, a couple months ago I reviewed the humane ai pin and
+the rabbit R one.
+
+3 (51m 17s):
+Oh yeah. And I had a lot of negative things to say about them because they just didn't work. They were bad.
+You're
+
+0 (51m 23s):
+Still being nice. People were
+
+3 (51m 24s):
+Much harsher than me saying things like, oh, You Know, they're scams or they're, they should be illegal.
+These companies should go outta business or whatever. I just told, look, this is the worst product I've ever
+reviewed. I've reviewed a lot of stuff and these are really truly at the bottom. They're really bad. And I
+showed all that stuff and when I started to get backlash for, oh, you were too harsh on them or you said, You
+Know, you were too mean in these ways that you said it, I can accept that, but what, what I'll always fall back
+on was, was I wrong? Was I, did I say anything incorrect? I showed you all this stuff. Right? So I, I don't
+really worry too much about, You Know, trying to make everyone happy or trying to nuance my way into
+wording things with the way that I get invited to the thing.
+
+3 (52m 5s):
+It's like, what, You Know what If you, If you value the truth, I'm here for that. And all the other stuff is, is sort
+of sheds to the side.
+
+0 (52m 12s):
+One of the reviews that touched me personally was, and again this is one of those where you got both the
+
+credit and the criticism unfairly is when you were, when you were reviewing the, the fisca, right? So I
+remember I drove a calmer way back in the day. I've always loved electric cars and the idea of them and I
+drove on back in the day was the greatest idea. Some of the worst execution. But I love the idea and I think
+If you love tech, you actually love not necessarily the thing working the effort, but the idea behind it, You
+Know, I I think you're the same. I love it when like the Apple Vision Pro, I hate that people slammed it as
+opposed to going like, wow, Apple's trying something new. Yeah. And you got like, that was an interesting
+level as well where they were like, Marquez, not only are you slating these products, you have now ended a
+company and you have put people out of their jobs other, like in those moments, Do you, Do you laugh?
+
+0 (53m 7s):
+Do you side, Do you, like, how Do you even process that? Because it's one thing if, You Know, it's like a
+wallpapers app, it's another thing when people think that you and your comments are shutting down a
+company that makes cause
+
+3 (53m 19s):
+Yeah. So all I can say to those is as long as I'm still telling the truth, which is the anchor of all of this, all I did
+was accelerate what was already happening. If, if it was me saying something about the car that took the
+company from S tier to shutting down, then I was probably lying. No. Like if this company was doing amazing
+things with an amazing product and everybody loved it, I would probably find the reasons why people loved it
+and pretty good chance I would like it too. And if I hated it, there would be some reason why. So me coming
+along telling the truth about a product and then people going, Hmm, bad product. Well, if it was a bad
+product that was gonna happen to sooner or later anyway.
+
+3 (54m 1s):
+Yeah. By the way, fun fact, I drove the Karma as well years ago. I never even made a video about it because
+I didn't have enough things to say about it. So, so that one kind of slipped by and so it was this fisker that
+happened to get a video. But yeah, there was, You Know what's also funny is you probably saw a lot of the,
+the negative comments there, but even in videos like that, I still get it from both sides, which is interesting.
+Yeah, yeah. I get a lot of, you were too harsh. And I also get a lot of this car was wor I've never seen a car
+this bad. You should have been more mean about this car. And I, I think If you see both sides, you, if you're
+probably somewhere in the middle with the truth, you're doing something good.
+
+0 (54m 40s):
+My, my experience with the Fisca was I drove it in LA so it was actually Jay Leno said to me, this is long
+before the Daily show, by the way. Yeah. This is like, nobody knows me. Yeah. I'm just a random comedian
+traveling around America and I meet Jay Leno at the Comedy and Magic Club in Hermosa, Hermosa Beach.
+Jay and I are talking, we're talking about cars and he's like, oh, the Fisca, you, you gotta, and I was like,
+what this car? And he's like, drive it. He's like, don't buy it kid. Don't buy it. He's like, whatever you do, don't
+buy it, but you gotta drive it. It's, You Know. And so I, I rented one and my experience was I was driving and I
+
+was on the highway that goes to Pasadena and in traffic, the car's electronic system all like died on me.
+
+0 (55m 25s):
+Right. The windows went down. So the car was still driving, but I could do nothing and I could see nothing
+but the radio went to full volume and it was, I'll never forget it was playing Power 1 0 6 and I'm in the traffic,
+everything and it was Tupac hit him up and you couldn't turn it down. No. Couldn't do anything. Oh my gosh.
+Couldn't do anything. This is why I don't like electric cars, yo. And I'm in the traffic and I'll never forget people
+looking at me and you think, You Know, oh yeah, loud, loud music is cool If you want loud music, but You
+Know, when everyone in traffic is driving past you and you, you're sitting there like, it was the, it was the
+meekest paradox between what Tupac was saying and how I was expressing my, like it was just like one of
+those more, so when you made that video, I was like, thank you Marquez.
+
+0 (56m 6s):
+You have Avenged, you have avenged young Trevor for everything he experienced. Man actually wonder,
+like, Do you think the reviews you got on Wallpapers has in any way affected how you're gonna give
+reviews? Like Do you think it, Do you think as a creator of something, you are now going to review things
+differently? Are we gonna lose like the source of you being harsh because now you, you're sort of in the
+game even If it's just like a tippy toe in the game?
+
+3 (56m 31s):
+No, I, You know what's funny, I actually feel like I understand things a little bit better now. You Know, I
+sometimes I'll, I'll go to a, a briefing or a a, some sort of meeting where they're showing me a new device
+and they're, they're doing a presentation and behind the person giving a presentation, there's like eight or
+nine engineers like, okay, how is it,
+
+0 (56m 47s):
+They're always so
+
+3 (56m 48s):
+Enthusiastic. They've been working on this thing and they're like, try the thing that I worked on. And I have
+always appreciated that. Like, it, it takes a lot to put this stuff together and to sort of, You Know, again, we
+say we hate these products when they're bad, but like to try to make something that's any good does take a
+lot of effort. So I I've always appreciated that. And I think, yeah, I I maybe have a little bit, a little bit more
+sympathy now for, You Know, any words of like, they didn't seem to try on this at all. It's like, well I know
+somebody tried on this, but they might not have gotten to done or they might have run outta time or they
+might have just, they might have to improve this with a software update. There's a little Yeah, sure. A little
+soft spot now for, for a little bit of the, the builder side.
+
+3 (57m 28s):
+
+Sure.
+
+0 (57m 30s):
+Don't go anywhere 'cause we got more. What Now after this,
+
+Yamaha Resort and Casino (57m 35s):
+This episode is brought to you by Yamaha Resort and Casino. I travel a lot and I spend a lot of time in both
+Las Vegas and California. So it's awesome to know that if I play at Yamaha Resort and Casino in California, I
+get rewards to the Iconic Palms Casino Resorts in Las Vegas. Between the two properties, they have one of
+the most stacked entertainment lineups in the country. Over 8,500 slot machines, award-winning dining,
+some of the best views in the country from the Ghost bar and y lounge and so much more. And for a limited
+time, I'm giving my listeners a chance to win three nights of hotel accommodation at the Palms in Las Vegas
+or Yamaha Resort and Casino in California. The choice is yours. Both were voted best casinos in the country
+by USA Today. So no matter what you choose, it will be a winning experience. Go to Y aa MA va.com/trevor
+to win.
+
+0 (58m 40s):
+The thing I wanna talk to you before we go is what I've been calling with my friends, the ification of
+everything. I mean it in every field. I Mean it in politics. I think politics has become ified in a way where it's
+like it's so broken that people don't like it, but it's supposed to be for the people. Right. You Know, you feel
+like this with like products. Tech is one of those areas where, I don't wanna sound like a grumpy old man, but
+I feel like we are living in an age of nichification. You Know, so you talk about the rabbit, you talk about the
+humane, right? I pre-ordered and bought both of those. I love gadgets and I love tech. When I look at the
+amount of tech that comes out now that isn't ready, I'm like, how are you allowed to sell something to
+somebody and then tell them after they've purchased it that they have to wait for the thing to work?
+
+0 (59m 29s):
+I'm just like, what? Because you can't do that the other way, right? Yeah. I can't go to the store and buy the
+phone and be like, Hey, hey, I know the money I gave you right now is Monopoly money, but in a few months
+it's gonna update into real dollars and then you can, you can use this. Oh,
+
+4 (59m 43s):
+What I hate is the printers that you have to subscribe to for them to print. Yeah.
+
+0 (59m 47s):
+That's the ification of like, everything has become a service now. It's just both
+
+4 (59m 50s):
+Scammy and weird and
+
+0 (59m 51s):
+Like, it's the ification of everything. Right? And even like a company like Apple that's been above it for a long
+time, like, I want Apple's phone to work, right? I want the iPhone to work, but like, they were like Apple
+intelligence, apple intelligence and then the phone comes out, there's no intelligence. No. And then they're
+like, and now the next update and there's still like not the intelligence. I'm like, wait, wait, wait. So you held a
+launch telling us what it was gonna be. It wasn't. Yeah. You then released a phone where all the billboards
+were advertising the features of that phone. It wasn't right. You told us what the phone can do. It cannot. At
+what point do we go, this is a scam. I I and I I wonder like, because you live in so much more tech than most
+of us do, I wonder if you've a experienced the same, If you, If you think there's something there and then B,
+what you think is driving it, maybe even just through the lens of tech and everything you've seen.
+
+3 (1h 0m 43s):
+Totally. Okay. So I think with most reasonable things, there's two sides of of every coin, right? And we are
+both mostly experiencing it on the consumer side. So we are trying to spend our money on something that is
+hopefully good. And there are lots of things that you can buy that are fine and you don't really think twice
+about it. It's like, I I, I just bought the C phones, they're in 90 bucks. They showed up on Amazon, they were
+fine, I plugged in, whatever. Great, I'm not gonna remember that. And then every once in a while there's a
+couple that really suck and you have a really strong reaction to that. As a consumer, we feel validated in that
+I, I can't believe your advertising this thing is gonna be good and it doesn't even exist yet. This seems
+horrible. Lemme just flip that coin real quick.
+
+3 (1h 1m 24s):
+If you work for any of these tech companies, there is an immense pressure to make something that is
+leading and that is incredible that stands out. And that is very, very, very, very hard. I Mean every once, every
+decade maybe we get something that kind of feels that good. Like we, the original iPhone maybe was one of
+the last ones that we remember in our lifetime. And a lot of these, these companies and these people that
+lead these teams and that work on these projects and that engineer and that do these things, they all feel
+this pressure and whatever opportunity they feel like they can latch onto to maybe have a shot at making
+that next big thing, they're gonna try to take it.
+
+3 (1h 2m 6s):
+And if they'd app, if they appear to be lagging, they have failed again. And so AI comes along, right? Okay,
+so I'm a startup, I wanna make something, maybe I can make kind of like the next iPhone, but it's AI in a box
+and maybe it's not a phone but it's a pin and they try to put this thing together. Oh but I see that company
+over there is working on something too. So I gotta rush and put mine out and it's out and it's out way too
+early and it's not done yet. And you see the promises they're making earnestly, they're like, by promise in a
+year this will be the greatest product you've ever bought. Just give us more time to work on it. And again, on
+the consumer side, I'm like Bro, we don't care. I gave you real money today. Why is this thing so bad? I'm
+
+returning it.
+
+3 (1h 2m 46s):
+It's too expensive, it's a subscription, right? And I want this garbage. They're not trying to scam you. They're
+actually trying to make something good. There's just so much pressure to be early and to be amazing and
+tech is really, really hard to make early and amazing. It's probably either early or amazing, not both. And I
+understand that most of it will not be both early and amazing. Right? So stop promising. It will be like you
+don't, I know that you have to get your share price up and whatever you have to appease. I
+
+0 (1h 3m 16s):
+Don't think they're trying to scam us to be honest. And I love engineers, right? I've spent like what, seven,
+eight years working with engineers at Microsoft. This is like what I do as one of my favorite passions, right?
+But I think it's not that they're trying to scam us. I think that's that they're trying to scam Wall Street. It's like
+they're trying to scam analysts like they're trying to scam like Apple. I think one of the things that's always
+made them so good is the fact that they've tried to make the thing right, not first. And that's served them well
+and I feel like, I
+
+4 (1h 3m 45s):
+Mean they don't invent things. That's never been their job. Yeah. The phone already existed, right? And they
+made the best version of a phone, You Know, a watch existed. They made a best version of a digital watch
+like
+
+0 (1h 3m 54s):
+The Apple Vision Pro. This was the first time it felt like they were chasing because they didn't want the
+negative side of not being seen to chase. And they did a thing that wasn't ready and wasn't. But I was like,
+oh man, you too. It's like you, You Know, I feel like if the ification catches Apple we're all in trouble in every
+other field. You Know what I Mean?
+
+3 (1h 4m 13s):
+If they're the company that is the iPhone company, you're you all, y'all are the ones in 2007 that reinvented
+the phone that everyone carries now. I think when they looked around in 2007, You Know there were phones
+but I don't think they looked around and thought, wow, there's a lot of people working on this really, really
+amazing capacitative touchscreen, multitouch media player. This was a genuinely new like series of things to
+combine to make the iPhone what it was. Which is why it hit so hard. Yeah, I think this moment was different,
+which is there is an immense pressure If you are a tech company, I better see some AI in your products or I
+don't think you're leading at all.
+
+3 (1h 4m 56s):
+And I think they looked around and they saw everyone else, they saw Google, they saw Meta, they saw
+
+everyone making AI stuff. They saw startups making AI stuff. And they felt like if they don't do anything ai,
+even If, if if you're like a year behind or two years behind, you're gonna look behind. And that's a reputation
+thing. It's a pride thing. It's a shareholder thing. And they felt pressured to do something now. So they did.
+They announced that they'd make Apple Intelligence and that it would show up soon and software updates
+and yeah it's, it slowly started to trickle out. But that did feel like it was very differently inspired than some of
+their original successes There were. There were very much pressured.
+
+0 (1h 5m 37s):
+Christiana, Do you have any Luddite questions for Marquez? 'cause I know No,
+
+4 (1h 5m 41s):
+My questions are so basic bitch.
+
+0 (1h 5m 43s):
+No. Can I tell you why I think they're amazing and I Mean this honestly 'cause our friend David is also yeah,
+mega Luddite. He said something to me that I, that has resonated with me. He said the stupidest people in
+tech are the most important ones because that's who everyone is. 'cause you represent the people in this
+
+4 (1h 5m 58s):
+Well my favorite video of his, you all like four watches and you did the step count, right? And I currently use
+a step count for my phone, I use my iPhone and I know that's not that accurate. So I love that video of yours.
+I wanna know like you most practical tech product that you think like boring Luddite moms like me can go
+and buy and be like, this is actually making my life better.
+
+3 (1h 6m 22s):
+Yeah. Wow. I Mean there's so few things that are truly like value add in life. No,
+
+4 (1h 6m 29s):
+'cause I like step thing because this is like, I do like to know how many steps I'm getting in. Like it's a thing
+that people do like to know like 10,000 steps. I know it's a myth, but be like, but I'm like, what is the product
+that you'd be like, buy this, it is gonna make your life that bit better. It's what technology is supposed to Do.
+You.
+
+3 (1h 6m 46s):
+So I could go on the theme of that. 'cause like everyone cares about different things and If you care about
+the step counter, to me there's a theme of like, I care about the metrics in my life. Yeah. Like I have the
+Apple Watch and it tells me all sorts of, here's what your heart rate, resting heart rate has been for the
+
+4 (1h 6m 58s):
+
+Last month. Yeah. How I'm sleeping and You Know, stuff like
+
+3 (1h 6m 59s):
+That. How I'm sleeping. Yeah. Yeah. So that's fun. You can get a smart scale and that, for me, that's been
+telling me all sorts of things, trends over time. Oh, so that's, that's an interesting one too.
+
+4 (1h 7m 10s):
+Metrics. I didn't even know smart scales existed.
+
+3 (1h 7m 12s):
+So they, so that's one. So Withings is a company that makes smart scales. You step on it connects to an app
+and yeah, the battery dies every couple months. So you're like annoyed that you need to recharge your
+scale. I started taking creatine a month ago, so I'm like tracking how it's affecting my weight. It's like actually
+kind of informative. So that's kind of cool. Wait, why'd
+
+0 (1h 7m 31s):
+You start taking creatine?
+
+3 (1h 7m 33s):
+Because I have a bunch of teammates who have been taking it for years and they're like, how have you not
+started take trying it? Like I'm Yeah, but you willing to try
+
+0 (1h 7m 41s):
+But you won?
+
+3 (1h 7m 42s):
+Oh yeah. No. See here's the thing about winning is everyone's at your throat now. You gotta get better.
+Someone's gonna, someone else is gonna find a way to get better than you, man. So
+
+0 (1h 7m 50s):
+Here's my way of doing it, man. See you caught up in the game. Now Marquez, this is what I'm talking
+about. I've been caught up in the game though. You guys, one doing the thing the way you did it and now
+you're so worried about losing your spot at the top that you're gonna release AI Marquez before it's ready.
+You're gonna, what, what is it about? It's ultimate Frisbee, right?
+
+3 (1h 8m 9s):
+Ultimate Frisbee. Yeah. Yeah. I'm working on a video. I gotta explain it 'cause it's always
+
+0 (1h 8m 12s):
+
+Complicatedness. Okay, great. Then don't spoil it here then, then don't spoil it here. Yeah, we'll, we'll we'll all
+look out for that. The last thing I have to ask you, 'cause I I, I know my brother and his friends and a whole
+bunch of people would be, would kill me if I didn't is If you were talking to a young Marquez today, who wants
+to get into the game? 'cause back in the day, people would want to get into like the TV game. Yeah. Before
+that people wanted to get into the radio game or whatever you are now that, that, that step, like you are the
+thing that a child in school says, I want to be a Mark Brown. Why would you say they should do it and why
+would you say they shouldn't do it?
+
+3 (1h 8m 47s):
+Hmm. I would say being a a social media person as a career is very similar to being a professional athlete in
+that you really have to like doing this to be able to put in the number of hours and the amount of work
+required to actually make it your job. Take basketball, basketball, you could play in the park, you could play
+for free, you could play against your friends. But if I want to be a professional basketball player, there's some
+level of, first of all, luck but dedication, hard work that goes into hopefully getting you over to the next level to
+actually be able to make it your job. And it's very competitive even while it is your job.
+
+3 (1h 9m 30s):
+And so think about before you start, if this is something that you actually like doing enough to be able to put
+those hours in 'cause people see the final result, but are you willing to put in those hours? How,
+
+0 (1h 9m 42s):
+How long does it take you to make a video just so people get, 'cause again, some people watch the video
+and they're like, well I watched the video and it was 15 minutes took it took you 15 minutes. Yeah,
+
+3 (1h 9m 51s):
+Yeah, exactly. Yeah, maybe. So we're working on a, a smartphone awards video right now, which it's gonna
+be a 30 minute video when it comes out, but it's gonna take a week to, to edit this video. Wow. A lot of them
+take a week to write before they take a week to edit. A lot of take. Damn. We just had a call today of a video
+we're planning that should hopefully come out around May. So four to six months. So it de it's, it depends on
+the video, but they don't take no time. I'll put
+
+0 (1h 10m 20s):
+It that way. Okay. So that's, that's why you shouldn't and why should you?
+
+3 (1h 10m 23s):
+You should, because If you do enjoy playing basketball in the park, you're gonna love being a pro baller. So
+If you enjoy making videos, If you enjoy tech For example, even though it comes with more pressure, even
+though it comes with more scrutiny, you're going to enjoy the, the privilege of being able to share tech with
+the world. So, so do it
+
+0 (1h 10m 41s):
+Marque. I cannot thank you enough. You have not only kept me entertained for many hours, you've saved
+me and millions of other people, lots of money. Can I just put that out there? That's great. Because of you.
+Not really. I think before you, we only knew something was bad when we bought it. And I think you, my friend
+are like a, a warrior in the war against ification because really because of you. There's sometimes where I'm
+like, ah, I guess I don't need that device. So yeah man, I appreciate it. Thanks for taking the time and I hope
+we see you again soon, man.
+
+3 (1h 11m 10s):
+For sure. Yeah. Always willing to get in the trenches for you. Let's do, do it.
+
+1 (1h 11m 13s):
+Thanks for having me. Thank you.
+
+0 (1h 11m 20s):
+What Now with Trevor Noah is produced by Spotify Studios in partnership with Day Zero Productions. The
+show is executive produced by Trevor Noah Sonin and Jody Agan. Our senior producer is Jess Hackle.
+Claire Slaughter is our producer, music mixing and mastering by Hannahs Brown. Thank you so much for
+listening. Join me next Thursday for another episode of What Now?
+
+
+
+## Metadata
+- Source file: junk_drawer/Is Marques Brownlee the Most Powerful Man in Tech_ [VIDEO]-transcript.pdf
+- Extracted: 2026-05-18
+- Category: media-transcript

@@ -1,0 +1,1655 @@
+13th September, 2024.
+Dr. Kim C. Dickey
+Instructor
+Department of Chemical and Biomolecular Engineering
+North Carolina State University
+Dear Dr. Dickey,
+Attached is the final report for the experiment "Batch Distillation". The main objective of
+this experiment was to learn how to operate a batch distillation unit by distilling a mixture of
+methanol and isopropyl alcohol and generating a product composed of purified methanol, then
+compare the results of using a higher and lower reflux ratio. It was discovered that using a higher
+reflux ratio of 1.5 will result in a higher purity product compared to that of 0.75. Data acquired
+throughout the experiment was analyzed using various Rayleigh analysis techniques, a McCabe
+Theile analysis, and a Matlab simulation to fully understand the process.
+Using a rigorous Rayleigh analysis, we were able to independently check the material
+balance of both runs and produce plots of the methanol weight fraction of the distillate as a
+function of time. In conjunction with the various Rayleigh analysis techniques, other calculations
+were performed, including a McCabe Theiele analysis and a MATLAB simulation. Together,
+these calculations highlighted the effect that reflux ratio has on the purity of the distillate
+product.
+Using different approaches to analyzing the data collected during the experiment and
+comparing the results enabled a better understanding of the process itself. This experiment
+enabled the six of us to visualize the impact and importance that the reflux ratio of the batch
+distillation has on the distillate concentration.
+We appreciate your effort in reviewing our research.
+Sincerely yours,
+Aaron Dornseif, Robert Hart, Raghu Vansh Mereddy,
+
+Batch Distillation
+Group 10
+Jose Maria Barbeito, Robert Hart, Elisa Schlesner Alves, Linda Pomiranceva, Aaron Dornseif,
+Raghu Mereddy
+
+Abstract
+The Batch Distillation experiment analyzes the distillation of two liquids. In this
+experiment, methanol and isopropanol are separated in a distillation column, using three trays
+and a condensing system. Since methanol is more volatile, it was expected to evaporate more
+easily and be found in higher concentrations in the distillate compared to the bottoms. Unlike
+continuous distillation, batch distillation is a transient process used to produce high-value
+products with less feed. The apparatus used in this experiment included a condenser, separation
+trays, a sampling valve, a reboiler, and a control panel for setting parameters like the reflux ratio.
+The mixture of isopropanol and methanol was raised to a temperature of 71℃, at which
+point the liquid began to boil and vapor was collected and condensed, filling bubble trays. Over
+35 min, the distillate was collected in nineteen containers and analyzed using a refractometer to
+determine methanol weight%. After the first run was completed with a reflux ratio of 1.5, a
+second run was performed with a reflux ratio of 0.75. The results of both were analyzed using
+various methods.
+The first, a rigorous Rayleigh analysis, found that with a reflux ratio of 1.5, the methanol
+mole fraction in the distillate decreased from 0.81 to 0.73 after 35 minutes. The methanol mole
+fraction in the still itself decreased from 0.57 to 0.51. The calculated and experimental values for
+trial one were within 10%, being 0.215 (experimental) compared to 0.219 (calculated).
+Secondary analysis, using McCabe-Thiele and MATLAB simulation techniques,
+highlighted how lower reflux ratios yielded more distillate with lower purity, while higher reflux
+ratios improved separation at the cost of overall yield. Additionally, these calculations tended to
+undervalue the importance of the reflux ratio, when compared to experimental values.
+
+i
+
+List of Contents
+
+Introduction..................................................................................................................................1
+Theory...........................................................................................................................................2
+Experimental................................................................................................................................ 4
+Results and Discussion.............................................................................................................. 7
+Conclusion................................................................................................................................. 22
+Recommendations.....................................................................................................................23
+Nomenclature.............................................................................................................................24
+References................................................................................................................................. 26
+Appendices................................................................................................................................ 27
+Experimental Data..................................................................................................................... 27
+
+i
+
+List of Tables
+
+Table 1. Temperature readings, masses of empty container and sample, and refractive indexes of
+sample readings for trial 1..............................................................................................................27
+Table 2. Temperature readings, masses of empty container and sample, and refractive indexes of
+sample readings for trial 2..............................................................................................................28
+Table 3. Raw data table for trial 1..................................................................................................29
+Table 4. Raw data table for trial 2..................................................................................................30
+
+iii
+
+List of Figures
+
+Figure 1. Methanol Mol Fraction vs. Time (Run 1).........................................................................8
+Figure 2. 1/[y(t)-x(t)] vs. x(t) (Run 1)..............................................................................................9
+Figure 3. Methanol Mol Fraction vs Time (Run 2).......................................................................10
+Figure 4. 1/[y(t)-x(t)] vs. x(t) (Run 2)...........................................................................................10
+Figure 5. Graphical Representation of VLE Data..........................................................................11
+Figure 6. 1/[y(t)-x(t)] vs. x(t) (Run 1) using one-stage equilibrium assumption and VLE ..........12
+Figure 7. 1/[y(t)-x(t)] vs. x(t) (Run 2) using one-stage equilibrium assumption and VLE ..........12
+Figure 8: 1/[y(t)-x(t)] vs. x(t) (Run 2) using relative volatilities...................................................14
+Figure 9: 1/[y(t)-x(t)] vs. x(t) (Run 2) using relative volatilities..................................................14
+Figure 10. McCabe-Thiele operating line for a reflux ratio of 0.75..........................................…15
+Figure 11. McCabe-Thiele operating line for a reflux ratio of 0.75 .............................................15
+Figure 12. McCabe-Thiele operating line for a reflux ratio of 1.5................................................16
+Figure 13. McCabe-Thiele operating line for a reflux ratio of 1.5................................................16
+Figure 14. Matlab Graph of Initial Conditions..............................................................................18
+Figure 15. Matlab Graph of Trial 1................................................................................................19
+Figure 16. Matlab Graph of Trial 2................................................................................................19
+
+iv
+
+Introduction
+Batch distillation is a handy tool for the separation process industry. Batch distillation is
+crucial for certain chemical engineering disciplines, such as pharmaceuticals, biochemicals, and
+specialty chemical production. Batch distillation allows chemical engineers to have acute control
+over their process, making it possible to create more difficult and high-value products [1].
+Additionally, batch distillation requires less control equipment, allows for more flexibility, is
+more easily cleaned, and the feedstock that can be used is more diverse [2]. To ensure that
+aspiring chemical engineers understand how batch reactors function, the following experiment
+was created.
+In this experiment, participants will distill a mixture of methanol and isopropanol to
+produce a product of purified methanol. By performing this experiment, participants can observe
+the separation characteristics of a methanol-isopropanol mixture. Additionally, this experiment
+aims to teach participants how to operate a batch distillation unit, gather accurate data, and
+analyze their findings.
+The experiment will be performed by running two separate batch distillations of methanol
+and isopropanol, each with different reflux ratios. For each experiment, participants will gather
+the temperature, mass, and refractive index following a predetermined timetable. With these
+values, the participants will be able to calculate values such as the batch mass fraction, total mass
+of distillate, and the vapor mass fraction. Later on, these values will be used to analyze and
+compare the effect of changing a batch distillation’s reflux ratio on distillate concentration [1].
+
+1
+
+Theory
+The Rayleigh equation, introduced below, is the basis to start the analysis of most
+distillation processes [1].
+
+(1)
+In this experiment, participants will analyze and investigate the data using five different
+approaches, and further compare the results among them. The first one is called the Rigorous
+Rayleigh Analysis, in which the left-hand side of Equation 1 is calculated based on data gathered
+at the beginning and end of the experiment. The methanol mole fraction of what remains in the
+still at time t can be found by the evaluation of a thorough and precise component balance on
+both methanol and isopropanol after each condensate sample is reserved [1], shown in equation 2
+below.
+
+(2)
+1
+
+The plot of 𝑦𝑀(𝑡)−𝑥𝑀(𝑡) versus methanol mole fraction, xM(t), along with the trapezoidal
+or Simpson's rule allows for the evaluation of the right-hand side. Consistency between the two
+sides is shown if the calculated results are within 10% of each other [1].
+The second approach to determine the right-hand side of equation 1 is an analysis based
+on a one-stage equilibrium assumption via given VLE data. The plot of yM vs xM at equilibrium
+is used to establish a sequence of xM(t) values based on the instantaneous distillate samples. This
+
+2
+
+approach is performed similarly to the rigorous Rayleigh analysis; however, the evaluation of
+methodical and meticulous mole balances on the mixture's components is not necessary.
+The third option is to approximate the Rayleigh analysis based on both one-stage
+equilibrium assumption and constant relative volatility. Relative volatility is commonly used in
+distillation processes, and its calculation is based on how much the vapor pressure of the more
+volatile component varies from the less volatile component in a liquid mixture [3]. The higher
+the resultant vapor pressure is, the easier it is to separate one component from the other. The
+analysis of the right-hand side of the equation is given by
+
+(3)
+in which the αMI, assumed to be constant, is the average of the relative volatilities calculated from
+the VLE data in the composition range. Agreement between the left and right-hand sides of
+equation 1 will demonstrate if the data collected throughout the experiment is consistent and
+determine if this approach is valid or not.
+
+(4)
+
+For the fourth alternative to calculate the numerical value of the right-hand side of
+equation 1, the McCabe-Thiele point-by-point analysis assumes a multi-stage equilibrium and a
+pseudo-steady state. This analysis is to be performed on two different trials in each of the runs
+using Equation 4. The known reflux ratio and the measured composition of the chosen samples
+allow for the construction of a McCabe-Thiele plot, which further aids in determining the
+composition of the liquid that remains in the still when the instantaneous distillate is collected. A
+3
+
+comparison between the composition value that was visually determined using the
+McCabe-Thiele analysis and Equation 2 is to be made to show how close the values are.
+
+Finally, participants conducted a MATLAB simulation of the batch distillation process for
+the methanol-isopropanol mixture, incorporating Rayleigh’s equation under the assumption of
+one-stage equilibrium. The simulation utilized Rayleigh’s equation to describe the relationship
+between the number of moles and composition as the distillation progressed. Different sets of
+differential equations were applied before and after the boiling point, reflecting changes in
+temperature, total mole number, and methanol mole fraction during the process. The van Laar
+model was used to account for non-ideal behavior in the mixture through activity coefficients.
+Initial conditions and experimental data from both trials were incorporated into the simulation to
+compare system behavior. While the reflux ratio was not accounted for in the MATLAB model,
+the results provided insight into how varying reflux ratios could influence the mole fraction and
+purity of the components during distillation.
+
+Experimental
+
+The experiment performed was a batch distillation experiment, with two trials. The
+experiment materials included pipettes, nineteen jars with lids to collect distillate, one large flask
+to collect entire stills contents, and one flask to collect the cumulative distillate during the
+experiment. A scale, magnetic stir bar, stopwatch, refractometer, and distillation apparatus were
+machines used in the experiment. The required chemicals were methanol and isopropanol. The
+distillation apparatus had three trays present with a condenser at the top of the column and a
+
+4
+
+reflux switch present within the column. The column as well as the still should be constructed of
+glass. The heating elements and other metal components should be constructed of stainless steel.
+Within the control panel, there should be a power switch, temperature control switch, reflux
+switch, and variac dial for voltage. On the control panel, there should also be readings for
+voltage, current, and temperature.
+Preliminary steps which were completed before the powering of the heater are as follows.
+First, the experimenters familiarized themselves with the apparatus and control panel so that no
+damage came to the apparatus. For optimal operation of the experiment the group, of which there
+were six members, assigned each member a task to maintain during the experiment. There was
+an individual who collected the samples and switched containers as required, an individual timed
+the experiment and instructed the sample collector when to swap containers, a mass recorder
+weighed each sample, a refractive index measurer who used the refractometer, and an individual
+to record the data that is collected during the experiment. After tasks were assigned the refractive
+index measurer calibrated the refractometer. To calibrate the refractometer the following steps
+were completed. A member turned on the refractometer and added a few drops of pure
+isopropanol until the gray sensor was covered then wiped with a kimwipe. Next, the “25°Cal”
+button was pressed and the member waited for the temperature to stabilize, then allowed the
+refractometer to automatically measure the refractive index of air. When prompted to add water a
+few drops of pure water were added then the lid was closed and the member pressed “OK.”
+When prompted to “Drain cell,” the member wiped the sensor with a Kimwipe and then, pressed
+“OK” when prompted to “Rinse cell with water.” When prompted to “Rinse cell with acetone”
+the member added a few drops of isopropyl and pressed “OK.” When prompted to “dry cell” the
+member used a Khemwipe to clean the sensor and closed the lid, then pressed “OK.”
+
+5
+
+Once the calibration passed, the group continued to measure the refractive indexes of 0,
+25, 50, 75, and 100 wt% methanol in isopropanol samples to create a calibration curve between
+refractive indexes and wt% methanol. If the calibration fails, repeat the calibration steps. To
+measure the refractive index of a sample a member of the group pressed the “RI°25” button then
+at the “Add sample” prompt added a few drops of the sample and pressed “OK.” The member
+dried the sensor once prompted to “Drain cell”, shut the lid, and pressed “OK.” The member
+recorded the displayed refractive index and pressed “OK” then added a few drops of isopropanol
+to the sensor and wiped it dry with Kimwipes to prepare it for the next sample. The group
+recorded the weight of each jar or flask to be used in the experiment and labeled the jars based
+on the sampling times. Recommended sampling times are as follows 1, 2, 3, 4, 5, 6, 7, 8, 10, 12,
+14, 16, 18, 20, 23, 26, 29, 32, 35 minutes. The group mixed the solution to be used in this
+experiment consisting of approximately 1600 mL of methanol and 2400 mL of isopropyl alcohol
+mixed thoroughly. The initial mass of this mixed solution was measured as well as its refractive
+index. The cold water supply to the condenser was turned on. The group adjusted the reflux
+switch to a reflux ratio of either 1.5 or 0.75. In our experiment, a reflux ratio of 1.5 was used
+first, followed by a reflux ratio of 0.75.
+To begin the experimental run, the power cable was plugged into the wall receptacle and
+the variac was set to below 220V, in this experiment the voltage was set to 152V for the entire
+duration. The group ensured the sample jars and the cumulative distillate flasks were easily
+accessible at the start of the experiment. The time when the distillate first drips from the
+sampling stem was noted and then the timing of the experiment began. Sample jars were
+removed and replaced once the experiment runtime had reached the labeled time on the specified
+jar. For each jar, once it had collected its sample, the sample weight was measured then a sample
+
+6
+
+was taken to be used in the refractometer. Once measurements of a sample were concluded the
+continents were poured into the cumulative distillate flask. Once a runtime of 35 minutes had
+been reached, heater power and reflux control were turned off. As the still cooled, the cumulative
+distillate was mixed then measured of its mass refractive index. The group drained the remaining
+solution from the still and measured its mass and refractive index. Next, the cumulative distillate
+and the drained solution were measured for the resulting solution's mass and refractive index. A
+second trial using the alternative reflux ratio was performed, following the same experimental
+steps.
+
+Results and Discussion
+Analysis of the data gathered is separated into five sections, a rigorous Rayleigh analysis,
+an approximate Rayleigh analysis using relative volatility, an approximate Rayleigh analysis via
+vapor-liquid equilibrium (VLE), a McCabe Thiele analysis, and a Matlab simulation assuming
+one-stage equilibrium & Van Laar activity coefficients.
+
+Part A: Rigorous Raleigh Analysis
+The left-hand side of Equation 1 can be approximated by using data collected at the
+beginning of the run with the following equation:
+
+(4)
+
+where NLo and NLf are the mole numbers of the solution in the still at the start and end of the run,
+respectively, Wo and Wf are the weights of the solution in the still at the start and end of the run,
+
+7
+
+respectively, MWM and MWI are the molecular weights of methanol and isopropanol,
+respectively, and wMo and wMo are the methanol weight fractions of the solution in the still at the
+start and end of the run, respectively. Using this equation, the mass of each sample of distillate
+collected, and the refractive index of each sample (to calculate the methanol weight fraction
+using our calibration curve), we calculated ln(NLf / NLo) to be approximately 0.219.
+
+Figure 1. Methanol Mol Fraction vs. Time (Run 1).
+
+Using this data, we could plot the methanol mol fraction in the distillate and the still over
+time, as shown in Figure 1. At the beginning of the experiment, the first samples contain
+relatively low amounts of methanol, due to the need for the distillation column trays needing to
+be primed. After the first couple of samples were collected, the maximum methanol mol fraction
+was achieved, at 0.89. Over time, this fraction dropped slowly to a final value of 0.83. The
+
+8
+
+methanol percent in the still can also be seen, starting at a fraction of 0.57 and ending at a
+fraction of 0.51.
+Using this data we can calculate the right side of Equation 1 by plotting the data (shown
+below in Figure 2). Then, using the trapezoidal rule, we can estimate the area underneath the
+curve from xMo to xMf.
+
+Figure 2. 1/[y(t)-x(t)] vs. x(t) (Run 1).
+After using the trapezoidal rule, the area under the curve was calculated to be 0.215.
+Since this value is within the ± 10% expected, it can be concluded that the data is consistent
+between the two analytical methods. Analyzing the second distillation run using the same
+methods, Figure 3 and Figure 4 were made, showing the methanol mol fraction over time and
+1/[y(t)-x(t)] vs. x(t). In addition, using Equation 4, ln(NLf / NLo) was calculated to be
+approximately 0.747, while the area under the curve of Figure 4 was calculated to be 0.616 using
+the trapezoidal rule. Potential sources of error include human malpractice, inconsistent
+measuring techniques, and loss of material over the run due to evaporation.
+
+9
+
+Figure 3: Methanol Mol Fraction vs Time (Run 2).
+
+Figure 4. 1/[y(t)-x(t)] vs. x(t) (Run 2).
+
+10
+
+In conclusion, calculated and experimental values only matched each other for the first
+trial, while the second trial had a larger amount of discrepancy. Despite this, the analysis was
+crucial in understanding the methanol mole fraction in the distillate and in the still over time for
+both runs.
+
+Part B: Approximate Rayleigh Analysis using only VLE data
+A one-stage equilibrium assumption was used in conjunction with vapor-liquid
+equilibrium data to analyze the data collected from the experiment. The steps of this analysis
+were as follows. First, the mass fraction collected was converted to its mole fraction using the
+molecular weight of the chemicals in the solution. The mole fraction of methanol in the distillate
+can be set equal to the vapor fraction of methanol in the still. Using the Vapor-Liquid
+Equilibrium correlation, the mole fraction of methanol in the liquid phase of the still can be
+determined from the liquid fraction of methanol in the distillate. This relationship can be
+determined either graphically or mathematically by finding the temperature of the solution at a
+given ym and finding the xm value where it equals the same temperature.
+
+11
+
+Figure 5: Graphical representation of VLE data.
+After determining the vapor and liquid fractions of methanol these values were used to
+evaluate the right side of equation 6 and calculated using the trapezoidal rule. The value was
+calculated to be 0.572 for the first trial. Comparing this value to the left hand side of equation 6
+shows a 89% difference between the values, indicating one one-stage equilibrium is not a good
+assumption for this batch distillation. Plotting 1/(ym-xm) vs xm correlation, shows as xm increases
+1/(ym-xm) increases, having an exponential correlation.
+
+Figure 6: 1/[y(t)-x(t)] vs. x(t) (Run 1) using One-stage equilibrium assumption and VLE.
+The second trial shows a similar exponential relationship between 1/(ym-xm) and xm.
+When evaluating the right side of equation six using the trapezoidal rule the value is found to be
+0.967 this value is closer to the calculated left side value for equation 6, but still varies
+substantially. There is a 25.7% difference between the values indicating a one-stage equilibrium
+may not be a reasonable assumption for this scenario.
+
+12
+
+Figure 7: 1/[y(t)-x(t)] vs. x(t) (Run 2) using One-stage equilibrium assumption and VLE.
+
+Part C: Approximate Rayleigh Analysis via Vapor-Liquid Equilibrium and Relative Volatility
+In conjunction with a one-stage equilibrium assumption, constant relative volatility was
+assumed to estimate results for the right-hand side of equation 1 using this approach. Being a
+binary mixture, it was possible to infer that yI = 1-yM and xI = 1-xM and further use Equation 3 to
+establish results for the calculations. The average relative volatility was found to be 2.950 for
+trial 1 and 2.082 for trial 2, and was taken as the mean of the relative volatilities calculated for
+the interest range of the compositions of the components. Plugging this value and substituting the
+known values for the compositions in Equation 3, the calculated value for this approach was
+0.665 for trial 1, showing a relative agreement with the left-hand side. However, for trial 2, the
+calculated value was 1.93, showing a non-neglectable deviation from the left-hand side.
+
+13
+
+Figure 8: 1/[y(t)-x(t)] vs. x(t) (Run 2) using relative volatilities.
+
+Figure 9: 1/[y(t)-x(t)] vs. x(t) (Run 2) using relative volatilities.
+
+14
+
+Part D: McCabe Thiele Analysis
+
+Figure 10. McCabe-Thiele operating line for a reflux ratio of 1.5.
+
+Figure 11. McCabe-Thiele operating line for a reflux ratio of 1.5.
+
+15
+
+Figure 12. McCabe-Thiele operating line for a reflux ratio of 0.75.
+
+Figure 13. McCabe-Thiele operating line for a reflux ratio of 0.75.
+
+16
+
+A McCabe-Thiele analysis was conducted for two points in each trial of the batch
+distillation process assuming a multi-stage equilibrium, equimolal overflow, and pseudo steady
+state. Based on these assumptions, the operating lines for the enriching section of the distillation
+column, which extends from the top stage to just above the feed stage, could be graphed using
+Equation (4). The four equilibrium stages in the experimental setup were easily stepped off
+between the methanol vapor-liquid equilibrium curve and operating line for the enriching section
+of the distillation column. The composition of the solution remaining in the still at the instant the
+distillate sample was taken could then be graphically determined as the methanol mole fraction
+of the fourth equilibrium stage.
+For trials 1 and 2, with respective reflux ratios of 1.5 and 0.75, instantaneous samples of
+distillate were analyzed at 12 and 23 minutes. For trial 1, the methanol mole fraction of the
+solutions remaining in the still at 12 and 23 minutes were approximately 0.64 and 0.62,
+respectively (Figure 8-9). Trial 2 displayed methanol mole fractions equal to 0.48 and 0.46 at 12
+and 23 minutes. It is known that a higher reflux ratio improves the separation of components by
+increasing the amount of contact between the two phases in the column. Thus, higher-purity
+distillate should equate to a lower concentration of methanol in the still as observed with the
+graphically-obtained McCabe-Thiele values.
+When comparing the graphically determined composition values of the solution in the
+still with those calculated in the rigorous Rayleigh analysis, slight variations were observed. The
+methanol mole fractions obtained through the rigorous Rayleigh analysis for trial 1 were about
+0.56 (12 minutes) and 0.54 (23 minutes). Calculations performed for trial 2 yielded values of
+0.55 (12 minutes) and 0.52 (23 minutes). This slight discrepancy in values could be attributed to
+
+17
+
+the possibility that the assumptions inherent in a McCabe-Thiele analysis were not completely
+valid in this experiment.
+
+Part E: Matlab Simulation Assuming One-Stage Equilibrium & Van Laar Activity Coefficients
+In this study, a MATLAB simulation was employed to model the batch distillation
+process of a methanol-isopropanol mixture, following the Rayleigh distillation assumption. The
+simulation utilized differential equations to describe the system's key parameters: temperature
+(T), total mole number (N), and the mole fraction of methanol (Xm). One-stage equilibrium was
+assumed, and the Van Laar model was applied to account for the non-ideal behavior of the
+mixture. These equations were solved numerically in MATLAB, with distinct equations applied
+before and after the onset of boiling.
+
+Figure 14: Matlab Graph of Initial Conditions
+
+18
+
+Figure 15: Matlab Graph of Trial 1 at Reflux Ratio 0.75
+
+Figure 16: Matlab Graph of Trial 2 at Reflux Ratio 1.5
+For the simulation, initial conditions of No = 100 g-mol, Xmo = 0.70, and T = 25°C were
+used for the provided MATLAB data as can be seen in Figure 14. Experimental data from two
+trials were then compared: Trial 1 (No = 58.33 g-mol, Xmo = 0.36, and T = 70.4°C) and Trial 2
+(No = 56.57 g-mol, Xmo = 0.36, and T = 70.7°C). The resulting figures demonstrated the system's
+behavior during the distillation process. The simulation results showed that Trial 1, with a reflux
+ratio of 0.75, yielded a lower methanol mole fraction at the end of the process compared to Trial
+
+19
+
+2, which had a reflux ratio of 1.5. This outcome aligns with the expected trend of a lower reflux
+ratio producing more yield but with less purity, while a higher reflux ratio increases purity at the
+expense of yield. However, because the MATLAB simulation did not account for the reflux ratio,
+it predicted a faster increase in temperature and a steeper decline in methanol mole fraction than
+what was observed experimentally.
+In Trial 1 of the experiment, the MATLAB simulation was compared to the batch
+distillation process for a methanol-isopropanol mixture with initial conditions of No = 58.33
+g-mol, Xmo = 0.36, and T = 70.4°C. The reflux ratio for this trial was 0.75, meaning that less
+vapor was condensed and returned to the distillation column, resulting in a greater overall yield
+but lower product purity compared to a higher reflux ratio.
+In Trial 2, the MATLAB simulation was again used to analyze the batch distillation of the
+methanol-isopropanol mixture, but with different initial conditions: No = 56.57 g-mol, Xmo =
+0.36, and T = 70.7°C. This trial employed a higher reflux ratio of 1.5, meaning that a greater
+portion of the condensed vapor was returned to the distillation column, leading to a higher
+product purity but lower yield compared to Trial 1.
+As with Trial 1, the MATLAB simulation, which assumed one-stage equilibrium and
+excluded the effect of reflux ratio, predicted a faster temperature increase and a quicker decline
+in the methanol mole fraction compared to the experimental data. In reality, the higher reflux
+ratio in Trial 2 slowed down the distillation process, resulting in a more gradual decrease in
+methanol mole fraction and a slower temperature rise. The simulation's exclusion of this reflux
+effect led to a less accurate representation of the system, as the experimental data showed a much
+more controlled separation process.
+
+20
+
+Although the MATLAB simulation produced precise predictions based on the assumption
+of single-stage equilibrium and the van Laar activity coefficient model, it failed to replicate the
+experimental conditions fully. The model did not include key factors, such as the impact of the
+reflux ratio and heat losses to the surroundings, leading to discrepancies between the simulation
+and experimental results. These limitations in the MATLAB simulation explain why it projected
+a faster temperature increase and a more rapid decrease in methanol mole fraction compared to
+the experimental trials.
+
+21
+
+Conclusion
+By performing rigorous data analysis of the batch distillation, the effect of increasing the
+reflux ratio was determined to increase the composition of methanol in the distillate. The
+experiment apparatus used to determine the conclusion consists of a large glass container with a
+heating coil at the bottom, with three distillation shelves, and an eventual distillate outlet at the
+top.
+Two distillation trials were conducted with initial solution concentrations of 57 wt%
+methanol, using reflux ratios of 0.75 and 1.5. During each trial, temperature, mass, and refractive
+index data were collected to track the distillate composition over time.
+The Rayleigh equation was used for the first round of data analysis, with both rigorous
+and approximate approaches applied. In the first trial, the methanol mole fraction in the distillate
+peaked at 0.87 and decreased to 0.83 after 35 minutes. The methanol mole fraction in the still
+decreased from 0.57 to 0.51. In the second trial, similar trends were observed, though the lower
+reflux ratio led to slower distillation and a lower final product purity.
+Further analysis using McCabe-Thiele and MATLAB simulation techniques
+demonstrated that lower reflux ratios yielded more distillate with lower purity, while higher
+reflux ratios improved separation at the cost of overall yield. Quantitative comparisons between
+experimental and simulated data revealed that the simulation's predictions underestimated the
+impact of reflux, suggesting improvements in future model accuracy.
+By performing this batch distillation experiment, our group learned how to correctly
+operate and perform tests using a batch distillation chamber. Additionally, we learned the
+importance of the reflux ratio and how it is often underestimated by calculations.
+
+22
+
+Recommendations
+One recommendation is that the method for collecting the sample be revised. Using a
+clamp that needs to be tightened and untightened makes timing sample transfer difficult. A
+proposed solution could be to have a track-type design. An example could be a stand with rails
+on two sides and an open end on the other, where a jar rests under the distillate exit stream and is
+secured from falling by the rails. When it is time, push the next jar into the current one allowing
+for a quick and easy transfer. In addition, better instruction for the analysis would have been
+helpful, at the minimum a range of expected values would have saved the team a lot of time.
+Much of the analysis required us to “plug numbers into this equation and see what you get”, with
+little explanation as to what these numbers meant.
+
+23
+
+Nomenclature
+Variable
+
+Definition
+
+AI, BI, CI
+
+Antoine coefficients for isopropanol
+
+AM, BM, CM
+
+Antoine coefficients for propanol
+
+CPI, CPM
+
+Molar heat capacities of isopropanol and
+methanol
+
+ΔHvap I, ΔHvap M
+
+Molar heat of vaporization for isopropanol
+and methanol
+
+KI, KM
+
+Kay factors for isopropanol and methanol
+
+mi
+
+The weight of the ith instantaneous distillate
+sample withdrawn from the still
+
+Mo, Mf
+
+Weights of the solution in the still at the start
+and end of the run
+
+MTotD(t)
+
+Weight of the cumulative distillate collected
+up till time t, including the nth instantaneous
+distillate sample
+
+MWI, MWP
+
+Molecular weights of isopropanol and
+methanol
+
+NLo, NLf
+
+Total moles of solution in the still at the start
+and end of the run
+
+NL(t)
+
+Total moles of solution left in the still at time t
+
+Psat
+
+Saturated vapor pressure
+
+Qo
+
+A specified (constant) rate of heat supplied to
+the still in the simulation model
+
+R
+
+Reflux ratio
+
+To
+
+The initial temperature of the solution in the
+still
+
+WM o, WM f
+
+Methanol weight fractions of solution in the
+still at the start and end of the run
+
+WM i
+
+The methanol weight fraction of the ith
+instantaneous distillate sample
+
+24
+
+WM TotD (t)
+
+The methanol weight fraction of the
+cumulative distillate up to time t
+
+xI
+
+Isopropanol mole fraction of solution in the
+still
+
+XM o, XM f
+
+Methanol mole fractions of solution in the
+still at the start and end of the run
+
+XM n (t) or XM(t)
+
+Methanol mole fraction of the solution
+remaining in the still after the nth
+instantaneous condensate sample is drawn at
+time t
+
+XMD(t)
+
+Methanol mole fraction of the instantaneous
+distillate sample drawn at time t
+
+XM (n)
+
+Methanol mole fraction of the liquid stream
+leaving the nth stage and falling to the (n+1)th
+stage directly below it
+
+yI, yM
+
+Vapor mole fractions of isopropanol and
+methanol in the still
+
+YM (n+1)
+
+Methanol mole fraction of the vapor stream
+leaving the (n+1)th stage (counting from the
+top) and rising to the nth stage directly above it
+
+α
+
+One of the two constants in the van Laar
+model for activity coefficients
+
+αMI
+
+Relative volatility for the
+methanol-isopropanol pair
+
+β
+
+The second constant in the van Laar model for
+activity coefficients
+
+γI, γM
+
+Activity coefficients of isopropanol and
+methanol
+
+25
+
+References
+[1] M. Cooper, P. Lim, K. Dickey, and K. Dickey, “Batch Distillation Experiment” CHE 331
+Course Handout, North Carolina State University, Raleigh, NC.
+[2] Diwekar, Urmila M. 2014. Batch Processing: Modeling and Design. Boca Raton: Crc Press,
+p. 41.
+[3] “Relative Volatility - Encyclopedia Article - Citizendium.” 2013. Citizendium.org. 2013.
+https://en.citizendium.org/wiki/Relative_volatility.
+
+26
+
+Appendices
+
+Experimental Data
+Table 1: Temperature readings, masses of empty container and sample, and refractive
+indexes of sample readings for trial 1
+Time
+(mins)
+
+Temperature
+
+Mass of
+Empty
+Container
+
+1
+
+70.4
+
+±
+
+122.8
+
+±0.05 133.1
+
+2
+
+70.5
+
+±
+
+121.6
+
+3
+
+70.5
+
+±
+
+4
+
+70.5
+
+5
+
+Mass of Sample
++ Container
+
+Mass of Sample
+
+Refractive
+Voltage
+Index of Sample
+
+Watts
+
+±0.05
+
+10.3
+
+±0.05
+
+1.342
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+±0.05 129.8
+
+±0.05
+
+8.2
+
+±0.05
+
+1.3408
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+120.7
+
+±0.05 130.8
+
+±0.05
+
+10.1
+
+±0.05
+
+1.3407
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+±
+
+122.3
+
+±0.05 130.2
+
+±0.05
+
+7.9
+
+±0.05
+
+1.3407
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+70.5
+
+±
+
+120.9
+
+±0.05 132.3
+
+±0.05
+
+11.4
+
+±0.05
+
+1.3408
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+6
+
+70.6
+
+±
+
+121.5
+
+±0.05 130.8
+
+±0.05
+
+9.3
+
+±0.05
+
+1.3409
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+7
+
+70.6
+
+±
+
+121.2
+
+±0.05 131.5
+
+±0.05
+
+10.3
+
+±0.05
+
+1.341
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+8
+
+70.7
+
+±
+
+123.4
+
+±0.05 134.7
+
+±0.05
+
+11.3
+
+±0.05
+
+1.3411
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+10
+
+70.7
+
+±
+
+123.1
+
+±0.05 145.2
+
+±0.05
+
+22.1
+
+±0.05
+
+1.3414
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+12
+
+70.8
+
+±
+
+122.4
+
+±0.05 143.3
+
+±0.05
+
+20.9
+
+±0.05
+
+1.3417
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+14
+
+70.9
+
+±
+
+122.4
+
+±0.05 144.5
+
+±0.05
+
+22.1
+
+±0.05
+
+1.3418
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+16
+
+71
+
+±
+
+121.4
+
+±0.05 144.4
+
+±0.05
+
+23
+
+±0.05
+
+1.3421
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+18
+
+71.1
+
+±
+
+121.6
+
+±0.05 146
+
+±0.05
+
+24.4
+
+±0.05
+
+1.3423
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+20
+
+71.2
+
+±
+
+122.5
+
+±0.05 147.1
+
+±0.05
+
+24.6
+
+±0.05
+
+1.3426
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+23
+
+71.3
+
+±
+
+121.8
+
+±0.05 156.8
+
+±0.05
+
+35
+
+±0.05
+
+1.343
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+26
+
+71.5
+
+±
+
+121.4
+
+±0.05 157.1
+
+±0.05
+
+35.7
+
+±0.05
+
+1.3434
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+29
+
+71.6
+
+±
+
+121
+
+±0.05 161.8
+
+±0.05
+
+40.8
+
+±0.05
+
+1.3438
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+32
+
+71.8
+
+±
+
+123.2
+
+±0.05 159.4
+
+±0.05
+
+36.2
+
+±0.05
+
+1.3443
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+35
+
+71.9
+
+±
+
+121
+
+±0.05 173.2
+
+±0.05
+
+52.2
+
+±0.05
+
+1.3447
+
+±0.05
+
+152
+
+±
+
+5.4
+
+±0.05
+
+27
+
+Table 2: Temperature readings, masses of empty container and sample, and refractive
+indexes of sample readings for trial 2
+Time
+(mins)
+
+Temperature
+
+Mass of Empty
+Container
+
+Mass of Sample Mass of Sample
++ Container
+
+Refractive
+Index of
+Sample
+
+Voltage
+
+Watts
+
+1
+
+70.7 ±
+
+122.8 ±0.05
+
+137.4 ±0.05
+
+14.6
+
+±0.05
+
+1.3433 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+2
+
+70.7 ±
+
+121.6 ±0.05
+
+137.3 ±0.05
+
+15.7
+
+±0.05
+
+1.3432 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+3
+
+70.8 ±
+
+120.7 ±0.05
+
+135.7 ±0.05
+
+15
+
+±0.05
+
+1.3435 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+4
+
+70.8 ±
+
+122.3 ±0.05
+
+140 ±0.05
+
+17.7
+
+±0.05
+
+1.3438 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+5
+
+70.9 ±
+
+120.9 ±0.05
+
+136.3 ±0.05
+
+15.4
+
+±0.05
+
+1.3441 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+6
+
+70.9 ±
+
+121.5 ±0.05
+
+140.1 ±0.05
+
+18.6
+
+±0.05
+
+1.3442 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+7
+
+71 ±
+
+121.2 ±0.05
+
+136.9 ±0.05
+
+15.7
+
+±0.05
+
+1.3445 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+8
+
+71 ±
+
+123.4 ±0.05
+
+142.5 ±0.05
+
+19.1
+
+±0.05
+
+1.3446 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+10
+
+71.1 ±
+
+123.1 ±0.05
+
+158.1 ±0.05
+
+35
+
+±0.05
+
+1.3449 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+12
+
+71.2 ±
+
+122.4 ±0.05
+
+157.7 ±0.05
+
+35.3
+
+±0.05
+
+1.3452 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+14
+
+71.3 ±
+
+122.4 ±0.05
+
+158.2 ±0.05
+
+35.8
+
+±0.05
+
+1.3457 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+16
+
+71.5 ±
+
+121.4 ±0.05
+
+157.5 ±0.05
+
+36.1
+
+±0.05
+
+1.346 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+18
+
+71.6 ±
+
+121.6 ±0.05
+
+157.9 ±0.05
+
+36.3
+
+±0.05
+
+1.3463 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+20
+
+71.7 ±
+
+122.5 ±0.05
+
+159.2 ±0.05
+
+36.7
+
+±0.05
+
+1.3468 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+23
+
+71.9 ±
+
+121.8 ±0.05
+
+179.3 ±0.05
+
+57.5
+
+±0.05
+
+1.3473 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+26
+
+72 ±
+
+121.4 ±0.05
+
+177.5 ±0.05
+
+56.1
+
+±0.05
+
+1.3478 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+29
+
+72.2 ±
+
+121 ±0.05
+
+177.6 ±0.05
+
+56.6
+
+±0.05
+
+1.3484 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+32
+
+72.4 ±
+
+123.2 ±0.05
+
+179.6 ±0.05
+
+56.4
+
+±0.05
+
+1.349 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+35
+
+72.6 ±
+
+121 ±0.05
+
+200.5 ±0.05
+
+79.5
+
+±0.05
+
+1.3499 ±0.05 152
+
+±
+
+5.4
+
+±0.05
+
+28
+
+Error Calculations
+No error calculations were required, therefore there is no page for error analysis equations.
+
+Raw Data Tables
+Table 3. Raw Data Table for Trial 1
+
+29
+
+Table 4. Raw Data Table for Trial 2
+
+30
+
+

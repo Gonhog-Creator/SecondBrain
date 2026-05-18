@@ -1,0 +1,812 @@
+# MSE300_HW4_Solutions - F22.pdf
+
+Source: junk_drawer/MSE300_HW4_Solutions - F22.pdf
+
+Category: [[academic-homework]]
+
+## Summary
+MSE300 Homework 4 Q1) Interplanar spacing and angle in 3D Bravais lattices: (50 pts) a) Starting from the definition of the reciprocal space lattice vector, derive the interplanar distance dhkl equation with respect to (hkl) planes in the cubic system with lattice constant a. Solution: Step 1: Compute a*, b*, c*, α*, *, * in terms of a, b, c, α, , 
+
+## Full Content
+MSE300
+
+Homework 4
+
+Q1) Interplanar spacing and angle in 3D Bravais lattices: (50 pts)
+a) Starting from the definition of the reciprocal space lattice vector, derive the
+interplanar distance dhkl equation with respect to (hkl) planes in the cubic
+system with lattice constant a.
+Solution:
+Step 1: Compute a*, b*, c*, α*, *, * in terms of a, b, c, α, , 
+Cubic system: α=α*==*==*=90o & a=b=c
+
+&
+
+Step 2: Compute the reciprocal metric tensor for the cube
+
+Step 3: Compute the magnitude of the reciprocal vector |khkl| = 1/dhkl
+
+Step 4: Solve for dhkl
+
+1
+
+MSE300
+
+Homework 4
+
+b) Starting from the definition of the reciprocal space lattice vector, express the
+interplanar distance dhkl between (hkl) planes in the triclinic system.
+Solution: For triclinic, it’s a bit more complex but the same process.
+Step 1: Compute a*, b*, c*, α*, *, * in terms of a, b, c, α, , 
+
+Step 2: Compute the reciprocal metric tensor for a triclinic crystal
+
+Step 3: Compute the magnitude of the reciprocal vector |khkl| = 1/dhkl
+
+Step 4: Solve for dhkl
+
+2
+
+MSE300
+
+Homework 4
+
+c) Compute the angle between the (321) and (112) planes in
+a. {1, 1, 1, 90, 90, 90}
+Solution:
+
+For a cubic system:
+As seen in class…
+
+cos 𝜃 =
+
+(3 ∙ 1) + (2 ∙ 1) + (1 ∙ 2)
+√3 + 2 + 1 √1 + 1 + 2
+
+=
+
+7
+√14√6
+
+𝜃 = 40.2°
+
+b. {1, 1, 2, 90, 90, 90}
+Solution:
+
+3
+
+MSE300
+
+Homework 4
+
+For a tetragonal system, we can show that
+
+&
+Let’s compute
+
+𝑘⃗ ∗
+
+= 𝑘⃗ ∗
+
+=
+
+:
+
+∙ 𝑘⃗ ∗
+
+=
+
+1
+𝑑
+
+= [ℎ
+
+𝑘
+
+1
+⎡
+⎢𝑎
+𝑙] ⎢ 0
+⎢
+⎢
+⎣0
+
+0
+1
+𝑎
+0
+
+0⎤
+⎥ ℎ
+0 ⎥ 𝑘 = [ℎ
+⎥ 𝑙
+1⎥
+𝑐 ⎦
+
+𝑘
+
+ℎ
+⎡ ⎤
+⎢𝑎 ⎥
+𝑘
+𝑙] ⎢ ⎥
+⎢𝑎 ⎥
+⎢𝑙⎥
+⎣𝑐 ⎦
+
+ℎ +𝑘
+𝑙
++
+𝑎
+𝑐
+𝑑
+
+=
+
+𝑎𝑐
+𝑐 (ℎ + 𝑘 ) + 𝑎 𝑙
+
+As well as
+
+𝑘⃗ ∗
+
+1
+⎡
+⎢𝑎
+∙ 𝑘⃗ ∗
+= [ℎ 𝑘 𝑙 ] ⎢ 0
+⎢
+⎢
+⎣0
+ℎ ℎ +𝑘 𝑘
+𝑙 𝑙
+=
++
+𝑎
+𝑐
+
+0
+1
+𝑎
+0
+
+0⎤
+⎥ ℎ
+0⎥ 𝑘
+⎥ 𝑙
+1⎥
+𝑐 ⎦
+
+= [ℎ
+
+𝑘
+
+ℎ
+⎡ ⎤
+⎢𝑎 ⎥
+𝑘
+𝑙 ]⎢ ⎥
+⎢𝑎 ⎥
+⎢𝑙 ⎥
+⎣𝑐 ⎦
+
+4
+
+MSE300
+
+𝑘⃗ ∗
+
+Homework 4
+
+∙ 𝑘⃗ ∗
+
+cos 𝜃 =
+
+=
+
+ℎ ℎ +𝑘 𝑘
+𝑙 𝑙
+(ℎ ℎ + 𝑘 𝑘 )𝑐 + 𝑙 𝑙 𝑎
++
+=
+𝑎
+𝑐
+(𝑎𝑐)
+
+(ℎ ℎ + 𝑘 𝑘 )𝑐 + 𝑙 𝑙 𝑎
+(𝑎𝑐)
+𝑐 (ℎ + 𝑘 ) + 𝑎 𝑙 𝑐 (ℎ + 𝑘 ) + 𝑎 𝑙
+𝑎𝑐
+𝑎𝑐
+(ℎ ℎ + 𝑘 𝑘 )𝑐 + 𝑙 𝑙 𝑎
+=
+𝑐 (ℎ + 𝑘 ) + 𝑎 𝑙 𝑐 (ℎ + 𝑘 ) + 𝑎 𝑙
+
+{1, 1, 2, 90, 90, 90}
+cos 𝜃 =
+
+(3 ∙ 1 + 2 ∗ 1)(2) + (1 ∙ 2)(1)
+2 (3 + 2 ) + 1 1
+= 0.872
+
+2 (1 + 1 ) + 1 2
+
+=
+
+20 + 2
+4(13) + 1 4(2) + 4
+
+=
+
+22
+√53√12
+
+ = 29.3
+
+c. {1, 1, 2, 90, 75, 85}
+Solution:
+
+We can work from our expression we got in part b.
+
+5
+
+MSE300
+
+Homework 4
+
+𝑐𝑜𝑠𝜃 =
+
+=
+
+1
+1
+
+1
+
+𝑑
+
+∙ 𝑘⃗ ∗
+1
+
+𝑑
+
+[ℎ ℎ 𝑏 𝑐 𝑠𝑖𝑛 𝛼 + 𝑘 𝑘 𝑎 𝑐 𝑠𝑖𝑛 𝛽 + 𝑙 𝑙 𝑎 𝑏 𝑠𝑖𝑛 𝛾
+
+1
+
+𝑑
+
+𝑘⃗ ∗
+
+𝑑
++ 𝑎𝑏𝑐 (ℎ 𝑘 + ℎ 𝑘 )(𝑐𝑜𝑠𝛼𝑐𝑜𝑠𝛽 − 𝑐𝑜𝑠𝛾)
++ 𝑎𝑏 𝑐(ℎ 𝑙 + ℎ 𝑙 )(𝑐𝑜𝑠𝛼𝑐𝑜𝑠𝛾 − 𝑐𝑜𝑠𝛽)
++ 𝑎 𝑏𝑐(𝑘 𝑙 + 𝑘 𝑙 )(𝑐𝑜𝑠𝛽𝑐𝑜𝑠𝛾 − 𝑐𝑜𝑠𝛼)]
+
+{1, 1, 2, 90, 75, 85}, between the (321) and (112) planes
+𝑐𝑜𝑠𝜃 =
+
+1
+1
+
+𝑑
+
+1
+
+[12 + 8𝑠𝑖𝑛 75 + 2𝑠𝑖𝑛 85 + 4(3 + 2)(−𝑐𝑜𝑠85)
+𝑑
+
++ 2(6 + 1)(−𝑐𝑜𝑠75) + 2(4 + 1)(𝑐𝑜𝑠75𝑐𝑜𝑠85)] =
+
+16.31
+√44.81√9.11
+
+= 0.8072
+𝜃 = 36.18°
+Q2) Identify family of planes: (30 pts)
+What is the family of planes {hkl} corresponding with an interplanar spacing of d =
+1.246 Å in nickel (Ni) with a = 3.524 Å? Hint: the solution requires identifying
+several (hkl) planes that fulfill the interplanar spacing and concluding the family of
+planes they belong to.
+Solution:
+Ni is a cube, hence the dhkl relationship to hkl indices is known (below). We need
+to compute a table with trial Miller indices and compute dhkl
+6
+
+MSE300
+
+Trial index
+100
+110
+111
+200
+210
+211
+220
+
+Homework 4
+
+h2 + k2 + l2
+1
+2
+3
+4
+5
+6
+8
+
+dhkl (Å)
+3.524
+2.492
+2.035
+1.762
+1.576
+1.434
+1.246
+
+Equal to 1.246 Å?
+N
+N
+N
+N
+N
+N
+Y
+
+220, 202, 022, etc. will yield the same d-spacing, since a=b=c. Consequently, the
+family of planes in question is {220}.
+
+Q3) Reciprocal space lattice: (30 pts)
+Starting with a tetragonal P lattice, with lattice parameters a and c, calculate the
+reciprocal lattice vectors, draw the reciprocal Bravais lattice, and indicate the
+lattice vectors a*, b* and c*. Draw a 3D lattice corresponding to 2 x 2 x 2 unit cells
+(8 unit cells in total). Place the origin at the center and using the reciprocal lattice
+vector and the addition rule, index all reciprocal lattice points.
+Solution:
+We can show, following in-class exercises 1 & 2, that a* = 1/a, b*=1/a and c*=1/c.
+The vectors are also parallel such that a* || a, b* || b, and c* || c.
+
+7
+
+MSE300
+
+Homework 4
+
+Q4) Reciprocal metric tensor and x-ray diffraction: (60 pts)
+In 2004, NASA’s Mars rover Spirit examined the Columbia
+Hills region of Mars and found the mineral goethite. Goethite
+is known to form only in the presence of water and the
+discovery was taken as evidence for water activity on Mars.
+Its chemical composition is iron(III) oxide-hydroxide, its space
+group is Pbnm, and the values of its lattice constants are a =
+0.4596, b = 0.9957, and c = 0.3021 nm. Determine the following:
+(a) The reciprocal lattice parameters of goethite.
+Solution:
+Compute a*, b*, c*, α*, *, * in terms of a, b, c, α, , 
+Orthorhombic system: α=α*==*==*=90o & abc
+
+(b) Draw a 3D lattice corresponding to 2 x 2 x 2 unit cells, placing the origin at
+the center and index all reciprocal lattice points.
+Solution:
+
+8
+
+MSE300
+
+Homework 4
+
+Similar to Q2, but a*  b*  c*
+
+(c) The general reciprocal metric tensor of the crystal system goethite belongs
+to.
+Solution: Crystal is orthorhombic
+
+Using the cross product, find that |𝑎⃗∗ | = 1/𝑎, 𝑏⃗ ∗ = 1/𝑏, and |𝑐⃗∗ | = 1/𝑐
+
+(d) The general distance between any (hkl) planes for the crystal system.
+Solution:
+
+1
+𝑑
+
+= [ℎ
+
+𝑘
+
+1
+⎡
+⎢𝑎
+𝑙] ⎢ 0
+⎢
+⎢
+⎣0
+𝑑
+
+=
+
+0
+1
+𝑏
+0
+
+0⎤
+⎥ ℎ
+0 ⎥ 𝑘 = [ℎ
+⎥ 𝑙
+1⎥
+𝑐 ⎦
+
+𝑘
+
+ℎ
+⎡ ⎤
+⎢𝑎 ⎥ ℎ
+𝑘
+𝑙
+𝑘
++ +
+𝑙] ⎢ ⎥ =
+𝑏
+𝑐
+⎢𝑏 ⎥ 𝑎
+⎢𝑙⎥
+⎣𝑐 ⎦
+
+𝑎𝑏𝑐
+ℎ (𝑏𝑐) + 𝑘 (𝑎𝑐) + 𝑙 (𝑎𝑏)
+
+9
+
+MSE300
+
+Homework 4
+
+(e) The specific reciprocal metric tensor for goethite.
+Solution:
+
+Γ
+
+1
+⎡
+⎢𝑎
+⎢
+. = 0
+⎢
+⎢
+⎣0
+
+∗
+
+0
+1
+𝑏
+0
+
+0⎤
+⎥
+4.73 𝑛𝑚
+⎥
+0 =
+0
+⎥
+0
+1⎥
+𝑐 ⎦
+
+0
+1.01𝑛𝑚
+0
+
+0
+0
+10.96𝑛𝑚
+
+(f) The values for the interplanar spacing between (020), (200), and (111)
+planes in goethite.
+Solution: Two approaches, use dhkl equation or matrix approach.
+𝑑
+
+0.4596 × 0.9957 × 0.3021 𝑛𝑚
+
+=
+
+𝑑
+
+0 + 4(0.4596 𝑛𝑚 × 0.3021 𝑛𝑚) + 0
+
+=
+
+0.4596 × 0.9957 × 0.3021 𝑛𝑚
+
+=
+
+4(0.9957 𝑛𝑚 × 0.3021 𝑛𝑚) + 0 + 0
+
+0.138 𝑛𝑚
+= 0.496 𝑛𝑚
+0.278 𝑛𝑚
+
+=
+
+0.138 𝑛𝑚
+= 0.229 𝑛𝑚
+0.602 𝑛𝑚
+
+𝑑
+0.4596 × 0.9957 × 0.3021 𝑛𝑚
+
+=
+
+(0.9957 𝑛𝑚 × 0.3021 𝑛𝑚) + (0.4596 𝑛𝑚 × 0.3021 𝑛𝑚) + (0.4596 𝑛𝑚 × 0.9957 𝑛𝑚)
+0.138 𝑛𝑚
+=
+= 0.244 𝑛𝑚
+0.565 𝑛𝑚
+
+(g) The angle between the plane normal (101) and (101) in goethite.
+Solution:
+
+𝑘⃗
+
+=
+
+1
+𝑑
+
+= [ℎ
+
+𝑘
+
+1
+⎡
+⎢𝑎
+𝑙] ⎢ 0
+⎢
+⎢
+⎣0
+
+0
+1
+𝑏
+0
+
+0⎤
+⎥ ℎ
+0 ⎥ 𝑘 = [ℎ
+⎥ 𝑙
+1⎥
+𝑐 ⎦
+
+𝑘
+
+ℎ
+⎡ ⎤
+⎢𝑎 ⎥ ℎ
+𝑘
+𝑙
+𝑘
++ +
+𝑙] ⎢ ⎥ =
+𝑏
+𝑐
+⎢𝑏 ⎥ 𝑎
+⎢𝑙⎥
+⎣𝑐 ⎦
+
+10
+
+MSE300
+
+Homework 4
+
+1
+⎡
+⎢𝑎
+∙ 𝑘⃗
+= [ℎ 𝑘 𝑙 ] ⎢ 0
+⎢
+⎢
+⎣0
+ℎ ℎ
+𝑘 𝑘
+𝑙 𝑙
+=
++
++
+𝑎
+𝑏
+𝑐
+
+𝑘⃗
+
+cos 𝜃 =
+
+=
+=
+
+0⎤
+⎥ ℎ
+0⎥ 𝑘
+⎥ 𝑙
+1⎥
+𝑐 ⎦
+
+0
+1
+𝑏
+0
+
+= [ℎ
+
+ℎ
+⎡ ⎤
+⎢𝑎 ⎥
+𝑘
+𝑙 ]⎢ ⎥
+⎢𝑏 ⎥
+⎢𝑙 ⎥
+⎣𝑐 ⎦
+
+𝑘
+
+ℎ ℎ
+𝑘 𝑘
+𝑙 𝑙
++
++
+𝑎
+𝑏
+𝑐
+ℎ
+𝑘
+𝑙 ℎ
+𝑘
+𝑙
++ +
++
++
+𝑎
+𝑏
+𝑐 𝑎
+𝑏
+𝑐
+ℎ ℎ (𝑏𝑐) + 𝑘 𝑘 (𝑎𝑐) + 𝑙 𝑙 (𝑎𝑏)
+
+ℎ (𝑏𝑐) + 𝑘 (𝑎𝑐) + 𝑙 (𝑎𝑏) ℎ (𝑏𝑐) + 𝑘 (𝑎𝑐) + 𝑙 (𝑎𝑏)
+1(−1)(0.9957 × 0.3021) + 0 + 1(1)(0.4596 × 0.9957)
+
+1(0.9957 × 0.3021) + 0 + 1(0.4596 × 0.9957)
+0.1189
+=
+= 0.3965
+0.5476 × 0.5476
+
+1(0.9957 × 0.3021) + 0 + 1(0.4596 × 0.9957)
+
+ = 66.64
+
+(h) The diffraction pattern of a goethite crystal is measured in a BraggBrentano geometry using a Cu K (=1.245 Å). Prepare a table of Miller
+indices of planes, interplanar spacings and diffraction angles for 0 < 2
+<60o.
+Bragg’s law: 2dhklsinhkl=; 𝑑
+𝜃
+2𝜃
+
+= sin
+
+= sin
+
+𝜆
+2𝑑
+= sin
+
+=
+
+= sin
+
+(
+
+)
+
+(
+
+)
+
+(
+
+)
+
+=
+
+;
+
+𝜆
+ℎ (𝑏𝑐) + 𝑘 (𝑎𝑐) + 𝑙 (𝑎𝑏)
+2𝑎𝑏𝑐
+ℎ (𝑏𝑐) + 𝑘 (𝑎𝑐) + 𝑙 (𝑎𝑏)
+
+Prepare a table; note that diffraction angle is 2hkl.
+
+hkl
+100
+
+dhkl (Å)
+4.596
+
+2hkl ()
+15.72
+
+11
+
+MSE300
+
+110
+111
+200
+210
+211
+220
+221
+300
+301
+
+Homework 4
+
+4.173
+2.447
+2.298
+2.239
+1.799
+2.086
+1.717
+1.532
+1.366
+
+17.36
+30.58
+32.80
+33.78
+43.79
+36.64
+46.48
+54.36
+65.70
+
+Q5) Designing an XRD experiment to detect phase transition (40 pts)
+BaTiO3 has a structure that is completely analogous to SrTiO3, except that it is
+tetragonal. Assume that SrTiO3 and BaTiO3 form solid solutions, (Sr,Ba)TiO3, but
+at an undetermined concentration of Ba, the solid solution takes on a tetragonal
+structure. Outline a powder diffraction experiment that could be used to determine
+the concentration of Ba at which the material transforms from cubic to tetragonal.
+Be sure to explain the signature that the transformation would have on the
+diffraction experiment.
+Solution:
+The cubic and tetragonal phases of the same compound will have unit cells such
+that a=b=c in the cubic case and a=bc in the tetragonal case. In a cubic case,
+(n00) and (00n) have the same d-spacing and same diffraction angle. However, in
+a tetragonal case (n00) and (00n) have different d-spacings and diffraction angles,
+leading to formation of new diffraction peaks.
+As soon as the phase transforms to tetragonal, there is appearance of new
+diffraction peaks, which we can compute by considering the interplanar spacing
+as well as Bragg’s law:
+
+𝑑
+
+=
+
+𝑎
+
+√ℎ + 𝑘 + 𝑙
+
+2dhklsinhkl=; 𝜃
+
+= sin
+
+12
+
+
+
+## Metadata
+- Source file: junk_drawer/MSE300_HW4_Solutions - F22.pdf
+- Extracted: 2026-05-18
+- Category: academic-homework

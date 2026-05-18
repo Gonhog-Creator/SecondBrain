@@ -1,0 +1,127 @@
+MSE 380, Spring 2025
+
+Homework 2
+
+Be sure to carefully mark the area for the answers to each sub-question in Gradescope.
+
+1. A sample of polylactic acid (PLA) has a bulk (or compression) modulus, K, of 293.8
+MPa and a shear modulus, G, of 100.1 MPa.
+a. Calculate the sample’s Young’s modulus, E, and its Poisson ratio, 𝜈.
+b. Based on its Young’s modulus, is the sample more likely to be a glassy or
+semi-crystalline polymer?
+
+2. The crystal structure of polyethylene and its unit cell dimensions are given below.
+Assume that the length of a C-C bond is 1.54 Å, and that a tetrahedral bond angle is
+109.5º. The C-C bond force constant, 𝑘! , is 436 𝑃𝑎/𝑚, and the bond angle force
+constant, 𝑘" , is 8.19 × 10#$% 𝑃𝑎/𝑚.
+
+a. Use Treolar’s approach to calculate the elastic modulus of polyethylene
+when a tensile force is applied along the axis of the backbone.
+b. The elastic modulus of polyethylene at room temperature is actually 668
+MPa. Analyze how close your estimate is, and explain any discrepancies.
+
+MSE 380, Spring 2025
+
+Homework 2
+
+3. You’ve been given a standard 32 oz block of Velveeta® cheese. Its dimensions are
+6.5 cm x 7 cm x 21.5 cm. You apply a compression load of 4.2 N for 30 min. You
+measured the compression of the cheese block under load to obtain the following
+data:
+Time (min)
+0
+0.7
+1.3
+2.1
+3.7
+5.2
+6.8
+8.3
+10
+12.6
+17.8
+23.1
+28.3
+
+Strain
+0.051
+0.089
+0.109
+0.125
+0.144
+0.160
+0.172
+0.188
+0.202
+0.215
+0.244
+0.278
+0.304
+
+a. Assign the elements (𝐸$ , 𝜂$ , 𝐸& , 𝜂& ) of the Burgers model to the regions in the
+plot below.
+Velveeta stress test
+0.4
+0.3
+
+Strain
+
+0.3
+0.2
+
+C
+
+0.2
+0.1
+
+B
+
+0.1
+
+A
+0.0
+0.0
+
+5.0
+
+10.0
+
+15.0
+
+20.0
+
+25.0
+
+30.0
+
+Time (min)
+
+b.
+
+Using the four-element model depicted above, estimate the values for
+each element (𝐸$ , 𝜂$ , 𝐸& , 𝜂& ). The slope of region C is 6.099 × 10#'
+min-1, and 𝜏$ is estimated to be 1.58 min.
+
+MSE 380, Spring 2025
+
+Homework 2
+
+c. Sketch the strain vs time curve of the system as it is compressed and then is
+allowed to recover. Assign the elements during recovery as in (a).
+d. After 30 minutes, you remove the compressive force. What is the strain of the
+block of cheese immediately after the compressive force has been removed?
+The last data point is at 28.3 minutes.
+e. What is the ﬁnal length of the block of cheese after it is allowed to recover for
+a very long time (i.e. irrecoverable creep)?
+
+4. A biomedical device company is developing a new biodegradable surgical mesh
+using polyhydroxybutyrate (PHB). The viscoelastic properties of PHB are critical for
+this application, as the mesh must maintain its structural integrity during the initial
+healing period but gradually relax over time. The 𝑇( of PHB is 5 ºC, and the universal
+constants are: 𝐶$ = 17.44, 𝐶& = 51.6 º𝐶.
+a. Calculate the shift factor, 𝑎 ) , at body temperature, 37 ºC.
+b. If a relaxation process takes 2 seconds at 37°C, how long would this process
+take at the storage temperature (14°C)?
+c. At what temperature will the relaxation process take 380 seconds?
+
+

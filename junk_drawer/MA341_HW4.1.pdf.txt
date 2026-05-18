@@ -1,0 +1,72 @@
+MA341
+Applied ODE’s
+Homework 4.1
+1. In the following questions you are given a homogeneous ODE together with one of its solutions y1 . Use
+Wronskian and Abel’s formula to find y2 .
+(a) xy ′′ − (x + 1) y ′ + y = 0, y1 = ex
+(b) x2 y ′′ − 4xy ′ + 6y = 0, y1 = x2
+(c) xy ′′ + (5x − 1) y ′ − 5y = 0, y1 = 5x − 1
+(d) xy ′′ + (1 − 2x) y ′ + (x − 1) y = 0, y1 = ex
+2. Find a general solution for the following ODEs:
+(a) 6y ′′ − y ′ − y = 0
+(b) y ′′ − 2y ′ − 2y = 0
+(c) y ′′ − 2y ′ + 6y = 0
+(d) y ′′ + 5y ′ = 0
+(e) y ′′ − 8y ′ + 16y = 0
+3. Consider the following initial value problem
+
+′′
+′
+
+y − y − 2y
+y (0)
+
+ ′
+y (0)
+
+=0
+=α
+=2
+
+(a) Find solution to the problem.
+(b) What values of α gives lim y (x) = 0.
+x→∞
+
+4. Use D’Alembert Order Reduction Method to find solution to the following ODEs.
+(a) Find y1 by yourself, then reduce the order and solve the resulting ODE to find y2 , the general and finally
+the private solution.
+
+′′
+′
+
+9y + 6y + y = 0
+y(0)
+=3.
+
+ ′
+y (0)
+=0
+(b) You are going to solve the following third order ODE
+ ′′′
+y − 3y ′′ + 3y ′ − y
+
+
+
+y(0)
+
+y ′ (0)
+
+
+ ′′
+y (0)
+
+=0
+=1
+.
+=1
+=1
+
+First, use a known private solution y1 = ex (verify it is indeed a solution!) to reduce its order, then solve
+resulting 2nd order ODE. Use it to find the solution of the original problem.
+
+

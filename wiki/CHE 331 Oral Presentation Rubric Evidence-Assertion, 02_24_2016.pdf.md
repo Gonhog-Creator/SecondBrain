@@ -1,0 +1,418 @@
+# CHE 331 Oral Presentation Rubric (Evidence-Assertion, 02_24_2016).pdf
+
+Source: junk_drawer/CHE 331 Oral Presentation Rubric (Evidence-Assertion, 02_24_2016).pdf
+
+Category: [[legal-document]]
+
+## Summary
+CHE 330 / 331 Oral Presentation Grade Sheet Member 1 Member 2 Member 3 1
+
+## Full Content
+CHE 330 / 331 Oral Presentation Grade Sheet
+
+Member 1
+
+Member 2
+
+Member 3
+
+1
+
+1
+
+1
+
+Experiment:
+
+Date:
+Presentation
+
+1 (Poor)
+
+2 (Satisfactory)
+
+3 (Excellent)
+
+Weight
+
+Technical
+Accuracy
+
+Numerous technical
+errors / omissions
+
+Very few technical
+errors / omissions
+
+No technical errors /
+omissions
+
+4
+
+Technical Depth
+
+Little or no technical
+depth in discussion
+
+Omits parts of
+conceptual discussion
+
+Explains all underlying
+phenomena clearly
+
+4
+
+Delivery
+
+Inaudible and/or poor
+pace
+
+Acceptable clarity,
+interest, pace, eye
+contact
+
+Very clear, dynamic,
+good pace
+
+5
+
+Lacking
+Lacking in more than
+Presenter professional
+professionalism in one
+one of dress / language
+in dress, language and
+of dress / language /
+/style
+style
+style
+
+4
+
+Professionalism
+
+Poor Habits
+
+More than 5 "uhs";
+multiple distracting
+habits or hestiations
+
+Less than than 5 "uhs."
+No hesitations or "uhs."
+Very few distracting
+No distracting habits
+habits.
+
+3
+
+Question
+
+No / duplicate /
+unprofessional question
+(-3)
+
+Satisfactory question (-0)
+
+--
+
+Total (60 maximum):
+Comments:
+
+2
+
+3
+
+2
+
+3
+
+2
+
+3
+
+CHE 330 / 331 Oral Q&A Grade Sheet
+
+Member 4
+
+Member 5
+
+Member 6
+
+1
+
+1
+
+1
+
+Experiment:
+
+Date:
+Q&A
+
+1 (Poor)
+
+2 (Satisfactory)
+
+3 (Excellent)
+
+Weight
+
+Readiness to
+Answer Questions
+
+Does not voluntarily
+participate in Q&A
+session
+
+Provides few answers
+or dominates Q&A
+session at expense of
+others
+
+Readily answers
+questions while
+allowing others to
+participate
+
+8
+
+Technical
+Accuracy
+
+Multiple mistakes /
+egregious errors
+
+Minor errors
+
+No errors
+
+3
+
+Clarity of
+Responses
+
+Rambling or off-topic
+responses
+
+Minor clarity issues
+
+Clear responses
+
+3
+
+Sufficiency
+
+No depth of explanation
+in answers
+
+Moderate depth in
+explanation, but
+missing key points
+
+Explanation shows
+depth of understanding
+
+3
+
+Brevity
+
+Very long answers or
+short answers lacking
+explanation
+
+Responses moderately
+too short or long
+
+Appropriate brevity
+
+3
+
+Question
+
+No / duplicate /
+unprofessional question
+(-3)
+
+Satisfactory question (-0)
+
+Total (60 maximum):
+Comments:
+
+--
+
+2
+
+3
+
+2
+
+3
+
+2
+
+3
+
+CHE 330 / 331 Oral Presentation Grade Sheet - Presentation Slides
+
+Group
+Technical
+Accuracy and
+Depth
+
+Group:
+
+Date:
+
+Experiment:
+
+1 (Poor)
+
+2 (Satisfactory)
+
+3 (Excellent)
+
+Weight
+
+Numerous serious errors / omissions
+
+A few minor errors / omissions or
+room for more technical depth
+
+Thorough with very
+few or no errors /
+omissions
+
+5
+
+Uncertainties missing from some Uncertainty explicitly
+values
+presented
+
+2
+
+Error Analysis
+
+No error analysis presented
+
+Clarity
+
+Unclear message
+
+Minor clarity issues
+
+Easy-to-understand
+presentation
+
+4
+
+Title Slide
+(pg. 73)
+
+Text on blank background
+
+Missing one or more of
+"Excellent" criteria
+
+Attractive slide with
+image providing entry
+point to work
+
+2
+
+Mapping Slide
+(pg. 77 and 179)
+
+Anchored with bullets and no images
+
+Anchored with bullets and
+images
+
+Anchored with images
+rather than bullets
+
+2
+
+5
+
+Slide adherence to
+evidenceassertion format
+(pg. 105-184)
+
+More of a "typical" Powerpoint presentation
+
+Inconsistently achieves
+"Excellent" criteria
+
+Consistently avoids
+topic/subtopic
+structure, minimal text,
+heavy reliance on
+visual evidence
+
+Concluding Slide
+(pg. 183)
+
+Essentially a blank slide with "Questions?"
+
+Either does not effectively
+emphasize key takeaway or
+no/poor image
+
+Slides emphasizes
+main takeaway with
+supporting image
+
+2
+
+Timing
+
+Longer than 20 minutes
+
+Presentation too short
+
+Completed within 20
+minutes but not
+exceptionally short
+
+2
+
+Question Handling
+
+One person dominates Q&A session
+
+One or two Q&A people
+answered most questions
+
+All Q&A people readily
+participated
+
+1
+
+Hard copy
+
+No hard copy provided
+
+Hard copy provided
+
+2
+
+Citations
+
+Mulitple missing citations
+
+All citations present
+
+3
+
+Hard copy doesn't match
+presentation
+One missing citation
+
+Total (90 maximum):
+
+
+
+## Metadata
+- Source file: junk_drawer/CHE 331 Oral Presentation Rubric (Evidence-Assertion, 02_24_2016).pdf
+- Extracted: 2026-05-18
+- Category: legal-document

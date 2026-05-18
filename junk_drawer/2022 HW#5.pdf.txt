@@ -1,0 +1,49 @@
+NE235 - PULSTAR REACTOR OPERATIONS
+
+NAME:
+
+HW#5 Cyber-Security
+REF: Cyber Security PPT Slide Deck & DHS-ICS CERT Web Training Module
+1. What do the following acronyms stand for?:
+• ICS:
+• SCADA:
+• CDA:
+• SSEP:
+2. What are three common cyber-attack delivery methods?
+
+3. What are the seven elements of the ‘Cyber Kill Chain’?
+
+Which of these could be effectively mitigated by minimizing the amount of facility/personal
+information available online?
+
+4. Are all facility digital assets considered Critical Digital Assets?
+Why or why not?
+
+5. What “CDA Configuration Information” should be audited at a minimum?
+
+6. What externally provided services are many facilities (inter)dependent on?
+
+7. Which database may be utilized to find ‘current security issues, vulnerabilities and exploits’?
+
+Page 1 of 2
+
+NE235 - PULSTAR REACTOR OPERATIONS
+8. When tracing network maps, what type of information should be included?
+
+9. List 5 different items that cyber-security procedures should cover?
+
+10. What are the three Attacker Threat Indices?
+
+Which threat index is most impacted by information about facility CDA published online?
+
+11. What are the three Vulnerability Indices?
+
+Which is most impacted by an operating system with a high CVSS Base Score?
+
+12. What was the most prevalent Risk Index value for audited PULSTAR systems?
+
+13. List 5 ‘Hardware Solutions’ based defense-in-depth mitigations?
+
+Page 2 of 2
+
+

@@ -1,0 +1,86 @@
+import type { NextAuthOptions } from 'next-auth';
+import GoogleProvider from 'next-auth/providers/google';
+
+// Helper to get the base URL
+const getBaseUrl = () => {
+  if (process.env.NODE_ENV === 'production') {
+    // In production, use the custom domain with www
+    return 'https://www.josebarbeito.com';
+  }
+  // In development, use localhost
+  return `http://localhost:${process.env.PORT || 3000}`;
+};
+
+const baseUrl = getBaseUrl();
+
+// Ensure NEXTAUTH_URL is set for production
+if (process.env.NODE_ENV === 'production' && !process.env.NEXTAUTH_URL) {
+  console.warn('NEXTAUTH_URL environment variable is not set in production');
+}
+
+export const authOptions: NextAuthOptions = {
+  providers: [
+    GoogleProvider({
+      clientId: process.env.GOOGLE_CLIENT_ID || '',
+      clientSecret: process.env.GOOGLE_CLIENT_SECRET || '',
+      authorization: {
+        params: {
+          prompt: 'consent',
+          access_type: 'offline',
+          response_type: 'code',
+          scope: 'openid email profile',
+        },
+      },
+    }),
+  ],
+  callbacks: {
+    async signIn({ user, account, profile }) {
+      // Only allow sign in for admin users
+      if (user.email === process.env.ADMIN_EMAIL) {
+        return true;
+      }
+      return false;
+    },
+    async jwt({ token, user, account }) {
+      // Add admin role to the token
+      if (user?.email === process.env.ADMIN_EMAIL) {
+        token.role = 'admin';
+        token.isAdmin = true;
+      }
+      return token;
+    },
+    async session({ session, token }) {
+      // Add the isAdmin flag to the session
+      if (session.user) {
+        session.user.isAdmin = token.isAdmin === true;
+      }
+      return session;
+    },
+    async session({ session, token }) {
+      // Add role to the session
+      if (session?.user) {
+        session.user.role = token.role || 'user';
+      }
+      return session;
+    },
+    async redirect({ url, baseUrl }) {
+      // Redirect to admin dashboard after sign in
+      if (url.startsWith('/')) {
+        return `${baseUrl}${url}`;
+      } else if (new URL(url).origin === baseUrl) {
+        return url;
+      }
+      return baseUrl;
+    },
+  },
+  session: {
+    strategy: 'jwt',
+    maxAge: 30 * 24 * 60 * 60, // 30 days
+  },
+  pages: {
+    signIn: '/auth/signin',
+    error: '/auth/error',
+  },
+  debug: process.env.NODE_ENV === 'development',
+  secret: process.env.NEXTAUTH_SECRET,
+};

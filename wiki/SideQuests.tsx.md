@@ -1,0 +1,133 @@
+# SideQuests.tsx
+
+Source: junk_drawer/github/PersonalWebsite/src/components/SideQuests/SideQuests.tsx.txt
+
+Category: [[github-code]]
+
+## Summary
+'use client'; import { useState } from 'react'; import Image from 'next/image'; import Link from 'next/link'; import { motion } from 'framer-motion'; type ProjectItem = { id: string; title: string;
+
+## Full Content
+'use client';
+
+import { useState } from 'react';
+import Image from 'next/image';
+import Link from 'next/link';
+import { motion } from 'framer-motion';
+
+type ProjectItem = {
+  id: string;
+  title: string;
+  image: string;
+  description: string;
+  path: string;
+};
+
+const projects: ProjectItem[] = [
+  {
+    id: 'folding',
+    title: 'Folding @ Home',
+    image: '/img/projects/folding/folding.jpg',
+    description: 'Contributing to scientific research by donating computing power',
+    path: 'https://stats.foldingathome.org/donor/id/755263407',
+    external: true
+  },
+  {
+    id: 'my-movies',
+    title: 'My Movies',
+    image: '/img/projects/movies/popcorncover.jpg',
+    description: 'Rating every movie I watch!',
+    path: '/side-quests/my-movies'
+  },
+  {
+    id: 'food-tree',
+    title: 'Food Tree',
+    image: '/img/projects/foodtree/foodtreetemp.png',
+    description: 'Explore connections between ingredients and dishes in an interactive 3D graph',
+    path: '/side-quests/foodtree'
+  },
+  {
+    id: 'fractals',
+    title: 'Deep Dive Into Fractals',
+    image: '/img/projects/fractals/fractalcover.jpg',
+    description: 'Exploring chaos theory and fractals through interactive visualizations',
+    path: '/projects/fractals'
+  }
+];
+
+const container = {
+  hidden: { opacity: 0 },
+  show: {
+    opacity: 1,
+    transition: {
+      staggerChildren: 0.1
+    }
+  }
+};
+
+const item = {
+  hidden: { opacity: 0, y: 20 },
+  show: { opacity: 1, y: 0, transition: { duration: 0.5 } }
+};
+
+export default function SideQuests() {
+  const [hoveredProject, setHoveredProject] = useState<string | null>(null);
+
+  return (
+    <section className="py-20 bg-gray-900">
+      <div className="container mx-auto px-4">
+        <div className="text-center mb-16">
+          <h2 className="text-4xl font-bold mb-4 text-white">
+            Side <span className="text-blue-400">Quests</span>
+          </h2>
+        </div>
+
+        <motion.div
+          variants={container}
+          initial="hidden"
+          whileInView="show"
+          viewport={{ once: true }}
+          className="flex flex-wrap justify-center gap-8 w-full"
+        >
+          {projects.map((project) => (
+            <motion.div
+              key={project.id}
+              variants={item}
+              className="relative group overflow-hidden rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 w-full max-w-[280px] sm:max-w-xs md:max-w-sm bg-gray-800"
+              onMouseEnter={() => setHoveredProject(project.id)}
+              onMouseLeave={() => setHoveredProject(null)}
+            >
+              <Link href={project.path} className="block w-full h-full">
+                <div className="relative aspect-square overflow-hidden">
+                  <Image
+                    src={project.image}
+                    alt={project.title}
+                    fill
+                    className="object-cover transition-transform duration-500 group-hover:scale-105"
+                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                  />
+                  <div 
+                    className={`absolute inset-0 bg-gradient-to-t from-black/90 via-black/50 to-transparent transition-opacity duration-300 flex flex-col items-center justify-end pb-8 ${
+                      hoveredProject === project.id ? 'opacity-100' : 'opacity-0'
+                    }`}
+                  >
+                    <div className="w-full px-6 text-center">
+                      <h3 className="text-2xl font-bold text-white mb-2">{project.title}</h3>
+                      <p className="text-gray-200 text-sm">{project.description}</p>
+                    </div>
+                  </div>
+                </div>
+              </Link>
+            </motion.div>
+          ))}
+        </motion.div>
+      </div>
+    </section>
+  );
+}
+
+
+## Metadata
+- Source file: junk_drawer/github/PersonalWebsite/src/components/SideQuests/SideQuests.tsx.txt
+- Extracted: 2026-05-18
+- Category: github-code

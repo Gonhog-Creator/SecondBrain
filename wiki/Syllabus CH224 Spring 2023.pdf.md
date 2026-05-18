@@ -1,0 +1,266 @@
+# Syllabus CH224 Spring 2023.pdf
+
+Source: junk_drawer/Syllabus CH224 Spring 2023.pdf
+
+Category: [[academic-syllabus]]
+
+## Summary
+CH 224 – Organic Chemistry II Lab Syllabus 1 Credit Hour Course Description Laboratory experience to accompany CH 223. Introduction to basic organic laboratory equipment and techniques. Learning Outcomes Upon successful completion of this course, the student will be able to: 1. Become aware of the safety procedures and regulations that must be observed when
+
+## Full Content
+CH 224 – Organic Chemistry II Lab Syllabus
+1 Credit Hour
+
+Course Description
+Laboratory experience to accompany CH 223. Introduction to basic organic laboratory
+equipment and techniques.
+
+Learning Outcomes
+Upon successful completion of this course, the student will be able to:
+1. Become aware of the safety procedures and regulations that must be observed when
+performing organic chemistry experiments in a laboratory.
+2. Use the techniques learned in CH222 in order to perform advanced synthesis of organic
+materials containing carbonyls:
+a. Perform simple separations using Thin Layer Chromatography.
+b. Separate complex mixtures using Column Chromatography.
+c. Purify organic compounds using recrystallization and sublimation.
+d. Determine melting points and boiling points and use them to characterize
+organic compounds.
+e. Perform Infrared Spectroscopy and use the results obtained to identify organic
+compounds.
+f. Combine the use of different synthetic and separation methods in order to
+execute multi-step synthesis.
+3. Determine the structure of organic compounds using information gathered from their NMR
+spectra.
+4. Perform literature searches using approved search engines and chemistry databases.
+5. Complete oxidation and reduction reactions using ketones as substrates.
+6. Complete electrophilic aromatic substitution reactions.
+7. Perform aldol condensation reactions.
+8. Complete amide preparation reactions.
+
+9. Prepare arenediazonium salts.
+10. Perform a saponification reaction on a selected triglyceride.
+
+Course Structure and Schedule
+Your lab meets on the date, room, and time indicated in your class schedule.
+Day
+Experiment
+Tues. Jan 17 - Fri. Jan 20
+
+Introduction to the Lab and
+Exp 1: Literature Search Assignment
+(due next lab meeting)
+
+Tues. Jan 24 - Fri. Jan 27
+
+Exp 2: NMR Spectroscopy
+
+Tues. Jan 31 - Fri. Feb 3
+
+Exp 3: Reduction of a Ketone
+
+Tues. Feb 7 - Fri. Feb 10
+
+Exp 4: Oxidation of Acetophenone
+
+Tues. Feb 14 - Fri. Feb 17
+
+NO LABS: Wellness
+
+Tues. Feb 21 - Fri. Feb 24
+
+LABORATORY QUIZ 1
+Exp 5: Nitration of Methyl Benzoate
+Exp 6: Aldol Condensation
+
+Tues. Feb 28 - Fri. March 3
+Tues. March 7 - Fri. March 10
+
+Exp 7: Preparation of
+1,4-diphenyl-1,3-Butadiene
+
+Tues. March 14 - Fri. March 17
+
+NO LAB - Spring Break
+
+Tues. March 21 - Fri. March 24
+
+Exp 8: Amide Preparation
+
+Tues. March 28 - Fri. March 31
+
+Exp 9: Arenediazonium Salts
+
+Tues. April 4 - Fri. April 7
+
+Exp 10: Hydrolysis of Glycerol Tristearate
+LABORATORY QUIZ 2
+
+Teaching Assistant: Your TA is listed on Moodle. TAs will provide students with their
+contact information and office hours.
+Dr. Cassie Lilly– Lab Director
+Email: cassie_lilly@ncsu.edu
+
+Office Location: FOX 254
+Office Hours: Email for appointment
+
+Course Materials
+Textbooks
+All course materials are on WebAssign and Moodle. The WebAssign Class KEY and directions for how to
+purchase and access the lab manual and assignments for each lab is posted on the Moodle section. No
+other textbooks or notebooks are required.
+
+Requisites and Restrictions
+Prerequisites: CH 221 and CH 222
+Co-requisites: CH 223
+
+Grading
+Pre=labs are to be completed on WebAssign and are due 1 hour before
+the start of the lab period. Lab worksheets are to be completed during lab
+and are due at the end of each lab period.
+Pre-Labs 1 and 2
+All other Labs
+Quiz
+Worksheet 1 and 2
+All other worksheets
+
+10 points
+60 points
+100 points
+90 points
+40 points
+
+The 10 experiment lab grades and the 2 quiz grades will be averaged
+together to calculate the final grade.
+
+Letter Grades
+This Course uses Standard NCSU Letter Grading:
+97 ≤ A+ ≤ 100
+93 ≤ A < 97
+90 ≤ A- < 93
+87 ≤ B+ < 90
+83 ≤ B < 87
+80 ≤ B- < 83
+
+77 ≤
+73 ≤
+70 ≤
+67 ≤
+63 ≤
+60 ≤
+0 ≤
+
+C+ <
+C <
+C- <
+D+ <
+D <
+D- <
+F <
+
+80
+77
+73
+70
+67
+63
+60
+
+Attendance Policy
+Documentation is required to verify an absence. Please send documentation for excused absences to
+your TA. The Division of Academic and Student Affairs can assist students with documentation
+(https://dasa.ncsu.edu/support-and-advocacy/find-help/absence-verification/) If excused, you may make
+up the lab in person during a different section that is approved by the TA or Lab Director
+(cassie_lilly@ncsu.edu). It may be that a different make up opportunity is provided. It is important to notify
+the TA or lab director as soon as possible with the excused absence in order to coordinate an in person
+lab make up. More than one absence for an in person lab, even if excused, could result in an incomplete
+(I) or failure of the course (F). This will apply if the first excused absence was not made up in person
+during a different lab section.
+An unexcused absence for one lab will result in a score of 0 for that lab. Missing two or more labs for
+unexcused reasons will result in an F.
+
+For complete attendance and excused absence policies, please see
+http://policies.ncsu.edu/regulation/reg-02-20-03
+
+Requirements for Credit-Only (S/U) Grading
+In order to receive a grade of S, students are required to take all exams and quizzes, complete
+all assignments, and earn a grade of C- or better. Conversion from letter grading to credit only
+(S/U) grading is subject to university deadlines. Refer to the Registration and Records calendar
+for deadlines related to grading. For more details refer to
+http://policies.ncsu.edu/regulation/reg-02-20-15.
+
+Requirements for Auditors (AU)
+Information about and requirements for auditing a course can be found at
+http://policies.ncsu.edu/regulation/reg-02-20-04.
+
+Policies on Incomplete Grades
+If an extended deadline is not authorized by the instructor or department, an unfinished
+incomplete grade will automatically change to an F after either (a) the end of the next regular
+semester in which the student is enrolled (not including summer sessions), or (b) the end of 12
+months if the student is not enrolled, whichever is shorter. Incompletes that change to F will
+count as an attempted course on transcripts. The burden of fulfilling an incomplete grade is the
+responsibility of the student. The university policy on incomplete grades is located at
+http://policies.ncsu.edu/regulation/reg-02-50-3.
+Incomplete grades will only be granted if more than 80% of the total course requirements have
+been fulfilled.
+
+Late Assignments
+If you need an extension for an assignment, contact your TA.
+If you contact your TA during the week after the due date, you will receive a no-penalty
+extension.
+If you contact your TA more than a week after the due date, you will receive an extension with a
+50% penalty.
+
+Academic Integrity
+Academic Integrity
+Students are required to comply with the university policy on academic integrity found in the
+Code of Student Conduct found at http://policies.ncsu.edu/policy/pol-11-35-01
+None.
+
+Academic Honesty
+See http://policies.ncsu.edu/policy/pol-11-35-01 for a detailed explanation of academic honesty.
+None.
+
+Honor Pledge
+Your signature on any test or assignment indicates "I have neither given nor received
+unauthorized aid on this test or assignment."
+
+Electronically-Hosted Course Components
+Students may be required to disclose personally identifiable information to other students in the
+course, via electronic tools like email or web-postings, where relevant to the course. Examples
+
+include online discussions of class topics, and posting of student coursework. All students are
+expected to respect the privacy of each other by not sharing or using such information outside
+the course.
+
+Accommodations for Disabilities
+Reasonable accommodations will be made for students with verifiable disabilities. In order to
+take advantage of available accommodations, student must register with the Disability Services
+Office (http://www.ncsu.edu/dso), 919-515-7653. For more information on NC State's policy on
+working with students with disabilities, please see the Academic Accommodations for Students
+with Disabilities Regulation at http://policies.ncsu.edu/regulation/reg-02-20-01.
+
+Non-Discrimination Policy
+NC State University provides equality of opportunity in education and employment for all
+students and employees. Accordingly, NC State affirms its commitment to maintain a work
+environment for all employees and an academic environment for all students that is free from all
+forms of discrimination. Discrimination based on race, color, religion, creed, sex, national origin,
+age, disability, veteran status, or sexual orientation is a violation of state and federal law and/or
+NC State University policy and will not be tolerated. Harassment of any person (either in the
+form of quid pro quo or creation of a hostile environment) based on race, color, religion, creed,
+sex, national origin, age, disability, veteran status, or sexual orientation also is a violation of
+state and federal law and/or NC State University policy and will not be tolerated. Retaliation
+against any person who complains about discrimination is also prohibited. NC State's policies
+and regulations covering discrimination, harassment, and retaliation may be accessed at
+http://policies.ncsu.edu/policy/pol-04-25-05 or http://www.ncsu.edu/equal_op/. Any person who
+feels that he or she has been the subject of prohibited discrimination, harassment, or retaliation
+should contact the Office for Equal Opportunity (OEO) at 919-515-3148.
+Course Schedule: All labs are due at 11:59pm on the dates shown next to the experiment
+number
+
+
+
+## Metadata
+- Source file: junk_drawer/Syllabus CH224 Spring 2023.pdf
+- Extracted: 2026-05-18
+- Category: academic-syllabus

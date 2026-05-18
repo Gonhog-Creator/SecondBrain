@@ -1,0 +1,91 @@
+# Practice Exam 1 Numerical Solution.pdf
+
+Source: junk_drawer/Practice Exam 1 Numerical Solution.pdf
+
+Category: [[academic-homework]]
+
+## Summary
+Problem 1 a) Need to label two feed streams, one outlet stream, and %xs air condition b) DoF = 1, unless basis is already assumed, then 0 c) Answer depends on whether or not a basis was already assumed d) Balances will depend on method chosen (EoR or atomic) Problem 2 a) Answer given b) Plot y vs. 𝑥, slope = a, intercept = b c) Plot ln(q) vs. g, slope = b, intercept = ln(a) d) Plot w3 vs. t2, slope = a, intercept = -b
+
+## Full Content
+Problem 1
+a) Need to label two feed streams, one outlet stream, and %xs air condition
+b) DoF = 1, unless basis is already assumed, then 0
+c) Answer depends on whether or not a basis was already assumed
+d) Balances will depend on method chosen (EoR or atomic)
+Problem 2
+a) Answer given
+b) Plot y vs. 𝑥, slope = a, intercept = b
+c) Plot ln(q) vs. g, slope = b, intercept = ln(a)
+d) Plot w3 vs. t2, slope = a, intercept = -b
+e) Plot
+
+𝑥
+𝑠𝑖𝑛(𝑦)
+
+vs. x, slope = a, intercept = b
+
+f) Plot ln(p) vs. 1/T, slope = -E/k, intercept = ln(A)
+g) Plot ln(Γ) vs. ln(ɣ), slope = n, intercept = ln(k)
+Problem 3
+a) C2=$B$16*A2/($B$15+A2)
+
+D2=(B2-C2)^2
+b) D15=sum (D2:D13)
+c) Set Objective: D15
+Goal: min, or value of 0
+By Changing Variable Cells: B15 and B16
+Hit button: Solve
+Problem 4
+a) Unit of a: atm*L2/mol2
+Unit of b: L/mol
+b) Plot p vs. T, slope =
+c) 𝑝 = {
+
+𝑅
+
+⎡
+^
+(𝑉−𝑏) ⎣
+
+𝑇(º𝐹)−32
+1.8
+
+𝑅
+^
+
+(𝑉−𝑏)
+
+()
+
+, intercept = − 𝑎
+2
+
+()
+1
+
++ 273. 15⎤ − 𝑎 ^
+⎦
+𝑉
+
+}
+
+1
+
+2
+
+^
+
+𝑉
+
+5
+
+1.01325 × 10 𝑃𝑎
+1 𝑎𝑡𝑚
+
+
+
+## Metadata
+- Source file: junk_drawer/Practice Exam 1 Numerical Solution.pdf
+- Extracted: 2026-05-18
+- Category: academic-homework

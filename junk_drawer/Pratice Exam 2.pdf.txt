@@ -1,0 +1,363 @@
+Name:
+
+________________________________________
+
+Instructor:
+
+________________________________________
+
+CHE 225 – Introduction to Chemical Engineering Analysis
+Practice Test #2. Closed book – closed notes. Write all your answers in the provided paper. Begin
+each numbered problem on a new page, show all your work, and box your final numerical answers.
+Only write your answers on the front of each page and start each problem on a fresh page.
+HONOR PLEDGE: “I have neither given nor received unauthorized aid on this test. I
+will not discuss the exam with anyone until after 5 pm on Friday, xxx, xxx.”
+__________________________________________________________________________
+Your name (printed)
+__________________________________________________________________________
+Your signature
+
+1
+
+Problem 1 (38 points)
+The virial equation of state (EOS) is frequently used to relate the gas pressure (P), specific molar
+volume (𝑉" ), and temperature (T) for non-ideal gases. The virial EOS is typically expressed as:
+𝑃𝑉"
+𝐵
+=1+
+𝑅𝑇
+𝑉"
+where B is a constant only dependent on temperature T.
+For given P and T, we would like to calculate the specific molar volume (𝑉" ) by using the NewtonRaphson method. A step-by-step procedure is described below, and please answer questions for
+each step:
+a) (4 points) First, the virial EOS needs to be rearranged into a new expression, called f(𝑉" ). Please
+write the correct expression of f(𝑉" ) on the answer sheet.
+b) (8 points) Second, please write out the expression of the derivative of f(𝑉" ), called f ’(𝑉" ).
+c) (10 points) Third, Newton-Raphson method is a numerical iteration approach, where the old
+𝑉"! will be repeatedly replaced by new 𝑉"!"# to approach the correct solution. Please write the
+iteration equation between 𝑉"!"# and 𝑉"! that is used in the Newton-Raphson method.
+Substitute the variables in the iteration equation by using the expressions derived in (a) and (b).
+d) (10 points) Finally, Newton-Raphson method will continue to iterate until a certain condition
+is met. Please both describe the condition in a single sentence and list the expression of the
+condition, by which Newton-Raphson iteration will stop.
+e) (3 points) Name another numerical iteration method that can be used to solve nonlinear
+equations.
+f) (3 points) What is the unit of B? Assume that the units of P is atm, T is K, 𝑉" is L/mol, and R
+is L • atm/ (mol • K).
+
+Problem 2 (16 points)
+Dr. Genzer is planning to use Matlab to solve the following nonlinear equation:
+cos (x) = x3 ln (x)
+Please answer the questions below to help Dr. Genzer walk through the process:
+a) (4 points) In order to apply fzero or fsolve function in the Matlab, Dr. Genzer needs to
+rearrange the nonlinear equation at the first place. Please write down the rearranged function
+of the original nonlinear equation: y = _________________;
+b) (4 points) Dr. Genzer then needs to define that function in the Matlab, and would like to give
+it a name of “nonlinearFunc”. He drafted the following script, but forgot where he should
+type in.
+function y = nonlinearFunc(x)
+y = _______________ ;
+
+2
+
+The above script should be typed into the ____________ (Editor or Command, select one)
+window.
+c) (4 points) Finally, Dr. Genzer will run the following command to calculate the x:
+fsolve(@nonlinearFunc,1)
+What is the purpose to include a number, 1, in the command line? Please explain.
+d) (4 points) Are there alternative ways to use the function fsolve other than the one described
+in c)? If so, please specify.
+
+Problem 3 (30 points)
+Consider a triangular prism as depicted in figures (A & B) below.
+a) (20 points) Derive an expression for the overall volume of the object in figure A, assuming
+that you cut it into individual horizontal slices of thickness dh and add all slices together
+starting from h=0 all the way to h=H.
+b) (7 points) If the triangular prism is standing vertically, as shown in figure (B), derive an
+
+expression for the volume of the object again. [Note: Although a thin slice is shown in (B),
+you do not need to use the same approach as before in your derivation. You can write down
+the answer directly].
+c) (3 points) Compare results obtained in (A) and (B).
+
+h
+
+h
+
+3
+
+Problem 4 (25 points)
+A continuous stirred tank (CST) contains 0.1 L of a liquid having a density of 5 g/cm3. At time
+t=0 seconds, the tank is being filled with two separate input streams, each comprising a different
+liquid. One stream has a density of 1 g/cm3 and is being supplied with the volumetric flow of 0.2
+L/min. The second stream contains a liquid with a density of 2 g/cm3 and is being supplied with
+the volumetric flow of 0.1 L/min. The exit steam leaves the CST at a volumetric flow of 0.3 L/min.
+The system set up is depicted graphically in the figure below.
+
+Assuming that the volume of the liquid in the CTS remains constant, perform the following tasks:
+a) (10 points) Starting from the overall mass balance for transient systems, derive a mass balance
+equation that describes the variation of density (r) of the liquid inside the CST as a function
+of time. Do not solve the ODE.
+b) (5 points) Using the result in part a) determine the final density of the liquid inside the CST at
+steady state. Pay attention to the units.
+c) (10 points) Solve the equation determined in part a) analytically to obtain an expression for
+the variation of liquid density (r) inside the CST as a function of time. Pay attention to the
+units.
+
+4
+
+Table 1. Unit Conversions & Constants
+Quantity
+
+Conversion
+7
+
+7
+
+Energy
+
+1 J = 1 Nm = 10 ergs = 10 dyne.cm = 2.778 x 10-7 kW.h
+
+Force
+
+1 N = 1 kg.m/s2 = 105 dyne (or g*m/s2)
+
+Length
+
+1 m = 100 cm = 39.37 in = 3.2808 ft
+
+Mass
+
+1 kg = 1000 g = 2.20462 lbm
+
+Power
+
+1 W = 1 J/s = 0.23901 cal/s
+
+Pressure
+
+1 atm = 1.01325 x 105 Pa (or N/m2) = 760 mm Hg = 14.696 lbf/in2 (or psi) =
+1.01325 bars
+
+Temperature
+
+T(K) = T(ºC)+273.15; T(ºF) = 1.8.T(ºC)+32
+
+Volume
+
+1 m3 = 1000 liters = 106 cm3 = 35.3145 ft3
+
+Time
+
+1 h = 60 min = 3600 s
+
+Universal gas constant
+
+8.314 J/K/mol 8.206 m3*atm/K/mol 1.987 kcal/K/mol
+
+Table 2. Derivative Rules
+Function Derivative
+
+Function name
+
+f (x)
+
+f '(x)
+
+Constant
+
+const
+
+0
+
+Linear
+
+x
+
+1
+
+Power
+
+xa
+
+a x a-1
+
+Exponential
+
+ex
+
+ex
+
+Exponential
+
+ax
+
+a x ln a
+
+Natural logarithm
+
+ln(x)
+
+Logarithm
+
+logb(x)
+
+Sine
+
+sin x
+
+cos x
+
+Cosine
+
+cos x
+
+-sin x
+
+Tangent
+
+tan x
+
+Arcsine
+
+arcsin x
+
+5
+
+Arccosine
+
+arccos x
+
+Arctangent
+
+arctan x
+
+Hyperbolic sine
+
+sinh x
+
+cosh x
+
+Hyperbolic cosine
+
+cosh x
+
+sinh x
+
+Hyperbolic tangent
+
+tanh x
+
+Inverse hyperbolic sine
+
+sinh-1 x
+
+Inverse hyperbolic cosine
+
+cosh-1 x
+
+Inverse hyperbolic tangent
+
+tanh-1 x
+
+Table 3. Common integrals
+Common Functions
+
+Function
+
+Integral
+
+Constant
+
+∫a dx
+
+ax + C
+
+Variable
+
+∫x dx
+
+x2/2 + C
+
+Square
+
+∫x2 dx
+
+x3/3 + C
+
+∫(1/x) dx
+
+ln|x| + C
+
+∫(1/(ax+b)) dx
+
+(ln|ax+b|)/a + C
+
+∫ex dx
+
+ex + C
+
+∫eax dx
+
+eax/a + C
+
+∫ax dx
+
+ax/ln(a) + C
+
+∫ln(x) dx
+
+x ln(x) − x + C
+
+∫cos(x) dx
+
+sin(x) + C
+
+∫sin(x) dx
+
+-cos(x) + C
+
+2
+
+∫sec (x) dx
+
+tan(x) + C
+
+Rules
+
+Function
+
+Integral
+
+Multiplication by constant
+
+∫cf(x) dx
+
+c∫f(x) dx
+
+Power Rule (n≠-1)
+
+∫xn dx
+
+xn+1 / (n+1) + C
+
+Sum Rule
+
+∫(f + g) dx
+
+∫f dx + ∫g dx
+
+Difference Rule
+
+∫(f - g) dx
+
+∫f dx - ∫g dx
+
+Reciprocal
+Exponential
+
+Trigonometry (x in radians)
+
+6
+
+

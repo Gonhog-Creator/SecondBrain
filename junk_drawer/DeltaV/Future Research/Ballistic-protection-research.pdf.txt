@@ -1,0 +1,3826 @@
+Ballistic protection
+Beat P. Kneubuehl
+Dr. sc. forens., M. in Math.
+
+© Beat P. Kneubuehl, P.O. Box 760, CH-3603 Thun, Switzerland
+German edition: June 2000
+English edition: December 2002
+Revised: March 2003 (test procedure p. 24-25)
+Translated by .....
+
+List of contents
+
+List of contents
+1
+
+Introduction ......................................................................................................................1
+1.1
+
+Protection is also a weapon ......................................................................................1
+
+1.2
+
+Personal protection and protection of material assets ..............................................1
+
+2
+
+The threat ..........................................................................................................................2
+
+3
+
+Material classes ................................................................................................................3
+
+4
+
+Threat and protection probability ...................................................................................4
+
+5
+
+4.1
+
+General .....................................................................................................................4
+
+4.2
+
+Threat probability ......................................................................................................4
+
+4.3
+
+Definition of the attack potential ................................................................................8
+4.3.1 Short weapons ..............................................................................................8
+4.3.2 Long weapons.............................................................................................10
+
+4.4
+
+Protection probability ..............................................................................................12
+4.4.1 General .......................................................................................................12
+4.4.2 Protection probability and attack potential ..................................................14
+
+Testing of ballistic protection .......................................................................................18
+5.1
+
+General ...................................................................................................................18
+
+5.2
+
+Regulations .............................................................................................................19
+5.2.1 Definition, types of regulations ....................................................................19
+5.2.2 Attack-orientated regulations ......................................................................20
+5.2.3 Protection-orientated regulations ................................................................21
+
+5.3
+
+Test methods ..........................................................................................................21
+5.3.1 Possibilities of test methods .......................................................................21
+5.3.2 Determination of mean penetration velocity and dispersion .......................23
+5.3.3 Determination of penetration probabilities ..................................................25
+5.3.4 Reliability of test for non-penetration ..........................................................26
+5.3.5 The necessary number of rounds when testing for non-penetration...........28
+
+5.4
+
+The fundamental definitions in attack-orientated regulations..................................29
+5.4.1 The test projectile .......................................................................................29
+5.4.2 The test velocity ..........................................................................................30
+5.4.3 Dispersion of the test velocity .....................................................................31
+5.4.4 Decision criteria in non-observance of the test velocity ..............................33
+
+5.5
+
+Further stipulations .................................................................................................33
+5.5.1 General .......................................................................................................33
+5.5.2 Firing distance ............................................................................................33
+5.5.3 Direction of fire ............................................................................................35
+
+III
+
+List of contents
+
+5.5.4
+5.5.5
+
+Number of rounds and firing pattern .......................................................... 36
+Pre-treatment of the test object .................................................................. 37
+
+6
+
+Effects behind the ballistic protection ........................................................................ 37
+
+7
+
+Existing standards and guidelines .............................................................................. 38
+
+A
+
+7.1
+
+General .................................................................................................................. 38
+
+7.2
+
+ISO and CEN ......................................................................................................... 39
+
+7.3
+
+Standards for ballistic protection constructions ...................................................... 39
+
+7.4
+
+Standards and guidelines for ballistic body protection ........................................... 41
+
+Annex.............................................................................................................................. 45
+A.1
+
+Calculation guide to the test method for determining the mean penetration
+velocity (v50) and the respective dispersion ............................................................ 45
+
+A.2
+
+IV
+
+Statistical tables ..................................................................................................... 46
+
+Introduction
+
+1
+
+Introduction
+
+1.1
+
+Protection is also a weapon
+It is informative at this point to give some thought to the meaning of the word
+“weapon”. In quite general terms, “weapon” means “combat equipment” and serves
+as a collective designation for all means of defence or attack.
+Weapons can be divided into two categories. One of the categories comprises
+the defensive or protective weapons. With the aid of these, the sensitive parts of the
+body are protected against attacks (e.g. protection vests, helmets, etc, and in earlier
+times the armour). The other category comprises the offensive weapons. These are
+used for the purpose of harming the attacker or opponent. They can be further subdivided into cutting, thrusting and stabbing weapons (so-called naked weapons) and
+projected weapons. Firing weapons do of course belong to the category of projected
+weapons.
+Since the basic concepts of the two weapon categories are diametrically opposed to one another, a performance spiral is unavoidable. Once protection against
+the existing offensive weapons is found, then the performance of the latter is immediately increased, which in turn entails new developments in the protection field.
+This performance spiral is very readily observable in the case of the light protection vests. When the first protection vests with some degree of portability came
+onto the market, a whole series of projectiles (KTW, Arcane, THV, thick-jacketed
+projectile, etc) intended to penetrate those vests emerged within a short time. The
+development of better protection materials, however, was not long in coming.
+
+1.2
+
+Personal protection and protection of material assets
+Penetration-inhibiting materials are primarily used for personal protection, since the
+means of attack used - the firing weapons and also stabbing weapons - is not primarily directed against the human being himself in this context. Material damage as
+a result of firing weapons occurs less frequently. Above all, here, it is the important
+and sensitive facilities (radar installations, computers, energy installations, control
+facilities) which require protection.
+Personal protection can be divided into two fields:
+— protection which is worn directly on the body (protection vests, helmets).
+— protection of the space in which people are located.
+Bodily protection is normally only partial, since on the one hand the mobility must
+not be too heavily impaired and on the other hand the weight of the protection must
+be restricted. Protected rooms are set up in buildings and building sections (bank
+and post office counters) and in vehicles. The materials which are used for this must
+
+1
+
+Ballistic protection
+
+not generally form any splinters in the protection area. An exception here is the
+protection of people who are always located sufficiently far from the protection construction (in shooting ranges).
+In the protection of material assets, freedom of the protection construction from
+splinters is required only when the splinters likewise represent a threat to the material assets.
+
+2
+
+The threat
+Human beings always seek to protect themselves against life-threatening effects
+from outside. The possible threats, however, are so diverse that the protective devices always have to be adapted to a certain threat profile in each case. One frequently occurring threat, moreover, is constituted by projectiles from short and long
+weapons, which impact at high velocity and whose effect potential lies in their kinetic
+energy.
+The category of short and long weapons (in English: “small arms”) includes all
+weapons which are operable with one or two hands and possess a calibre smaller
+than 13 mm. Also covered here are shotguns (smooth-bore guns) whose calibre
+may be up to roughly 20 mm (calibre 10).
+Although the diversity of rifles, pistols and revolvers and the accompanying munition is extremely large, the attack potential is quite clearly circumscribed by this
+delimitation, since for reasons of handling capacity both the maximum muzzle energy and also the muzzle impetus (recoil) must be restricted. As a result, limits are
+produced for the projectile weight and the muzzle velocity. In general, the following
+values more or less apply:
+Muzzle energy
+Muzzle impetus
+Projectile weight
+Muzzle velocity
+
+<
+10
+<
+25
+<
+35
+< 1200
+
+kJ
+Ns
+g
+m/s
+
+(18 kJ)
+(40 Ns)
+(50 g)
+
+With the advent of repeating rifles and semi-automatic weapons in the calibres 12.7
+99 mm (50 Browning) (USA) and 12.7108 mm (GUS), these limits are however
+pushed significantly upwards, as the values in brackets show.
+As a result of differing fields of application, weapon categories with a number of
+typical muzzle energy ranges have emerged in the course of time (see Table 1).
+This is reflected in the frequency of the weapons occurring, which in turn has an effect on the threat probability.
+Apart from muzzle energy and muzzle impetus, the projectile construction too
+should be included in the threat profile. Full-jacketed projectiles or even projectiles
+with a hardened steel core are a significantly greater threat from the viewpoint of
+
+2
+
+Material classes
+
+Table 1:
+
+Common weapon categories: Standard values for muzzle energy E0
+
+Weapon category
+
+Calibre range
+
+mean E0
+
+maximum E0
+
+[mm]
+
+[J]
+
+[J]
+
+500
+
+750
+
+Commercial short weapons
+Heavy short weapons
+
+< 12
+
+1000
+
+2500
+
+Long weapons (armed
+forces)
+
+< 6.5
+
+1600
+
+1800
+
+> 6.5
+
+3000 - 3500
+
+4000
+
+< 6.5
+
+2000
+
+3000
+
+> 6.5
+
+4000 - 5500
+
+12000
+
+12.799 mm
+
+12.7
+
+16000
+
+Long weapons (shotguns)
+
+12/70
+
+2500
+
+Long weapons (hunting)
+
+3500
+
+ballistic protection than say partial-jacketed or full-lead projectiles. Here again, the
+frequency of occurrence of such projectiles should be taken into account when assessing the threat.
+
+3
+
+Material classes
+The concept of penetration-inhibiting materials is understood quite generally to
+mean any type of material which are suitable for resisting firing by short or long
+arms. The materials can basically be divided into two groups in this instance with
+regard to their behaviour during firing:
+— glass and glass-like materials (e.g. ceramics)
+— all other materials (including plastic glass types)
+This classification, surprising at first glance, has its cause in the reaction with which
+a material responds to a localised load (energy transmission). Cracks form in glass,
+propagating themselves at high velocity (> 5000 m/s). They thus precede the projectile, which encounters only fragmented glass in the course of its penetration. In all
+other construction materials, the destruction caused by the projectile remains restricted to a relatively small area of the projectile path; the projectile is continually
+opposed by undestroyed material on its route.
+It is found that for the purposes of penetration of these two material classes it is
+not the same physical projectile characteristics which are significant. While the impact energy plays a central role in the case of glass types, the penetration depth in
+the other materials is primarily dependent on the energy density (energy per surface
+area) at the impact point. This is the reason why differing standards exist for glass
+and other protection materials.
+
+3
+
+Ballistic protection
+
+4
+
+Threat and protection probability
+
+4.1
+
+General
+There is no sense in constantly wanting to ensure personal protection against the
+maximum threat. In the threat spectrum of “all short and long weapons” the protection suit selected would have to be so heavy and unwieldy that it would be impossible to wear it for any length of time. In the sphere of space protection, it is often the
+costs and the constructional possibilities which constitute the limit on the protection
+possible.
+On being faced with the problem of having to protect oneself or a certain space,
+the first important step is to precisely define the threat against which the protection
+has to be effective. For the purpose of this it is necessary to be guided by the probability of the threat. Thus commercial short weapons (according to Table 1) are encountered considerably more frequently in Europe than heavy short weapons. This
+means that the threat probability as a result of - for example - weapons of the calibre
+9 mm Luger type is greater than that of those of the calibre 44 Rem. Mag. type. In
+the case of the army weapons, the Swiss calibre GP 11 will represent an extremely
+small threat in Germany, because of the small dispersion, quite unlike Switzerland,
+where it is (still) the munition most often used.
+Once the threat spectrum has been defined it must not, though, be expected
+that the respective protection will be absolutely safe. Any type of protection will only
+protect with a given, albeit very high, probability. The reason for this is on the one
+hand that a defined threat spectrum is always of a statistical nature and will thus be
+subject to variations, while on the other hand slight quality fluctuations also occur in
+the protection materials.
+
+4.2
+
+Threat probability
+The threat as a result of short and long weapons must always be considered from
+two aspects: the threat from the projectile on the one hand and the local dispersion
+and frequency of occurrence on the weapons concerned (the threat strength concerned) on the other hand.
+Depending on the material used in protection construction, the criterion for the
+threat is dictated by the energy of the projectile or by its energy density (see Chapter 3). Because there are now dozens of different calibres and hundreds of types of
+cartridge, it is a sensible move to classify the different weapons according to their
+attack potential. For the purpose of this, reference may be made either to the energy
+or to the energy density. If we record the nominal energy of 26 common shortweapon calibres, the picture represented in Figure 1 is obtained. From this, gradations can be seen quite clearly, these being at roughly 250 J, 500 J and 750 J.
+
+4
+
+Threat and protection probability
+
+22 short
+6.35 Browning
+22 long
+32 S.&W.
+22 L.R.
+32 S.&W. long
+7.65 Browning
+9 mm Brown. short
+9 mm Makarov
+38 Spl.
+7.65 Parabellum
+9 mm Brown. long
+44 S.&W. Spl.
+9 mm Luger
+22 Win. Mag.
+45 Auto
+38 Super Auto
+9 x 21
+45 Colt
+7.62 x 25 Tokarev
+40 S.&W.
+357 SIG
+10 mm Auto
+357 Magnum
+41 Rem. Mag.
+44 Rem. Mag.
+
+0
+
+250
+
+500
+
+750
+
+1000
+
+1250
+
+1500
+
+1750
+
+Energy [J]
+
+Fig. 1.
+
+Survey of the most common handgun calibres and their nominal muzzle energies.
+
+Above 750 J, there only exist a few different calibres, the energy increasing relatively strongly from calibre to calibre.
+If the same calibres are classified according to increasing energy density, then
+an analogous classification can be made, although the jumps are somewhat less
+clearly marked (see Figure 2). Gradations may be assigned at 5 J/mm2, 8 J/mm2
+and 11 J/mm2.
+Thus four threat classes are defined in each case for short weapons, both as
+regards energy and also as regards energy density. The allocation of the different
+calibres to the classes concerned may be taken from Table 2 (page 7).
+From a ballistic perspective, it is readily apparent but nevertheless remarkable
+that some calibres are assigned to differing classes, depending on which criterion is
+
+5
+
+Ballistic protection
+
+32 S.&W.
+22 short
+6.35 Browning
+9 mm Brown. short
+32 S.&W. long
+44 S.&W. Spl.
+7.65 Browning
+22 long
+45 Auto
+9 mm Makarov
+38 Spl.
+22 L.R.
+45 Colt
+9 mm Brown. long
+9 mm Luger
+40 S.&W.
+38 Super Auto
+9 x 21
+7.65 Parabellum
+10 mm Auto
+357 SIG
+7.62 x 25 Tokarev
+357 Magnum
+44 Rem. Mag.
+41 Rem. Mag.
+22 Win. Mag.
+
+0
+
+2.5
+
+5
+
+7.5
+
+10
+
+12.5
+
+15
+
+17.5
+
+20
+
+2
+
+Energy density [J/mm ]
+Fig. 2.
+
+Survey of the most common handgun calibres and their nominal energy densities
+at the muzzle.
+
+considered. When switching from energy to energy density, a number of large-calibre weapons fall into a lower class, while a number of small-calibre weapons move
+up one class. The most obvious difference occurs in the case of the 22 Win. Mag.,
+which generates by far the largest energy density with a moderate 500 J energy.
+It should be pointed out once again at this stage that in principle it is the energy
+which is the governing factor for protection constructions made of glass or glass-like
+materials but for all other materials it is the energy density.
+In the assessment of the threat probability, however, the frequency of occurrence of the different calibres should also be included. This frequency is, though,
+quite difficult to estimate. In order to nevertheless obtain a standard value, a survey
+was carried out in “Waffen Digest 1999”, involving roughly 500 short weapons, to
+
+6
+
+Threat and protection probability
+
+Table 2.
+
+Classification in threat classes
+
+Threat class
+
+as regards energy
+
+as regards energy
+density
+
+common calibres
+
+I
+
+22 short
+22 long
+22 L.R.
+32 S.&W.
+32 S.&W. long
+6.35 Browning
+7.65 Browning
+9 mm Brown. short
+
+22 short
+22 long
+32 S.&W.
+32 S.&W. long
+44 S.&W. Spl.
+6.35 Browning
+7.65 Browning
+9 mm Brown. short
+
+22 short
+22 long
+32 S.&W.
+32 S.&W. long
+6.35 Browning
+7.65 Browning
+9 mm Brown. short
+
+22 Win. Mag.
+38 Spl.
+44 S.&W. Spl.
+45 Auto
+7.65 Parabellum
+9 mm Brown. long
+9 mm Luger
+9 mm Makarov
+
+22 L.R.
+38 Spl.
+40 S&W
+45 Auto
+45 Colt
+9 mm Brown. long
+9 mm Luger
+9 mm Makarov
+
+38 Spl.
+45 Auto
+9 mm Brown. long
+9 mm Luger
+9 mm Makarov
+
+10 mm Auto
+357 SIG
+38 Super Auto
+40 S &W
+45 Colt
+7.62 x 25 Tokarev
+9 x 21
+
+10 mm Auto
+357 SIG
+38 Super Auto
+7.65 Parabellum
+9 x 21
+
+10 mm Auto
+357 SIG
+38 Super Auto
+9 x 21
+
+357 Magnum
+41 Rem. Mag.
+44 Rem. Mag.
+
+357 Magnum
+41 Rem. Mag.
+44 Rem. Mag.
+7.62 x 25 Tokarev
+22 Win. Mag.
+
+357 Magnum
+41 Rem. Mag.
+44 Rem. Mag.
+
+up to 250 J
+or
+up to 5 J/mm2
+
+II
+up to 500 J
+or
+up to 8 J/mm2
+
+III
+up to 750 J
+or
+up to 11
+J/mm2
+IV
+higher than
+750 J
+or higher than
+11 J/mm2
+
+The three calibres occurring most frequently are printed in bold, while the three
+following ones are in italics.
+
+establish the calibres in which they are offered. This produced the statistics shown
+in Figure 3 for percentage frequencies. Only 6 calibres (22 L.R., 357 Magnum, 9 mm
+Luger, 38 Spl., 40 S.&W. and 45 Auto) achieved values over 5%. Overall, roughly
+two thirds of the weapons listed are offered in these 6 calibres. The first three of the
+calibres mentioned even occur with a frequency of over 10%, and together make up
+roughly 45% of all the weapons offered. It is interesting that in each of the threat
+classes summarised above at least one of these frequent calibres occur. (These
+three very frequent calibres are printed in Table 2 in bold, while the three following
+ones are highlighted in italics.)
+It is now an obvious move to select in each threat class, as the most probable
+threat, that calibre which at the same time occurs most frequently. In the class up to
+500 J, for example, this concerns the 9 mm calibre Luger.
+
+7
+
+Ballistic protection
+
+22 short
+22 long
+22 L.R.
+22 Win. Mag.
+32 S.&W.
+32 S.&W. long
+357 Magnum
+357 SIG
+38 Spl.
+38 Super Auto
+40 S.&W.
+41 Rem. Mag.
+44 Rem. Mag.
+44 S.&W. Spl.
+45 Auto
+45 Colt
+6.35 Browning
+7.62 x 25 Tokarev
+7.65 Browning
+7.65 Parabellum
+9 mm Brown. short
+9 mm Brown. long
+9 mm Makarov
+9 mm Luger
+9 x 21
+10 mm Auto
+
+0
+
+5
+
+10
+
+15
+
+20
+
+Frequency [%]
+Fig. 3.
+
+Frequency of the existence of handgun calibres, based on the commercial supply in
+Europe (1999).
+
+4.3
+
+Definition of the attack potential
+
+4.3.1
+
+Short weapons
+Once the calibre of the most probable threat has been defined for a certain class, a
+further question immediately arises, which is to be examined in the following using
+the example of the 9 mm calibre Luger. In Figures 1 and 2 the focus was placed on
+the commonest muzzle energy in the particular calibre. This generally represents a
+standard value which is achieved with common run lengths and normal commercial
+cartridges. If protection is now to be provided against the "9 mm Luger", it must be
+
+8
+
+Threat and protection probability
+
+borne in mind that considerably higher energies are often achieved with greater run
+lengths (e.g. machine-guns) or special cartridges. It is therefore a matter of finding
+out what muzzle energies (or muzzle velocities) do in fact occur with such a cartridge.
+For the purpose of this, reliance should not be placed on company documents,
+since their data are in most cases determined with standard run lengths (test runs)
+and thus do not provide any picture of velocity distribution on the part of actual
+weapons.
+On compiling over 60 measurement series (each with at least 6 rounds) the velocity distribution represented in Fig. 4 was produced with 18 cartridge makes and
+run lengths between 90 and 225 mm. This can be approximated surprisingly well by
+a normal distribution (mean value 363.4 m/s, standard deviation 24.2 m/s). If a velocity of 360 m/s is accordingly expected with the 9 mm calibre (approx. 520 J with a
+projectile weight of 8g), then a maximum of 50% of the attack potential produced by
+this weapon calibre is thereby covered. With a velocity of 395 m/s, 90% of the possible cases, and with 420 m/s 99%, are already covered.
+A ballistic protection which is designed for the 9 mm calibre with a velocity of
+420 m/s (705 J) thus covers 99% of the possible attack potential of the short
+weapon probably most widespread (in Europe).
+
+Frequency [%]
+
+15
+
+10
+
+5
+
+0
+300
+
+325
+
+350
+
+375
+
+400
+
+425
+
+450
+
+Velocity [m/s]
+Fig. 4.
+
+Frequency of the muzzle velocity of the calibre 9 mm Luger (using 8 g projectiles).
+The black line represents the according normal distribution.
+
+9
+
+Ballistic protection
+
+In this case, the question arises immediately as to why the desired aim is not to
+achieve practically complete protection (eg 99.99%). The reason for this is on the
+one hand that the protection construction becomes heavier, more unwieldy and also
+dearer with increasing protection probability. The aim should therefore always be to
+achieve a balance between handiness, expenditure and degree of protection. (With
+protection vests, it is no use having a high protection probability if the vest is so uncomfortable that it cannot be worn at all.) On the other hand, in the above-mentioned example with 420 m/s, an energy of 705 J and an energy density of 11 J/mm2
+are achieved. This already lies well into the next highest class (according to Table 2)
+and the protection could be offered there as 50 or 60% protection. Thus the wish for
+practically complete protection might already occur in this class, which would however lead to even heavier constructions.
+To summarise, the following may be concluded from these remarks:
+– standard velocities of handguns are indeed suitable for classification of the
+threat, but they are unsuitable for defining the effective attack potential
+– when defining the threat probability, the attack potential and the frequency of
+occurrence should be taken into account.
+– there is no hundred percent protection
+4.3.2
+
+Long weapons
+In the case of the long weapons, an analogous procedure is advised. With this
+weapon category, however, it is an advantage to first give some thought to the distribution and subsequently to a possible classification. The reason for this lies in the
+clear dominance of the distribution, which is governed by the large number of carbines and assault rifles procured by the armed forces.
+When considering the most frequent calibres and the respective ballistic data
+(see Table 3), two threat classes come to mind with regard to energy. In one, the
+two 5.56 x 45 calibre types may be combined (muzzle energy approx. 1700 J), in
+which case the 5.45 x 39 Kalashnikov too is covered at the same time. The other
+comprises the so-called 30 calibre (7.62 mm), the muzzle energy of which lies between 3000 and 3500 J and to which the Swiss cartridge GP 11 may also be added.
+It is significant that with regard to energy density the two classes (5.56 mm and 7.62
+mm) can even be combined. In both cases it amounts to roughly 70 J/mm2. As a result of the extremely large frequency of these weapons, it is hardly surprising that it
+was possible to establish two corresponding classes in the threat catalogue of
+penetration-inhibiting objects.
+It is worth paying special attention to the 7.62 × 39 calibre Kalashnikov, not
+least for historic reasons. On one hand it represents a special case with regard to
+energy and energy density within the calibres in Table 3. On the other hand, until a
+short time ago it was represented only to a minor extent in Western countries, com-
+
+10
+
+Threat and protection probability
+
+Table 3.
+
+Energy and energy density of the most frequent army weapons.
+
+Calibre
+
+Energy
+
+Energy density
+
+[J]
+
+[J/mm2]
+
+5.45×39 mm Kalaschnikov
+
+1400
+
+60.0
+
+5.56×45 mm Remington
+
+1660
+
+68.4
+
+5.56×45 mm NATO
+
+1690
+
+69.6
+
+7.62×39 mm Kalaschnikov
+
+1960
+
+43.0
+
+7.62×51 mm NATO
+
+3270
+
+71.7
+
+7.5 mm GP 11
+
+3180
+
+71.9
+
+30-06 (7.62×63 mm)
+
+3400
+
+74.5
+
+7.62×54R
+
+3840
+
+84.2
+
+7.92 mm Mauser
+
+4010
+
+81.4
+
+paratively speaking, for which reason it has not hitherto appeared in the corresponding threat lists. Since it is undoubtedly the most widespread calibre in the
+world, however, with an estimated 100 million weapons, this has changed in the
+meantime, and the „Kalashnikov" is recently being given due consideration .
+For a general analysis of the threat posed by long weapons, however, the frequency of occurrence is insufficient. A glance at the compilation of the corresponding ballistic muzzle data of some hunting calibres (Table 4) shows that although
+their occurrence is relatively rare, the strength of the threat is all the greater.
+In actual fact, the muzzle energies in the same calibre range are roughly 50 %
+greater, which naturally also has an effect on the energy densities. It is therefore
+advisable to consider at least one of the more powerful hunting calibres (eg 8 × 68 S
+or 7 mm Rem. Mag.) in a threat catalogue of long weapons. A glance at the numerical values in the two Tables 3 and 4 makes it immediately clear, though, that this
+can only be carried out with a separate threat class.
+
+Table 4.
+
+Energy and energy density of typical hunting weapon calibres.
+
+Calibre
+
+Energy
+
+Energy density
+
+[J]
+
+[J/mm2]
+
+5.6×57 mm
+
+2600
+
+105.4
+
+6 mm Remington
+
+3030
+
+107.3
+
+6.5×57R
+
+3060
+
+92.2
+
+7 mm Remington
+
+4800
+
+124.8
+
+8×68S
+
+5690
+
+113.3
+
+11
+
+Ballistic protection
+
+4.4
+
+Protection probability
+
+4.4.1
+
+General
+Probability observations have to be made not only in the case of the threat, but also
+in the case of the protection. It is generally assumed that a protective structure will
+either withstand a certain attack or not. In practice, however, a different picture
+emerges.
+If for example a protection construction is subjected to firing with constantly increasing velocity, the projectile is first stopped but at some stage a velocity is then
+reached at which the material is penetrated for the first time. At an even higher impact velocity, however, the projectile may indeed be stopped again. Overall, a velocity range is always produced in which non-penetration and penetration overlap.
+Figure 5 shows a realistic picture of a series of 26 rounds against a light protection
+vest panel. Below 390 m/s all rounds were stopped, while above 430 m/s all rounds
+penetrated the panel. If the speeds in between are divided into segments of say
+5 m/s (in statistical terms, a class division is undertaken), then the round may both
+be stopped and also produce penetration in each segment (class).
+In each class it is now possible to calculate and plot the relative penetration frequency. In doing so, the situation represented in Figure 6 is produced. It is now possible to show that with very many more rounds this penetration frequency gradually
+approximates a theoretical curve which is dictated by the so-called Gaussian normal
+distribution (line drawn in on Figure 6). This curve represents the penetration probability as a function of the impact velocity of the panel concerned.
+
+350
+
+360
+
+370
+
+380
+
+390
+
+400
+
+410
+
+420
+
+430
+
+440
+
+450
+
+Impact velocity [m/s]
+Fig. 5.
+
+12
+
+Result of a real test with 26 shots of a ballistic protection panel. The division in
+classes of 5 m/s width is already indicated.
+
+Threat and protection probability
+
+1
+
+Penetration probability
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+360
+
+380
+
+400
+
+420
+
+440
+
+460
+
+Impact velocity [m/s]
+Fig. 6.
+
+Relative penetration frequency based on the results of Fig. 5 (black dots) and the
+according curve of the penetration probability. The triangle marks the mean penetration velocity v50.
+
+Since penetration and stopping are mutually exclusive, the stopping or protection
+probability can be determined from the penetration probability by supplementation to
+1 (or 100%). (With a penetration probability of 0.15 or 15% the protection probability
+is correspondingly 0.85 or 85%.) The protection probability curve of the protection
+vest panel concerned is represented in Figure 7.
+Every ballistic protection - whether it is a penetration-inhibiting glass, a protection vest or a sheet steel element - possesses a corresponding protection probability. Depending on the type and composition of the material, the curve has a steeper
+or shallower progression. Homogeneous and precisely defined materials (eg steel)
+generally exhibit steeper progressions while more strongly structured materials such
+as fabric exhibit somewhat shallower ones.
+Since the curves of the penetration and protection probability follow a normal
+distribution, a number of important and interesting data can readily be calculated
+and quoted. Thus the mean penetration velocity (the so-called v50) is an important
+figure in assessing a protection device. It is that impact velocity at which 50% penetrations must still be expected. Correspondingly, however, v1 or v0.1 (velocities at
+which 1% or 0.1% penetrations must be expected) may also be quoted. v0.1 denotes
+a protection probability of 99.9%, i.e. at this velocity 1000 rounds with one penetration must be expected on average.
+
+13
+
+Ballistic protection
+1
+
+Protection probability
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+360
+
+380
+
+400
+
+420
+
+440
+
+460
+
+Impact velocity [m/s]
+Fig. 7.
+
+4.4.2
+
+Protection probability according Fig. 5 and 6.
+
+Protection probability and attack potential
+In Section 4.3, mention was made of the attack potential and it was shown using the
+example of the 9 mm calibre Luger that when combining all weapon and munition
+designs in this calibre, the distribution of the muzzle velocities (and thus also of the
+muzzle energy and energy density) approximately represents a normal distribution.
+From this can be constructed a summation curve (see Fig. 8), from which it is possible to read for a certain velocity the probability of still being at risk of a threat with a
+higher energy (when using an 8 g full-jacketed projectile). So for example with a
+velocity of 405 m/s (white circle in Fig. 8) roughly 95 % of all the velocities occurring
+with the 9 mm Luger are covered. This means that about 5 % of the weapon munition combinations occurring achieve a higher velocity in this calibre.
+This can now be correlated with the protection probability. To this end, Fig. 9
+shows the protection probability of a ballistic protection, of which the mean penetration velocity (v50) is 430 m/s and the dispersion (standard deviation) is 15 m/s. 95 %
+safety is achieved in this instance, given an attack velocity of 405 m/s. These (or
+smaller) velocities are however produced according to Fig. 8 (dotted arrow) by 95 %
+of the possible weapons occurring in this calibre. Towards 5 % the expected safety
+is not ensured.
+At this point let us insert some remarks on the probability concept. If a certain criterion (e.g. the
+penetration of this protection plate) never occurs in an event (e.g. round fired at a protection
+
+14
+
+Threat and protection probability
+
+15
+
+1
+0.9
+
+0.7
+
+Frequency [%]
+
+10
+
+0.6
+0.5
+0.4
+
+5
+
+0.3
+
+Considered velocities
+
+0.8
+
+0.2
+0.1
+
+0
+300
+
+0
+
+325
+
+350
+
+375
+
+400
+
+425
+
+450
+
+Impact velocity [m/s]
+Fig. 8.
+
+Frequency curve of muzzle velocities of the calibre 9 mm Luger and the
+according normal distribution.
+
+plate) then the probability of the criterion is 0. Zero in this case really means never. If for example that plate construction is penetrated one single time in one million rounds, the penetration
+probability would already be no longer 0 but roughly one millionth or 0.000001. If a criterion always occurs, on the other hand, then its probability is 1 (or even 100 %).
+If two events are independent of one another, then the probabilities of their criteria can be
+multiplied by one another. In the event of two contrary criteria ( eg penetration and non--penetration) the probabilities supplement one another to 1% or 100 %. If for example a ballistic pro-
+
+1
+0.9
+
+Protection probability
+
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+350
+
+375
+
+400
+
+425
+
+450
+
+475
+
+500
+
+Impact velocity [m/s]
+Fig. 9.
+
+Protection probability of a ballistic protection with v50 = 440 m/s and a
+standard deviation of 15 m/s.
+
+15
+
+Ballistic protection
+
+tection has a penetration probability of 8 % then the corresponding protection probability (nonpenetration probability) is 92 %.
+With these rules, the general penetration probability of a ballistic protection can now be
+determined for a given attack velocity, taking into account the attack potential. It is in fact obtained from the product of the penetration probability of the protection and the probability that
+the attack will be carried out with a higher velocity than the one considered. If we supplement
+the penetration probability obtained in this way to 1 (or to 100 %), the effective protection probability corresponding to the ballistic protection is obtained, which takes into account the ballistic
+possibilities of the attack calibre used as the basis.
+
+In Fig. 10 are shown the protection probabilities of two ballistic protection constructions which, in relation to the 9 mm calibre Luger (VMR), possess a mean penetration velocity (v50) of 400 m/s or 430 m/s with a dispersion of 15 m/s. From this can
+be gathered two things:
+– The protection probability has a minimum at an attack velocity which lies
+slightly below the v50 level.
+– The protection probability rises rapidly with increasing v50
+In the example shown, the protection probability with a v50 of 400 m/s is roughly
+95.7 %, and at 430 m/s already roughly 99.6 %. This means that with 1000 rounds
+against this protection construction an average of 43 rounds should be expected in
+the first case, and 4 rounds in the second case. Even if the protection is considerably better in the second case than in the first, the question immediately arises as to
+whether it might be possible to have any confidence in such a protection.
+In this way we have arrived at a problem of extreme importance for protection
+matters: what protection probability is to be assumed at all. Where the protection of
+1
+v50 = 430 m/s
+
+Protection probability [-]
+
+0.99
+
+0.98
+
+0.97
+
+0.96
+v50 = 400 m/s
+
+0.95
+300
+
+Fig. 10.
+
+16
+
+350
+
+400
+Impact velocity [m/s]
+
+450
+
+500
+
+Protection probability of a ballistic protection with v50 of 400 m/s resp. 430 m/s.
+Standard deviation of both: 15 m/s.
+
+Threat and protection probability
+
+human beings is involved, risk factors of 1 to 100,000 (= 10-5) up to 1 to 1,000,000
+(= 10-6) are normal, which means that in 100,000 or 1,000,000 events one fatal
+event (i.e. one instance of penetration of the protection) is to be expected.
+Since the distribution of the attack potential and – with a given mean penetration probability and dispersion of a ballistic protection – the protection probability are
+known, the correlation between mean penetration velocity and permissible attack
+velocity can be calculated for the above risk factors. The results of such a calculation are presented in Fig. 11. From this graph can be deduced correlations of the
+sort illustrated in the following examples:
+–
+
+Example 1: Let us take a ballistic protection whose v50 is 440 m/s and the
+dispersion 15 m/s). From Fig. 11 (dotted line) it can be deduced that this
+protection, up to an attack velocity of 380 m/s, offers a protection probability
+w of 105 (100,000 to 1) or more. For higher velocities, the degree of protection drops quite quickly (by approximately 10-fold for each 10 m/s).
+
+– Example 2: The desired ballistic protection is one which, at an attack velocity
+of 410 m/s, offers a protection probability of 106 (1,000,000 to 1). According
+to Fig. 11 (broken line) a mean penetration velocity of roughly 470 m/s (with
+a dispersion of 15 m/s) is necessary for such protection.
+It still requires some justification as to why, in all the examples, major importance has been placed
+on the standard deviation (dispersion) of the ballistic protection with regard to the penetration
+velocity. In actual fact, this dispersion plays a crucial role in the protection probability. If it increases
+by 50 % to 22.5 m/s for example , then the ballistic protection in Example 1, given constant
+protection probability, acts only up to roughly 340 m/s. In Example 2 the mean penetration
+velocity would have to be increased to approx. 500 m/s to achieve the same protection factor.
+
+450
+
+Impact velocity [m/s]
+
+400
+4
+
+350
+
+(s = 15 m/s)
+
+w = 10
+
+w = 105
+w = 106
+
+300
+
+250
+6
+
+w = 10
+(s = 22.5 m/s)
+
+200
+300
+
+350
+
+400
+
+450
+
+500
+
+v50, mean penetration velocity [m/s]
+Fig.11.
+
+Relation between v50 and impact velocity for different protection probabilities w.
+(s stands for the standard deviation of the ballistic protection.)
+
+17
+
+Ballistic protection
+1
+
+s = 15 m/s
+
+Protection probability [-]
+
+0.99999
+0.99998
+0.99997
+0.99996
+0.99995
+0.99994
+
+s = 22.5 m/s
+0.99993
+300
+
+350
+
+400
+
+450
+
+500
+
+Impact velocity [m/s]
+
+Fig. 12.
+
+Effect of the standard deviation of the penetration velocity on the protection
+probability. The mean penetration velocity (v50) is 480 m/s.
+
+The influence of the dispersion (standard deviation) of the penetration velocity may
+be best represented with the aid of a real example. In Fig. 12 are shown the
+protection probabilities of a ballistic protection with a mean penetration velocity (v50)
+of 480 m/s for the two dispersions 15 m/s and 22.5 m/s. The enormous deterioration
+produced when increasing the dispersion is clearly evident.
+To summarise, the following may be stressed:
+– The mean penetration velocity of a ballistic protection must lie clearly above
+the attack velocity to be expected, if a high protection probability is to be
+achieved
+– The dispersion of the penetration velocity is a quality criterion of the
+protection. It should be as small as possible.
+– Analogous analyses and studies can of course be carried out for all calibres.
+
+5
+
+Testing of ballistic protection
+
+5.1
+
+General
+At first glance, there appears to be nothing easier than testing a protection device in
+practice: you set it up, fire at it and then have a look to see whether the projectile
+has penetrated the protection or not. It is not such a simple matter, though, and
+without certain provisions it is impossible to carry out correct testing. A test does in
+fact only have any point if, given the same test object, every repetition supplies the
+same result, and if every test institute comes to the same conclusion.
+
+18
+
+Testing of ballistic protection
+
+If for example a sheet of penetration-inhibiting glass is clamped in the frame once rigidly and
+once flexibly, it may stop the projectile on one occasion but on the other hand be penetrated on
+the other occasion.
+
+Firing tests therefore always take place under idealised conditions. The projectile
+type and velocity are known precisely, and the test object is mounted on a defined
+target structure, while certain environmental conditions such as temperature and
+humidity have to be observed according to the stipulations of a standard or guideline. Such definitions are absolutely necessary so that one of the most important requirements on a test – the reproducibility – is fulfilled.
+Tests are not therefore primarily intended to simulate "reality" but compare different products under the same conditions and in relation to a given standard. The
+fact that this standard must take "reality" (i. e. the effective attack potential) as its
+reference point goes without saying and was explained in Chapter 4. Direct conversion of the test results to "reality" is however possible only to a limited extent.
+In view of the real application of the test objects, on the other hand, it is important to have an accurate knowledge of the so-called sensitivity of the test conditions.
+A test condition is called sensitive if a minor modification is sufficient to produce a
+considerably different test result.
+For example, if a sheet of plastic glass were resistant to penetration at a temperature of 15 °C
+but at just 12 °C allowed penetration under identical conditions, the temperature in this case
+would be a sensitive test condition.
+
+Minor changes in the test conditions are only ever intended to allow the possibility of
+minor changes in the test result. The reproducibility of tests might otherwise become
+very difficult.
+
+5.2
+
+Regulations
+
+5.2.1
+
+Definition, types of regulations
+The heading "Regulations" comprises provisions which define the execution of tests
+and the assessment of test results. Regulations can basically be divided into two
+groups:
+– Standards are anchored in law and nationally recognised. They are issued
+by the national or nationally recognised standards institutes. Their application is often binding.
+– Guidelines are not anchored in law. They are test instructions which are established by public or private institutions in order to achieve uniform testing
+of certain objects.
+
+19
+
+Ballistic protection
+
+Typical examples of standards are the regulations of the DIN (German Institute for
+Standardisation), Ö-Norm (Austrian Standards Institute) or SNV (Swiss Standards
+Association). Guidelines mostly emerge as prior references for the procurement of
+equipment items (eg for the army or police). By way of example here, mention may
+be made of the NATO STANAG guidelines or the guidelines of the PFA (police records academy) in Muenster (Westphalia).
+A regulation may be established according to two different basic principles. It is
+orientated either to the attack potential (attack-orientated regulation) or to the possible protection (protection-orientated regulation).
+5.2.2
+
+Attack-orientated regulations
+In an attack-orientated regulation, a certain attack potential is normally specified,
+based on considerations of the sort which were described in Chapter 4 (frequency of
+occurrence of certain weapons, etc). The objects for testing are then tested with the
+weapon and munition defined as the attack potential. The dimensioning of the construction is governed only according to the calibre concerned (including the type of
+projectile), which also defines the so-called protection class.
+At this point it is worth remembering that with glass types (and glass-like materials such as for example ceramics) it is primarily the energy of a projectile which is
+responsible for penetration, but with all other materials it is the energy density. A
+glance at Table 5 shows that non-uniform constructions are thereby produced in
+special cases, given an attack-orientated regulation.
+Projectiles with similar energy may exhibit major differences with regard to the energy density
+(cf. 44 Rem. Mag. and 5.56 mm NATO). Conversely there are projectiles with practically
+identical energy density, whose energy diverges widely (cf. 9 mm Luger with the shotgun in the
+calibre 12/70 or even 5.56 mm NATO and 7.62 mm NATO).
+Table 5.
+
+Normal calibres for firing tests.
+
+Type of weapon
+
+Projectile
+weight
+
+Energy
+
+Energy density
+
+[g]
+
+[J]
+
+[J/mm2]
+
+9 mm Luger
+
+8.0
+
+670
+
+10.5
+
+357 Magnum
+
+10.2
+
+940
+
+14.8
+
+44 Rem. Mag.
+
+15.5
+
+1500
+
+15.2
+
+Long weapons
+
+5.56 mm NATO
+
+4.0
+
+1750
+
+72.8
+
+Armed forces
+
+7.62 mm NATO
+
+9.5
+
+3270
+
+71.8
+
+7.5 mm GP 11
+
+11.3
+
+3440
+
+76.8
+
+Long weapons
+
+7 mm Rem. Magnum
+
+10.5
+
+4840
+
+125.7
+
+Hunting
+
+8 x 68S
+
+12.7
+
+5375
+
+106.9
+
+Shotguns
+
+12/70
+
+31.4
+
+2860
+
+10.6
+
+Short weapons
+
+20
+
+Calibre
+
+Testing of ballistic protection
+
+A combined structural element (e.g. a penetration-inhibiting door with glass), designed to withstand the 9 mm calibre Luger, requires a structure around the window
+which would at the same time also protect against shotguns. If on the other hand the
+door is designed to withstand the shotgun, then the glass will also protect against
+the 357 Magnum and 44 Rem. Mag., while the construction around the window will
+only withstand the 9 mm Luger.
+Objects containing both glass and other materials and tested according to an
+attack-orientated regulation are always over-dimensioned in one part.
+This problem may be avoided with the concept of protection-orientated regulations.
+5.2.3
+
+Protection-orientated regulations
+The desired aim of this type of regulation is primarily to achieve homogeneity in the
+protection construction. Dimensioning in this case is undertaken basically for a certain energy and for a certain energy density, which generally cannot both be tested
+with the same calibre. Division into classes is governed in this case by the structure
+and weight of the construction. Thus a distinction may be made for example between light, medium and heavy constructions.
+Protection-orientated regulations can be recognised from the fact that several
+calibres and projectile types are quoted in the individual protection classes (which
+correspond to a certain construction). Typical representatives of this type are the
+American NIJ standards for the testing of bullet-proof vests and the French standards for penetration-inhibiting doors, windows and facades.
+Most regulations are established according to the attack-orientated principle, since this permits
+considerably more simple test processes. Because of the (important) requirement that every
+protection class must also include the one below, the necessity of quoting more than one calibre
+in certain protection classes does however also arise occasionally.
+Thus for example the European glass standard quotes the two calibres 5.56 × 45 and
+7.62 × 51 (rightly) in differing classes (B 5 and B 6), since they both differ markedly in terms of
+energy (see Table 5). In the test standard for window frames, on the other hand, the higher
+class (FB 6, which corresponds to the glass standard class B 6) must contain both calibres,
+since the smaller calibre (5.56 × 45) exhibits the larger energy density (Table 5) and thus represents the stronger attack potential for the frame.
+
+5.3
+
+Test methods
+
+5.3.1
+
+Possibilities of test methods
+One crucial problem in defining standards and guidelines is determination of the test
+method with which the corresponding ballistic protection is to be tested. On the ba-
+
+21
+
+Ballistic protection
+
+1
+0.9
+
+Penetration probability [-]
+
+0.8
+0.7
+0.6
+0.5
+
+1
+0.4
+0.3
+0.2
+0.1
+0
+
+2
+v50
+Impact velocity [m/s]
+
+Fig. 13.
+
+Typical course of the penetration probability of a ballistic protection. Possible
+test velocities: mean penetration velocity v50 (Point 1) and a defined attack
+velocity which guarantees an enough high protection probability (Point 2).
+
+sis of the penetration probability curve already discussed earlier (see Fig. 13), there
+are basically two options for the test method:
+1 Testing a defined minimal mean penetration velocity (the so-called v50, Point
+1 in Fig. 13)
+2 Testing at a defined attack velocity at which none, from a certain number of
+rounds, may penetrate the protection (Point 2 in Fig. 1)
+In the first test method, a number of rounds (generally between 10 and 20) are fired
+against the protection with differing velocity, of which roughly half must penetrate
+the protection while the remaining rounds must be stopped. The whole velocity
+range of all rounds must not exceed a certain dimension. From the number and velocity of the rounds which penetrate, and the number and velocity of the stopped
+rounds, it is possible to determine the mean penetration velocity (v50) by means of a
+statistical evaluation and – with the improved methods – also determine the standard deviation (dispersion) of the penetration velocity. A test of this type is an excellent way of providing information on a ballistic protection since it reveals not only
+the penetration certainty but also the production quality (manufacturing variation) of
+the product.
+This type of test, and the corresponding statement of the v50, is often not very
+popular with users of bodily protection, precisely because the aspect discussed is
+"penetration" and not "protection". It is not (yet) very widespread, possibly for this
+reason. With the aid of the above-mentioned improved evaluation method, however,
+
+22
+
+Testing of ballistic protection
+
+it is possible to determine not only the v50 but also the velocity which corresponds to
+a generally tolerated penetration probability (10-5 to 10-6).
+One regulation which operates with the mean penetration velocity v50 is the NATO standard for
+testing fragment protection (vests and helmets).
+
+The sequence of the second test method mentioned is normally such that a certain
+number of rounds (normally 5 to 10) are fired against the protection, with the test
+velocity having to be observed as closely as possible. If all rounds are stopped, the
+protection has passed the test, but if there is an instance of penetration the protection has failed. This method may be used primarily where the dispersion of penetration velocities is very small. This means that only a small difference exists between
+the velocities at which no penetration is achieved with a large probability, and the
+velocities at which the protection is almost always penetrated. With such materials,
+it is practically never the case that both penetrations and non-penetrations will occur
+at a certain projectile velocity.
+Such properties are above all possessed by physically well definable materials, such as for example steel and aluminium. A borderline behaviour is evident immediately in this case, so that
+the quality of the protection can be assessed at least qualitatively.
+
+Bullet-proof vests are likewise tested by the second test method according to the
+standards and guidelines in force - probably not least because of the psychological
+reasons mentioned. Moreover, 5 to 6 rounds are fired against the protection package, depending on the regulation. It is however quite problematical, from this low
+number of rounds, to make a conclusion as to a (normal) protection safety of about
+105 to 106. This problem is naturally aggravated with the trend to increase the wearing comfort while the test procedure remains the same, and correspondingly reduce
+the weight. It is therefore entirely appropriate, in the case of bullet-proof vests, to
+carry out a type test by the first method from time to time.
+5.3.2
+
+Determination of mean penetration velocity and dispersion
+For determining the mean penetration velocity (v50) there exists a standardised
+method (according to STANAG 2920), which does however possess two striking
+disadvantages:
+– Estimation of the v50 is based on an estimate of the median. There is no information obtainable concerning the dispersion of the penetration velocity
+(and thus concerning the quality of the tested product).
+– With this method the range of the velocity of the test rounds must be restricted. In the evaluation it is often thereby impossible to take account of all
+test rounds, as a result of which information is also lost.
+
+23
+
+Ballistic protection
+
+With an improved statistical method, on the other hand, the mean penetration velocity (v50 = vm) can be estimated directly, as can the dispersion (standard deviation) at
+the same time, without significant increased expenditure.
+The method is based on the fact that for a given probability function p(v) the
+following two relations apply:
+
+
+(5.1)
+
+
+
+vm
+
+ v  p(v )  dv
+
+
+
+
+(5.2)
+
+
+
+2
+
+
+
+ (v  v )  p(v )  dv
+2
+
+m
+
+
+
+In this case the probability function p(v) represents the derivation of the penetration
+probability function (on this point, see Fig. 13).
+Tests are always carried out with a finite number of events (rounds). The two
+relations (5.1) and (5.2) should therefore be rendered discrete and the probability
+function p(v) estimated.
+This is undertaken by dividing the velocity into classes, in which the probability
+function can be estimated by means of the relative frequency fk. If the class mean is
+designated vk, the following relations (vm = v50) then derive from (5.1) and (5.2):
+(5.3)
+
+vm
+
+
+
+ v f
+
+(5.4)
+
+s2
+
+
+
+ (v  v )  f
+
+k
+
+k
+
+2
+
+k
+
+m
+
+k
+
+In the individual classes, however, the test results give rise to penetration frequencies so that a process of difference formation still becomes necessary in order to
+determine fk (as an estimate of the probability function). If we designate the relative
+penetration frequency in the kth class as Fk and the class mean as v*k, then the following relations are produced for fk and vk:
+(5.5)
+
+fk
+
+
+
+Fk
+
+
+
+Fk 1  Fk
+
+(5.6)
+
+vk
+
+
+
+1
+ ( v k 1 
+2
+
+v k )
+
+The range of velocity classes can be divided into three sections:
+Section 1:
+
+only stopped rounds (Fk = 0),
+
+Section 2:
+
+both penetrations and stopped rounds (0  Fk  1),
+
+Section 3:
+
+only penetrations (Fk = 1).
+
+For a correct evaluation, the following conditions must be observed:
+
+24
+
+Testing of ballistic protection
+
+– The minimum number of rounds should be 16 (better is 20 up to 30)
+– None of the three sections may be empty.
+This means that the round with the smallest velocity must not be a penetration and the round
+with the highest velocity must be a penetration. If the middle section is empty, then no
+determination of the dispersion is possible, since in this case s = 0.
+
+– There must not be more than one empty velocity class between two adjacent
+sections.
+– In the sections 1 and 3 three of the first four classes neighbouring section 2
+must be non-empty.
+A guide to practical evaluation with an example is attached in Annex A.1.
+
+5.3.3
+
+Determination of penetration probabilities
+
+Once the mean penetration velocity (v50) and the respective standard deviation have
+been determined, then in relation to a given penetration probability p the respective
+threshold velocity v can be determined:
+(5.7)
+
+
+
+vp
+
+v 50   p  s
+
+Values for the figure  are compiled as a function of the penetration probability in
+Table 6. They originate from the standardised normal distribution.
+Table 6.
+
+Figures for determining the penetration probabilities.
+
+p [%]
+
+0.0001
+
+0.001
+
+0.01
+
+0.1
+
+1
+
+2
+
+5
+
+10
+
+p
+
+–4.753
+
+–4.265
+
+–3.719
+
+–3.090
+
+–2.326
+
+–2.054
+
+–1.645
+
+–1.282
+
+Conversely, when vm and s are known in relation to a given velocity vp, the respective penetration probability pv can be determined. For this, equation (5.7) is resolved
+according to p:
+(5.8)
+
+p
+
+
+
+v p  v 50
+s
+
+With the aid of a corresponding table (see Annex A.2) it is possible to determine
+from p the desired probability pv.
+Mathematically, pv is obtained from the following equation:
+
+(5.9)
+
+pv
+
+
+
+1
+2
+
+p
+
+
+
+e
+
+
+
+x2
+2  dx
+
+
+
+25
+
+Ballistic protection
+
+5.3.4
+
+Reliability of test for non-penetration
+
+The second (according to 5.3.1) test method is based on a certain number of rounds
+per test object. If a round penetrates, the test object is rejected; if no round penetrates, it is accepted. There are always two possible ways in which a “good/bad”
+test of this type will produce an incorrect statement with a certain probability:
+1 The test object is accepted even though it does not fulfil the requirements in
+reality
+2 The test object is rejected even though it fulfils the requirements in reality
+It is therefore important to be clear about the reliability of such a test method.
+Regarding case 1: With a given number of rounds and given (true) penetration
+probability, it is possible to obtain the probability of acceptance of the test object by
+means of a binominal distribution:
+
+(5.10)
+
+
+
+wA
+
+n k
+   p  (1  p)n  k
+k 
+
+In this, wA denotes the acceptance probability, n the number of test rounds, p the penetration
+probability and k the number of rounds, in which case the relation k = 0 should always be inserted because of the presupposition of acceptance of the test object.
+
+For small numbers of test rounds the progression of the acceptance probability is
+represented in Fig. 14.
+From the graphic it can be seen that a test object with a penetration probability of 1 % (1 pene-
+
+1.0
+
+0.1 %
+
+1%
+0.8
+0.7
+
+2.5 %
+
+0.6
+0.5
+5%
+0.4
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+Number of test rounds
+Fig. 14.
+
+26
+
+Relation between the penetration probability of a test object and its
+probability of acceptance as a function of the number of test shots.
+
+Penetration probability
+
+Acceptance probability
+
+0.9
+
+Testing of ballistic protection
+
+tration per 100 rounds) is accepted in 90% of the cases, given a 10-round acceptance procedure.
+
+An increase in the number of rounds leads to smaller acceptance probabilities given
+a constant penetration probability. In the range of practicable numbers of test
+rounds, the acceptance probability always remains high, however, and the result is
+scarcely any information on the effective degree of protection of the tested object.
+Regarding case 2: With the second possible incorrect statement, two cases may be
+distinguished. In one, a stipulated (e.g. in technical requirements) penetration probability pv is assumed and the question posed as to the probability of a test object
+being rejected, even though it fulfils the stipulation. This probability derives from the
+relation:
+
+(5.11)
+
+
+
+wR
+
+1   1  pv 
+
+n
+
+n denotes the number of test rounds per test object.
+
+The second case occurs if a ballistic protection (given a known mean penetration
+velocity and known standard deviation) is to be tested for non-penetration with a
+stipulated test velocity vp. An incorrect statement (rejection of a test object to be accepted) should moreover be expected with the following probability:
+
+
+wR
+
+
+
+1  1  P (v p )
+
+
+
+n
+
+P(vp) represents the penetration probability at the velocity vp and n the number of
+test rounds per test object. It can be read from Table A.2 in the annex or calculated
+with equations (5.8) and (5.9) (corresponding diagram see Fig. 15).
+
+10-4
+
+1.0E-03
+
+10-5
+
+1.0E-04
+
+10-6
+
+1.0E-05
+
+Penetration probability
+
+1.0E-02
+
+Probability of rejection
+
+(5.12)
+
+1.0E-06
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+Anzahl Prüfschüsse
+Fig. 15.
+
+Probability of unjustified rejection of a test object with given penetration
+probability as a function of the number of test shots.
+
+27
+
+Ballistic protection
+
+This second case occurs for example when the evaluation of a ballistic protection is carried out
+on the basis of the stipulation of mean penetration velocity vm and dispersion s, while the acceptance of production on the other hand (e.g. for cost reasons) is undertaken with a test for
+non-penetration.
+
+5.3.5
+
+The necessary number of rounds when testing for non-penetration
+
+Every ballistic protection possesses a certain penetration probability at a certain attack velocity (or energy). So that a protection fulfills the expectations placed on it,
+this penetration probability must not exceed a stipulated value Pa.
+In connection with the protection of human life, calculation – insofar as no other boundary conditions have to be taken into account – is normally calculated with penetration probabilities of 10–5
+up to 10–6 (1 to 100,000 up to 1 to1,000,000).
+
+It is now expected of a test method that it will discover, with a certain rejection probability QR as high as possible, a ballistic protection which does not fulfil the requirement (i.e. its penetration probability exceeds the value Pa). In a test for non-penetration, this means that at least one of the test rounds must penetrate the protection. In
+this case the question arises as to how many test rounds are necessary so that the
+rejection probability QR can be observed.
+If the penetration probability of a ballistic protection is denoted P and if n is the
+number of test rounds, then the probability wnp is produced that no round will penetrate:
+(5.13)
+
+
+
+w np
+
+( 1  P )n
+
+At least one penetration occurs with the counter-probability:
+(5.14)
+
+w m1
+
+
+
+1  ( 1  P )n
+
+Thus under the condition P  Pa, the following inequality holds true::
+(5.15)
+
+1  ( 1  P) n
+
+
+
+QR
+
+Resolution according to n leads to the following condition for the number of test
+rounds:
+(5.16)
+
+n
+
+
+
+log( 1  QR )
+log( 1  P)
+
+(P  Pa).
+
+The relation (5.16) is graphically represented in Figure 16.
+Example: A test object which, at a certain test velocity, just does not fulfil a required maximum penetration probability of 10–5 (1 to 100,000), is supposed to be discovered with a rejection probability of 0.5 (50 %). The question accordingly runs: How many test rounds at the test veloc-
+
+28
+
+Testing of ballistic protection
+
+10-6
+
+1000000
+10-5
+
+100000
+10-4
+
+Number of test shots
+
+10000
+10-3
+
+Penetration probability
+
+10000000
+
+1000
+100
+10
+0
+
+Fig. 16.
+
+0.2
+
+0.4
+0.6
+Probability of rejection
+
+0.8
+
+1
+
+Number of test shots at least necessary to detect inadequate ballistic
+protection with a given rejection probability.
+
+ity are necessary, so that at least one penetration occurs with a 50% probability? From Figure 16 can be read the resultant figure of roughly 70,000 test rounds.
+
+The test for non-penetration always requires an extremely large number of test
+rounds, if inadequate ballistic protection is to be reliably discovered to some extent.
+It is therefore strongly advisable to determine the mean penetration velocity and its
+dispersion, at least periodically. From this it is readily possible to determine the
+penetration probability for a given attack potential and compare it with the required
+maximum penetration probability.
+
+5.4
+
+The fundamental definitions in attack-orientated regulations
+
+5.4.1
+
+The test projectile
+
+The most widespread type of projectile is still the full-jacketed lead-core projectile
+(soft-core projectile). For this reason, this projectile construction is also the likeliest
+to find its way into the different threat classes of the regulations. Since the thickness
+and the material of the jacket (this is mostly tombac or plated steel) influences the
+penetration capability of the projectile, the structure of the test projectiles must be
+precisely defined in the regulations.
+With the emergence of full projectiles made of hard metals, such as for example
+the KTW projectile (brass with Teflon coating) or the Alpha projectile (steel projectile
+with a plastic base for the cartridge case), reinforced jacketed projectiles (e.g. from
+Bofors) as well as projectiles with steel cores (e.g. 7.62 mm Tokarev) in the case of
+short weapons, extension of the regulations for this type of projectile is imminent.
+
+29
+
+Ballistic protection
+
+In the shotgun munition, only the shotgun barrel projectile is actually of any interest. Because of their large calibre and the relatively low energy density, they
+should be considered as a special case, which may however often reveal surprising
+results. Although here again there exists a very wide range of different types of construction with widely differing penetration properties, it is primarily the most widespread constructions which have to be considered in the regulations, since these
+generally constitute the most probable attack potential.
+In the armed forces, projectiles with hardened steel cores (often also designated hard-core projectiles) are also quite widely used, along with the soft-core
+projectiles, the former being specifically intended for use against hard targets. It is
+an entirely sensible move to likewise consider this type of projectile in regulations,
+since they represent the greatest attack potential in the particular calibre.
+5.4.2
+
+The test velocity
+
+For each of the threat classes selected on the basis of Section 4.2, the respective
+test velocity should also be defined, along with the projectile. The way in which
+these test velocities can be deduced from the threat probability has been described
+in Section 4.3 from the example of the 9 mm calibre Luger. The final definition cannot however be made until the expected protection safety of the ballistic protection
+is additionally stipulated.
+This protection safety is not a matter of ballistics but one of usage tactics. Protection and mobility have to be weighed up against one another. Values for the protection safety (protection reliability) from this standpoint lie between 104 (10,000 to 1) and 106 (1,000,000 to 1).
+
+In Section 4.3 it was likewise shown that in the 9 mm calibre Luger the munition velocities, considered across all munition grades (with identical projectile weight!) and
+across all run lengths, have approximately normal distribution. The same can also
+Table 7.
+
+Normal calibre for firing tests and possible test velocities.
+
+Type of weapon
+
+Projectile weight
+
+Test velocity
+
+Energy
+
+[g]
+
+[m/s]
+
+[J]
+
+9 mm Luger
+
+8.0
+
+410
+
+670
+
+357 Magnum
+
+10.2
+
+430
+
+940
+
+44 Rem. Mag.
+
+15.5
+
+440
+
+1500
+
+Long weapons
+
+5.56 mm NATO
+
+4.0
+
+935
+
+1750
+
+Armed forces
+
+7.62 mm NATO
+
+9.5
+
+830
+
+3270
+
+Long weapons
+
+7 mm Rem. Mag.
+
+10.5
+
+960
+
+4840
+
+Hunting
+
+8 x 68S
+
+12.7
+
+920
+
+5375
+
+Shotguns
+
+12/70
+
+31.4
+
+425
+
+2860
+
+Short weapons
+
+30
+
+Calibre
+
+Testing of ballistic protection
+
+be presumed for all other test calibres. If the mean value and the standard deviation
+of this distribution are known, it can be stated in relation to any test velocity what
+percentage of all muzzle velocities occurring is thereby covered.
+For the 9 mm Luger, with the values of Section 4.3 (vm = 363.4 m/s, s = 24.2 m/s) at v(test) =
+410 m/s, a coverage rate of 97.3 % is obtained, and at v(test) = 420 m/s one of 99.0 %.
+
+If the test velocity and the desired protection safety are defined, any corresponding
+ballistic protection can be reliably tested by determining the mean penetration
+velocity (v50) and the respective dispersion (standard deviation). A definition of the
+v50 is not necessary in principle, but should nevertheless be considered in practice.
+A desired protection safety at a certain test velocity can be achieved in exactly the same way,
+given a small dispersion with a fairly small v50, as with a higher v50 and given a larger dispersion.
+However, since the dispersion is dependent on the manufacturing variation of the ballistic
+protection, and is therefore undoubtedly less controllable than the v50, it is advisable to quote a
+minimum v50.
+If a protection safety of 105 (100,000 to 1) is to be achieved for example in the 9 mm
+calibre Luger at 410 m/s, then the values for the mean penetration velocity from 470 to 490 m/s
+are necessary, given the usual manufacturing variations.
+
+For the purpose of a test for non-penetration, a conclusion as to the number of test
+rounds may be drawn from the desired protection safety. Reference to the problems
+occurring in this instance was made in Sections 5.3.4 and 5.3.5.
+5.4.3
+
+Dispersion of the test velocity
+
+For practical reasons, it is unavoidable that when carrying out tests for nonpenetration the munition set at the test velocity will itself also vary in terms of
+velocity. This means that there is a certain probability (dependent on this dispersion)
+that some test rounds will strike the test-piece with too small a velocity and that correspondingly - some will strike it with too large a velocity (see Fig. 17). As a
+
+Fig. 17.
+
+Distribution of the velocity of a certain test calibre and the
+distribution of the corresponding test velocity.
+
+31
+
+Ballistic protection
+
+result, however, incorrect decisions will be caused: with too small a velocity the testpiece will be wrongly accepted, and with too large a velocity (in the case of
+penetration) it will be wrongly rejected. Accordingly the judgement concerning a test
+is also correct only with a certain probability: the term used here is “confidence
+level”.
+Between the probability of coverage of the test calibre (attack potential),
+confidence level and dispersion of the test munition, there now exists a mathematical/statistical correlation, which is represented in Table 8 with the example of
+the 9 mm Luger.
+From the table may be perceived two remarkable facts. Firstly, the test munition
+may exhibit more variation with increasing test velocity at the same confidence level.
+This follows from the fact that at a small test velocity (smaller coverage of the attack
+potential) the attack velocities generally occur more frequently than at large test velocities.
+On the other hand, it may be stated that for a high confidence level the variation
+in the test munition must be very low. With factory manufacture, such values can
+scarcely ever be achieved. Thus for example the whole dispersion of v, given an
+80% coverage of the attack potential and a 90% confidence level, ought not to exceed 6 m/s (+/- 3 m/s), a requirement which is not easily observable. Test munition
+must therefore be loaded with great accuracy in every case (by hand).
+In standards and technical guidelines, a certain tolerance limit is generally defined for the test munition instead of a dispersion (the so-called whole dispersion),
+which must nevertheless take the above considerations as its reference point. With
+each test round, the impact velocity must then be measured, so that it can be decided for each round whether it is valid or not.
+
+Table 8.
+
+Mean value and standard deviation for test munition
+
+Coverage of
+attack pot.
+
+32
+
+Test velocity
+
+Standard deviation at confidence level of
+50 %
+
+75 %
+
+90 %
+
+99 %
+
+[%]
+
+[m/s]
+
+[m/s]
+
+[m/s]
+
+[m/s]
+
+[m/s]
+
+75
+
+379.7
+
+2.5
+
+1.5
+
+1.0
+
+0.7
+
+80
+
+383.8
+
+2.9
+
+1.7
+
+1.2
+
+0.8
+
+85
+
+388.5
+
+3.5
+
+2.0
+
+1.4
+
+0.9
+
+90
+
+394.4
+
+4.7
+
+2.7
+
+1.9
+
+1.2
+
+95
+
+403.2
+
+6.4
+
+3.7
+
+2.6
+
+1.7
+
+99
+
+419.7
+
+12.4
+
+7.3
+
+5.1
+
+3.3
+
+Testing of ballistic protection
+
+5.4.4
+
+Decision criteria in non-observance of the test velocity
+
+In spite of working carefully, it is nevertheless possible that now and then a round
+will be fired outside the defined velocity limits, which must also be strictly adhered to
+here. If the velocity of each individual round is measured, however, the rounds lying
+outside the tolerance limit may be handled in accordance with the decision matrix
+according to Table 9. This is of course only relevant if a test for non-penetration is
+undertaken.
+A test is thus only invalid when penetration has been achieved with too large a velocity, or when no penetration has been achieved with too small a velocity. In the
+other two cases (penetration with too small a velocity or no penetration with too
+large a velocity) the test decision may be made.
+The decision matrix according to Table 9 cannot be applied in a test without velocity measurements even if it is verified that the test munition fulfils the requirements according to Table 8.
+Test methods with an indication of a tolerance limit instead of a dispersion have therefore become generally established.
+Table 9.
+
+Decision criteria
+
+Result
+Penetration
+No penetration
+
+5.5
+
+Further stipulations
+
+5.5.1
+
+General
+
+velocity too low
+
+velocity too large
+
+Not passed
+
+Test round invalid
+
+Test round invalid
+
+Passed
+
+The purpose of tests is not primarily to simulate "reality"; instead, they serve above
+all to measure products against a certain standard and compare them with one another. The standard must not of course be divorced from reality; as explained in earlier sections of this study, it must be orientated to the effective attack potential.
+One of the most important requirements on such tests is reproducibility. Repetition of a test (even more than once) should therefore always lead to the same result.
+This cannot however be achieved only with the same projectile and the same impact
+energy: the firing pattern too must be reproducible, while at the same time the threat
+tested should be as high as possible.
+5.5.2
+
+Firing distance
+
+Hitherto it was tacitly assumed in connection with the projectile velocities that they
+involved muzzle velocities. In actual fact the previously mentioned attack velocities
+
+33
+
+Ballistic protection
+
+test firing range
+velocity measurement
+
+fixed distance
+
+Abb. 18. Schematic illustration of the layout for testing ballistic protection. Defining the test
+velocity at a certain distance in front of the test object the test firing distance ca be
+fixed according to ballistic criterions.
+
+in the 9 mm calibre Luger do relate to the muzzle. Velocity measurements do however take place in the area between muzzle and test object, as a result of which a
+certain minimum firing distance becomes necessary. However, since a ballistic protection must be effective even with the mounted round, the test velocity must be related to the impact point. A velocity measurement at this point is however possible
+only with large measurement expenditure. In test provisions, therefore, a velocity is
+generally defined which must observe a certain distance in front of the test object
+(and not after the muzzle).
+The firing range chosen for a test therefore appears to be selectable as desired
+(see Figure 18), if only sufficient space is ensured for the velocity measurement.
+Nevertheless, firing distances are defined in the regulations. These primarily involve
+assigning the projectile a certain "steady-flow region" after it has been disturbed at
+the muzzle by the slipstreaming gases and made to undergo oscillating movements.
+Strictly speaking, it would not be necessary to define a firing distance, but also a maximum angle of incidence of the projectile at the impact point, along with the impact velocity. Since measurement of this is quite expensive, however, it is generally thought satisfactory to define a minimum firing distance, which permits at least partial attenuation of the projectile oscillation and
+thus a reduction of the angle of incidence.
+
+On the other hand, the firing distance selected must also not be so large that the
+accuracy of hit (on which particularly high requirements are placed in test firings)
+suffers as a result of this.
+In older standards and guidelines, firing distances of 3 and 5 m, and occasionally 10 m too, are
+found for tests with short weapon munition. With very short ranges (5 m and shorter), velocity
+measurement is problematical, since non-incinerated powder particles may be hurled over 1 m
+away from the muzzle and thereby overtake the projectile. The start of time measurement may
+then be initiated by the powder particles, but stoppage of it by the projectile. Such incorrect
+measurements are scarcely detectable since the measured value differs only slightly from the
+expected one.
+For tests with long weapon munition, test distances of 10 and 25 m were normal. Occasionally, 100 m also occurred. A precise firing pattern (in the cm range) was no longer possible
+with these distances.
+
+34
+
+Testing of ballistic protection
+
+New standards and guidelines generally prescribe a test distance of 5 and 10 m for
+short-weapon munition and 10 m for long-weapon munition. The impact points can
+be observed with sufficient accuracy in this way, velocities can be measured reliably
+(at least at 10 m) and the distance to the end of oscillation is sufficient with both
+types of munition to some extent.
+5.5.3
+
+Direction of fire
+
+In the case of protection materials with a homogeneous structure (e.g. steel plates)
+the direction of penetration is not a factor. This means that there is no specific attack
+or protection side. With oblique firing the projectile has to penetrate a longer distance than with vertical impact (Fig. 19a). The direction of firing at right angles to the
+target represents the hardest test in these cases.
+An improvement of the protection by tilting does however only occur when the angle is larger
+than about 30. The reason which can be provided for this is that the projectile does not penetrate the protection in rectilinear manner but is “broken” (in a similar way to a light beam) (see
+Fig. 19 a). With small angles of inclination, therefore, the penetration distance remains practically identical.
+
+Materials which are constructed of several layers often possess a defined attack
+side (Fig. 19 b). If the attack takes place from this side, they offer protection; if it
+takes place from the other side they are penetrated. In such constructions the attack side must be clearly designated.
+Laminated materials may moreover have the property that a vertical round is
+stopped because all layers act on it at the same time; an obliquely impacting round
+on the other hand penetrates the layers individually under certain circumstances
+and thereby produces a penetration result (Figure 19c). Protection constructions of
+a
+
+b
+
+c
+
+Abb. 19. a. With oblique impact, a larger penetration distance is
+produced; b. Coated materials are often asymmetrical with
+regard to penetration; c. A coated protection material may be
+penetrated in the course of firing at a shallow angle of incidence,
+while the round impacting at right angles is stopped.
+
+35
+
+Ballistic protection
+
+this type must of course be subjected to a test not only vertically but also in an inclined position.
+Bonded constructions (such as for example window frames, doors) occupy a
+special position with regard to the direction of test firing. Here the weak points to be
+tested and the corresponding direction of fire can often only be defined on the object
+itself. This is generally left to the test expert who determines on the basis of his experience which points are to be fired at from which angle.
+5.5.4
+
+Number of rounds and firing pattern
+
+Every ballistic protection can be penetrated if the number of rounds is sufficiently
+large and the impact points lie sufficiently close to one another. Reproducible tests
+therefore also necessitate definition of the number of rounds and firing pattern. Two
+different considerations have to be borne in mind here:
+– The test object is fired at with several rounds so that a statistical statement
+concerning the protection safety is obtained.
+– The test object must also still withstand firing when it has already been damaged by preceding rounds.
+In the first case (multiple firing for statistical reasons), care should be taken to ensure when selecting the firing pattern that every round impacts on the test object
+under exactly identical conditions to the first. Mutual influencing of the impact points
+(eg by an inadequate distance from one another or as a result of damage to the
+same fibre bundle) should therefore be avoided.
+In the second case too, several rounds are fired at the test object. This may be
+viewed in such a way that the first rounds serve to cause preliminary damage to the
+test object and only the last round represents the actual test round. A reproducible
+test is only possible here too if the number of rounds and firing pattern have been
+precisely defined. However, a whole firing pattern only counts as one single “attack”
+from a statistical standpoint in this case. A statistical evaluation therefore necessitates firing at several test objects which must all be tested according to the same
+firing pattern.
+The question as to which protection materials with prior damage are to be
+tested, and which without prior damage, leads once again to the classification of the
+protection materials already mentioned in Chapter 3, as glass-like materials (eg ceramics and glass) and other materials. In the glass-like materials, a considerable
+damage diameter is produced during firing, with the result that here it is solely testing with prior damage which is used for all practical purposes. In all other materials,
+the damage diameter is generally so small that several rounds may readily be fired
+at undisturbed material. (In the case of steel, the damage diameter is often only 3 to
+5 calibres).
+
+36
+
+Testing of ballistic protection
+
+The woven protection materials form a special case; with these, the damage caused by a round
+acts on one or two fibre bundles (over-expansion). Here both test procedures can be represented. In the first case, care should be taken to ensure that no further round strikes already
+extended fibres, while in the second case the further rounds must be fired at fibres already hit.
+
+Because of the large damage diameter, the sample size also plays an important part
+in the case of the glass types. With small dimensions, the cracks of the first round
+may already run to the edge, while in larger test objects the edge often remains intact. The following rounds therefore encounter differing impact conditions, depending on the size of the test object, which runs counter to a reproducible test. Since
+fissuring in the glass is also correlated with inherent stresses in the material, it is
+also necessary to pay attention to a defined clamping of the test specimen at the
+edges.
+In the case of the non-glass types, the size of the test object is not of such
+crucial importance. It is primarily determined here by the number of rounds desired
+from a statistical viewpoint. This applies in particular to bonded constructions
+(windows and window frames where the weak points to be tested often possess
+only a small dimension).
+5.5.5
+
+Pre-treatment of the test object
+
+With many materials (plastics!) the penetration resistance depends heavily on
+temperature and humidity. The objects for testing must therefore be stored under
+defined conditions for a prolonged period before firing.
+The usual definitions for normal conditions in the existing standards lie between
+15°C and 20°C with tolerances from 2 – 5°C. Certain materials which may be exposed to extreme temperatures (protection vests in a car!) are moreover tested at
+corresponding high and low temperatures. The construction materials most sensitive
+to temperature are types of safety glass and plastics. Both are less resistant to
+penetration at cold temperatures.
+Textile protection materials are additionally often humidity-sensitive. If water is
+retained in the fabric, the protection may be penetrated, even if it has been resistant
+to firing in the dry state. Attention must be paid to this property particularly in the
+case of protection vests, since they may very well absorb moisture in use as a result
+of rain, spray and also perspiration. Such materials are either bonded in watertight
+coverings or must also be subjected to the test in the wet state.
+
+6
+
+Effects behind the ballistic protection
+Protection materials and devices may stop projectiles and nevertheless have an injuring effect on the protected side. With hard materials, this occurs as a result of
+splinters being chipped off (e.g. in the case of glass) or as a result of parts of the
+
+37
+
+Ballistic protection
+
+protective material being knocked out. Soft protection materials are inclined to
+bulging on the side being protected. The effect behind the protective device must
+therefore be established in the test.
+In certain regulations, splintering on the protection side is not tolerated at all.
+Others restrict it to a maximum energy density of the splinters, which is tested behind the test object with the aid of a thin foil (eg aluminium). If this foil is perforated
+by splinters, the tested protection is considered unsatisfactory.
+Soft protection materials (e.g. protection vests) are stretched out on a soft deformable medium (e.g. plasticine). The effect on the protection side is assessed by
+means of the bulge depth generated, which must not exceed a certain size. Because the penetration resistance of soft protection materials is strongly dependent
+on the deformability of the background, the support surface must be precisely defined for reproducible tests. This is generally undertaken by defining the penetration
+depth of a heavy steel ball which is dropped onto it from a certain height.
+With the background material, it is not the “reality” (in this case the human body)
+which is simulated, and instead reproducible test conditions are created. The approved bulge depth (which may be up to 44 mm depending on the standard) is nevertheless often wrongly transferred directly to the human body, thereby giving rise to
+the fear that serious injuries might be produced behind the protection. In actual fact,
+the behaviour of the human body is considerably more elastic and at the same time
+more deformable than the background material. Serious injuries should not therefore be generally feared.
+Nevertheless, non-trivial blunt injuries may occur in certain sensitive body regions (eg fracture of
+a vertebra in the event of a round striking the spinal column, or a bang on the head in the case
+of a round fired against the helmet). The author is not however aware of any such cases from
+practical experience (up to calibre 7.62  51).
+
+7
+
+Existing standards and guidelines
+
+7.1
+
+General
+
+Regulations describe the properties which a product must have in order to satisfy
+certain requirements. In most cases the instructions are simultaneously recorded as
+to how the required properties of the product are to be tested.
+There is obviously no point if differing requirements and test provisions are applicable in different countries. The threat potential does not stop when faced with
+limits, and the suppliers of ballistic protection would also not want to carry products
+specific to each country in their ranges. Standards are therefore being defined increasingly frequently at international level.
+
+38
+
+Existing standards and guidelines
+
+7.2
+
+ISO and CEN
+
+The ISO (International Organization for Standardization) is an association according
+to Swiss law with its head office in Geneva. Each country can become a member of
+the ISO with its standards institute. In technical committees and working groups, international standards are devised which apply as recommendations for the purpose
+of harmonising national standards.
+In contrast to this, the standards which are devised in the CEN (European
+Standardisation Committee) are binding on all affiliated countries. They must be
+adopted as national standards without exception. The CEN is likewise a non-profitmaking association with its head office in Brussels. Members of the CEN are the
+standards institutes of the EU (European Union) and EFTA (European Free Trade
+Area). Agreements concerning technical co-operation exist between the CEN and
+ISO.
+In the CEN, the standards are drawn up in technical committees (of which there
+are several hundreds), each of which is sub-divided into different working groups.
+After the completion of a standard, it passes through different approval response
+stages among the members, and subsequently it is applied for a certain period as a
+so-called preliminary standard (ENV) until it is brought into force (if proving worthwhile) as a European standard (EN).
+
+7.3
+
+Standards for ballistic protection constructions
+
+For ballistic protection there already exist standards or preliminary standards in the
+CEN for glass (EN 1063) and for doors, windows and shutters (ENV 1522/1523).
+The two regulations for glass, doors, windows and shutters have superseded various national standards, such as for example
+in Germany the well-known glass standard DIN 52290/2
+in Great Britain the British Standard BS 5051 for glass
+in France the NF P 20–601 for windows and doors
+in Austria the ÖNorm 1310/11 for fire-inhibiting constructions
+in Switzerland the glass standard 04 (which has actually never come into force).
+It is interesting to compare the requirements of the former regional standards with
+one another (see Table 10).
+The French standard, unlike the four other standards, is constructed on a protection-orientated basis. The classes are allocated to the protection and each class
+is tested with different calibres, so that for example class 1 along with the 22 L.R.
+also 39 Spl., class 3 along with 12 Brenneke also 9 mm Luger hard core, 12
+Blondeau and 357 Mag. hard core, etc. A comparison of the French standard with
+the other four is therefore only possible to a limited extent.
+
+39
+
+Ballistic protection
+
+Table 10.
+
+Summary of requirements in the regulations for glass and constructions in various countries
+
+Calibre
+
+Country
+
+D
+
+GB
+
+F
+
+CH
+
+A
+
+Regulation
+
+DIN
+
+BS
+
+NF
+
+Glass standard
+
+ÖNORM S
+
+Number
+
+52290/2
+
+5051
+
+P 20-601
+
+04
+
+1310/11
+
+Material
+
+Glass
+
+Glass
+
+Frame
+
+Glass
+
+Constructions
+
+Missile
+
+Weight
+
+Des.
+
+[g]
+
+v(test)
+
+Des.
+
+v(test)
+
+[m/s]
+
+22 L.R.
+
+LRN
+
+2.55
+
+9 mm Luger
+
+FMJ
+
+8.0
+
+C1
+
+355 – 365
+
+G0
+
+390 – 420
+
+357 Mag.
+
+FMJC
+
+10.25
+
+C2
+
+415 – 425
+
+G1
+
+435 – 465
+
+44 Rem. Mag.
+
+SJFN
+
+15.5
+
+C3
+
+435 – 445
+
+G2
+
+456 – 486
+
+5.56×45 mm
+
+SS 109
+
+4.0
+
+7.62×51 mm
+
+FMS/SC
+
+9.5
+
+7.5×55 mm
+
+GP 11
+
+11.3
+
+7.62×51 mm
+
+FMS/HC
+
+9.8
+
+12/70
+
+Slug
+
+31.5
+
+Des.
+LRN
+FMJ
+FMJC
+SJFN
+
+C4
+
+C5
+
+785 – 795
+
+v(test)
+
+Des.
+
+[m/s]
+
+v(test)
+
+1
+
+260 – 330
+
+2
+
+350 – 420
+
+A
+
+340 – 360
+
+350 – 440
+B
+
+420 – 440
+
+1
+
+919 – 949
+
+4
+
+945 – 1015 )
+
+C
+
+920 – 950
+
+R2
+
+815 – 845
+
+4
+
+795 – 855
+
+D
+
+830 – 850
+
+E
+
+780 – 810
+
+S86
+
+406 – 446
+
+Des.
+
+[m/s]
+
+R1
+
+800 – 810
+
+Designation of protection classes
+Full-lead round-headed projectile
+Full-jacketed round-headed projectile
+Full-jacketed cone point projectile
+Partially jacketed flat-headed projectile
+
+Des.
+
+[m/s]
+
+5
+
+795 – 855
+
+F
+
+830 – 850
+
+3
+
+345 – 415
+
+G
+
+410 – 440
+
+v(test)
+[m/s]
+
+1
+
+400 – 420
+
+2
+
+410 – 430
+
+3
+
+430 – 450
+
+4
+
+850 – 870
+
+5
+
+940 – 980
+
+VMS/SC
+VMS/HC
+Slug
+
+Full-jacketed point projectile with lead core
+Full-jacketed point projectile with hardened steel core
+Shotgun barrel projectile
+
+1
+
+with projectile SS 92 (3.6 g)
+
+)
+
+Existing standards and guidelines
+
+In all other national standards, with few exceptions, the calibres selected for the
+protection classes corresponded to the attack potentials most frequently expected.
+In some countries, however, reference was additionally made to national specialities
+too, as for instance in France with the 22 calibre L.R. widespread there and in Switzerland with the calibre 7.5 x 55 (GP 11).
+Between the different standards, however, considerable differences in the test
+velocities should be noted. Thus for example in the DIN standard 52290/2 for the 9
+mm Luger a velocity is specified which corresponds roughly to the mean attack potential of this calibre, as a result of which strictly speaking only about half the attack
+possibilities to be expected had been covered. The draft of the Swiss glass standard
+was even somewhat lower.
+When drawing up the CEN standards, it was a sensible move to harmonise the
+threat classes for glass and for doors and windows with one another because there
+would have been little point, in the case of a window or glass door, in testing the
+glass with different requirements to those for the frame and fillings. On the other
+hand, the test velocities were defined at a value which ensures a high protection
+probability in the class concerned.
+
+7.4
+
+Standards and guidelines for ballistic body protection
+
+CEN standards for ballistic body protection do not exist yet, but are in progress
+(spring 2000). At present, four introduced regulations may be taken as a reference
+point.
+In German-speaking Europe, the “Technical Guideline for Protection Vests” of
+the police records academy in Münster, Westphalia, are normally used, which provide for 5 threat classes (3 for short weapons and 2 for long weapons). In the United
+States, the tests of the standard of the “National Institute of Justice“ (NIJ) are used
+as a basis, which divides the whole attack potential into 6 protection classes. The
+numbering is however slightly confusing since class III is assigned to long weapons,
+while class III-A on the other hand is assigned to short weapons. A British police
+standard adopts only 4 classes. All these regulations have an attack-orientated
+structure. However, since differing projectiles and different velocities are stipulated
+in some cases, the protection classes cannot be directly compared. In Table 11 are
+assembled the test calibres with the approximate impact energies. The table moreover enables a cross-comparison over the different protection classes.
+Protection vests and helmets against splinters are normally tested according to
+a NATO Standard (STANAG 2920). In this regulation, a test method to determine
+the mean penetration velocity is described. Accordingly, the requirements on the
+protection are also formulated and tested.
+The test for mean penetration velocity possesses the major advantage that the
+quality of the protection is displayed. In the case of the non-penetrative methods
+(the protection fulfils the requirement if a certain number of rounds are stopped, and
+
+41
+
+Ballistic protection
+
+does not fulfil it if an instance of penetration is recorded), it is impossible to know
+accurately how large the safety margin is.
+
+Table 11.
+
+Protection classes in the regulations for bodily protection in various countries
+
+Test calibre
+
+Country
+
+D
+
+GB
+
+USA
+
+Published by
+
+PFA
+
+PSDB
+
+NIJ
+
+Projectile
+
+Energy
+Class designation
+[J]
+
+22 L.R. HV
+
+LRN
+
+130
+
+38 Spl.
+
+LRN
+
+340
+
+357 Mag.
+
+JSP
+
+740
+
+9 mm Luger
+
+FMJ
+
+440
+
+357 Mag.
+
+JSP
+
+920
+
+9 mm Luger
+
+FMJ
+
+510
+
+9 mm Luger
+
+FMJ
+
+670
+
+9 mm Luger
+
+FMJ
+
+720
+
+44 Rem. Mag.
+
+SWC
+
+1410
+
+357 Mag.
+
+MsFk
+
+1200
+
+5.56×45 mm
+
+SS 109
+
+1700
+
+7.62×51 mm
+
+FMS/Wk
+
+3300
+
+7.62×51 mm
+
+FMS/Hk
+
+3300
+
+30–06
+
+FMS/Hk
+
+4100
+
+12/70
+
+Slug
+
+2700
+
+I
+HG 1
+II-A
+L
+II
+I
+HG 2
+III-A
+II
+III
+
+LRN
+FMJ
+JSP
+SWC
+MsFk
+FMS/Wk
+FMS/Hk
+Slug
+
+42
+
+RF 1
+
+III
+
+IV
+
+Full-lead round-headed projectile
+Full-jacketed round-headed projectile
+Jacketed soft point
+Semi wadecutter with gas-check
+Full-brass flat-headed projectile
+Full-jacketed point projectile with lead core
+Full-jacketed point projectile with hardened steel core
+Shotgun barrel projectile
+
+IV
+SG 1
+
+Existing standards and guidelines
+
+In recent times, new test methods have also been developed. In one, the standard
+deviation too is determined apart from the mean penetration velocity, so that for
+each attack potential the penetration probability can be quoted. A second very
+promising method determines the energy absorption of the protection and draws
+conclusions from this as to the quality of the protection. Both options have prospects
+of being used one day for testing ballistic protection since they permit a considerably
+better assessment than the methods introduced.
+
+43
+
+Ballistic protection
+
+44
+
+Annex
+
+A
+
+Annex
+
+A.1
+
+Calculation guide to the test method to determine the mean penetration velocity (v50) and the respective dispersion
+
+The method described in the following is based on the formulas (5.3) to (5.6) deduced in Section 5.3.2.
+a Division of the velocity range into classes of (generally) 5 m/s. A more precise classification will necessitate many more rounds, but will then give a
+more accurate result.
+b Determination of the relative penetration frequency in each class as an estimated value of the relative penetration probability.
+c Formation of the difference of the relative penetration frequency in two successive classes [formula (5.5), estimated values of the probability function].
+d Formation of the respective class averages [according to formula (5.6)].
+e Multiplication of the estimated values according to c with the respective class
+limits according to d. Summation of these values for the mean penetration
+velocity (v50) [according to formula (5.3)].
+f
+
+Estimation of the variance s2 [according to formula (5.4)].
+
+g Determination of the limit velocity for the desired maximum penetration probability [according to formula (5.7)] or determination of the penetration probability at the required test velocity [according to formula (5.8) and (5.9), or
+using Table A.2).
+
+Table A.1. Example of an evaluation according to the calculation guide
+Lower
+
+Upper
+
+ND
+
+D
+
+class limit
+
+Relative
+penetration
+frequency
+
+Difference in
+penetration
+frequencies
+
+Class
+mean as
+per (5.6)
+
+Summands
+
+Summands
+
+as per (5.3)
+
+as per (5.4)
+
+470
+
+475
+
+0
+
+0
+
+0.00
+
+475
+
+480
+
+1
+
+0
+
+0.00
+
+0.00
+
+470.0
+
+0.0
+
+0.0
+
+480
+
+485
+
+1
+
+1
+
+0.50
+
+0.50
+
+475.0
+
+240.0
+
+45.92
+
+485
+
+490
+
+3
+
+1
+
+0.25
+
+-0.25
+
+480.0
+
+-121.3
+
+-5.25
+
+490
+
+495
+
+1
+
+2
+
+0.67
+
+0.42
+
+485.0
+
+204.2
+
+0.07
+
+495
+
+500
+
+0
+
+1
+
+1.00
+
+0.33
+
+490.0
+
+165.0
+
+9.78
+
+500
+
+505
+
+1
+
+2
+
+0.67
+
+-0.33
+
+495.0
+
+-166.7
+
+-36.17
+
+505
+
+510
+
+0
+
+1
+
+1.00
+
+0.33
+
+500.0
+
+168.3
+
+79.22
+
+510
+
+515
+
+0
+
+0
+
+1.00
+
+0.00
+
+505.0
+
+0.0
+
+0.0
+
+Totals
+
+xm = 489.5
+
+s2 = 93.57
+s = 9.67
+
+45
+
+Ballistic protection
+
+A.2
+
+Statistical tables
+
+Table A.2. Penetration probability P(vp) as a function of p
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0.8
+
+0.9
+
+–7
+
+1.29e-12
+
+6.28e-13
+
+3.03e-13
+
+1.45e-13
+
+6.86e-14
+
+3.22e-14
+
+1.50e-14
+
+6.88e-15
+
+3.11e-15
+
+1.44e-15
+
+–6
+
+9.90e-10
+
+5.32e-10
+
+2.83e-10
+
+1.49e-10
+
+7.80e-11
+
+4.04e-11
+
+2.07e-11
+
+1.05e-11
+
+5.26e-12
+
+2.62e-12
+
+–5
+
+2.87e-07
+
+1.70e-07
+
+9.98e-08
+
+5.80e-08
+
+3.34e-08
+
+1.90e-08
+
+1.07e-08
+
+6.01e-09
+
+3.33e-09
+
+1.82e-09
+
+–4
+
+3.17e-05
+
+2.07e-05
+
+1.34e-05
+
+8.55e-06
+
+5.42e-06
+
+3.40e-06
+
+2.11e-06
+
+1.30e-06
+
+7.94e-07
+
+4.80e-07
+
+–3
+
+1.35e-03
+
+9.68e-04
+
+6.87e-04
+
+4.83e-04
+
+3.37e-04
+
+2.33e-04
+
+1.59e-04
+
+1.08e-04
+
+7.24e-05
+
+4.81e-05
+
+–2
+
+2.28e-02
+
+1.79e-02
+
+1.39e-02
+
+1.07e-02
+
+8.20e-03
+
+6.21e-03
+
+4.66e-03
+
+3.47e-03
+
+2.56e-03
+
+1.87e-03
+
+–1
+
+1.59e-01
+
+1.36e-01
+
+1.15e-01
+
+9.68e-02
+
+8.08e-02
+
+6.68e-02
+
+5.48e-02
+
+4.46e-02
+
+3.59e-02
+
+2.87e-02
+
+–0
+
+5.00e-01
+
+4.60e-01
+
+4.21e-01
+
+3.82e-01
+
+3.45e-01
+
+3.09e-01
+
+2.74e-01
+
+2.42e-01
+
+2.12e-01
+
+1.84e-01
+
+0
+
+5.00e-01
+
+5.40e-01
+
+5.79e-01
+
+6.18e-01
+
+6.55e-01
+
+6.91e-01
+
+7.26e-01
+
+7.58e-01
+
+7.88e-01
+
+8.16e-01
+
+1
+
+8.41e-01
+
+8.64e-01
+
+8.85e-01
+
+9.03e-01
+
+9.19e-01
+
+9.33e-01
+
+9.45e-01
+
+9.55e-01
+
+9.64e-01
+
+9.71e-01
+
+2
+
+9.77e-01
+
+9.82e-01
+
+9.86e-01
+
+9.89e-01
+
+9.92e-01
+
+9.94e-01
+
+9.95e-01
+
+9.97e-01
+
+9.97e-01
+
+9.98e-01
+
+3
+
+9.99e-01
+
+9.99e-01
+
+9.99e-01
+
+1.00e+00
+
+1.00e+00
+
+1.00e+00
+
+1.00e+00
+
+1.00e+00
+
+1.00e+00
+
+1.00e+00
+
+46
+
+

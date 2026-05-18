@@ -1,0 +1,197 @@
+Technology, Social Construction of
+WIEBE E. BIJKER
+Maastricht University
+
+The social construction of technology (SCOT) is one approach among several constructivist ways of studying science and technology that emerged in the 1980s. Here,
+“constructivist” means that the truth of scientific facts and the working of technical
+artifacts are studied as accomplishments; that is, as being constructed, rather than as
+intrinsic properties of those facts and machines (→ Constructivism).
+The phrase social construction was first used by Berger and Luckmann (1966) in
+their “treatise in the sociology of knowledge.” Building on the phenomenological tradition, and particularly on the work of Alfred Schutz, they argue that reality is socially
+constructed and that these processes of social construction should be the object of
+the sociology of knowledge. Berger and Luckmann are concerned with the reality of
+social institutions and their focus is on society at large, rather than on sub-cultures
+such as science and technology. Then, scholarship developed around such themes as
+the social construction of mental illness, deviance, gender, law, and class. In the 1970s
+the social construction of scientific facts followed (Latour & Woolgar 1986/1986), and
+in the 1980s the social construction of artifacts (Bijker et al. 1987).
+Constructivist studies of science and technology come in a variety of forms, mild
+and radical (Sismondo 1993). The mild versions merely stress the importance of including the social context when describing the development of science and technology; for
+example Douglas’s (1987) history of radio broadcasting. The radical versions argue that
+the content of science and technology is socially constructed. In other words, the truth
+of scientific statements and the technical working of machines are not derived from
+nature but are constituted in social processes (→ Communication Theory and Philosophy; Objectivity in Science).
+
+THE ORIGIN AND DEVELOPMENT OF THE SOCIAL
+CONSTRUCTION OF TECHNOLOGY
+An important, though negative, starting point for the social construction of technology
+was to criticize technological determinism, which was taken to comprise two elements:
+(1) technology develops autonomously, and (2) technology determines to an important degree societal development. This view was seen as an intellectually weak research
+strategy because it entails a teleological, linear, and one-dimensional view of technological development. It was considered politically debilitating because technological
+The International Encyclopedia of Communication, First Edition. Edited by Wolfgang Donsbach.
+© 2008 John Wiley & Sons, Ltd. Published 2008 by John Wiley & Sons, Ltd.
+DOI: 10.1002/9781405186407.wbiect025
+
+2
+
+TE C H N O L O G Y, SO C I A L CO N S T R U C T I O N O F
+
+determinism suggests that social and political interventions in the course of technology
+are impossible, thus making a political debate on technology a futile endeavor. To bolster this critique, it was necessary to show that the working of technology was socially
+constructed – with the emphasis on social. The unit of analysis was the single artifact.
+This was a choice for the “hardest possible case.” To show that even the working of a
+bicycle or a lamp was socially constructed seemed a harder task, and thus – when successful – more convincing, than to argue that technology at a higher level of aggregation
+was socially shaped.
+The agenda of demonstrating the social construction of artifacts by detailed analysis
+at the micro level resulted in a wealth of case studies. A few years later, the program was
+broadened in two ways (Bijker & Law 1992). First, questions were raised at meso and
+macro levels of aggregation as well. Second, the agenda was broadened to include the
+issue of technology’s impact on society, which had been bracketed for the sake of fighting technological determinism. Concepts developed for this agenda were “technological
+frame,” and various conceptualizations of the obduracy of technology (→ Framing
+Effects). The unit of analysis was broadened from the singular technical artifact to the
+more comprehensive and heterogeneous socio-technical ensemble. The emphasis now
+was on construction rather than on social.
+Current research in SCOT combines empirical case studies with more general
+questions about the modernization of society, politicization of technological culture,
+and management of innovation. It has become increasingly difficult (and unfruitful)
+to observe the boundaries between the various approaches within the broader social
+construction of technology: research collaboration and conceptual combinations have
+emerged between, for example, the actor-network approach, the social construction
+of technology (in the narrow sense; SCOT), and gender and technology studies
+(→ Gender and Discourse). Connections are developing with studies in the social
+sciences more generally, including politics, economics, and law.
+
+SCOT AS A HEURISTIC FOR RESEARCH
+As a heuristic for studying technology in society, the social construction of technology can be laid out in three consecutive research steps (Bijker 1995). Key concepts in
+the first step are “relevant social group” and “interpretive flexibility.” An artifact is
+described through the eyes of relevant social groups. Social groups are relevant for
+describing an artifact, when they explicitly attribute a meaning to that artifact. Thus, relevant social groups can be identified by looking for actors who refer to the artifact in the
+same way. For describing the high-wheeled ordinary bicycle in the 1870s such groups
+were, for example, bicycle producers, young athletic ordinary users, women cyclists, and
+anti-cyclists. Because the description of an artifact through the eyes of different relevant social groups produces different descriptions – and thus different artifacts – the
+researcher is able to demonstrate the “interpretive flexibility” of the artifact. There is not
+one artifact, but many. In the case of the ordinary bicycle, there was the Unsafe machine
+(through the eyes of women) and there was the Macho machine (through the eyes of
+young male ordinary users). For women the bicycle was a machine in which your skirt
+
+TE C H N O L O G Y, SO C I A L CO N S T R U C T I O N O F
+
+3
+
+got entangled and from which you frequently made a steep fall; for the “young men of
+means and nerve” riding the bicycle was a means to impress people (including young
+ladies!).
+In the second step, the researcher follows how interpretive flexibility diminishes,
+because some artifacts gain dominance over the others and meanings converge – and
+in the end, one artifact results from this process of social construction. Here, the key
+concept is “stabilization.” It describes the result of the process of social construction,
+which can take several years while the degree of stabilization slowly increases.
+In the third step, the processes of stabilization described in the second step are analyzed and explained by interpreting them in a broader theoretical framework: why does
+a social construction process follow this course, rather than that? The central concept
+here is “technological frame.” A technological frame structures the interactions among
+the members of a relevant social group, and shapes their thinking and acting. It is similar to Kuhn’s concept of → paradigm, with one important difference: “technological
+frame” is a concept to be applied to all kinds of relevant social groups, while “paradigm”
+was exclusively intended for scientific communities. A technological frame is built up
+when interaction around an artifact begins. In this way, existing practice guides future
+practice, though without logical determination. The cyclical movement thus becomes:
+artifact–technological frame–relevant social group–new artifact–new technological
+frame–new relevant social group, and so on. Typically, a person will be included in
+more than one social group, and thus also in more than one technological frame.
+This three-step research process amounts to sociological analysis of an artifact to
+demonstrate its interpretive flexibility; description of the artifact’s social construction;
+and explanation of this construction process in terms of the technological frames of
+relevant social groups.
+
+SCOT AS A THEORY OF TECHNOLOGY IN SOCIETY
+The social construction of technology also provides a theoretical perspective on the relation between technology and society, and on their joint development or co-evolution.
+The development of technology can be explained as a social process in which a variety
+of relevant social groups participate. This social process does not stop when an artifact
+leaves the factory, but continues when users give the technology its specific usage and
+meaning. Laws of physics and economics are not irrelevant, but insufficient to characterize technology’s development.
+Analogously, the development of social institutions in modern society cannot be
+fully understood without taking into account the role of technology. The social fabric of society may be kept together by such institutions as church, capital, government,
+labor, communication, and education; but where would all these be without technology? Social order in modern society can only be explained by reference to technology
+(Latour 1992). This requires a view of technology’s impact on society. This can be done
+by conceptualizing the hardness or obduracy of technologies.
+An artifact can be hard in two distinctly different ways. The first form, “closed-in
+hardness,” occurs when the humans involved have a high inclusion in the associated
+
+4
+
+TE C H N O L O G Y, SO C I A L CO N S T R U C T I O N O F
+
+technological frame. For example, students well versed in the use of mobile phones will
+react differently to a malfunctioning phone than the old-fashioned author of this article (→ Mobility, Technology for). Students may start modifying the network selection,
+switch the battery, or tinker with the preferences menu. Only after some time will it
+occur to them that they could also look for a landline phone: they were “closed-in” by
+the mobile phone technology. The author of this article, when confronted with a nonworking cell phone, might try to ring a second time but then soon give up and look
+for a landline phone or write a letter. He can barely locate the power switch, and experiences the second kind of impact by technology: “closing-out obduracy.” He sees no
+alternative but to leave the technology aside and pick up his fountain pen. In both cases
+the technology has an impact on these people, but in completely different ways. These
+two forms of hardness of technology can also be seen on the societal level. The automobile technology, for example, exerts a “closed-in hardness” on the inhabitants of Los
+Angeles: much differentiation within auto culture, but no alternatives outside it. The
+standardization of mains power voltage and wall plugs mean a “closing-out obduracy”
+to most people: accept it by buying the right plug and apparatus, or do not use electricity
+(→ Communication Technology Standards).
+
+THE POLITICIZATION OF TECHNOLOGICAL CULTURE
+We live in a technological culture: our modern, highly developed society cannot be fully
+understood without taking into account the role of science and technology. The social
+construction of technology offers a conceptual framework for discussing the democratization of this technological culture. The social construction of technology approach
+not only gives an affirmative answer to Winner’s (1980) question “Do artifacts have politics?” but it also offers a handle to analyze these politics. Technology is socially (and
+politically) constructed; society (including politics) is technically built; and technological culture consists of socio-technical ensembles (Bijker 2006).
+Studies that elaborate this agenda do not exclusively extend the SCOT framework, but
+typically draw on social constructivist technology studies in the broad sense. One of the
+most fruitful bodies of work is the analysis of gender and technology (Wajcman 1991,
+2004; Cockburn & Ormrod 1993). Another domain of research focuses on the politicization of → information society and information and communication technologies
+(see Schmidt and Werle [1998] for a fruitful approach via standardization issues).
+The issue of political decision-making about technological projects acquires a special
+guise under the light of SCOT. If it is accepted that a variety of relevant social groups
+is involved in the social construction of technologies and that the construction process
+continues through all phases of an artifact’s life cycle, it makes sense to extend the set of
+groups involved in political deliberation about technological choices. Several countries
+are experimenting with consensus conferences, public debates, and citizens’ juries. One
+of the key issues is the role of expertise in public debates. The SCOT approach suggests
+that all relevant social groups have some form of expertise, but that no one form – for
+example, that of scientists or engineers – has a special and a priori superiority over the
+others (Bijker 2003, 2004).
+
+TE C H N O L O G Y, SO C I A L CO N S T R U C T I O N O F
+
+5
+
+→ Communication Technology Standards → Communication
+Theory and Philosophy → Constructivism → Framing Effects → Gender and Discourse → Information Society → Mobility, Technology for →
+Objectivity in Science → Paradigm
+
+SEE ALSO:
+
+References and Suggested Readings
+Berger, P. L., & Luckmann, T. (1966). The social construction of reality: A treatise in the sociology
+of knowledge. New York: Doubleday Anchor.
+Bijker, W. E. (1995). Of bicycles, Bakelites, and bulbs: Toward a theory of sociotechnical change.
+Cambridge, MA: MIT Press.
+Bijker, W. E. (2003). Engaging humanities: Problems of the information society not to be left to
+engineers. In K. R. Kegler & M. Kerner (eds.), Technik Welt Kultur. Technische Zivilisation und
+kulturelle Identitäten im Zeitalter der Globalisierung. Cologne: Böhlau Verlag, pp. 103–139.
+Bijker, W. E. (2004). Sustainable policy? A public debate about nature development in the Netherlands. History and Technology, 20(4), 371–391.
+Bijker, W. E. (2006). Why and how technology matters. In R. E. Goodin & C. Tilly (eds.), Oxford
+handbook of contextual political analysis. Oxford: Oxford University Press, pp. 681–706.
+Bijker, W. E., & Law, J. (eds.) (1992). Shaping technology/building society: Studies in sociotechnical
+change. Cambridge, MA: MIT Press.
+Bijker, W. E., Hughes, T. P., & Pinch, T. J. (1987). The social construction of technological systems:
+New directions in the sociology and history of technology. Cambridge, MA: MIT Press.
+Cockburn, C., & Ormrod, S. (1993). Gender and technology in the making. London: Sage.
+Douglas, S. J. (1987). Inventing American broadcasting, 1899–1922. Baltimore, MD: Johns Hopkins University Press.
+Latour, B. (1992). Where are the missing masses? The sociology of a few mundane artifacts. In W.
+E. Bijker & J. Law (eds.), Shaping technology/building society: Studies in sociotechnical change.
+Cambridge, MA: MIT Press, pp. 225–258.
+Latour, B., & Woolgar, S. (1986). Laboratory life: The construction of scientific facts. Princeton,
+NJ: Princeton University Press. (Original work published 1979).
+Schmidt, S. K., & Werle, R. (1998). Coordinating technology: Studies in the international standardization of telecommunications. Cambridge, MA: MIT Press.
+Sismondo, S. (1993). Some social constructions. Social Studies of Science, 23, 515–553.
+Wajcman, J. (1991). Feminism confronts technology. Cambridge: Polity.
+Wajcman, J. (2004). TechnoFeminism. Cambridge: Polity.
+Winner, L. (1980). Do artifacts have politics? Daedelus, 109(1), 121–136.
+
+

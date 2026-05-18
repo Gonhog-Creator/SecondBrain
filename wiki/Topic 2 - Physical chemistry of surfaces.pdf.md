@@ -1,0 +1,1555 @@
+# Topic 2 - Physical chemistry of surfaces.pdf
+
+Source: junk_drawer/Topic 2 - Physical chemistry of surfaces.pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+Topic 2: Physical Chemistry of Surfaces Questions we will answer... • Why are surfaces so relevant to nanostructured materials? • What is surface energy and how does it influence nanostructured materials? • What is the surface energy of a crystal facet? • How is surface structure different from bulk structure? • How does surface energy minimization drive the structure of a surface, the shape of a nanocrystal,
+
+## Full Content
+Topic 2: Physical Chemistry of Surfaces
+Questions we will answer...
+• Why are surfaces so relevant to nanostructured
+materials?
+• What is surface energy and how does it
+influence nanostructured materials?
+• What is the surface energy of a crystal facet?
+• How is surface structure different from bulk structure?
+• How does surface energy minimization drive the
+structure of a surface, the shape of a nanocrystal,
+and the behavior of a nanoscale material system?
+• How are nanoparticles stabilized against nature’s
+desire to destroy them?
+Source: Cao & Wang, Nanostructures and Nanomaterials, Chapter 2.
+
+Acknowledgement: Prof. M. Eddaoudi, KAUST
+
+Topic 2 -
+
+1
+
+Nanostructures and Surfaces
+• Nanostructures possess a large fraction of surface
+atoms per unit volume
+• E.g., the surface to volume ratio of a sphere with radius,
+R, is…
+4 3
+𝑉 = 𝜋𝑅
+3
+
+𝑆 = 4𝜋𝑅2
+
+R
+
+30
+
+S/V (nm-1)
+
+S/V (nm-1)
+
+30
+
+𝑆 3
+=
+𝑉 𝑅
+
+20
+
+10
+
+20
+
+10
+
+0
+0
+
+2
+
+4
+
+6
+
+R (nm)
+
+8
+
+10
+
+0
+0.1
+
+1
+
+10
+
+100
+
+R (nm)Topic 2 - 2
+
+1000
+
+Fraction of Surface Atoms Changes with
+Cluster Diameter
+Surface
+5-15%
+Sizeatoms only sensitive surface
+
+Bulk-like
+
+Size of Pd atom:
+163 pm = 0.163 nm
+= 1.63 Å
+0.32 nm
+Topic 2 -
+
+3
+
+Nanoscale Size-Dependent Melting
+Point: Melting Point Depression
+Indium (In)
+
+Nanocalorimetry measurement
+Source: F. Schiettekatte, University of Montreal.
+
+Atoms in a surface layer are
+not coordinated like bulk
+atoms in a unit cell. They
+possess a different enthalpy
+(energy) of melting
+
+Topic 2 -
+
+4
+
+Nanostructures and surfaces
+A unit cell has dimensions ~0.25 to 1 nm (inorganic crystal).
+A unit-cell-size nanocrystal has only surface atoms!
+– E.g., FCC
+
+Take 1 g of NaCl and divide it into smaller cubes…
+– Assuming surface energy for flat surface is 210-5 J/cm2
+– Assuming edge energy for linear edge is 310-13 J/cm
+
+1g
+1g
+107
+
+1g
+• The total surface energy increases with decreasing
+particle size for the same amount of solid
+Topic 2 -
+
+5
+
+Nanostructures and surfaces
+All nanostructured materials possess a huge surface energy
+per unit mass, and are therefore thermodynamically unstable
+or metastable
+Surfaces are the gateway to a nanomaterial, but are costly to
+produce and maintain, as they contribute surface energy to the
+system
+The greatest challenges in fabrication and deployment of
+nanostructures therefore are:
+– Overcoming the surface energy to synthesize/make nanostructures
+– Resisting the natural drive toward reduction of overall surface energy
+• Size control: Growth in size automatically reduces surface area!
+• Chemical degradation, e.g., oxidation of metal
+• Agglomeration of particles to reduce exposed surface area
+
+The making, behavior and properties of nanomaterials are all
+strongly influenced by the amount (and type) of surfaces
+Topic 2 -
+
+6
+
+Surface Energy, 
+Cleavage
+point
+
+Energy
+2A
+Si surface
+(freshly cleaved)
+reveals dangling
+bonds
+
+Bulk material
+
+New surfaces
+
+Definition: Energy required or produced to create a unit area of a new
+surface:
+
+𝜕𝐺
+𝛾=
+𝜕𝐴 𝑛 ,𝑇,𝑃
+
+G: Gibbs free energy of the surface
+A: surface area of the particle
+
+𝑖
+
+Surface area can be increased, for instance, by cutting a particle in two
+halves. The molecules of the newly created surface possess fewer
+nearest neighbors ( bulk coordination), and thus have broken bonds
+which are unsatisfied, or dangling
+Topic 2 -
+
+7
+
+Surface Energy of a Crystal Facet
+The surface energy, , of a facet {hkl} can be defined as:
+𝑁𝑏 𝜀𝜌𝑎
+𝛾{ℎ𝑘𝑙} =
+2
+
+[J/m2]
+
+Nb: number of broken bonds in {hkl}
+ /2 : half of the bond strength,  [kJ/mol]
+a : planar density of atoms or molecules
+in {hkl} (#/m2)
+
+Low {hkl} facets will
+have low surface
+energy. They will
+also tend to be the
+preferential facets
+of crystals!
+
+This equation is oversimplified, but provides general
+guidance.
+It does not account for interactions between higher order
+neighbors, differences in surface and bulk bond energy
+strengths, surface relaxation or reorganization, etc.
+Topic 2 -
+
+8
+
+𝑁𝑏 𝜀𝜌𝑎
+𝛾{ℎ𝑘𝑙} =
+2
+
+Planar Density
+BCC Iron (T < 912C)
+
+2D repeat unit
+
+(100)
+
+a
+
+atoms
+2D repeat unit
+
+Planar Density =
+A{100}=
+
+Adapted from Fig. 3.2(c), Callister 7e.
+
+(111)
+
+area
+2D repeat unit
+
+atoms below plane
+
+h=
+
+2a
+
+a2
+
+units: #/m2
+
+atoms in plane
+atoms above plane
+
+1
+
+atoms
+2D repeat unit
+
+1/2
+
+Planar Density =
+3
+a
+area
+2 A{111}=
+2D repeat unit
+Topic 2 -
+
+3 2
+a
+2
+
+9
+
+Broken Bonds
+
+𝑁𝑏 𝜀𝜌𝑎
+𝛾{ℎ𝑘𝑙} =
+2
+
+The number of broken bonds for a given {hkl} can be
+difficult to count. Rule of thumb:
+-
+
+Count the bonds between the whole atoms of a surface layer
+and virtual atoms missing just above the surface plane by
+considering the coordination
+-
+
+Bonds between the surface atoms and the bulk atoms below are not
+broken.
+Bonds between the surface atoms and the co-planar surface atoms are not
+broken.
+
+FCC elemental
+metal
+CN: 12
+
+a
+Consider
+whole atoms
+
+Topic 2 -
+
+10
+
+Surface Energy of FCC Crystal
+For an FCC structure with lattice constant a, the surface
+energies of the (100), (110) and (111) surfaces can be
+computed
+𝑁𝑏 𝜀𝜌𝑎
+𝛾=
+2
+Coordination number is 12: each
+atom has 12 nearest neighbors
+
+a
+
+𝜀
+𝛾{ℎ𝑘𝑙} = 𝜌𝑎 𝑁𝑏
+Surface atoms on {100}, {110} and
+2
+{111} surfaces have 4, 5, and 3
+2 𝜀
+𝜀
+𝛾{100} = 2 4 = 4 2
+broken bonds, respectively.
+𝑎 2
+𝑎
+2
+𝜀
+5 𝜀
+𝜀
+𝛾{110} =
+5𝜀 =
+≈
+3.5
+𝑎2
+2𝑎2 2
+2 𝑎2
+2
+
+𝜀
+𝜀
+𝛾{111} =
+3𝜀 ≈ 1.73 2
+2
+2
+3𝑎
+Topic𝑎2 - 11
+
+In-Class Exercise 1
+For an FCC structure with lattice constant a, find the number
+of broken bonds on the (100), (110) and (111) surfaces
+Hint: focus on coordination of any one atom.
+
+Topic 2 - 12
+
+Broken Bonds on {100} Facets of FCC
+{100} face
+FCC elemental metal
+CN: 12
+𝜀
+𝛾{ℎ𝑘𝑙} = 𝜌𝑎 𝑁𝑏
+2
+2 𝜀
+𝜀
+𝛾{100} = 2 4 = 4 2
+𝑎 2
+𝑎
+
+4 bonds with bulk atoms
+4 bonds with surface
+atoms
+4 broken bonds with virtual
+overlayer
+
+A{100} = 𝑎2
+# atoms = 2
+
+Check: 4 + 4 + 4 = 12 (CN)
+
+Data for Cu:
+ = 56.4 kJ /mole of bonds
+a = 3.61 Å
+
+𝛾{100} = 2.87 J/m2
+Topic 2 -
+
+13
+
+Broken Bonds on {110} Facets of FCC
+
+A{110} = 2𝑎2
+# atoms = 2
+
+𝛾{ℎ𝑘𝑙} = 𝜌𝑎 𝑁𝑏
+
+𝜀
+2
+
+2
+
+𝜀
+5 𝜀
+𝜀
+𝛾{110} =
+5 =
+≈ 3.5 2
+2
+2
+2
+𝑎
+𝑎
+2𝑎
+2
+Data for Cu:
+ = 56.4 kJ /mole of bonds
+a = 3.61 Å
+𝛾
+
+2
+{110} = 2.54 J/m
+
+Cubeoctahedron of
+coordination also allows us
+to visualize broken bonds
+
+5 bonds with bulk atoms
+2 bonds with surface atoms
+5 broken bonds with
+virtual overlayer
+Check: 5 + 2 + 5 = 12 (CN)
+Topic 2 -
+
+14
+
+Broken Bonds on {111} Facets of FCC
+
+A{110} = 2𝑎 ×
+2𝑎 sin 60° = 3𝑎2
+# atoms = 2
+2
+𝜀
+𝜀
+𝛾{111} =
+3 ≈ 1.73 2
+2
+𝑎
+3𝑎 2
+
+3 bonds with bulk atoms
+6 bonds with surface atoms
+3 broken bonds with virtual overlayer
+
+Check: 3 + 6 + 3 = 12 (CN)
+Data for Cu:
+ = 56.4 kJ /mole of bonds
+Topic 2 a = 3.61 Å
+𝛾
+= 2.49
+J/m152
+{111}
+
+Surface Energy
+Thermodynamics tells us that any material or system is stable
+in a state with lowest Gibbs free energy, G = H – TS
+There is a strong and persistent drive to minimize the total
+surface energy of any solid or liquid
+
+There are a variety of mechanisms/pathways to reduce the
+overall surface energy on different levels (scales), including at
+the surface level (atomic/molecular), nanostructure level,
+and system level. All of these will be discussed.
+Surface-level mechanisms:
+(1) surface relaxation
+(2) surface restructuring
+(3) surface adsorption weak or strong attraction forces
+(4) surface enrichment through solid-state diffusion
+Topic 2 - 16
+
+Surface Relaxation
+Cleavage
+point
+
+Bulk material
+
+Surface plane in bulk
+
+Energy
+2A
+
+New surfaces
+
+Surface
+relaxation
+
+Thermodynamic driving force to
+minimize free energy leads to
+surface relaxation of truncated
+surface and reconstruction of
+surface to satisfy broken bonds or
+minimize their impact on 
+
+Surface
+reconstruction
+
+Topic 2 - 17
+
+Surface Relaxation of Cu
+Examples:
+• Cu(110)
+– d1 = -7.9%
+– d2 = +2.4%
+
+• Cu(100)
+– d1 = -1.1%
+– d2 = +1.7%
+– d3 = +1%
+Davis, Surf. Sci. 126 (1983) 245.
+
+Cu: FCC lattice
+
+Topic 2 - 18
+
+Unreconstructed surfaces
+of FCC and BCC crystals
+
+Masel, Principles of adsorption and reaction on solid surfaces, Wiley, NY, 1996.
+Topic 2 -
+
+19
+
+Example of Surface Reconstruction
+
+Non-reconstructed
+
+W: BCC lattice
+
+Reconstructed
+
+Surface structure has a different unit cell and
+lattice, and is no longer described by the bulk
+crystal’s structure!
+Question: how do we describe the surface or
+overlayer structure of a crystal?
+Topic 2 - 20
+
+Nomenclature of Reconstructed Surfaces
+Matrix notation
+– Goal: describe surface structure in relation
+to the underlying bulk structure
+– Matrix notation:
+
+• S: surface; B: bulk
+• Superstructure defined by a matrix:
+
+Wood’s notation
+Two vectors & rotation 
+
+Topic 2 -
+
+21
+
+Nomenclature of Reconstructed Surfaces
+Wood’s notation
+Wood notation can be described asThis is a (2x2) structure on an fcc (100) surface.
+The large red circles represent the surface atoms.
+
+j[(b1/a1)X(b2/a2)]Rθ
+where j is either p or c, an and bn
+are substrate and overlayer unit
+cell lengths, respectively, and θ is
+the angle through which the cell
+must be rotated to produce the
+overlayer unit cell.
+
+fcc(100)( x )R45o or fcc(100)c(2x2)
+Topic 2 - 22
+
+Nomenclature of Reconstructed Surfaces
+
+Topic 2 - 23
+
+Example of Surface Reconstruction
+
+Non-reconstructed
+
+W: BCC lattice
+
+Reconstructed
+C(2x2)
+
+Topic 2 - 24
+
+Example
+Example of reconstructed surfaces
+Pt(110)(1x1)
+b2
+b1
+
+Pt(110)(1x2)
+b2
+b1
+
+Topic 2 - 25
+
+Surface Relaxation and Reconstruction
+
+[110]
+Side view
+
+[110]
+
+Si: Diamond
+
+[110]
+
+Topic 2 - 26
+
+Surface Relaxation and Reconstruction
+
+Side view
+
+Side view
+
+Top view
+
+http://www.chem.qmul.ac.uk/surfaces/scc/scat1_6a.htm
+Topic 2 - 27
+
+Reconstruction of Si(001)2x1
+(001) facet
+[110]
+
+[110]
+a = 5.43 Å
+Cubic P
+
+Note: surface appears anisotropic due to reconstruction
+
+Method: scanning tunneling microscopy
+
+Max Lagally; U. of Wisconsin
+Topic 2 -
+
+28
+
+Scanning Tunneling Microscopy (STM)
+It is the ultimate real-space surface imaging technique, but requires
+conducting samples, atomically flat pristine surfaces and clean environment
+
+Topic 2 -
+
+29
+
+Structure of Surfaces
+Si(111) (7X7) Example
+
+LEED:
+(diffraction)
+Reciprocal space
+
+STM:
+Real space
+
+Surface unit cell extended over 49 bulk unit cells
+
+STM image of Si(111)
+reconstructed surface
+
+http://www.iopb.res.in/~bhupen/dae1/results.html
+
+We will understand reciprocal space lattice in a future topic
+
+Topic 2 - 30
+
+Surface Restructuring or Reconstruction
+
+Side view
+
+STM: Local
+
+LEED: Avg
+
+http://www.chem.qmul.ac.uk/surfaces/scc/scat1_6a.htm
+
+If a surface has more than one adjacent broken bond,
+restructuring is a possible mechanism to reduce 
+In as-cleaved Si, {100} > ({110} & {111}), but restructured
+surface has lower energy: {100} < ({110} & {111})
+Topic 2 - 31
+
+Adsorption & Surface Chemical
+Modification
+
+Physisorbed
+
+LEED of CO adsorption on Rh(100)
+Chemisorbed
+
+
+
+Topic 2 - 32
+Phys. Chem. Chem. Phys., 2009,11, 10009-10016
+
+Surface Energy and Nanoparticle Shape
+At the nanostructure level, there are two ways to minimize
+the surface energy:
+- Reduce the overall surface area
+- If material is isotropic, e.g., amorphous solid, liquid or
+melt, it tends to form a spherical droplet in free form
+
+- In a crystalline solid, different facets possess different
+surface energy, leading to faceted particle formation
+Topic 2 - 33
+
+Surface Energy and Nanocrystal Shape
+The thermodynamic equilibrium shape of a given
+crystal can be determined by considering the surface
+energies of all faces
+We can use {hkl} to estimate the
+surface energy of the various
+facets
+𝑁𝑏 𝜀𝜌𝑎
+𝛾{ℎ𝑘𝑙} =
+2
+CdSe
+For instance, we established that {111} has the lowest
+surface energy in a monoatomic FCC crystal, followed
+by {110} and {100}; we also know that low Miller indices
+generally have lower surface energy than high indices
+Topic 2 - 34
+
+Surface Energy and Equilibrium Nanocrystal
+Shape
+A Wulff plot can be used to determine the shape or the
+surfaces of an equilibrium crystal
+
+For an equilibrium crystal, i.e., where the total surface
+energy has reached a minimum, there exists a point in
+the interior such that its perpendicular distance, hi, from
+the ith face is proportional to the surface energy, I
+i = C hi,
+where C is a constant and is the same for all surfaces
+of a given crystal.
+Step 1: draw a set of vectors from a common point, with length
+proportional to surface energy and direction normal to the face
+Step 2: construct the set of faces normal to each vector at its end
+Step 3: find a geometric figure whose sides are made up of faces
+that do not intersect any of the other planes
+Topic 2 - 35
+
+In-Class Exercise 2
+Assume a square 2D crystal with (10) and (11) planes
+having identical surface energy. Find the equilibrium
+crystal shape.
+
+<10>
+<11>
+𝑦ො
+𝑥ො
+
+Topic 2 - 36
+
+In-Class Exercise 2 (Solution)
+Assume a square 2D crystal with (10) and (11) planes
+having identical surface energy. Find the equilibrium
+crystal shape.
+
+<10>
+
+[1ത 1]
+
+[01]
+
+[11]
+
+<11>
+𝑦ො
+𝑥ො
+
+ത
+[10]
+
+[10]
+
+ത
+[1ത 1]
+
+ത
+[11]
+
+ത
+[01]
+
+Topic 2 - 37
+
+Surface Energy and Equilibrium Nanocrystal
+Shape
+
+Topic 2 - 38
+
+Nanocrystal Shape, in Practice
+In practice, the geometric shape of a crystal is also determined
+by kinetic factors, and as such the processing conditions and
+crystal growth play a big role. This is where synthesis science
+comes into play!
+A wide range of morphologies can therefore be achieved in
+practice
+
+DOI: 10.1557/mrs.2014.167
+
+Topic 2 - 39
+
+Loss of Faceting
+
+The Wulff plot does not work for all
+systems, particularly above the
+roughening temperature, which leads to
+thermal motion becoming dominant,
+surfaces behave like liquids and reduce
+differences in surface energy between
+facets
+
+Loss of faceting is not
+always undesirable…
+
+e.g., Czochralski method
+
+Topic 2 -
+
+Real surfaces: Miscut
+All crystal surfaces have
+a miscut
+
+H
+L
+
+
+Si
+
+InP
+
+ ()
+
+L (nm)
+
+L (nm)
+
+0.1
+
+78
+
+168
+
+0.5
+
+16
+
+32
+
+1.0
+
+8
+
+16
+
+2.0
+
+4
+
+8
+
+Max Lagally;
+U. of Wisconsin
+
+Si(001)1x2 with 4 miscut
+
+Topic 2 -
+
+Mass Transport on Surfaces
+
+Topic 2 - 42
+
+Mass Transport on Surfaces
+
+Brian Swartzentruber, Phys. Rev. Lett. 76, 459 (1996).
+Topic 2 - 43
+
+Mass Transport on Surfaces
+Difficulty to diffuse with
+increasing number of
+intralayer bonds
+
+Faster diffusion of
+adatoms on the
+surface of closepacked planes
+Topic 2 - 44
+
+System-Level Reduction of Surface Energy
+This is when nanostructures combine (associate) together to form large
+structures in order to reduce the overall surface area.
+
+This event is often the collapse of the nanomaterials you have painstakingly
+made… but not always, e.g., when assembly of nanostructures is desirable!
+1. Sintering: Individual structures merge together which occurs at 70% of Tm
+Replaces free surface with a solid-solid interface and material becomes polycrystalline
+
+2. Ostwald ripening: A large particle grows at the expense of a smaller
+particle until the latter disappears completely, and becomes a single crystal.
+It often occurs at relatively low temperatures
+
+3. Agglomeration of individual nanostructures through chemical bonds and
+physical attraction forces at interfaces without altering the individual
+nanostructures
+The smaller the particles, the greater the bonding forces
+
+Synthesis protocols have been developed to mitigate
+agglomeration and stabilize nanostructure systems
+
+Topic 2 - 45
+
+Sintering and Ostwald Ripening
+
+Sintering
+
+Surface and
+GB diffusion
+
+Ostwald
+ripening
+
+Size-dependent
+dissolution
+
+Topic 2 - 46
+
+dR
+
+Chemical Potential of Surfaces
+Consider the transport of n atoms from
+a semi-infinite flat solid to the curved
+surface of a solid sphere, with radius R
+
+R
+𝜇𝑐
+
+dV = dn
+= 4R2 dR
+
+𝜇∞
+
+: volume of an atom
+
+Transfer of dn atoms from a flat
+surface to a particle with radius R,
+changes the volume by dV
+𝑑𝐴
+∆𝜇 = 𝜇𝑐 − 𝜇∞ = 𝛾
+The work per atom transferred is
+𝑑𝑛
+equal to the change of chemical
+Ω
+dV = dn
+= 𝛾8𝜋𝑅 𝑑𝑅
+potential, ∆𝜇 = 𝜇𝑐 − 𝜇∞
+= 4R2 dR
+𝑑𝑉
+Ω
+∆𝜇 = 2𝛾
+Young-Laplace eqn
+𝑅
+Describes chemical potential of an atom in a
+Topic
+- 47
+spherical surface of radius R wrt
+a 2flat
+surface.
+
+Chemical Potential
+The difference of chemical potential, , may be regarded as the
+cause or driving force of a chemical reaction or the
+tendency/desire of a substance to diffuse from one phase into
+another.
+The chemical potential is thus a kind of chemical pressure and is an
+intensive property of system.
+Chemical potential of an ideal gas with pressure, p
+𝑝
+𝜇 = 𝜇0 + 𝑅𝑇𝑙𝑛
+𝑝0
+Chemical potential of a solution with solubility, Sc
+𝑆𝑐
+𝜇 = 𝜇0 + 𝑅𝑇𝑙𝑛
+𝑆𝑐0
+Topic 2 - 48
+
+Chemical Potential of Curved Surfaces
+Ω
+∆𝜇 = 2𝛾
+𝑅
+
+Young-Laplace eqn
+
+Young-Laplace equation can be generalized to any type of
+curved surface, which is generally described by two
+principal radii of curvature, R1 and R2.
+∆𝜇 = 𝛾Ω
+
+1
+1
++
+𝑅1
+𝑅2
+
+For a convex surface, the curvature is positive (R>0), and
+thus the chemical potential of an atom on such a surface is
+higher than that on a flat surface.
+Will tend to dissolve
+
+For a concave surface, the curvature is negative (R<0), and
+thus an atom has the lowest chemical potential.
+Will tend to grow
+
+Topic 2 - 49
+
+Chemical Potential of Curved Surfaces
+We can compute the difference in vapor pressure and solubility of
+a solid. Assuming the vapor of a solid phase obeys the ideal gas
+law:
+𝜇𝑣 − 𝜇∞ = −𝑘𝑇 ln 𝑃∞
+Flat surface:
+𝜇𝑣 is the chemical potential of a vapor atom and P is the
+equilibrium vapor pressure of the flat solid surface.
+Curved surface: 𝜇𝑣 − 𝜇𝑐 = −𝑘𝑇 ln 𝑃𝑐
+Pc is the equilibrium vapor pressure of the curved solid
+surface.
+𝑃𝑐
+Combining these, we have 𝜇𝑐 − 𝜇∞ = ∆𝜇 = 𝑘𝑇𝑙𝑛
+𝑃∞
+Recalling ∆𝜇 = 𝛾Ω 1 + 1
+𝑅1
+
+𝑅2
+
+𝑃𝑐
+𝛾Ω 1
+1
+𝑙𝑛
+=
++
+𝑃∞
+𝑘𝑇 𝑅1 𝑅2
+
+Kelvin eqn
+Topic 2 - 50
+
+Dissolution and Curved Surfaces
+For a spherical particle, we have R1=R2=R
+
+𝑃𝑐
+2𝛾Ω
+𝑙𝑛
+=
+𝑃∞
+𝑅𝑘𝑇
+Using a similar approach, we can derive the dependence of
+solubility on surface curvature:
+𝑆𝑐
+𝛾Ω 1
+1
+Gibbs-Thompson eqn
+𝑙𝑛
+=
++
+𝑆∞
+𝑘𝑇 𝑅1 𝑅2
+𝑆𝑐
+2𝛾Ω
+𝑙𝑛
+=
+𝑆∞
+𝑅𝑘𝑇
+
+(R1=R2=R)
+
+Key observation: the vapor pressure or solubility of a small
+particle (convex) is notably higher than that of the bulk material
+Topic 2 - 51
+
+Vapor Pressure vs. Droplet Radius
+
+Topic 2 - 52
+
+Solubility vs. Radius and Sign of Curvature
+Concave
+
+Convex
+
+Each particle in a system
+achieves an equilibrium with
+its surrounding based on its
+radius.
+As the solubility/pressure of
+smaller particles is larger
+than that of larger particles,
+there is a net diffusion of
+atoms away from the small
+particles
+If large particles (but also
+concave or flat ones) are
+nearby, they will capture
+more atoms than they lose
+and will grow at the expense
+of smaller particles
+→ Ostwald ripening
+Topic 2 - 53
+
+Ostwald Ripening Process
+Change of chemical potential of an atom transferring
+from a spherical surface of radius R1 to R2:
+
+1
+1
+∆𝜇 = 2𝛾Ω
+−
+𝑅2 𝑅1
+Valid for evaporationcondensation and
+solid-state diffusion
+
+Topic 2 - 54
+
+Ostwald Ripening Process
+
+In situ TEM during Ostwald ripening of Au NPs
+https://youtu.be/5Lkja-atH3Q
+
+Topic 2 - 55
+
+Ostwald Ripening Process
+Ostwald ripening is not always desirable and can result in:
+(1) Abnormal grain growth and inhomogeneous microstructure, for
+example for annealed polycrystalline materials
+
+(2) Elimination of smaller particles, resulting in narrower particle
+size distribution during growth (this tends to be desirable)
+Typically, T is raised after initial nucleation of nanoparticles (NPs) to
+increase Sc and slow down growth; to reach equilibrium, small NPs
+dissolve, become smaller and Sc for small NP population increases.
+This process would only stop when one large particle is formed!
+
+We must therefore stabilize nanoparticles!
+Topic 2 - 56
+
+Stabilization of Nanoparticles
+Nanoparticles must be stabilized, otherwise the non-equilibrium surface
+(relaxation & restructuring), nanocrystal (faceting) and system (sintering &
+Ostwald ripening) will keep evolving through mechanisms described above,
+including agglomeration.
+e.g., CdSe QDs can cover full visible spectrum with 2-6 nm…
+How can they be stabilized against thermodynamics?
+e.g., CdSe QDs with PMMA shell
+
+https://doi.org/10.1016/j.cej.2016.12.048
+
+Fluorescent quantum dots: Gao and Nie
+
+(1) Electrostatic stabilization: Kinetically stable
+(2) Steric stabilization: Thermodynamically stable
+Topic 2 - 57
+
+Electrostatic Stabilization
+All solids achieve charge neutrality (recall ionic materials), but when
+a solid is in the process of being formed in a polar solvent or in an
+electrolyte solution, a net surface charge can develop, due to:
+– Preferential adsorption of ions due to dissolution
+– Dissociation of surface charged species
+– Isomorphic substitution of ions
+– Accumulation or depletion of electrons at the surface
+– Physical adsorption of charged species onto the surface
+The surface charge of a particle develops a surface potential
+wrt a reference electrode, given by the Nernst eqn:
+𝑅𝑇
+𝐸 = 𝐸0 +
+𝑙𝑛 𝑎𝑖
+𝑛𝑖 𝐹
+
+E0 : electrode potential when the concentration of
+ions is unity
+ni: valence state of ions; ai: activity of ions
+R: gas constant; F: Faraday’s constant
+Topic 2 - 58
+
+Electrostatic Stabilization: Oxide in H2O
+Typical charge determining ions are protons (H+) or
+hydroxyl groups (OH-)
+Their concentrations are described by the pH (pH = -log [H+])
+
+When pH < p.z.c. (point of zero charge; corresponds to a neutral
+surface), H+ are the charge-determining ions and the surface is
+positively charged
+
+When pH > p.z.c. (neutral), OH- are the charge-determining
+ions and the surface is negatively charged
+Solids
+
+p.z.c
+
+V2O5
+
+1-2
+
+a-SiO2
+
+2.5
+
+c-SiO2 (quartz)
+
+3.7
+
+TiO2
+
+6
+
+ZnO
+
+8
+
+Al2O3
+
+9
+
+𝐸 = 2.303 𝑅𝑇
+
+𝑝. 𝑧. 𝑐. −𝑝𝐻
+𝐹
+
+At room temperature:
+𝐸 = 0.06 𝑅𝑇[𝑝. 𝑧. 𝑐. −𝑝𝐻]
+Topic 2 - 59
+
+Electrostatic Potential Near a Solid Surface
+
+Surface chargedetermining ions
+Potential drop (h < H)
+is linear:
+𝐸 ∝ −ℎ
+
+Counter-ions
+Potential drop (h  H) is
+exponential:
+𝐸 ∝ 𝑒 −𝜅(ℎ−𝐻)
+
+𝜅=
+
+𝐹 2 σ𝑖 𝐶𝑖 𝑍𝑖2
+𝜀𝜀0 𝑅𝑇
+
+0: permittivity of vacuum
+: dielectric constant of the solvent
+Ci: concentration of ith counter-ion
+Zi: valence of ith counter-ion
+
+Topic 2 - 60
+
+Electrostatic Potential Near a Solid Surface
+Potential drop (h  H) is exponential:
+𝐸 ∝ 𝑒 −𝜅(ℎ−𝐻)
+𝜅=
+
+~10 nm
+
+𝐹 2 σ𝑖 𝐶𝑖 𝑍𝑖2
+𝜀𝜀0 𝑅𝑇
+
+𝟏/𝜿 [cm] is known as
+Debye-Huckel screening
+strength, and is also
+considered the double-layer
+thickness
+
+0: permittivity of vacuum
+: dielectric constant of the solvent
+Ci: concentration of ith counter-ion
+Zi: valence of ith counter-ion
+
+Assumption of flat surface remains
+valid for curved surface particles,
+making this model predictive
+
+Key observations:
+Electric potential in proximity to the surface…
+
+- Decreases exponentially with increasing Ci and Zi
+- Increases exponentially with increased  of the solvent
+
+Topic 2 - 61
+
+Electrostatic Repulsion and VdW Attraction
+If two particles get sufficiently close to cause overlap of their
+respective double-layer, a repulsive force develops
+Φ𝑅 = 2𝜋𝜀𝑟 𝜀0 𝐸 2 𝑒 −𝜅𝑆
+
+Decays exponentially
+Particles are governed by Brownian motion and will eventually
+interact and risk agglomerating.
+When getting close to one another, they experience attractive forces
+through Van der Waals interactions…
+VdW is a weak force which becomes significant only at very short distances
+
+𝐴
+2𝑟 2
+2𝑟 2
+𝑆 2 + 4𝑟𝑆
+Φ𝐴 = −
++ 2
++ ln 2
+2
+2
+6 𝑆 + 4𝑟𝑆 𝑆 + 4𝑟𝑆 + 4𝑟
+𝑆 + 4𝑟𝑆 + 4𝑟 2
+Topic 2 - 62
+
+Van der Waals Attraction
+𝐴
+2𝑟 2
+2𝑟 2
+𝑆 2 + 4𝑟𝑆
+Φ𝐴 = −
++
++ ln 2
+6 𝑆 2 + 4𝑟𝑆 𝑆 2 + 4𝑟𝑆 + 4𝑟 2
+𝑆 + 4𝑟𝑆 + 4𝑟 2
+attraction
+
+A: Hamaker constant (~10-19 – 10-20 J)
+
+Φ𝐴 can be simplified in different scenarios…
+e.g. 1, r1 = r2 & S/r << 1 Φ𝐴 ≅ −
+
+𝐴𝑟
+12𝑆
+
+Interaction between all pairs
+of molecules in two particles
+
+Decays very slowly
+
+e.g. 2, r1  r2 & S/r << 1
+
+𝐴𝑟1 𝑟2
+Φ𝐴 ≅ −
+6𝑆(𝑟1 + 𝑟2 )
+
+Implication: Long range and weak interactions result in eventual contact
+between particles.
+Note: VdW attraction between two molecules is very different from that
+between two particles:
+Decays fast
+Φ𝐴 ∝ −𝑆 −6
+The nature of interaction is the same, but integration of all interactions between
+parts of molecules in the solid particles results in a totally different dependence!
+Topic 2 - 63
+
+Interaction between Two Particles
+If Vmax > 10kT, then
+collisions do not
+overcome barrier
+and agglomeration
+is avoided
+
+Vmax is closely
+linked to Ci and
+Zi of counter-ions
+
+Repulsion
+
+DLVO assumptions:
+- Infinite flat solid surface
+- Uniform surface charge density
+- No redistribution of charge
+- No change of charge
+concentration profiles
+- No chemistry with solvent (only 
+effect)
+- No external forces
+
+Attraction
+
+DLVO: Derjaguin, Landau, Verwey, Overbeek
+
+Works very well to
+describe interactions
+of two approaching
+charged particles
+
+Topic 2 - 64
+
+Electric Double-Layer and Electrostatic
+Repulsion
+If Vmax > 10kT, then
+collisions do not
+overcome barrier and
+agglomeration is
+avoided
+
+Repulsion
+
+10 nm
+
+Occurrence of
+secondary minima
+occurs when Ci is high
+and leads to
+flocculation (clumping)
+Attraction
+
+Vmax is closely linked
+to -1 and therefore to
+Ci and Zi of counterions.
+Topic 2 - 65
+
+Electric Double-Layer and Electrostatic
+Repulsion
+S > 2H: Osmotic force absent
+Φ = Φ𝐴 + Φ𝑅 + Φ𝑂
+Overlap of double-layer leads to increase
+of counter-ion concentrations, which
+drives solvent flow and modifies the
+original ion concentration. Also known as
+osmotic flow, the solvent repels particles.
+
+S < 2H: Osmotic force present
+
+Topic 2 - 66
+
+Limitations of Electrostatic Stabilization
+Electrostatic stabilization is a kinetic stabilization method:
+– It is only relevant to dilute systems
+– It is not relevant to electrolyte-sensitive systems or which
+interact chemically with the ions
+– It is almost impossible to re-disperse the agglomerated
+particles if solvent is removed
+– It is difficult to apply to multiple phase systems,
+In a given condition, different solids develop different surface charge and electric
+potential.
+
+Topic 2 - 67
+
+Steric Stabilization or Polymeric Stabilization
+– Steric stabilization is a thermodynamic stabilization method
+This means particles can be readily redispersed
+– A very high concentration of particles can be accommodated
+– It is not electrolyte sensitive
+– It is suitable to multiple phase system
+Polymeric stabilization leads to monodisperse nanoparticles
+Polymer layer adsorbed on the surface of nanoparticles serves
+as a diffusion barrier to growth species, resulting in a diffusion
+limited growth.
+Diffusion-limited growth reduces the size distribution of the initial nuclei, leading to
+uniformly distributed (i.e., similar size) nanoparticles.
+Topic 2 - 68
+
+Good vs. Poor Solvent in the Context of
+Polymers
+
+Good Solvent:
+– The polymer likes the solvent and tends to extend, as this
+maximizes the overall surface of interaction and reduces
+the Gibbs free energy of the system
+
+Poor Solvent:
+– The polymer dislikes the solvent and tends to coil up or
+collapse on itself, including by forming a crystal, as this
+reduces the overall surface of interaction and reduces the
+Gibbs free energy of the system
+A poor solvent can become a good solvent at elevated
+temperature, i.e., above the Flory-Huggins theta temperature, T = 
+Topic 2 - 69
+
+Polymer Attachment to Surfaces
+
+Topic 2 - 70
+
+Interaction between Polymer Layers
+In a good solvent, when coverage of anchored polymer on the solid
+surface less than 50% leads to interpenetration of polymer layers. This
+reduces freedom of polymer and reduces entropy (∆𝑆 < 0), which
+increases ∆𝐺
+assume ∆𝐻 ≈ 0
+
+∆𝐺 = ∆𝐻 − 𝑇∆𝑆
+
+Topic 2 - 71
+
+Interaction between Polymer Layers
+In a good solvent, when coverage of anchored polymer on the solid
+surface approaches 100%, this leads to compression of two polymer
+layers, resulting in forced coil up of polymer chains in both layers. The
+mechanical work increases ΔG.
+In case of a poor solvent and
+low polymer coverage,
+interpenetration leads to
+desirable coil up of polymer.
+This decreases ΔG →
+particles associate!
+But, if coverage is high, then
+polymer is extended and
+compression leads to
+increase of ΔG.
+
+Topic 2 - 72
+
+Adsorbed Polymer and Coverage
+An adsorbed polymer can extend and bridge two particles when it has
+strong adsorption on the surface and is sufficiently long.
+For full coverage, the situation for an adsorbed polymer is the same
+as for an anchored polymer.
+For partial coverage, situation for adsorbing polymer is sensitive to
+nature of the solvent:
+– In good solvent → interpenetration (∆𝑆 < 0) → increase in ΔG
+– In poor solvent, we have two scenarios:
+→ For intermediate distance, H, (L<H<2L) → interpenetration leads to desired
+coil-up, which decreases ΔG
+→ For smaller distances (H<L), repulsive forces kick in and increase ΔG
+Topic 2 - 73
+
+Mixed Steric and Electrostatic Interactions
+Electrosteric stabilization uses both steric restriction
+and electrostatic repulsion to prevent agglomeration.
+
+Topic 2 - 74
+
+
+
+## Metadata
+- Source file: junk_drawer/Topic 2 - Physical chemistry of surfaces.pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

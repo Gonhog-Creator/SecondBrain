@@ -1,0 +1,517 @@
+Final PRACTICE Exam Solution
+MA 341
+06/24/2021
+Instructor Medvinsky Michael
+
+Name:
+
+Read all of the following information before starting the exam:
+ Complete each problem. Show all of your work clearly and in order and justify your answers, as
+partial credit will be given when appropriate and there may be NO credit given for problems without
+supporting work.
+ Circle or otherwise indicate your final answers. All answers should be completely simplified,
+unless otherwise stated.
+ You may use your own formula sheet (one sheet - two pages long) and a non graphical
+calculator.
+
+1.
+Consider the following initial value problem.
+(
+
+− sin(x − y)dx + 3y −1 cos(x − y) + sin(x − y) dy
+y (0)
+
+=0
+=π
+
+a. Is the equation is exact? Explain!
+
+Solution: The equation is not exact since
+My = cos (x − y) ̸= cos(x − y) − 3y −1 sin(x − y) = Nx .
+
+b. If you found this equation not exact, find an equivalent exact equation.
+
+Solution: It is possible to make this equation exact using the following integration factor:
+R Nx −My
+
+µ=e
+
+M
+
+dy
+
+=e
+
+3
+
+R 1
+y
+
+dy
+
+= y3
+
+Thus,
+
+y 3 (M dx + N dy) = −y 3 sin (x − y) dx + 3y 2 cos (x − y) + y 3 sin (x − y) dy = 0.
+
+c. Solve the initial problem.
+
+Solution: Let
+Z
+F (x, y) = −
+
+y 3 sin (x − y) dx = y 3 cos (x − y) + h (y)
+
+Differentiate to get
+Fy = 3y 2 cos(x − y) + y 3 sin(x − y) + h′ (y) = N.
+
+Hence, h′ (y) = 0 and h (y) is a constant, so we got
+y 3 cos (x − y) = C
+Using IC one:
+π 3 cos (0 − π) = C,
+thus C = −π 3 , and finally:
+y 3 sin (x + y) = −π 3 .
+
+2.
+
+Find general solution of the following problems:
+a. y ′′ + 16y = e−4x + 3 sin 4x
+b. xy ′ + y = y 2 x2 ln x
+Solution:
+
+−1
+y = Cx + x2 (1 − ln x)
+
+c. y ′ + y cot t = sin1 t
+
+3.
+
+Solve the following initial value problem:
+
+(
+
+sin 3t, 0 < t < π2
+
+′′ + 4y = f (t) =
+
+y
+
+
+0 , t ≥ π2
+
+y(0) = a
+
+
+
+y ′ (0) = b
+
+.
+
+Solution: Rewrite f (t) as a combination of step functions:
+f (t) = sin 3t + uπ/2 (t) (0 − sin 3t) = sin 3t − uπ/2 (t) sin 3t
+It’s Laplace transform is
+
+
+L {f (t)} = L sin 3t − uπ/2 (t) sin 3t = L {sin 3t} − L uπ/2 (t) sin 3t
+
+3
+= 2
+− L uπ/2 (t) sin [(3t − 3π/2) + 3π/2]
+s +9
+
+3
+= 2
+− L uπ/2 (t) [sin(3t − 3π/2) cos(3π/2) + sin(3π/2) cos(3t − 3π/2)]
+s +9
+
+3
+= 2
+− L uπ/2 (t) [− cos(3t − 3π/2)] =
+s +9
+
+π
+π
+3
+3
+3
+s
+= 2
++ L uπ/2 (t) cos 3(t − π/2) = 2
++ e− 2 s L {cos 3t} = 2
++ e− 2 s 2
+s +9
+s +9
+s +9
+s +9
+The Laplace Transform of the equation is now
+s2 Y − sa − b + 4Y =
+
+3
+s2 + 9
+
+π
+s
++ e− 2 s 2
+,
+s +9
+
+solve for Y :
+Y =
+
+3
+s
+sa + b
+− π2 s
++
+e
++
+(s2 + 9)(s2 + 4)
+(s2 + 9)(s2 + 4) s2 + 4
+
+Using
+1
+(s2 + 9) − (s2 + 4)
+1
+=
+=
+(s2 + 9)(s2 + 4)
+5(s2 + 9)(s2 + 4)
+5
+
+
+
+1
+1
+−
+s2 + 4 s2 + 9
+
+
+
+the Inverse Laplace transform become
+
+L
+
+−1
+
+
+
+3
+2
+(s + 9)(s2 + 4)
+
+
+
+
+
+
+
+3 −1
+3 −1
+1
+1
+= L
+− L
+5
+s2 + 4
+5
+s2 + 9
+3 1
+3 1
+3
+1
+= · sin 2t + · sin 3t =
+sin 2t + sin 3t,
+5 2
+5 3
+10
+5
+,
+
+L
+
+−1
+
+
+π
+e− 2 s
+
+s
+2
+(s + 9)(s2 + 4)
+
+and
+−1
+
+L
+
+
+
+sa + b
+s2 + 4
+
+
+
+
+
+
+
+
+
+1 −1 − π s s
+1 −1 − π s s
+= L
+e 2 2
+− L
+e 2 2
+5
+s +4
+5
+s +9
+1
+1
+= uπ/2 (t) cos 2(t − π/2) − uπ/2 (t) cos 3(t − π/2)
+5
+5
+1
+1
+1
+= − uπ/2 (t) cos 2t + uπ/2 (t) sin 3t = uπ/2 (t)(sin 3t − cos 2t)
+5
+5
+5
+−1
+
+= aL
+
+
+
+s
+2
+s +4
+
+
+
+−1
+
++ bL
+
+
+
+1
+2
+s +4
+
+
+= a cos 2t +
+
+b
+sin 2t
+2
+
+Finally,
+3
+1
+1
+C2
+y(t) = L−1 {Y (s)} =
+sin 2t + sin 3t + uπ/2 (t)(sin 3t − cos 2t) + C1 cos 2t +
+sin 2t
+10
+5
+5
+2
+
+
+3
+b
+1
+1
+=
++
+sin 2t + sin 3t + a cos 2t + uπ/2 (t)(sin 3t − cos 2t)
+10 2
+5
+5
+
+4.
+
+Solve the following system of equations:
+(
+y ′ − 4y − v
+v ′ − 2y − 3v
+
+=t
+= −t
+
+Solution: Rewrite the system as x′ = Ax + f :
+ ′ 
+   
+y
+4 1
+y
+t
+=
++
+v′
+2 3
+v
+−t
+Find eigenvalues of the Matrix
+
+
+4−r
+1
+det(A − rI) = det
+= (4 − r)(3 − r) − 2 = (r − 2)(r − 5)
+2
+3−r
+Find eigenvector associated with r1 = 2:
+
+
+
+
+ 
+4−2
+1
+2 1
+1
+v =
+v = 0 ⇒ v1 =
+2
+3−2 1
+2 1 1
+−2
+
+Find eigenvector associated with r2 = 5:
+
+
+
+
+ 
+4−5
+1
+−1 1
+1
+v2 =
+vv = 0 ⇒ v2 =
+2
+3−5
+2 −2
+1
+Thus we got
+r1 t
+
+yh = c1 v1 e
+
+r2 t
+
++ c2 v2 e
+
+ 
+ 2t
+
+ 
+1 5t
+e
+e5t c1
+1
+2t
+e =
+e + c2
+1
+−2e2t e5t c2
+−2
+|
+{z
+} |{z}
+
+
+= c1
+
+=X
+
+c
+
+To find yp we employ variation of parameters for systems. We first need to solve Xu′ = f .
+Using Cramer’s rule one get:
+
+ 2t
+
+
+t e5t
+e
+t
+det
+det
+−t e5t
+−2e2t −t
+2 −2t
+1
+2te5t
+te2t
+′
+′
+u1 =
+=
+= te−5t .
+=
+te
+,
+u
+=
+=
+2
+7t
+7t
+det X
+3e
+3
+det X
+3e
+3
+Thus
+Z
+yp = Xu = X
+
+u′ (s)ds
+
+#
+ " −2t
+
+Z  −2s 
+1 e2t
+2se
+e5t 2 e 2(2t+1)
+2
+ds = −
+e−5t (5t+1)
+se−5s
+3 −2e2t e5t
+52
+ 2t+1 5t+1 
+1
+2 + 25
+=−
+−(2t
++ 1) + 5t+1
+3
+25
+
+
+
+1
+1
+60t + 27
+20t + 9
+=−
+=−
+150 −90t − 48
+50 −30t − 16
+1
+= X
+3
+
+Good luck!
+
+

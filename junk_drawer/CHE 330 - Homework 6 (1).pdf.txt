@@ -1,0 +1,165 @@
+DEPARTMENT OF CHEMICAL & BIOMOLECULAR ENGINEERING
+NORTH CAROLINA STATE UNIVERSITY
+CHE 330
+Homework Set 6
+Note: It is not required to show all calculations for means and standard deviations in this
+homework set. However, points will be deducted if these values are incorrect.
+Problem 1 (20%) A fiber researcher tested the strength of fibers containing varying content of
+synthetic materials and obtained the data provided in the table below. (a, 15%) Perform an
+ANOVA on the data set to determine if the fiber strength depends on the content of synthetic
+material at a 0.01 significance level. (b, 5%) Confirm your results with the corresponding results
+provided by Excel’s ANOVA (Single Factor) tool and include a printout of the results along
+with your hand solution to Part a). Be sure to specify the appropriate value of significance level
+over the default value of 0.05 in the Excel tool.
+Table 1. Fiber strength (kpsi) for varying synthetic material content.
+
+Sample
+1
+2
+3
+4
+5
+
+% Synthetic Materials
+15%
+20%
+25%
+35%
+8.7
+14.5
+16.0
+9.0
+9.8
+17.3
+13.8
+14.3
+12.2
+14.9
+18.3
+10.0
+12.9
+15.5
+17.2
+14.3
+9.5
+12.7
+18.0
+7.1
+
+Problem 2 (20%) A catalyst researcher studied the performance of hydrogenation catalysts with
+four different promoters and obtained the data provided in the table below. (a, 15%) Perform an
+ANOVA on the data set to determine if catalyst performance is dependent on the promoter types
+at a 0.05 significance level. (b, 5%) Confirm your results with the corresponding results
+provided by Excel’s ANOVA (Single Factor) tool and include a printout of the results along
+with your hand solution to Part a).
+Table 2. CO conversion by catalysts containing different promoters.
+Trial
+1
+2
+3
+4
+5
+
+Fe
+Mn
+Pt
+Pd
+Promoter Promoter Promoter Promoter
+60.80
+68.70
+102.60
+87.90
+57.00
+67.70
+102.10
+84.20
+65.00
+74.00
+100.20
+83.10
+58.60
+66.30
+96.50
+85.70
+61.70
+69.80
+98.80
+90.30
+
+Problem 3 (35%) A kettle filled with boiling water is placed on a counter to cool. The room
+temperature is 20oC. The combined mass of the water and kettle is 2.0 kg, and their heat
+capacity is 1.25 kcal/(kgoC). The rate at which heat is lost from the kettle is given by Q
+(kcal/min) = U*A*(T − To) where U (kcal/(m2 min)) is the heat transfer coefficient, A is the heat
+
+transfer area (m2), and T and To are, respectively, the kettle and room temperatures (oC).
+Analysis suggests that T should vary with the cooling time t (min) as described by
+T = [20 + 80*exp(−0.40*U*A*t)]oC
+
+(1)
+
+Measurements give the data shown in Table 3.
+Table 3. Kettle temperature as a function of elapsed time.
+t, min
+T, oC
+
+0
+100.0
+
+3.0
+87.0
+
+7.5
+74.3
+
+15.0
+53.3
+
+30.0
+35.8
+
+(a, 20%) Complete a linearization transform of the non-linear expression given in Equation 1 to
+determine UA from the data. Plot the data and the regression results on a single figure (you can
+use Excel for this). (b, 15%) Determine the 95% confidence interval for UA. With the exception
+of your plot produced in Part a, be sure to show your work for Parts a and b, i.e. do not use
+Excel or an iterative method to solve.
+Problem 4 (25%) A homogeneous chemical reaction A  B is known to follow the kinetic
+relationship
+
+− rA = kC A
+
+n
+
+(2)
+
+where rA is the rate of reaction, k is the rate constant, CA is the concentration of Species A, and n
+is the exponential factor. Testing provides kinetic data shown in Table 4.
+Table 4. Kinetic data for a homogeneous reaction.
+CA (mol/L)
+-rA (mol/Ls)
+
+4
+0.398
+
+2.25
+0.298
+
+1.45
+0.238
+
+1.0
+0.198
+
+0.65
+0.158
+
+0.25
+0.098
+
+0.006
+0.048
+
+(a, 5%) What type of function is described by Equation 2? (b, 20%) Use a linearization
+transform of the non-linear expression given in Equation 2 to determine the values of n and k. Be
+sure to show your work for Part b, i.e. do not use Excel or an iterative method to solve.
+
+

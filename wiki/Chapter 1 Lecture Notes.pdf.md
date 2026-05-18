@@ -1,0 +1,886 @@
+# Chapter 1 Lecture Notes.pdf
+
+Source: junk_drawer/Chapter 1 Lecture Notes.pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+Welcome to CH 221 Organic Chemistry 1! Dr. Cassie Lilly Additional Problems CH 1: 43, 46, 48-51, 53, 55, 57-59, 62, 63, 65-68 1 Goals For Studying Organic Chemistry • • •
+
+## Full Content
+Welcome to CH 221 Organic Chemistry 1!
+Dr. Cassie Lilly
+
+Additional Problems CH 1: 43, 46, 48-51, 53, 55, 57-59, 62, 63, 65-68
+1
+
+Goals For Studying Organic Chemistry
+•
+•
+•
+•
+•
+
+Understand the structure and bonding of organic chemicals
+Learn to correlate the structure with the physical and
+chemical properties of organic chemicals
+Learn to predict stability and reactivity of molecules
+Learn to speak and understand organic chemistry
+
+Learn about the reactions that are important in
+biochemistry
+• All biochemistry is organic chemistry performed by
+living organisms
+2
+
+Chapter 1
+Review from General Chemistry
+•
+•
+•
+•
+•
+•
+
+Lewis Structures
+Electronegativity
+Polarity
+Formal Charge
+Resonance
+Acid/Base
+
+3
+
+•
+•
+•
+
+Divisible into four blocks corresponding to the filling of the four quantum sublevels (s, p, d, and f )
+The group number of a main-group element is equal to the number of valence electrons for that element
+The row number of a main-group element is equal to the highest principal quantum number for the electrons of that
+4
+element
+
+The Lewis Model of Covalent Chemical
+Bonding
+• In 1916 G. N. Lewis proposed that atoms bond in order to achieve a
+more stable electron configuration
+• Maximum stability results when an atom is isoelectronic with a noble
+gas
+• An electron pair that is shared between two atoms constitutes a
+covalent bond
+Section 1.3
+
+5
+
+Covalent Bonding in H2
+• Two hydrogen atoms, each with 1 electron
+
+H.
+
+• Can share those electrons in a covalent bond
+
+.H
+
+H :H
+
+• Sharing the electron pair gives each hydrogen an electron
+configuration analogous to helium
+• Forming bonds gives off energy
+– Exothermic
+• Breaking bonds requires energy
+– Endothermic
+Section 1.3
+
+6
+
+Covalent Bonding in F2
+• Two fluorine atoms, each with 7 valence electrons
+
+..
+..
+. F:
+: ..F.
+..
+• Can each share one electron to form a covalent bond
+.. ..
+: ..
+F:..
+F:
+
+• Sharing the electron pair gives each fluorine an electron
+configuration like neon
+
+Section 1.3
+
+7
+
+The Octet Rule
+• Hydrogen can only have two electrons around it, known as a duet
+• In forming compounds, atoms gain, lose, or share electrons to give a
+stable electron configuration characterized by 8 valence electrons,
+known as an octet
+
+.. ..
+:..
+F:..
+F:
+
+• The octet rule is the most useful in cases involving covalent bonds
+to second row elements C, N, O, and F
+• Third row elements like S, P and Cl have additional atomic orbitals
+that can accommodate more than 8 electrons
+– Known as an expanded octet
+• Details of bonding and orbitals will be discussed in Chapter 2
+Section 1.3
+
+8
+
+Drawing Lewis Structures
+1.
+2.
+3.
+4.
+5.
+6.
+
+Write the Skeletal Structure
+Count the total number of valence electrons
+Attach atoms together with pairs of electrons
+Complete octets, working outside-in
+If all octets complete, give extra electrons to the central atom
+If central atom does not have octet, bring in electrons from outside
+atoms to share
+
+Section 1.3
+
+9
+
+Section 1.3
+
+10
+
+Lewis Structure Examples
+CH4
+
+NH3
+
+Section 1.3
+
+11
+
+Lewis Structure Examples-1
+NH4+
+
+CH3OH
+
+Section 1.3
+
+12
+
+Lewis Structure Examples-2
+C2H2
+
+C3H8
+
+Section 1.3
+
+13
+
+Polar Covalent Bonds
+• Two atoms of different electronegativity's share electrons unequally
+in a covalent bond. The result is a polar covalent bond
+• The greater the difference in electronegativity, the more polarized
+the bond
+
+Polar covalent bonds tend to be sites of reactivity
+in organic molecules.
+Section 1.4
+
+14
+
+Periodic Trends in Electronegativity
+•
+
+TABLE 1.3 Selected Values from the Pauling Electronegativity Scale
+Period
+
+Group
+number
+1A
+
+Group
+number
+2A
+
+Group
+number
+3A
+
+Group
+number
+4A
+
+Group
+number
+5A
+
+Group
+number
+6A
+
+Group
+number
+7A
+
+1
+
+H
+2.1
+
+2
+
+Li
+1.0
+
+Be
+1.5
+
+B
+2.0
+
+C
+2.5
+
+N
+3.0
+
+0
+3.5
+
+F
+4.0
+
+3
+
+Na
+0.9
+
+Mg
+1.2
+
+Al
+1.5
+
+Si
+1.8
+
+P
+2.1
+
+S
+2.5
+
+Cl
+3.0
+
+4
+
+K
+0.8
+
+Ca
+1.0
+
+Br
+2.8
+l
+2.5
+
+5
+Section 1.4
+
+15
+
+Bond Polarity (Dc)
+•
+
+•
+
+A
+
+A
+
+Covalent - Dc < 0.4; e- shared equally (H-H)
+
+Polar covalent - Dc = 0.5 - 2.0; bond dipole (H-F)
+
+EWG
+•
+
+A
+
+Ionic - Dc > 2.0; e- transferred (NaCl)
+Section 1.4
+
+16
+
+Dipole Moments
+
+More polarized bonds are associated with greater differences in
+electronegativity and greater dipole moments.
+Section 1.4
+
+17
+
+Formal Charge
+Formal charge = Valence electrons of the atom - Electron count
+• Electron count = ½ ( # of shared electron) + # of unshared electron
+
+Section 1.5
+
+18
+
+Drawing Lewis Structures
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Write the Skeletal Structure
+Count the total number of valence electrons
+Attach atoms together with pairs of electrons
+Complete octets, working outside-in
+If all octets complete, give extra electrons to the central atom
+If central atom does not have octet, bring in electrons from outside
+atoms to share
+Calculate formal charge
+
+Section 1.5
+
+19
+
+Incomplete Octets
+3 bonds
+
+20
+
+Group 3 Examples
+BCl3
+
+AlH4-
+
+21
+
+Expanded Octet
+
+Section 1.8
+
+22
+
+Expanded Octet Example
+• SO42-
+
+POCl3
+
+Section 1.8
+
+23
+
+Levels of Organic Structure
+• We think about the structures of organic molecules at various levels
+– The composition of a molecule is captured by its molecular
+formula
+C4 H10 O
+− The constitution (connectivity) of a molecule is captured by a
+structural formula showing how atoms are connected
+
+– The configuration of a molecule is captured by a structural
+drawing showing the positions of atoms in space
+Section 1.6
+
+24
+
+Levels of Organic Structure
+• We think about the structures of organic molecules at various levels
+– The composition of a molecule is captured by its molecular
+formula
+C4 H10 O
+Compounds
+can have (connectivity)
+identical structures
+a broadislevel
+but differ
+− The constitution
+of a on
+molecule
+captured
+by a on
+a more specific
+suchhow
+compounds
+called isomers.
+structural
+formulalevel;
+showing
+atoms areare
+connected
+
+– The configuration of a molecule is captured by a structural
+drawing showing the positions of atoms in space
+Section 1.6
+
+25
+
+Constitutional Isomers
+• Constitutional isomers have the same composition (molecular
+formula) but differ in how their atoms are connected
+
+• Ethanol and dimethyl ether both have the molecular formula C2 H6 O,
+but they have different connectivity
+• Constitutional isomers have different physical and chemical
+properties!
+• Ethanol and Dimethyl ether have different physical properties.
+WHY?
+Section 1.6
+
+26
+
+Line Structures
+C3H8
+
+CH3CH2CH2CH2CH3
+
+CH3CH(CH3)CH2CH3
+
+(CH3)2CHNH2
+
+Section 1.6
+
+27
+
+Line Structures
+
+Section 1.6
+
+28
+
+More Practice (on your own time)
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+CO2
+CH3CF3
+CH3OH
+CH3OCH3
+CH3CH2OH
+CH3CH2CH2Br
+CH3CH2CH2CH3
+CH3(CH2)2CH3
+CH3CH(CH3)CH3
+CH(CH3)3
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Section 1.6
+
+CH2CH2
+CH3CHFCH3
+CH3CH(OH)CH3
+CH3NHCH3
+CH3SCH2CH3
+CH3COCH3
+CH3CO2CH3
+CH3OCO2CH3
+CH3CONH2
+CH3CN
+29
+
+Resonance
+• Resonance represents the delocalization and
+stabilization of charge. Molecules with
+resonance are stabilized!
+
+•
+
+Section 1.7
+
+The resonance
+hybrid
+30
+
+Rating Resonance Structures
+• N, O, F will have filled octets
+– C occasionally will have only 6 electrons in some resonance
+structures
+– B will often have only 6 electrons
+• Maximize number of covalent bonds
+• Minimize formal charges
+• Negative charge on most electronegative atom
+• Minimize separation of formal charges
+
+Section 1.7
+
+31
+
+Resonance Structure Example
+
+Section 1.7
+
+32
+
+Resonance Structure Example
+
+Which resonance structure is more stable?
+
+Section 1.7
+
+33
+
+Molecular Geometries
+• Four equal atoms bonded to a
+central carbon
+• Molecular Geometry Name:
+• All bond angles equal to 109.5°
+• Examples
+– Methane
+CH4
+– Tetrafluoromethane
+CF4
+– Tetrabromomethane CBr4
+Section 1.9
+
+34
+
+Molecular Geometries
+• Ammonia - NH3
+– H-N-H angle = 107°
+• Water - H2O
+– H-O-H angle = 105°
+• Boron trifluoride - BF3
+– F-B-F angle = 120°
+• Carbon dioxide - CO2
+– O-C-O angle = 180°
+Section 1.9
+
+35
+
+Molecule Polarity
+
+Section 1.10
+
+36
+
+Acids and Bases: The Bronsted-Lowry View
+• Brønsted-Lowry definition:
+– An acid is a proton donor
+– A base is a proton acceptor
+• Proton Transfer from HBr to Water
+
+Section 1.12
+
+37
+
+Acid Strength
+•
+H-X + H2O  H3O+ + X• Acid strength is measured by the dissociation constant Ka
+
+Section 1.12
+
+38
+
+Factors Effecting Acidity
+• Delocalization or resonance stabilization
+• Bond strength
+– Higher strength of the acid—H bond gives lower acidity
+• Electronegativity
+– Within a row of the periodic table, higher electronegativity gives
+higher acidity
+
+Section 1.13
+
+39
+
+Acid/Base Strength General Rules
+The strength of an acid/base is dependent
+on the stability of its conjugate form
+Strong
+
+Acid
+HCl
+
+Weak
+
+CH3COOH
+
+Strong
+
+Base
+OH1-
+
+Weak
+
+H2O
+
+→
+→
+→
+→
+
+Conj. Base
+Cl1-
+
+Weak
+
+CH3COO1-
+
+Strong
+
+Conj. Acid
+H2O
+
+Weak
+
+H3O1+
+
+Strong
+
+Section 1.13
+
+40
+
+Acid Strength General Rules
+• Size of atom – bond strength decreases going down a group;
+stronger acid
+H
+
+pKa
+•
+
+F
+
+H
+
+3.1
+
+Cl
+
+H
+
+-3.9
+
+Br
+
+-5.8
+
+H
+
+I
+
+-10.4
+
+Electronegativity – as c increases, bond becomes more polarized;
+
+stronger acid
+C
+
+pKa
+
+60
+
+N
+
+O
+
+36
+
+15.7
+
+Section 1.13
+
+F
+
+3.1
+
+41
+
+Acid Strength General Rules
+•
+
+Resonance in conjugate base
+
+•
+
+Inductive effects – EWG near H increases acidity
+
+pKa
+
+CH3CH2OH
+CF3CH2OH
+16
+11.3
+Section 1.13
+
+42
+
+Acid Strength General Rules
+• Hybridization – if an atom bearing a negative charge has more scharacter, the anion will be more stable
+
+Section 1.13
+
+43
+
+Strength of Acid Examples
+• Rank the acidity for the following structures from most acidic to least
+acidic.
+
+44
+
+Strength of Acid Examples
+• Rank the basicity for the following structures from least basic to
+most basic. (remember, most basic will be the least stable base and
+form the weakest conjugate acid)
+
+45
+
+Strength of Acid Examples
+• Rank the acidity for the following structures from least acidic to most
+acidic.
+
+O
+
+O
+
+O
+
+O
+Cl
+
+OH
+
+OH
+
+OH
+
+OH
+
+Cl
+Cl
+
+46
+
+Strength of Acid Examples
+• Rank the acidity for the following structures from least acidic to most
+acidic.
+
+47
+
+Identify the Most Acidic Proton
+• The structure of aspartame, an artificial sweetener is shown. Rank
+the acidity of the protons from 1-3, 1 being the strongest.
+
+48
+
+Acid-Base Equilibria
+• In general, an acid-base reaction is favorable when the stronger acid
+is on the left and the weaker acid is on the right.
+
+Section 1.14
+
+49
+
+Acid-Base Equilibria Calculation
+
+K a of reactant acid
+K eq 
+K a of product acid
+Section 1.14
+
+50
+
+Strength of Acid Examples
+• Complete the following acid-base reaction between acetic acid and
+ammonia.
+
+• The pKa of acetic acid is 4.7 and pKa of the ammonium ion is 9.3.
+Calculate Keq. Will the reaction favor the reactants or products?
+
+51
+
+Strength of Acid Examples
+• Complete the following reactions. Given that ethyne as a pKa value
+of 25, water has a pKa value of 15.7, and ammonia has a pKa value
+of 36, determine whether the reactants or products are favored for
+each reaction.
+
+• Which is a more effective base to deprotonate ethyne?
+52
+
+Lewis Acids and Bases
+• Lewis Acid: a molecule that can accept a pair of electrons to form a
+new bond
+
+• Lewis Base: a molecule that can donate a pair of electrons to form
+a new bond
+
+Section 1.15
+
+53
+
+Lewis Acids and Bases
+• Lewis Acid: a molecule that can accept a pair of electrons to form a
+new bond
+
+ELECTROPHILE
+• Lewis Base: a molecule that can donate a pair of electrons to form
+a new bond
+
+NUCLEOPHILE
+Section 1.15
+
+54
+
+Arrow Pushing
+
+Section 1.15
+
+55
+
+Lewis Acid/Base Example
+• Complete the Lewis acid/base reaction below using the curvedarrow notation to show the steps of the reaction.
+
+56
+
+Lewis Acid/Base Example
+• Write the Lewis acid/base reaction between water and carbon
+dioxide.
+
+57
+
+Copyright © 2017 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.
+
+
+
+## Metadata
+- Source file: junk_drawer/Chapter 1 Lecture Notes.pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

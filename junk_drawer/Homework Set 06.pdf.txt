@@ -1,0 +1,201 @@
+CHE 435/525 – Process Systems Analysis and Control
+
+Spring 2025
+
+Homework Set 6. Direct Synthesis of Feedback and Feedforward Loops
+(Due on Tuesday, April 8, 2025)
+1.
+
+(15 pt) One-parameter filter-based controller synthesis. [Seborg 12.2]
+Consider the following transfer functions:
+Gp =
+
+2 (1 − s)
+
+, Gv = 2, Gm = 1.
+s
+Design an IMC controller. Derive an expression for Gc(s) and report it in a standard form (e.g., P, PI, or
+PID, or other common types of transfer functions).
+
+2.
+
+(20 pt) Controller synthesis for non-minimum phase and time-delay systems. [Kravaris 19.1]
+Apply the one-parameter direct controller synthesis to the following two process transfer functions.
+K(1 − τ0 s)
+Gp1 (s) =
+( τ1 s + 1)(τ2 s + 1 )(τ3 s + 1 )
+where τ0 , τ1 , τ2 , τ3 > 0.
+Gp2 (s) =
+
+K
+e−θs
+( τ1 s + 1 )(τ2 s + 1)
+
+where τ1 , τ2 , θ > 0. Assume Gv = Gm = 1.
+3.
+
+(15 pt) Controller synthesis under uncertain (imprecise) models. [Kravaris 19.6, simplified]
+A process has transfer function of the form:
+Gp (s) =
+
+K
+(τs + 1 )(𝜀s + 1 )
+
+where τ > 0, ε > 0 and ε is a constant smaller than τ. The engineer ignored the fast dynamics and
+̃ p (s) = K⁄(τs + 1) instead. The engineer then followed the direct synthesis
+modeled the system as G
+approach to build a PI controller
+Gc (s) =
+
+τ
+
+(1 +
+
+1
+
+)
+Kλ
+τs
+to control it, what will be the range of values of the filter time constant λ that guarantees stability?
+Assume Gv = Gm = 1.
+4.
+
+(25 pt) Controller synthesis versus empirical tuning rules. [Seborg 12.12]
+Suppose that a process can be adequately modeled by an FOPTD model: Gp(s) = Ke–θs/(τs + 1), and
+assume Gv = Gm = 1.
+(a) Directly synthesize a controller with a closed-loop time constant τc = τ.
+(b) Cohen and Coon (1953) reported the following tuning relations to PI controllers:
+τ
+θ
+30 + 3 (θ⁄τ)
+(0.9 +
+) , τI =
+Kc =
+θ.
+Kθ
+12τ
+9 + 20 (θ⁄τ)
+These tuning relations aimed to provide closed-loop responses with a 1/4 decay ratio. Compare
+the PI settings calculated from these equations to the controller settings of part (a). Which one is
+more conservative? You may do a simulation to check.
+
+1
+
+(c) Let the model parameters be K = 2, τ = 3, and θ = 1, and simulate the controllers of parts (a) and
+(b) for a unit step change in set point. Which controller provides better control?
+5.
+
+(25pt) Design of feedforward–feedback loops. [Seborg 15.10]
+The distillation column in the figure below has the following transfer function model:
+Y′ (s) =
+
+2e−20s
+
+D′ (s) +
+
+0.5e−20s
+
+F′(s)
+95s + 1
+45s + 1
+with Gv = Gm = 1. The distillate composition y is the controlled variable, the distillate flow rate D is the
+manipulated variable (the “u” in control theory), and the feed flow rate F is a disturbance (the “d” in
+control theory).
+
+(a) What is the feedforward controller that the engineer obtains?
+[Hint: Since Gp(s) and the model of Gd(s) have the same delay, the delay factors should be exactly
+cancelled when designing Gf(s). Such a cancellation would still make Gf(s) proper.]
+(b) Synthesize a feedback controller with τc = 30.
+(c) Simulate the closed-loop response of y(t) to a unit step change in the disturbance using feedback
+control only.
+(d) Repeat part (c) for the feedforward–feedback control scheme.
+(e) However, the disturbance model
+
+0.5e−20s
+45s + 1
+
+used for feedforward controller synthesis was erroneous.
+
+The actual disturbance effect (which is a hidden fact that the engineer could not know) should be
+0.5e−30s
+60s + 1
+
+. Repeat part (d) and describe what you observe.
+
+[Caution: The actual Gd(s) is different from the model that you previously used for feedforward
+controller synthesis. Hence, you should simulate with
+
+G d + G f Gp
+Y
+=
+D
+1 + GOL
+
+where Gd(s) is the actual one (instead of the model), and Gf(s) is the one obtained in (a) based on
+the erroneous model.]
+6.
+
+(Bonus: 10 pt) Process control in practice: Variable selection. [Seborg 13.10]
+Whereas we often assume that the MVs and CVs are already defined before doing control problems,
+in fact, when engineers design each unit in a chemical plant, they need to determine which variables
+are MVs and which are CVs. This procedure is called variable selection. Please read Chapter 13 of Seborg
+and then answer the following question.
+
+2
+
+A two-phase feed to the gas-liquid separator (or flash drum), shown in the figure above, consists of a
+mixture of two hydrocarbons. Because the vessel pressure P is lower than the feed pressure, the feed
+flashes as it enters the separator. Using the following information and a degrees of freedom analysis,
+do the following:
+(a) Determine the model degrees of freedom, NF.
+(b) Determine the control degrees of freedom, NFC.
+(c) Specify reasonable CVs and MVs. Justify your answers.
+Available Information:
+1.
+
+The flash drum operates isothermally with the two phases in equilibrium.
+
+2.
+
+Each phase is perfectly mixed.
+
+3.
+
+The mass flow rates are in units of kg/min and the compositions (e.g., wF) are expressed as mass
+fractions.
+
+4.
+
+Each flow rate can be adjusted by a control valve (not shown).
+
+5.
+
+For the uncontrolled process, the exit flow rates are related to vessel conditions by empirical
+equations that have the following forms: G = f1(P) and L = f2(h).
+
+7.
+
+(Bonus: 10 pt) Process control in depth: Controller design for unstable plants. You may or may not need
+to use Matlab. [Dorf Design Problem 9.10]
+Reactors often have unstable transfer functions (i.e., with right-half-plane poles). You may know about
+Chernobyl in 1986. Indeed, unstable plants are much harder to deal with the stable plants . The direct
+synthesis approach taught in this course (Lecture 16 and 17) assumes stable plants – which makes it
+not applicable to unstable processes. Now we have a reactor with an unstable model:
+4
+Gp (s) =
+, Gv = Gm = 1.
+(s − 4)(s + 2)
+It has an unstable pole (4) and a stable pole (–2). You are asked to design a controller Gc(s) that
+(a) achieves closed-loop stability,
+(b) achieves zero offset (Hint: for this, Gp(s)Gc(s) should contain a pole at s = 0), and also,
+(c) is not based on an exact pole-zero cancellation, i.e., Gc(s) can not be designed to have a factor of
+exactly (s – 4) in its numerator to “cancel” the pole at +4.
+Under these constraints, try to minimize ISE + ISC under a step change in the setpoint.
+
+Remark: An illustration of temperature control of nuclear reactors is shown in the following figure.
+
+3
+
+4
+
+

@@ -1,0 +1,1930 @@
+# Topic 9 - Diffraction - Lecture slides.pdf
+
+Source: junk_drawer/Topic 9 - Diffraction - Lecture slides.pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+Topic 9: Diffraction Questions we will answer... • What is diffraction? • What is Bragg’s law? • What is an Ewald’s sphere? • What does diffraction tell us about a crystal? • What is the structure factor? • What are systematic absences and how is diffraction intensity computed? • Which material factors determine its
+
+## Full Content
+Topic 9: Diffraction
+Questions we will answer...
+• What is diffraction?
+• What is Bragg’s law?
+• What is an Ewald’s sphere?
+• What does diffraction tell us about a crystal?
+• What is the structure factor?
+• What are systematic absences and how is
+diffraction intensity computed?
+• Which material factors determine its
+diffraction pattern and intensities?
+Acknowledgement:
+Aurelien Manchon
+
+Topic 9 -
+
+1
+
+Real space vs. reciprocal space lattice
+102
+
+h0l
+
+h1l
+h2l
+
+h3l
+
+Topic 9 -
+
+2
+
+Reciprocal lattice and diffraction
+Reciprocal space lattice
+
+Diffraction spots
+
+h2l
+
+h1l
+h0l
+000
+
+Why do planes in real space generate
+diffraction spots in reciprocal space?
+
+Cockcroft, Driessen & Moss
+U of London, Birkbeck College
+
+How do we determine crystal structure
+from diffraction spots?
+Why are some reciprocal lattice points
+absent while others are brighter than their
+neighbors?
+
+Topic 9 -
+
+3
+
+Diffraction of light
+
+k
+l<<d
+
+l<<d
+
+l
+
+Ray description
+
+l~d
+
+l~d
+Wave description
+
+The ray approximation breaks down
+when l d, resulting in diffraction.
+Wavelength used for crystal diffraction
+is similar to unit cell parameters
+
+Diffraction!!
+
+Topic 9 -
+
+4
+
+Electromagnetic waves
+Speed of light in vacuum:
+c = 3 108 m/s
+Wavelength: l (m)
+Frequency of the wave:  (s-1 or Hz)
+Planck’s constant: h = 6.62610-34 Js
+Unit conversions:
+1 J = 6.241018 eV
+1 eV = 1.60210-19 J
+
+e.g., 428 THz  700 nm  1.77 eV (visible)
+6 GHz  0.05 m  0.025 meV (microwave)
+31018 Hz  1 Å  12.4 keV (x-ray)
+
+https://commons.wikimedia.org/wiki/ Topic 9 File:Electromagnetic-Spectrum.svg
+
+5
+
+Constructive interference:
+reflected waves are all in-phase
+ very specific angle
+
+Bragg’s law
+(hkl) planes
+
+
+
+
+
+A
+
+C
+
+
+
+B
+
+dhkl
+
+
+
+C’ Destructive interference:
+
+A’
+
+reflected waves are perfectly
+out-of-phase
+
+
+
+B’
+
+
+
+Constructive interference:  = AB + BC = l, 2l, …, nl
+
+Topic 9 -
+
+6
+
+Bragg’s law
+
+sin = opposite/hypothenus
+
+sin = AB/dhkl = A’B’/(2dhkl)
+
+ = AB + BC = 2dhkl sin
+
+
+dhkl
+
+’ = A’B’ + B’C’ = 4dhkl sin
+Constructive interference:
+ = l, ’ = 2l, …  = nl
+ 2dhkl sin = nl
+2dhkl sinhkl = l
+
+Interpretation: an angle of diffraction hkl is associated to each
+family of planes {hkl} defined by its unique interplanar spacing, dhkl
+Topic 9 -
+
+7
+
+Bragg’s law
+Using Bragg’s law and metric tensor formalism (dhkl), you can
+now compute the allowed diffraction angles 2hkl for any known
+crystal!
+
+If l is known and 2hkl is measured,
+you can also determine dhkl, which
+gives values of a, b, c, , ,  if we also
+know the crystal system (but how?)
+
+
+
+
+
+2
+
+
+
+Topic 9 -
+
+8
+
+Recall: Interplanar spacing (Topic 8)
+
+Topic 9 -
+
+9
+
+In-class exercise 1
+Compute the low Miller index interplanar spacings and diffraction
+angles for copper (a = 0.36148 nm), assuming l= 1.54Å.
+
+(hkl)
+
+h2 + k2 +l2
+
+dhkl [nm]
+
+2hkl []
+
+(100)
+(110)
+(111)
+(200)
+(210)
+(211)
+(220)
+(221)
+(300)
+(301)
+
+Topic 9 - 10
+
+Bragg’s law in reciprocal space
+
+hkl
+
+Reciprocal
+space lattice
+
+2dhkl sinhkl = l
+
+
+
+
+
+Bragg condition is met when scattering
+vector matches reciprocal lattice vector
+
+
+dhkl
+
+Real space lattice
+
+hkl
+
+ = hkl
+
+hkl
+Recall: reciprocal lattice vector khkl is
+normal to (hkl) planes in the crystal. Its
+magnitude is inversely proportional to
+interplanar spacing!
+|k |=1/d
+hkl
+
+hkl
+dhkl
+
+hkl
+
+Topic 9 - 12
+
+Bragg’s law in reciprocal space: Ewald’s
+sphere
+Bragg’s law: 2dhkl sinhkl = l
+Ewald sphere:
+Reflection sphere
+hkl
+
+hkl
+hkl
+Limiting
+sphere
+
+2hkl
+
+000
+Origin of reciprocal
+lattice and center of
+limiting sphere
+
+Topic 9 - 13
+
+Bragg’s law in reciprocal space: Ewald’s
+sphere
+(hkl)=(001)
+
+001
+
+2001
+
+If the reciprocal lattice vector does not pass by the intersection
+of the reflected beam with Ewald’s sphere, no diffraction occurs.
+Rotation of the crystal causes hkl points to lie on Ewald
+sphere
+Topic 9 - 14
+ Bragg’s law is satisfied  diffraction spot
+
+Bragg’s law in reciprocal space: Ewald’s
+sphere
+Reciprocal lattice hk0
+
+Different l
+
+120
+
+010
+
+Incident beam
+
+000
+100
+
+Varying the wavelength (l)
+allows other diffraction
+peaks to be formed as they
+satisfy Bragg’s law
+Topic 9 - 15
+
+Bragg’s law in reciprocal space: Ewald’s
+sphere
+d200 =1/|k200|
+
+d400 =1/|k400|
+
+2
+
+
+2
+
+
+Diffractometers use fixed l and vary 
+A change in orientation of the incident beam relative to the
+crystal changes its orientation relative to the reciprocal lattice
+Kravitz, Introduction to diffraction in materials
+science and engineering, Wiley, ,NY 2001
+
+Topic 9 - 16
+
+X-ray diffractometer
+
+X-ray source is typically fixed (while
+samples moves), but can also move
+for stationary samples
+Sample and detector are rotated by
+/2.
+Powder diffraction: crystal crushed into
+a powder to reveal all possible
+diffractions within -2 scan
+Topic 9 - 17
+
+Generation of x-rays
+
+Generation of x-rays: collision between high energy electron and metallic atoms
+
+Electron excitation/decay
+
+Bremsstrahlung
+Continuous X-ray spectrum
+Orbitals
+
+Synchrotron radiation source
+
+Limited choice of wavelengths
+Difference in intensities Common lab X-ray source:
+Cu K  l = 1.54056Å
+
+Synchrotron source
+
+Topic 9 - 18
+
+Scattering from an electron
+Diffraction is elastic scattering of EM radiation (e.g., x-ray) by a charged particle (e-)
+Diffraction from an electron or Thomson Scattering
+• Diffraction is a scattering phenomenon that
+involves interaction of EM radiation with
+electrons in a lattice!
+• Scattering is due to electron motion subject to
+incoming electric field
+• Electric field of incident wave accelerates
+charged particle causing it to emit radiation
+• Scattering is elastic, meaning no momentum
+transfer or energy loss, thus emitted radiation
+has the same wavelength/energy as incident
+radiation
+
+Thomson Scattering from an e-
+
+Electron is the smallest
+scattering unit in matter
+Topic 9 - 19
+
+Scattering from an atom
+The intensity of the scattered light depends on the number of electrons (Z),
+the wavelength of the incident light and the scattering angle, s = sin()/l
+•
+•
+•
+
+•
+•
+•
+
+Multiple electrons are involved in the scattering
+process
+At zero scattering angle the value of f is maximum
+and equals the number of electrons in the atom and
+decreases with the scattering angle
+The X-ray scattering power depends on the number
+of electrons in the atom (atomic number, Z) e.g., Pb
+(Z=82) is used as X-ray shield, whereas Be (Z = 4) is
+used as X-ray window
+X-rays are not very sensitive to light elements, such
+as hydrogen and helium.
+Very little contrast between elements adjacent to
+each other in the periodic table
+Atomic scattering factor can change near an
+element’s x-ray absorption edge  phase change in
+elastic scattering  anomalous scattering (enhances
+contrast between elements)
+Topic 9 - 20
+
+Elastic scattering of coherent waves
+•
+
+Based on elastic scattering theory:
+– Consider two coherent plane waves:
+– Superposition of these waves leads to
+another coherent wave with an amplitude
+that depends on the phase shift, 
+
+k: wavevector
+
+• If sources are separated by nl, then  = 2n
+ ei2 = e0 = 1  constructive interference
+• If sources are separated by nl/2, then  = n,
+with n: odd  ei = -1  destructive
+interference
+
+– Superposition of N coherent waves also
+yields a coherent wave
+
+The amplitude resulting from superposition of
+many coherent waves are the relative phase
+differences between the waves. These can be
+related to the relative location of the scattering
+centers, i.e., location of electrons!
+
+Topic 9 -
+
+21
+
+Scattering from a Bravais lattice
+Consider a primitive
+unit cell, with three
+different types of
+atoms A, B and C
+
+Electrons in atom
++
+atoms on lattice pts
+
+A
+B
+
+C
+
+(0,0,0)
+The position of atoms is given by the Bravais lattice
+vector and basis
+The crystal can be thought of as a superposition of the three sublattices A, B and C
+Then, the total scattered amplitude of an incident beam will be
+2i r̂A ( ŝ-ŝ0 ) / l
+
+Scattering vector:
+
+fAe A
+
++ fB e
+
+2i r̂B ( ŝ-ŝ0 ) / l
+
+B
+
+Structure factor (crystal):
+N
+
+S hkl   f j e
+j 1
+
+2 irˆj ( sˆ - sˆ0 ) / l
+
++ fC e
+
+2i r̂C ( ŝ-ŝ0 ) / l
+
+C
+
+fi: atomic scattering factor
+N: atoms in the unit cell
+Topic 9 - 22
+
+Scattering from a Bravais lattice
+Structure factor (crystal):
+N
+
+S hkl   f j e
+
+2 irˆj ( sˆ - sˆ0 ) / l
+
+j 1
+
+N
+
+S hkl   f j e
+
+fi: atomic scattering factor
+
+N: atoms in the unit cell
+real
+reciprocal
+
+(
+
+2 i hx j + ky j + lz j
+
+)
+
+j 1
+
+X-ray diffracted intensity (measured)
+
+I hkl  S hkl
+
+2
+
+Sum over all atoms of the unit cell
+h,k,l are Miller indices of planes
+which appear in a diffraction
+experiment (reciprocal space lattice)
+
+I = Shkl2 at Bragg condition
+I = 0 for any other condition
+
+Does not depend on the absolute positions of the atoms.
+Only on their relative position (phase) within the unit cell Topic 9 - 23
+
+Systematic absences due to centering
+I-centered Bravais lattice with one type of atom (A)
+in basis
+Equivalent atomic positions: (x, y, z), (x+½, y+½, z+½)
+N
+2 i (hx j + ky j + lz j )
+
+S hkl   f j e
+j 1
+
+F (hkl )  f Ae
+
+2 i ( hx + ky + lz )
+
+ f Ae
+
+2 i ( hx + ky + lz )
+
+ f Ae
+
+2 i ( hx + ky + lz )
+
+Alternative solution:
+Use (0,0,0) & (1/2,1/2,1/2)
+for same outcome!
+
++ f Ae
+
+2 i ( h ( 12 + x ) + k ( 12 + y ) + l ( 12 + z ))
+
++ f Ae
+
+e
+
+ h + k +l 
+2 i 
+
+2 i ( hx + ky + lz )
+2
+
+
+
+ i( h+ k +l )
+
+(1 + e
+
+)
+
+hkl values which
+result in absences?
+i.e, “1+e2i(h+k+l)=0”
+
+Topic 9 - 24
+
+Systematic absences due to centering
+I-centered Bravais lattice with one type of atom (A)
+in basis
+Characteristic extinctions
+
+SF ( hkl ) I -center  f Ae
+
+2 i ( hx + ky + lz )
+
+ i( h+ k +l )
+
+(1 + e
+
+for h+k+l even
+
+e i ( h + k +l )  1
+
+for h+k+l odd
+
+e i ( h + k +l )  -1
+
+2 f Ae 2 i ( hx + ky +lz )
+SF ( hkl ) I -center  
+0
+
+
+h + k + l  even
+h + k + l  odd
+
+)
+
+For I-centered Bravais lattice
+Shkl is extinct only when
+h+k+l is odd!
+
+Half of the reciprocal lattice points (h + k + l = odd) are absent from
+the diffraction pattern, e.g., (100), (111), (210) will be missing!
+The other half (h + k + l = even), e.g., (110), (200), (211) are
+observed, and have an intensity Ihkl = |Shkl|2 = 4fA2 and scales with the
+angular dependence of fA.
+Topic 9 - 25
+
+Diffraction from a primitive lattice with a
+single atom basis
+P lattice  one atom per unit cell (N = 1) @ (x,y,z)=(0,0,0)
+N
+
+S hkl   f j e
+
+(
+
+2 i hx j + ky j + lz j
+
+)
+
+j 1
+
+Shkl does not disappear at any hkl value.
+There is a Bragg peak for every possible value of (hkl) and
+every angle 2hkl. Diffraction peaks can be found on all of
+the reciprocal lattice points.
+The intensity scales with the angular variation of fj
+In the more general case of an atom at general coordinate (x,y,z):
+
+No systematic absences
+
+Topic 9 - 26
+
+Systematic absences due to centering
+
+Reflections
+present:
+
+Reflections
+present when
+Topic 9 - 27
+
+Systematic absences due to centering
+(100)
+
+Cubic P: NaxWO3
+
+(110)
+
+(210)
+(211) (300)
+(200)
+(221)
+(111)
+(220) (301)
+
+Present if:
+(hkl)
+
+h2 + k2 +l2
+
+(100)
+
+1
+
+(110)
+
+2
+
+(111)
+
+3
+
+(200)
+
+4
+
+(210)
+
+5
+
+(211)
+
+6
+
+(220)
+
+8
+
+(221)
+
+9
+
+(300)
+
+9
+
+(301)
+
+10
+
+P
+
+I
+
+F
+
+Cubic F: Cu
+
+Powder diffraction pattern of NaxWO3
+(cubic perovskite)
+Topic 9 - 28
+X-ray source: Cu K  l = 1.54056Å
+
+Systematic absences in the three cubic
+Bravais lattices
+Cubic P:
+(hkl)
+
+h2 + k2 + l2
+
+Cubic P
+
+Cubic I
+
+Cubic F
+
+(100)
+
+1
+
+f2
+
+0
+
+0
+
+(110)
+
+2
+
+f2
+
+4f 2
+
+0
+
+(111)
+
+3
+
+f2
+
+0
+
+16f 2
+
+(200)
+
+4
+
+f2
+
+4f 2
+
+16f 2
+
+(210)
+
+5
+
+f2
+
+0
+
+0
+
+(211)
+
+6
+
+f2
+
+4f 2
+
+0
+
+(220)
+
+8
+
+f2
+
+4f 2
+
+16f 2
+
+(221)
+
+9
+
+f2
+
+0
+
+0
+
+(300)
+
+9
+
+f2
+
+0
+
+0
+
+(310)
+
+10
+
+f2
+
+4f 2
+
+0
+
+(311)
+
+11
+
+f2
+
+0
+
+16f 2
+
+(222)
+
+12
+
+f2
+
+4f 2
+
+16f 2
+
+(320)
+
+13
+
+f2
+
+0
+
+0
+
+(321)
+
+14
+
+f2
+
+4f 2
+
+0
+
+(400)
+
+16
+
+f2
+
+4f 2
+
+16f 2
+
+(322)
+
+17
+
+f2
+
+0
+
+0
+
+(410)
+
+17
+
+f2
+
+0
+
+0
+
+Shkl = f
+Ihkl = f 2
+Cubic I:
+Shkl = 2f
+Ihkl = 4f 2
+
+Cubic F:
+Shkl = 4f
+Ihkl = 16f 2
+
+Note: f is not a constant;
+it has an angular dependence,
+i.e., decreases with increasing
+hkl
+
+Assumption: single element materials: fi = f
+
+Topic 9 - 29
+
+In-class exercise 2
+Compute the structure factor of CsCl and identify its
+systematic absences
+N
+
+S hkl   f j e
+
+(
+
+2 i hx j + ky j + lz j
+
+)
+
+j 1
+
+Topic 9 - 30
+
+Systematic absences due to symmetries
+Inversion center
+
+-
+
+Equivalent positions at (x, y, z), (–x, –y, –z)
+Write the structure factor for a centro-symmetric crystal.
+N
+
+S hkl   f j e
+
+(
+
+2 i hx j + ky j + lz j
+
++
+
+)
+
+j 1
+
+F (hkl )  f A e
+S
+
+2 i ( hx + ky + lz )
+
++ f Ae
+
+-2 i ( hx + ky + lz )
+
+SF(hkl)  2 f A cos2 (hx + ky + lz)
+Inversion center does not introduce systematic absences
+
+Topic 9 - 32
+
+Systematic absences due to screw axes
+Consider a 21 screw diad || to c (z)
+Atom at (x,y,z) moves to (-x, -y, z + ½)
+
+21 screw diad || to a
+h00 reflections with
+odd h are absent
+h = 2n are present
+
+=0
+
+For 00l reflections, all reflections with odd l
+are absent in reciprocal space
+Condition for 00l reflections to appear is
+l = 2n (even and multiple of 2)
+
+0k0 reflections with
+21 screw diad || to b odd k are absent
+k = 2n are present
+
+Topic 9 - 33
+
+Systematic absences due to screw axes
+Reflections
+present when
+
+000
+
+200
+
+400
+
+Order of screw
+
+Orientation of
+screw diads
+
+Why are 3n, 4n and 6n all along the c-axis?
+
+Screw absences in
+reciprocal space
+are along one of
+the reciprocal
+space axes
+Topic 9 - 34
+
+Systematic absences due to glide planes
+Consider an a-glide  c
+Equivalent atomic position: (x, y, z) there is a corresponding atom at (x+½, y, −z).
+
+SF (hkl )  f Ae
+
+2 i ( hx + ky + lz )
+
+2 i ( h ( 12 + x ) + ky + l ( - z ))
+
++ f Ae
+2 i ( hx + ky ) 2 ilz
+2 i ( hx + ky ) 2 i ( 12 h -lz )
+ f Ae
+e
++ f Ae
+e
+2 i ( 12 h - lz )
+2 i ( hx + ky )
+2 ilz
+ f Ae
+e
++e
+
+(
+
+)
+
+2 i ( hx + ky )
+h i
+F
+(
+hk
+0)
+
+f
+e
+1
++
+e
+S
+(
+)
+a - glide  c
+A
+
+2 i ( hx + ky )
+
+2
+f
+e
+For h=e  last term is 1
+SF (hk 0)a - glidec   A
+For h=o  last term is −1
+0
+
+
+h even
+h odd
+
+To determine if a-glide  to c symmetry is present (aglide’s normal || to c), we examine hk0 reciprocal space
+intensities and look for absences in h that are odd
+Topic 9 - 35
+only or spots present when h is only even.
+
+Systematic absences due to glide planes
+Reflections
+present when
+
+Determined by glide’s
+translation
+
+Determined by
+orientation of
+glide normal
+
+Topic 9 - 36
+
+Systematic absences due to glide planes
+c-glide  b
+
+n-glide  b
+
+h0l plane
+
+h + l = odd are extinct
+
+h0l plane
+R = c/2
+l = 2n
+l = odd are extinct
+
+h=l=0 (h+l=0) is
+present, but
+h=1, l=0 (h+l =1)
+is absent (no
+solid circle)
+
+l=0 present, but
+l=1 and
+l=-1 are absent
+(no open circles)
+
+hk plane
+
+Topic 9 - 37
+
+In-class exercise 3
+Space group: Pnma
+System: Orthorhombic P
+
+Topic 9 - 38
+
+Systematic absences summary
+
+Topic 9 - 42
+
+In-class exercise 4
+
+Topic 9 - 43
+
+Powder diffraction & structure factor
+For a uniformly isotropic powder, grains are
+oriented randomly and therefore evenly in
+all directions in 3D.
+-2 powder diffraction uses a point
+detector to capture 2 angles that satisfy
+Bragg condition for (hkl) planes in the given
+powder.
+Measured intensity is meaningful as
+Ihkl  |Shkl|2 and Shkl is the key to solving the
+crystal structure. Need to be quantitative
+(100)
+
+Cubic P: NaxWO3
+
+(110)
+
+Sample and detector
+are rotated by /2.
+2dhkl sinhkl = l
+
+Powder
+Large number of
+randomly oriented
+crystals
+
+(210)
+(211) (300)
+(200)
+(221)
+(111)
+(220) (301)
+
+X-ray source: Cu K  l = 1.54056Å
+Topic 9 - 47
+
+Factors influencing diffraction intensities
+So far, we have focused primarily on whether
+diffraction spots are present or absent.
+Here, we focus on factors influencing the intensity
+Temperature
+factor
+Lorentz factor
+Structure factor (unit cell,
+Multiplicity factor (overlap of
+centering, basis (position and
+equivalent planes in a
+Z of atoms (fi)), symmetries)
+powder)
+Ihkl represents the integrated intensity (area under
+the peak). Not the peak’s maximum intensity
+Topic 9 - 48
+
+Intensities: Atomic scattering factor
+The structure factor Shkl, captures all of the
+structural and elemental details of the crystal.
+In addition, Shkl includes the atomic scattering
+factor, fi(s), which has an angular dependence
+fj is empirically approximated as
+Z is the atomic number and s = sin()/l
+
+N
+
+S hkl   f j e
+
+(
+
+2 i hx j + ky j + lz j
+
+j 1
+
+ai and bi are
+known for all
+elements
+Topic 9 - 49
+
+)
+
+Intensities: Atomic scattering factor
+a1
+
+b1
+
+a2
+
+b2
+
+a3
+
+b3
+
+a4
+
+b4
+
+a1
+
+b1
+
+a2
+
+b2
+
+a3
+
+b3
+
+a4
+
+Topic 9 - 50
+
+b4
+
+Intensities: Multiplicity factor
+• The multiplicity factor, Mhkl, accounts for the fact that in powder
+diffraction the equivalent crystallographic planes are not
+discriminated. There is an overlap of diffraction peaks from
+equivalent planes, all of which have the same dhkl and hkl.
+• Powder diffraction: While the total number of particles in each
+orientation may be the same, the number contributing to each Bragg
+peak (hkl) is potentially increased by the number of equivalent
+orientations for a given lattice!
+– More equivalent directions  more crystallites contributing to the same
+Bragg peak  greater intensity
+– E.g., {220} family of planes in a cubic crystal contribute to the peak
+indexed (220). There are 12 equivalent orientations, so the multiplicity
+M220 = 12
+Maximum multiplicity
+in a cubic system is 48
+
+Topic 9 - 51
+
+Intensities: Multiplicity factor
+•
+
+Multiplicity changes if the crystal
+system changes
+– E.g., h00 (or 0k0 or 00l) has M=6 in the
+cubic system, but if the crystal
+transforms to tetragonal, then there will
+now be two reflections h00 (M=4) and
+00l (M=2). If the crystal transforms to
+orthorhombic, then there will be three
+reflections h00 (M=2), 0k0 (M=2) and
+00l (M=2).
+Cubic
+
+hkl 48
+
+hhl 24
+
+0kl 24
+
+0kk 12
+
+hhh 8
+
+00l 6
+
+Hexagonal/rhombic
+
+hkl 24
+
+hhl 12
+
+0kl 12
+
+hk0 12
+
+hh0 6
+
+0k0 6
+
+00l 2
+
+Tetragonal
+
+hkl 16
+
+hhl 8
+
+0kl 8
+
+hk0 8
+
+hh0 4
+
+0k0 4
+
+00l 2
+
+Orthorhombic
+
+hkl 8
+
+0kl 4
+
+h0l 4
+
+hk0 4
+
+h00 2
+
+0k0 2
+
+00l 2
+
+Monoclinic
+
+hkl 4
+
+h0l 2
+
+00l 2
+
+Triclinic
+
+hkl 2
+Topic 9 - 52
+
+Intensities: Lorentz factor
+Combination of two geometric factors:
+– Lorentz factor (Lp)  determined by experimental geometry
+• Lp is tabulated in International Tables, or approximated by:
+
+– Polarization factor  change in scattering efficiencies of electrons with
+incidence angle
+• e- are more likely to re-radiate scattered photons in the forward direction or
+the reverse direction  intensity profile (Ip) is higher at low and high angles
+(Thompson equation)
+
+http://pd.chem.ucl.ac.uk/pdnn/diff2/loren.htm
+Topic 9 - 53
+
+Temperature factor
+•
+
+•
+
+•
+
+•
+
+The oscillatory motion of atoms around their
+lattice positions leads to an angle-dependent
+effect on the diffracted peak intensity, known as
+the temperature factor, or Debye-Waller factor
+As T increases, the magnitude of oscillations
+increase, and so Ihkl decreases, because the
+probability it will scatter an X-ray constructively
+decreases
+Correction factor is
+where Bj is known as the isotropic temperature
+factor
+In some cases, thermal factor can be ignored.
+However, it is often good enough to assume Bj
+values are constant and ranging between 0.5
+and 1, depending upon the bonding geometry
+and the elasticity of the solid.
+
+(h00) reflections of Al
+vs. temperature
+Topic 9 - 54
+
+In-class exercise 5
+a=0.387 nm
+
+Pm3m
+
+Topic 9 - 55
+
+Solving the crystal structure
+
+(100)
+(110)
+
+(210)
+(211) (300)
+(221)
+(220) (301)
+
+(200)
+(111)
+
+Mathematically
+construct a sample’s
+electron distribution in
+3D from its diffraction
+data and infer its full
+structure
+Topic 9 - 60
+
+Electron density of the lattice as a
+Fourier series
+
+Basis of unit cell
+
+Topic 9 - 61
+
+Intensities: Additional considerations
+
+Anisotropy & texture
+Defects and imperfections in the crystal quality
+Crystal size
+
+Topic 9 - 62
+
+Intensities: Anisotropy & texture
+•
+
+Shape anisotropy of crystals, e.g., hexagonal platelets can lie
+flat with their basal planes || to the reference plane  (000l)type diffractions will be more intense relative to (hki0)-type
+reflections
+
+•
+
+Absorption of X-rays depends upon the wavelength of X-rays,
+the elements present, as well as the path of X-rays through the
+crystals.
+Very long measurements can lead to radiation damage, which
+causes defects and reduces the perfection of crystals  extinct
+peaks may reappear.
+
+•
+
+Topic 9 - 63
+
+Intensities: Imperfections and defects
+Point defects: vacancies, interstitial or vicarious atoms
+Line defects: extending along straight or curved lines (ex: dislocation)
+Plane defects: extending along planes or curved surfaces
+(ex: small-angle boundaries, stacking faults)
+Volume defects: inclusion, precipitates, voids
+Mosaic structure: polycrystals
+
+Disturb the crystal periodicity
+ more rapid statistical decay of diffraction intensity with sin/l
+Modifies the form and volume of the reciprocal lattice
+
+Topic 9 - 64
+
+Intensities: Crystallite size
+
+•
+•
+•
+
+Assume  is constant at each lattice site  discrete summation
+possible
+In 1D, we have r = na
+Amplitude of waves scattered by superposition
+Normalizing by  
+
+Topic 9 - 65
+
+Intensities: Crystallite size
+
+N = 2, 10, 100
+a = 0.3 nm
+k = n2/a = 2.1n
+ Peak when k = 2.1n
+As N increases peaks
+become narrower (and
+more intense)  crystal
+size can be determined
+using Scherrer formula!
+
+Scherrer formula
+t: Crystallite thickness
+l: wavelength
+B: FWHM, B: peak position
+
+everywhere else
+Bragg condition!
+
+Scherrer formula is commonly used to compute
+crystallite size from XRD peak width analysis
+
+Topic 9 - 66
+
+Laue Method
+Consider an incident beam aligned with the unit cell
+The different orders of diffraction on the 100 plane gives a circle of dots
+3rd order
+2st order
+1st order
+
+hkl
+
+Assuming that the distance between the crystal and the screen is 345mm, the radius of
+the first ring is 101mm and l=1.54 Å what is the lattice parameter of the crystal?
+
+tan100 = opposite/adjacent = 101/345  100 = 16.32
+d100 = l/(2 sin100)= 2.74 Å
+2dhkl sinhkl = l
+a = d100 = 2.74 Å
+
+Topic 9 - 67
+
+Zone axis (ZA) and Laue diffraction
+Zone Law:
+
+Al ZA <110>
+Cubic F
+
+[uvw]
+
+Al ZA <111>
+Cubic F
+
+[uvw]
+
+Ewald sphere
+surface
+
+hu + kv + lw = 0
+
+000
+
+Cubic F centering: Presence if h,k,l all even or all odd
+Zone law satisfied for all visible diffraction points!
+Spots at equal distance from the center are diffracted
+by
+Topic 9 - 68
+the same family of planes and have equal dhkl-spacing
+
+Zone axis and zone law (single crystal)
+The zone axis is the direction [uvw] in real space
+common to any two planes (hkl) and (h’k’l’).
+
+Planes belonging to
+Therefore only the same zone axis
+(ZA)
+these hkl
+diffractions will
+[uvw]  khkl
+appear when
+Topic 9 - 69
+beam along [uvw]
+
+Zone axis in real space
+
+Confirmation:
+(101) 0(1)+1(0)+0(1)=0
+(100) 0(1)+1(0)+0(0)=0
+
+Planes belonging to
+the same zone axis
+(ZA)
+Topic 9 - 70
+
+Zone axis and addition rule in real space
+P lies in zone with (100), (110), (011) and (101).
+It is an in-between plane…
+
+211
+
+What are the Miller indices (hkl) of p?
+Let’s consider the addition rule, which states that
+the hkl indices in reciprocal space corresponding
+to (hkl) plane normal can be added to navigate
+the reciprocal space lattice.
+The indices (HKL) of plane p are related to the
+indices of the planes (h1k1l1) and (h2k2l2) with
+which it lies in zone with
+HKL = n(h1k1l1) + m (h2k2l2)
+Find p which satisfies both zones:
+p lies between…
+101 and 110  1(101) + 1(110)=(211) (n=m=1)
+100 and 011  2(100) + 1(110)=(211) (n=2, m=1)
+
+Topic 9 -
+
+Laue method
+For example in cubic crystal (left):
+beam along <100> gives a 4-fold symmetry
+beam along <111> gives a 3-fold symmetry
+http://jcrystal.com/steffenweber/JAVA/jlaue/jlaue.html
+
+Zone axis (ZA)
+Will be revisited with
+electron diffraction
+
+Cubic P, along [111]: triad
+Helps determine the orientation of large single crystals
+Reciprocal space lattice and diffraction features
+Topic 9 - 72
+exhibit symmetries of the crystal
+
+Electron diffraction
+X-ray scattered by electrons in atoms  f proportional to Z
+Electrons scattered by protons in the nuclei  f proportional to Z3/2
+Stronger influence of the light elements
+Amount of scattering is much larger (103-104) dynamical effect more important
+ Elastic + Inelastic scattering (negligible energy loss)  Kikuchi lines
+No simple way to relate the intensity to the atoms position
+Planck’s constant:
+h = 6.62610-34 Js
+Unit conversions:
+1 J = 6.241018 eV
+1 eV = 1.60210-19 J
+
+300 keV  l = 0.0197 Å
+can reveal very fine structure
+l << lattice parameter  large Ewald
+sphere  many more reciprocal pts
+
+Transmission Electron Microscopy (TEM): 50-500 keV  l = 0.02 Å
+Reflection High Energy Electron Diffraction (HEED/RHEED): 50-150kVl=0.05 Å
+Low Energy Electron Diffraction (LEED): 10-300Vl=1-4 Å
+Topic 9 - 73
+
+Transmission electron microscopy
+
+mse.engin.umich.edu
+
+http://uef.saske.sk
+
+ttp://www.hk-phy.org/atomic_world
+
+Wikipedia.org
+
+Topic 9 - 74
+
+Transmission electron microscopy
+
+BF and DF
+TEM images
+of ZrO2
+
+Choose which family of planes to visualize!
+https://www.microscopy.ethz.ch/BFDF-TEM.htm
+
+Topic 9 - 75
+
+Selected area election diffraction (SAED)
+HRTEM vs SAED
+TEM is a 2D projection of a 3D object
+When SAED is well aligned with ZA,
+then SAED FFT can yield the crystal
+structure, otherwise it will be
+distorted
+
+Fast Fourier Transform
+(FFT) of a HRTEM
+image taken along ZA
+yields diffraction
+pattern!
+Topic 9 - 76
+
+Ewald Sphere
+106
+105
+
+First Order Laue Zone
+(FOLZ)
+
+003
+002
+001
+
+ZA: <100>
+
+000
+001
+002
+003
+
+Zero Order Laue Zone
+(ZOLZ)
+Direct beam
+Zero Order Laue Zone
+(ZOLZ)
+
+ZOLZ: All 0kl
+close to 000 give
+rise to diffractions
+
+First Order Laue Zone
+(FOLZ)
+
+k=0 shown
+k=1 plane above
+
+105
+c*
+a*
+
+106
+
+Very small l
+ Ewald sphere is
+very large
+ center is far from
+sample
+ curvature is very
+small near 000
+ Approximately
+planar
+
+b*
+Cubic P. Electron beam is incident along a∗.
+b∗ is perpendicular to the plane of the page.
+Topic 9 - 77
+
+Analysis of ED patterns
+Since diffraction angle is small, pattern of spots on the flat screen perpendicular
+to the beam corresponds directly to the pattern of reciprocal lattice points.
+FOLZ: 1kl giving
+rise to diffractions
+
+Only (00l) reflections are labeled for simplicity
+Diffraction spots in the ZOLZ can be directly
+associated to reciprocal lattice points
+Diffractions arise from planes with a zone axis
+nearly parallel to the electron beam
+Diffraction spots
+in the FOLZ
+Sample thinner than 100 nm
+Inelastic scattering is weak
+
+matter.org.uk/diffraction/electron/electron_diffraction.htm
+
+Topic 9 - 78
+
+Analysis of ED patterns
+(i) Choose a direction of incidence
+Note: different crystals can give the same
+diffraction pattern
+(ii) Identification of the reciprocal points (hkl)
+(iii) Determination of d-spacings
+tan 2= R/L (2)
+sin = l\2dhkl ()
+(low angle approximation)
+Al cubic F ZA <110>
+dhkl=lL/R
+khkl+kh’k’l’=kh+h’k+k’l+l’
+
+Fe cubic I ZA <112>
+
+Al cubic F ZA <111>
+Ti hex. ZA [0001]
+
+L: camera length
+R: distance between
+center & diffracted spot
+lL: camera constant
+Spots at equal distances from the center
+Are diffracted by the same family of planes
+
+Consistent choice of index and spacings
+Topic 9 - 79
+
+Analysis of ED patterns
+1. Choose one spot to be the origin. Note: it does not matter
+which spot you choose.
+2. Measure the spacing of one prominent spot, r1.
+3. Measure the spacing of a second spot, r2.
+4. Measure the angle between the spots.
+5. Prepare a table giving the ratios of the d-spacings of permitted
+diffraction planes in the known structure.
+6. Take the measured ratio r1/r2 and locate a value close to this in
+the table.
+
+7. Assign the more widely-spaced plane (usually with lower
+indices) to the shorter r value.
+8. Calculate the angle between pair of planes of the type you
+have indexed.
+9. If the experimental angle, agrees with one of the possible
+values - accept the indexing.
+If not, revisit the table and select another possible pair of planes.
+10. Finish indexing the pattern by vector addition.
+
+d=lL/ri
+
+In-class 7 (topic 5):
+
+Topic 9 - 80
+
+Analysis of ED patterns
+
+ZA: [110]
+
+Be mindful of variants for
+each family of plane when
+indexing
+e.g., in cubic system there are
+6 variants for {100} with
+identical dhkl-spacings.
+Correct variant must be
+chosen to satisfy addition rule
+
+Topic 9 - 81
+
+Coexistence of phases
+Determining orientation relationships between crystals
+weak reflections due to Fe2TiSi
+
+Strong reflections due to α-iron
+
+Half the distance  twice
+the d-spacing
+Coincidences
+of the spots indicates
+that diffracting planes
+are parallel
+
+Zone axis is identical
+for both crystals
+An electron diffraction pattern of α-iron (bcc, a = 2.866 Å ) and
+confirming the similar
+Fe2TiSi (fcc, a = 5.732 Å ) in a single crystallographic orientation.
+orientation of
+the crystals
+Topic 9 - 82
+
+What we Learn from Diffraction
+Powder Diffraction
+
+Bravais Lattice & space group:
+(1) Diffraction spots & absences
+(2) Reciprocal lattice (a*,b*,c*)
+(3) Real space lattice (a,b,c)
+(4) Space group & most symmetries
+Structure & composition:
+(1) Intensities  |Shkl|
+(2) |Shkl|  3D electron density ()
+(3)   reconstruct basis (atoms, composition
+& location, bonding & chemistry, etc.)
+
+Laue Diffraction on SC
+ZA
+
+Cockcroft, Driessen & Moss
+U of London, Birkbeck College
+
+Laue
+crystal
+
+ZA
+
+Topic 9 - 83
+
+
+
+## Metadata
+- Source file: junk_drawer/Topic 9 - Diffraction - Lecture slides.pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

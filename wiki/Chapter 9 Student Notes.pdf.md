@@ -1,0 +1,395 @@
+# Chapter 9 Student Notes.pdf
+
+Source: junk_drawer/Chapter 9 Student Notes.pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+Chapter 9 Alkynes Additional Recommended Problems: Chp9: 8, 17,20,24,25,27,30-32,34,36 1 CH 9 Learning Objectives • • •
+
+## Full Content
+Chapter 9
+Alkynes
+Additional Recommended Problems: Chp9: 8, 17,20,24,25,27,30-32,34,36
+
+1
+
+CH 9 Learning Objectives
+•
+•
+•
+•
+
+Correctly name alkynes.
+Describe the structure and properties of alkynes.
+Rank the acidity strength between alkanes, alkenes, and alkynes and be able to describe why sp hybridized carbons are the
+most acidic.
+Know the products, including regioselectivity and stereochemistry if needed, for the following reactions with alkynes.
+1.
+
+Preparation of Alkynes (Table 9.2)
+1.
+2.
+
+2.
+
+Hydrogenation
+A.
+B.
+
+•
+
+SN2 Reactions (form C-C bond)
+E2 Reactions
+Alkyne→Alkane
+Alkyne→Alkene
+
+3.
+Addition of HX
+4.
+Hydration of Alkynes/Oxymercuration
+5.
+Hydroboration/Oxidation
+6.
+Addition of X2
+7. Ozonolysis
+Use retrosynthetic analysis to solve multi-step synthesis design problems involving alkynes and alkenes as intermediates or final products
+
+Chapter 8
+
+2
+
+Alkynes
+• Acetylene (C2H2, ethyne) can be produced in large quantities from calcium
+carbide
+
+–
+
+https://www.acs.org/content/acs/en/education/whatischemistry/landmarks/calciumcarbideacetylene.html
+
+• Acetylene can also be produced via dehydrogenation of ethene
+
+Chapter 8
+
+3
+
+Alkynes
+•
+
+Ethynylestradiol is an estrogen
+medication widely used in birth control
+pills
+
+•
+
+Histrionicotoxins are produced on the
+skin of poison frogs
+
+•
+
+Dynemicin A is a promising anticancer drug
+
+•
+
+Chapter 8
+
+Acetylene gas burns with very bright
+and very hot flame
+– used in oxygen-acetylene
+welding
+– Headlights for early automobiles
+– Lights on helmets for miners
+4
+
+Alkyne Nomenclature
+• Triple bond has the same priority as alkene when numbering
+– Replace the parent chain name –ane with –yne
+
+Chapter 8
+
+5
+
+Alkyne Properties
+•
+
+Physical properties of alkynes are
+similar to those of alkanes and
+alkenes of comparable molecular
+weight
+– Low polarity
+– Low boiling points
+– Low density
+– Low solubility in water
+• (when lacking other polar
+functional groups)
+Chapter 8
+
+6
+
+Structure/Hybridization – sp
+
+Chapter 2 - Alkanes and Cycloalkanes
+
+7
+
+Structure of Ethyne (C2H2)
+
+•
+
+Molecular Geometry: linear
+
+•
+
+bond angles: 180°
+
+•
+
+bond distances: C—H = 106 pm
+CC = 120 pm
+Chapter 2 - Alkanes and Cycloalkanes
+
+8
+
+Acidity of Alkynes/Alkenes/Alkanes
+• Relative to alkanes and alkenes, terminal alkynes are remarkably
+acidic.
+
+• Deprotonation of ethyne leaves a lone pair in a hybrid orbital with
+high s character. (higher s character can better stabilize the negative
+charge)
+Chapter 8
+
+9
+
+Carbanion Stability
+• High s character means lone pair can get closer to the positively
+charged nucleus
+
+Chapter 8
+
+10
+
+Acid/Base Review
+
+Chapter 8
+
+*Image from masteringorganicchemistry.org
+
+11
+
+Slide 52 CH 1: Strength of Acid Examples
+• Complete the following reactions. Given that ethyne as a pKa value
+of 25, water has a pKa value of 15.7, and ammonia has a pKa value
+of 36, determine whether the reactants or products are favored for
+each reaction.
+
+• Which is a more effective base to deprotonate ethyne?
+12
+
+Alkyne Reactions
+1.
+
+2.
+
+3.
+4.
+5.
+6.
+7.
+
+Preparation of Alkynes (Table 9.2)
+1. SN2 Reactions (form C-C bond)
+2. E2 Reactions
+Hydrogenation
+A. Alkyne→Alkane
+B. Alkyne→Alkene
+Addition of HX
+Hydration of Alkynes/Oxymercuration
+Hydroboration/Oxidation
+Addition of X2
+Ozonolysis
+Chapter 8
+
+13
+
+1. Preparation of Alkynes (SN2)
+• Alkylation of terminal alkynes – replaces an –H or other functional
+group with an alkyl group
+
+• Acetylide anion is a strong nucleophile (SN2 for CH3-X or 1o R-X)
+
+Chapter 8
+
+14
+
+1. Preparation of Alkynes (SN2) Example
+• Predict the product for each of the following reactions.
+
+Chapter 8
+
+15
+
+1. Preparation of Internal Alkynes (E2)
+• Alkynes can be synthesized from alkenes.
+– Addition of X2 followed by successive E2 eliminations
+– Internal alkynes: 2 equivalents of NaNH2
+
+Chapter 8
+
+16
+
+1. Preparation of Terminal Alkynes (E2)
+• Alkynes can be synthesized from alkenes.
+– Addition of X2 followed by successive E2 eliminations
+– Terminal alkynes: 3 equivalents of NaNH2, then water
+
+Chapter 8
+
+17
+
+2. Hydrogenation (to alkane)
+A. Alkyne→Alkane
+• Addition of H2 across triple bond, generates alkane product
+(reduction of CΞC)
+• Mechanism – heterogenous catalysis, H2 and alkyne adsorbed to
+surface of metal (Pt common)
+
+Chapter 8
+
+18
+
+2. Hydrogenation (to alkene)
+B. Alkyne→Alkene
+• Generate cis-alkenes with Lindlar’s catalyst
+(poisoned Pd) and H2
+
+• Pd on calcium carbonate has been “poisoned”
+with added lead acetate and quinoline to make
+it not as effective.
+Chapter 8
+
+19
+
+Hydrogenation Example
+• Predict the major products below.
+
+Chapter 8
+
+20
+
+3. Addition of HX to Alkynes
+• 1 eq. gives alkene, 2 eq. gives geminal dihalide
+• Follows Markovnikov rules
+
+Chapter 8
+
+21
+
+3. Addition of HX to Alkynes (1)
+• HBr with peroxides (anti-Markovnikov)
+
+Chapter 8
+
+22
+
+Examples
+• Predict the major product for each of the following.
+
+Chapter 8
+
+23
+
+4. Hydration of Alkynes
+• Acid catalyzed reaction
+– Mercury sulfate is a catalyst that makes the reaction go faster and in higher yield
+
+Chapter 8
+
+24
+
+Enol-Keto Tautomerism
+
+• Enols are isomers of ketones and exist in equilibrium with them
+– These are called tautomers
+• Keto-Enol equilibration is fast in acidic or basic solutions
+• Ketones are usually more stable than enols, therefore the ketone
+isomers are favored at equilibrium
+Chapter 8
+
+25
+
+4. Hydration of Alkynes – Terminal Alkynes
+• Follow’s Markovnikov’s Rule
+
+Chapter 8
+
+26
+
+4. Hydration of Alkynes – Internal Unsymmetric
+Alkynes
+• Because protonation at either end gives carbocations of similar
+stability, a mixture of two constitutional isomers is usually formed
+
+Chapter 8
+
+27
+
+5. Hydroboration/Oxidation
+
+Chapter 8
+
+28
+
+6. Addition of X2
+• 1 equivalent:
+
+Chapter 8
+
+29
+
+6. Addition of X2 (1)
+• 2 equivalents:
+
+Chapter 8
+
+30
+
+7. Ozonolysis
+• Reaction of an alkyne with ozone followed by water leads to the
+production of carboxylic acids.
+
+Chapter 8
+
+31
+
+Draw the products or reagents that are missing for the following
+reactions
+
+Chapter 8
+
+32
+
+Draw the products for the following reactions
+
+Chapter 8
+
+33
+
+Draw the products for the following reactions
+
+Chapter 8
+
+34
+
+Devise a Method for the Following
+
+Chapter 8
+
+35
+
+
+
+## Metadata
+- Source file: junk_drawer/Chapter 9 Student Notes.pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

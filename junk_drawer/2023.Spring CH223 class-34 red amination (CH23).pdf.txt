@@ -1,0 +1,240 @@
+Chapter 23 (Carey Chapter 22)
+The Chemistry of Amines
+
+1
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+Acylation of Amines
+•
+
+Acid chlorides, anhydrides, and esters can react with amines to make
+amides.
+
+23.7 Alkylation and Acylation Reactions of Amines
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+2
+
+Direct Alkylation of Amines with Halides
+
+•
+
+Further alkylations can take place to give complex mixtures:
+
+23.7 Alkylation and Acylation Reactions of Amines
+3
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+Alkylation of Amines: Epoxides and α,βUnsaturated Carbonyls and Nitriles
+
+23.7 Alkylation and Acylation Reactions of Amines
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+4
+
+5
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+Reductive Amination: Hydride Reducing Agents
+
+23.7 Alkylation and Acylation Reactions of Amines
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+6
+
+Recap: Reactions with Primary Amines
+• Reaction of a primary amine with an aldehyde or ketone provides an imine
+product (also called a Schiff base or a Schiff's base).
+
+19.12 Reactions of Aldehydes and Ketones with Amines
+7
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+Recap: Mechanism of Reaction with Primary
+Amines
+• Formation of
+carbinolamine
+• The carbinolamine
+dehydration is typically the
+rate-limiting step.
+
+19.12 Reactions of Aldehydes and Ketones with Amines
+8
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+Reductive Amination: Imine Intermediate
+
+23.7 Alkylation and Acylation Reactions of Amines
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+9
+
+Reductive Amination: Introducing Methyl Groups
+•
+
+Formaldehyde can be used to introduce methyl groups
+
+•
+
+Comparison of borohydride reagents on the board.
+23.7 Alkylation and Acylation Reactions of Amines
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+10
+
+11
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+The Hofmann Elimination
+•
+
+When a quaternary ammonium hydroxide is heated, a β-elimination
+reaction takes place to give an alkene.
+
+23.8 Hofmann Elimination of Quaternary Ammonium Hydroxides
+12
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+The Hofmann Elimination: Mechanism
+•
+
+Like the E2 reaction of alkyl halides, the Hofmann elimination is generally an
+anti-elimination.
+
+23.8 Hofmann Elimination of Quaternary Ammonium Hydroxides
+13
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+14
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+Aromatic Substitution: Aniline Derivatives
+•
+
+•
+
+The amino group is a powerful
+activating group that directs ortho
+and para.
+When treated with nitric and
+sulfuric acid, both meta and para
+nitration is observed.
+
+Similarity of “enamine chemistry” and
+“enolate chemistry” on the board.
+23.9 Aromatic Substitution Reactions of Aniline Derivatives
+15
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+16
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+Formation of Diazonium Salts
+•
+
+Diazotization: The reaction of primary amines with nitrous acid (HNO2).
+
+23.10 Diazotization; Reactions of Diazonium Ions
+17
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+Formation of Diazonium Salts
+
+https://www.masterorganicchemistry.com/2018/12/03/reactions-of-diazonium-salts-sandmeyer-and-related-reactions/
+
+23.10 Diazotization; Reactions of Diazonium Ions
+18
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+Formation of Diazonium Salts
+
+https://www.masterorganicchemistry.com/2018/12/03/reactions-of-diazonium-salts-sandmeyer-and-related-reactions/
+
+23.10 Diazotization; Reactions of Diazonium Ions
+19
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+Recap: Nitration of Benzene (1 of 2)
+•
+•
+
+Overall Reaction
+Mechanism
+1.
+
+Generation of the electrophile:
+
+16.4 Electrophilic Aromatic Substitution Reactions of Benzene
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+20
+
+Recap: Dehydration reaction
+•
+
+Acid causes elimination of water from OH compounds
+
+16.4 Electrophilic Aromatic Substitution Reactions of Benzene
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+21
+
+22
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+Reactions of Aliphatic Diazonium Salts
+•
+•
+
+Diazonium salts possess an exceptional leaving group: N≡N
+Aliphatic diazonium salts react immediately to give a complex mixture of
+products.
+
+23.10 Diazotization; Reactions of Diazonium Ions
+23
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+Reactions of Aryldiazonium Salts (1 of 3)
+•
+
+•
+
+Aryldiazonium salts are
+synthetically much more
+useful.
+The reaction of an
+aryldiazonium salt with a
+cuprous salt is called the
+Sandmeyer reaction
+
+23.10 Diazotization; Reactions of Diazonium Ions
+24
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+Reactions of Aryldiazonium Salts (2 of 3)
+•
+
+The diazonium group can be replaced with a cyano group using CuCN.
+
+•
+
+Aryl iodides can be prepared by reacting the diazonium salt with KI.
+
+23.10 Diazotization; Reactions of Diazonium Ions
+25
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+Reactions of Aryldiazonium Salts (3 of 3)
+•
+
+Hydrolysis to phenols:
+
+•
+
+Replacement by hydrogen:
+
+23.10 Diazotization; Reactions of Diazonium Ions
+26
+Loudon and Parise, Organic Chemistry 7e, ©2021, W.H. Freeman and Company
+
+

@@ -1,0 +1,39 @@
+NCSU Math 242 011 - Practice Final - Fall 2022
+Problem 1 (10 points) Let F⃗ = ⟨(y + 2z + 3) sin x, − cos x, −2 cos x⟩.
+1. Determine if F⃗ is conservative. If it is, find all potential functions f for F⃗ so that F⃗ = ∇f .
+¸
+2. Find the circulation C F⃗ · d⃗r where C is the unit circle.
+Problem 2 (5 points) Parameterize the portion of the paraboloid z = 9 − x2 − y 2 that lies above z = 5.
+Problem 3 (10 points) Compute the flux of the vector field F⃗ = ⟨x, y, z 2 ⟩ through the parameterized
+surface S given by ⃗r(u, v) = ⟨u cos v, u sin v, v⟩, 0 ≤ u ≤ 2 and 0 ≤ v ≤ π with the upward orientation.
+Problem 4 (5 points) Let F⃗ = ⟨xyez , y 2 zez , xez ⟩. Compute the divergence ∇ · F⃗ and the curl ∇ × F⃗ .
+Problem 5 (10 points) Compute the surface integral of the function f (x, y, z) = (x2 + y 2 )z over the
+portion of the sphere x2 + y 2 + z 2 = 9 that lies in the first octant.
+Problem 6 (10 points) Using Greene’s theorem and the vector field F⃗ = ⟨−y, x⟩, find the area bounded
+by the parametric curve ⃗r(t) = ⟨sin(2t), 2sin(t)⟩ with 0 ≤ t ≤ π.
+Problem 7 (10 points) Verify Stokes Theorem for F⃗ = ⟨−y, x, 2⟩ with ∇ × F⃗ = ⟨0, 0, 2⟩, where S is the
+cone x2 + y 2 = z 2 with 0 ≤ z ≤ 4.
+Problem
+a triple integral that calculates the flux
+˜ 8 (5 points) Use the Divergence Theorem to set up
+2
+⃗
+⃗
+integral S F · n̂dS where n̂ is outward pointing, for F = ⟨x + sin(yz), y − xe−z , z 2 ⟩ and S is the surface of the solid bounded by the cylinder x2 +y 2 = 4 and the planes z = 0 and x +z = 2. Do not evaluate.
+Problem 9 (10 points)
+2
+
+2
+
+2
+
+1. Find the tangent plane of f (x, y, z) = ex +y +z at the point (1, 1, 1)
+2. Write the linearization (aka linear approximation) of f (x, y, z) near the point (1, 1, 1)
+Problem 10 (10 points) Find the global extreme values of f (x, y) = x2 − xy + y 2 + 1 on the closed
+triangular region in the first quadrant bounded by the lines x = 4, y = 0, and y = x.
+Problem 11 (10 points) Use Lagrange multiplier techniques to find the local extreme values of f (x) =
+x2 + y 2 subject to the constraint 2x2 + 3xy + 2y 2 = 7.
+Problem 12 (5 points) Compute the directional derivative in the direction of the function f given by
+f (x, y) = x2 y 4 at (2, 1) in the direction from (0, 0) to (5, 1).
+
+

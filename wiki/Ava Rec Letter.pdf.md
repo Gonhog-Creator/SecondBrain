@@ -1,0 +1,55 @@
+# Ava Rec Letter.pdf
+
+Source: junk_drawer/Ava Rec Letter.pdf
+
+Category: [[work-general]]
+
+## Summary
+To whom it may concern, I am writing this letter to express my enthusiastic recommendation of Jose Barbeito to your Materials Science master’s program. I have had the privilege of being Jose’s manager during his part time employment at Wolfspeed. This year Jose has been a part of my Metrology Process Engineering team working in a fast paced, ever-changing, 24/7 manufacturing environment, and has been the perfect addition to my team of six engineers. He had done a co-op at Wolfspeed the previous 
+
+## Full Content
+To whom it may concern,
+I am writing this letter to express my enthusiastic recommendation of Jose Barbeito to
+your Materials Science master’s program. I have had the privilege of being Jose’s manager
+during his part time employment at Wolfspeed. This year Jose has been a part of my Metrology
+Process Engineering team working in a fast paced, ever-changing, 24/7 manufacturing
+environment, and has been the perfect addition to my team of six engineers. He had done a co-op
+at Wolfspeed the previous year and I was lucky to get to know him when he came back for a
+second time and started work in our department. We had a few co-op employees this year, but
+none so impactful as Jose. In fact, I fought to get special permission to extend his part time
+employment with Wolfspeed since he has been so essential in helping our team meet our goals.
+Ultimately, our entire team of upper leadership agreed that keeping him on the payroll until his
+graduation was an absolute necessity - an exception not made for any other co-ops this year.
+There are many qualities that make Jose stand out. Being a full time engineering student
+and coming to work is already commendable, and one has never heard him complain. He takes
+his job duties seriously and continues to excel in school. Just these very base items set the tone
+and let me understand his incredible drive and work ethic. I could tell from our first face to face
+meeting that Jose was incredibly bright and trustworthy. Since then I have given him many
+important tasks and projects. Noteabley, Jose has completed several equipment qualifications,
+calibrations, and gauge studies all in record time. He is able to accomplish so much inside of
+limited 20 hour work weeks that would take more seasoned engineers much longer. I believe this
+is due to his positive attitude and unrivaled tenacity, with a little help from a good manager.
+Jose is really an intelligent individual who takes direction well, but also offers his own
+creative problem solving to tackle difficult challenges. Outside of the direct projects and tasks I
+have given him, he has also, of his own accord, developed scripts and organizational policies that
+have helped streamline data analysis and subsequent qualifications. He is constantly thinking of
+ways to make the lives of his co workers better both through technical expertise and warm
+gestures. Integrating him into my team was seamless, as he became fast friends with those
+around him. He has shown an impressive aptitude for any challenge thrown at him, but does the
+job with an air of grace and gratitude.
+A true renaissance man, Jose continues to surprise and delight the scientist in me. His
+interests in astronomy and novel writing lend themselves to showcasing how multifaceted he can
+
+be, finding joy in many interesting things this world has to offer, while still remaining driven and
+focussed as needed. I cannot say enough good things about Jose. In a world where many would
+prefer to google their way to a degree, any graduate program would be lucky to have such a
+bright young student in their cohort, one who truly has that unbridled passion for learning.
+Sincerely, a grieving manager set to lose her star employee to bigger and better things,
+Ava Pasnon
+
+
+
+## Metadata
+- Source file: junk_drawer/Ava Rec Letter.pdf
+- Extracted: 2026-05-18
+- Category: work-general

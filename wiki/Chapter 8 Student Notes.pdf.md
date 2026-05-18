@@ -1,0 +1,447 @@
+# Chapter 8 Student Notes.pdf
+
+Source: junk_drawer/Chapter 8 Student Notes.pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+Chapter 8 Addition Reactions of Alkenes Additional Recommended Problems: Chp8: 25, 28-31, 34, 46-50, 64-66 1 CH 8 Learning Objectives • • •
+
+## Full Content
+Chapter 8
+Addition Reactions of Alkenes
+Additional Recommended Problems: Chp8: 25, 28-31, 34, 46-50, 64-66
+
+1
+
+CH 8 Learning Objectives
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Predict the product when an alkene react with a hydrogen halides
+Predict the products when alkenes react with HBr/peroxides
+Predict the product when an alkene react with H2O/H+
+Predict the product when an alkene undergoes hydroboration/oxidation
+Predict the products when alkenes undergoes oxymercuration/demercuration
+Predict the product when an alkene undergoes hydrogenation
+Predict the product when an alkene reacts with Cl2 or Br2
+Predict the product when an alkene reacts with Cl2 or Br2 in the present of water
+Predict the product when an alkene undergoes expoxidiation, with or without water present
+Predict the product when an alkene undergoes ozonolysis
+In all of the above reactions, include effective consideration of reaction orientation Markovnikov versus anti-Markovnikov
+orientation), and stereochemistry
+Predict when a reaction will produce achiral versus chiral products
+Predict the correct stereoisomers for stereospecific reactions.
+Draw detailed logical mechanisms for alkene reactions with HBr, H2O/H+, Br2, or Br2/H2O.
+Use retrosynthetic analysis to solve multi-step synthesis design problems involving alkenes as intermediates or
+final products
+Use clues provided by products of reactions such as ozonolysis to determine the structure of an unknown alkene
+Determine the stereochemistry of a starting alkene, given reactants and the product stereochemistry.
+
+Chapter 8
+
+2
+
+Additions to Alkenes
+•
+
+Additions are a class of organic reactions involving formation of new bonds to an
+organic substrate
+
+•
+
+A and B in the reagent “add across” the ends of the π system. Often (but not
+always) the A–B bond is highly polarized
+
+•
+
+Note that addition is the opposite of elimination!
+
+•
+
+Addition is synthetically valuable because:
+
+– Readily available alkenes are the reactants
+– Two new s bonds are formed to the carbons of the alkene
+Chapter 8
+
+3
+
+1
+
+Alkene Reaction Wheel
+9
+
+2
+
+8
+
+3
+
+7
+
+1. Hydrogenation
+2. Hydrohalogenation (Markovnikov)
+3. Hydrohalogenation (antiMarkovnikov
+4. Acid-catalyzed hydration
+5. Hydroboration-oxidation
+6. Bromination
+7. Halohydrin formation
+8. Epoxidation
+9. Ozonolysis
+
+6
+4
+
+5
+
+Chapter 8
+
+4
+
+1. Hydrogenation
+• The addition of H2 across an alkene is called hydrogenation
+• A very useful method for preparing saturated hydrocarbons from
+alkenes
+
+• Hydrogenation is universally exothermic
+• A metal catalyst is required to activate H2; typically the reaction
+conditions are heterogeneous
+Chapter 8
+
+5
+
+1. Hydrogenation-1
+• Mechanism:
+
+• syn-addition of H2 across double bond, generates alkane (reduction
+of C=C)
+• Heterogenous catalysis, H2 and alkene adsorbed to surface of metal
+(Pt common)
+Chapter 8
+
+6
+
+2. Hydrohalogenation
+• Reaction:
+
+• Alkenes are nucleophilic and the π bond can act as a Lewis base!
+• Treatment with an electrophile (Brønsted or Lewis acid) results in
+chemical reaction
+• The chemical reaction is called electrophilic addition
+Chapter 8
+
+7
+
+2. Hydrohalogenation-1
+• Mechanism
+
+Chapter 8
+
+8
+
+2. Hydrohalogenation-2
+• Reactivity Trends
+
+• Reactivity trends: stronger acids and more substituted alkenes react
+more rapidly
+
+Chapter 8
+
+9
+
+2. Hydrohalogenation-3
+• Regioselectivity
+– Markovnikov’s rule: hydrogen ends up bound to the carbon
+with more hydrogens in the alkene
+• Most stable carbocation formed, X- adds to most subst. C atom
+
+Chapter 8
+
+10
+
+2. Hydrohalogenation Example
+• Draw the mechanism and show the major product for the following
+addition reaction.
+
+Chapter 8
+
+11
+
+Rearrangements
+• Carbocations often rearrange to form a more stable carbocation
+(usually 2o to 3o)
+• 1,2 shifts are common (hydride OR alkyl shift)
+
+Chapter 8
+
+12
+
+3. Hydrohalogenation (anti-Markovnikov)
+• Reaction:
+
+• Will go over mechanism in CH 10 – radical reaction
+• anti-Markovnikov addition – Br on least substituted carbon.
+
+Chapter 8
+
+13
+
+4. Acid Catalyzed Hydration
+• Reaction:
+
+• In the presence of catalytic acid, H2O can add across the carbons of an
+alkene just like HX
+• The product is an alcohol and the mechanism is analogous to
+electrophilic addition of HX
+Chapter 8
+
+14
+
+4. Acid Catalyzed Hydration-1
+• Mechanism:
+
+• *Follows Markovnikov’s rule
+
+Chapter 8
+
+15
+
+Hydration is Reversible
+• Both dehydration (elimination) and hydration (addition) can occur,
+even though they are microscopic reverses of one another!
+• Hydration is reversible—hydration and dehydration represent a
+finely balanced equilibrium
+
+Chapter 8
+
+16
+
+Hydration Example
+• Predict the product for the following reaction and propose a
+mechanism.
+
+Chapter 8
+
+17
+
+5. Hydroboration-Oxidation
+• Reaction:
+
+• Addition of –H and –OH in an anti-Markovnikov fashion.
+• Stereospecific and lead to syn addition
+• No carbocation formation (concerted; 4-member ring TS)
+
+Chapter 8
+
+18
+
+5. Hydroboration-Oxidation-1
+• Hydroboration Mechanism:
+– Step 1: the Lewis basic π bond forms a complex with the Lewis
+acidic boron atom
+
+Chapter 8
+
+19
+
+5. Hydroboration-Oxidation-2
+• Hydroboration Mechanism:
+– Step 2: H and B add across the bond in a concerted, antiMarkovnikov fashion
+
+Hydrogen forms a bond to
+the more substituted carbon
+
+Chapter 8
+
+20
+
+5. Hydroboration-Oxidation-3
+• Oxidation Mechanism:
+
+• Step 1:
+– Hydrogen peroxide is converted to its anion in basic solution
+
+Chapter 8
+
+21
+
+5. Hydroboration-Oxidation-3
+• Oxidation Mechanism:
+• Step 2
+– Anion of hydrogen peroxide attacks boron
+
+Chapter 8
+
+22
+
+5. Hydroboration-Oxidation-4
+• Oxidation Mechanism:
+• Step 3
+– Carbon migrates from boron to oxygen, displacing hydroxide ion.
+Carbon migrates with the pair of electrons in the C-B bond
+
+Chapter 8
+
+23
+
+5. Hydroboration-Oxidation-5
+• Oxidation Mechanism:
+• Step 4
+– Hydrolysis cleaves the B-O bond, yielding the alcohol.
+
+Most importantly, the
+configuration at the
+alcohol carbon is
+retained throughout
+oxidation.
+Chapter 8
+
+24
+
+5. Hydroboration-Oxidation Examples
+• Predict the products for the following reactions.
+
+Chapter 8
+
+25
+
+6. Halogenation
+• Reaction:
+
+• anti-addition of X2 (Cl2 or Br2) across double bond
+• Mechanism - 3-membered ring with halonium ion, opposite face
+attack by X-
+
+Chapter 8
+
+26
+
+6. Halogenation-1
+• Mechanism:
+
+Chapter 8
+
+27
+
+6. Halogenation-3
+• Halonium Ions
+– Formation of the halonium ion is the RDS; more substituted =
+faster rate
+
+Chapter 8
+
+29
+
+6. Halogenation Examples
+• Draw the mechanism and predict the products for the following
+reaction.
+
+Chapter 8
+
+30
+
+7. Halohydrin formation
+Addition of X2, H2O
+• Reaction:
+
+• anti-addition X and OH, generates halohydrin
+• Mechanism – formation of halonium ion, opposite face attack by
+H2O (on most subst. C)
+Chapter 8
+
+31
+
+7. Halohydrin formation
+Addition of X2, H2O-1
+• Mechanism:
+
+Chapter 8
+
+32
+
+7. Halohydrin formation
+Addition of X2, H2O-2
+• Example: Draw the major product(s) for the following reaction.
+
+Chapter 8
+
+33
+
+8. Epoxidation
+• Reaction:
+
+• syn-addition using peroxy acids
+• Concerted mechanism generates epoxide and carboxylic acid
+
+Chapter 8
+
+34
+
+8. Epoxidation-1
+• Mechanism:
+
+Chapter 8
+
+35
+
+9. Ozonolysis (O3)
+• Reaction:
+
+• Cleaves C=C to form two C=O bonds
+• Zn or S(CH3)2 utilized in Step 2 to maintain aldehydes
+• Ring-opening mechanism
+Chapter 8
+
+36
+
+9. Ozonolysis (O3)
+• Mechanism:
+
+*Image from masteringorganicchemistry.com
+
+Chapter 8
+
+37
+
+9. Ozonolysis (O3) Example
+• Predict the products or reactants for the following reactions.
+
+Chapter 8
+
+38
+
+How would you accomplish the following
+transformations?
+
+Chapter 8
+
+39
+
+Alkene Reaction Wheel
+
+Chapter 8
+
+40
+
+
+
+## Metadata
+- Source file: junk_drawer/Chapter 8 Student Notes.pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

@@ -1,0 +1,10 @@
+[build]
+dockerfilePath = "Dockerfile"
+
+[build.args]
+VITE_API_URL = "https://deltadash-backend-production.up.railway.app"
+
+[deploy]
+healthcheckPath = "/"
+healthcheckTimeout = 30
+restartPolicyType = "on_failure"

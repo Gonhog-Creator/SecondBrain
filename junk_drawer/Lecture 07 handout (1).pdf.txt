@@ -1,0 +1,355 @@
+CHE 435/525
+
+Process Systems Analysis and Control
+
+Lecture 7: First-Order Systems and Integrating Systems
+
+Wentao Tang
+Assistant Professor, Chemical & Biomolecular Engineering
+North Carolina State University
+
+January 30, 2025
+
+Wentao Tang (NCSU)
+
+First-Order Systems
+
+January 30, 2025
+
+0 / 12
+
+Recapture: Laplace transform and transfer function
+
+Input-output model: Transfer function
+G(s) = Y (s)/U(s)
+Calculating output response:
+L.T.
+
+T.F.
+
+P.F.E.
+
+u(t) −→ U(s) −→ Y (s) −→ y(t)
+Qualitative analysis possible! Examine the roots on the denominator
+– real part (growth/decay) and imaginary part (oscillations)
+
+Wentao Tang (NCSU)
+
+First-Order Systems
+
+January 30, 2025
+
+1 / 12
+
+Learning objectives of this lecture
+
+1
+
+Explain what kind of physical processes are first-order systems and
+integrating systems
+
+2
+
+Calculate the response of first-order systems to standard inputs
+
+3
+
+Indicate the characteristic quantities on the response curve and relate
+them to the model parameters
+
+Wentao Tang (NCSU)
+
+First-Order Systems
+
+January 30, 2025
+
+2 / 12
+
+Example 1: Liquid storage tank
+
+Model
+A
+
+dh
+1
+= qi − h
+dt
+R
+
+Discuss: Interpret this model
+Transfer function from u = qi to y = h?
+
+
+1
+R
+G(s) =
+=
+As + 1/R
+ARs + 1
+
+Wentao Tang (NCSU)
+
+First-Order Systems
+
+January 30, 2025
+
+3 / 12
+
+Example 2: Tank heated with steam
+
+Model
+ρVCP
+
+dT
+= UA(Ts − T )
+dt
+
+Discuss: Interpret this model
+Transfer function from u = Ts to y = T ?
+1
+G(s) = ρVCP
+UA s + 1
+Exercise: Develop a model for a thermometer.
+▶
+
+Formally the same. Just different interpretations for these symbols.
+
+Wentao Tang (NCSU)
+
+First-Order Systems
+
+January 30, 2025
+
+4 / 12
+
+First-order system
+
+Physical picture:
+A single balance equation: LHS = dy/dt, RHS contains input.
+The input directly affects the evolution of the output.
+▶ The system consists of “resistance and capacitance”.
+
+▶
+▶
+
+General form of transfer function
+G(s) =
+▶
+▶
+
+K
+.
+τs + 1
+
+τ is the time constant
+K = G(0) is called the static gain
+
+Wentao Tang (NCSU)
+
+First-Order Systems
+
+January 30, 2025
+
+5 / 12
+
+Analyzing T.F. with standard inputs
+
+Standard inputs:
+(
+0, t < 0
+▶ Step input u(t) =
+M, t ≥ 0
+▶ Impulse input u(t) = Mδ(t)
+(
+0,
+t<0
+▶ Ramp input u(t) =
+Mt, t ≥ 0
+(
+0,
+t<0
+▶ Sinusoidal input u(t) =
+A sin ωt, t ≥ 0
+
+Previously, we introduced the following routine of analysis
+L.T.
+
+T.F.
+
+P.F.E.
+
+u(t) −→ U(s) −→ Y (s) −→ y(t)
+
+Wentao Tang (NCSU)
+
+First-Order Systems
+
+January 30, 2025
+
+6 / 12
+
+Calculating step response
+
+Step input u(t) = M (t ≥ 0). By L.T., U(s) = M/s.
+By T.F. model G(s) = K/(τ s + 1), output:
+KM
+1
+KM
+=
+Y (s) = G(s)U(s) =
+s(τ s + 1)
+τ s(s + τ1 )
+By P.F.E.,
+
+
+1
+1
+Y (s) = KM
+−
+⇒ y(t) = KM(1 − e−t/τ )
+s s + (1/τ )
+
+Wentao Tang (NCSU)
+
+First-Order Systems
+
+January 30, 2025
+
+7 / 12
+
+Characteristics of step response
+
+1
+
+At t = 0, the slope suddenly changes to KM/τ
+
+2
+
+The curve is monotonic
+
+3
+
+As t → ∞, the limit is KM. Static gain = K
+Wentao Tang (NCSU)
+
+First-Order Systems
+
+January 30, 2025
+
+8 / 12
+
+Calculating impulse response
+
+Step input u(t) = Mδ(t) (t ≥ 0). By L.T., U(s) = M.
+By T.F. model G(s) = K/(τ s + 1), output:
+KM
+KM −t/τ
+P.F.E.
+⇒ y(t) =
+Y (s) = G(s)U(s) =
+e
+τs + 1
+τ
+Plot this curve and describe its appearance
+
+Wentao Tang (NCSU)
+
+First-Order Systems
+
+January 30, 2025
+
+9 / 12
+
+Observations from step and impulse responses
+
+When M = 1, U(s) = L[δ(t)] = 1 (unit impulse input), we simply get
+Y (s) = G(s).
+▶
+
+A transfer function is the L.T. of its unit impulse response.
+yunit-impulse (t) = g(t) = L−1 [G(s)]
+
+▶
+
+This is a general conclusion for all linear systems (not only applicable
+to first-order systems).
+
+uimpulse = dustep /dt, yimpulse = dystep /dt. Is this a coincidence?
+▶
+
+No! Since Uimpulse (s) = sUstep (s), multiplying by G(s), we get
+Yimpulse (s) = sYstep (s).
+
+How to calculate ramp response? (yramp = Mt for t ≥ 0)
+
+Wentao Tang (NCSU)
+
+First-Order Systems
+
+January 30, 2025
+
+10 / 12
+
+** Calculating response to ANY input signal
+Convolution formula
+The product of two L.T.s is the L.T. of the convoluted signal:
+
+Z t
+f1 (t − τ )f2 (τ )dτ
+L[f1 (t)] · L[f2 (t)] = L
+0
+
+Given the transfer function G(s) and input signal u(t), the output is
+Y (s) = G(s)U(s)
+By convolution formula, G(s)U(s) is the L.T. of the convolution of
+g(t) and u(t).
+▶
+
+g(t): inverse L.T. of G(s), exactly the unit impulse response
+
+Thus,
+
+Z t
+g(t − τ )u(τ )dτ.
+
+y(t) =
+0
+
+Wentao Tang (NCSU)
+
+First-Order Systems
+
+January 30, 2025
+
+11 / 12
+
+Integrating system
+
+Consider the tank without exit (resistance R → ∞):
+dh
+= qi
+A
+dt
+T.F. from u = qi to y = h is
+G(s) = K/s
+
+(where K = 1/A)
+
+The relation between the input and output is purely an integrator
+Z t
+y(t) = K
+u(τ )dτ
+0
+
+Step response?
+Impulse response?
+
+Wentao Tang (NCSU)
+
+First-Order Systems
+
+January 30, 2025
+
+12 / 12
+
+

@@ -1,0 +1,98 @@
+# SubstElim (3).pdf
+
+Source: junk_drawer/SubstElim (3).pdf
+
+Category: [[other]]
+
+## Summary
+Nucleophilic Substitution and -Elimination Worksheet Key 1. Draw a mechanism for the following reactions: 2. What product results from reaction of (S)-2-bromohexane and sodium acetate (NaOOCCH3)? Draw the reactant and the product and indicate stereochemistry of both. 3. What substitution product would result from the solvolysis of (S)-3-bromo-3methyloctane in methanol? Draw the reactant and the product and indicate stereochemistry of both.
+
+## Full Content
+Nucleophilic Substitution and -Elimination Worksheet Key
+1. Draw a mechanism for the following reactions:
+
+2. What product results from reaction of (S)-2-bromohexane and sodium acetate
+(NaOOCCH3)? Draw the reactant and the product and indicate stereochemistry of
+both.
+
+3. What substitution product would result from the solvolysis of (S)-3-bromo-3methyloctane in methanol?
+Draw the reactant and the product and indicate
+stereochemistry of both.
+
+4. Draw the major organic product of the following reactions and identify whether the
+reaction proceeded through an SN1 or an SN2 mechanism based on the degree of
+substitution of the substrate and the strength of the nucleophile.
+
+5. Draw ALL elimination products expected from the following alkyl halides. Circle
+those which can only be generated from an E1 mechanism.
+
+6. Sighting down C2 and C3 of (S)-2-bromobutane, draw a Newman projection that
+shows the proper orientation required for elimination to (Z)-but-2-ene.
+
+7. Draw a mechanism for the following reaction.
+
+8. Draw the elimination products for the following and if a mixture of alkene products is
+predicted, circle the preferred product.
+
+9. Draw the major organic product and predict whether each reaction proceeds by S N1,
+E1, SN2, or E2.
+
+Br
+
+NaOCH3
+HOCH3
+Cl
+NaI
+acetone
+Br
+
+NaCN
+HOCH3
+
+Br
+
+H
+
+OCH3
+
+O
+
+Br
+NaO
+
+NaOH
+
+Cl
+
+Cl
+
+CH3OH
+low T
+
+Cl
+
+CH3OH
+high T
+
+10. Write the IUPAC name for the following molecules.
+
+Br
+
+Cl
+
+11. Draw the line structure that corresponds to the following IUPAC names.
+
+7-bromocyclohepta-1,3,5-triene
+
+(E)-1-bromo-1-chloroprop-1-ene
+
+3-bromo-(3Z,5E)-octa-3,5-diene
+
+2-ethylcyclohexa-1,3-diene
+
+
+
+## Metadata
+- Source file: junk_drawer/SubstElim (3).pdf
+- Extracted: 2026-05-18
+- Category: other

@@ -1,0 +1,1114 @@
+# ReinforcedKevlar-GrapheneComposites.pdf
+
+Source: junk_drawer/DeltaV/Future Research/ReinforcedKevlar-GrapheneComposites.pdf
+
+Category: [[research-paper]]
+
+## Summary
+arXiv:1208.0060v1 [cond-mat.mes-hall] 1 Aug 2012 Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites Karen S. Martirosyan† , M. Zyskin] , † Department of Physics and Astronomy, University of Texas at Brownsville, 80 Fort Brown, Brownsville, TX 78520, USA ]
+
+## Full Content
+arXiv:1208.0060v1 [cond-mat.mes-hall] 1 Aug 2012
+
+Simulation of the Elastic Properties of Reinforced
+Kevlar-Graphene Composites
+Karen S. Martirosyan† , M. Zyskin] ,
+†
+
+Department of Physics and Astronomy, University of Texas at Brownsville,
+80 Fort Brown, Brownsville, TX 78520, USA
+]
+Rutgers University, 126 Frelinghuysen Road, Piscataway, NJ 08854-8019, USA
+E-mail: Karen.Martirosyan@utb.edu, zyskin@yahoo.com
+Abstract.
+The compressive strength of unidirectional fiber composites in the form of Kevlar yarn
+with a thin outer layer of graphene was investigated and modeled. Such fiber structure
+may be fabricated by using a strong chemical bond between Kevlar yarn and graphene
+sheets. Chemical functionalization of graphene and Kevlar may achieved by modification
+of appropriate surface-bound functional (e.g., carboxylic acid) groups on their surfaces.
+In this report we studied elastic response to unidirectional in-plane applied load with
+load peaks along the diameter. The 2D linear elasticity model predicts that significant
+strengthening occurs when graphene outer layer radius is about 4 % of kevlar yarn radius.
+The polymer chains of Kevlar are linked into locally planar structure by hydrogen bonds
+across the chains, with transversal strength considerably weaker than longitudinal one.
+This suggests that introducing outer enveloping layer of graphene, linked to polymer
+chains by strong chemical bonds may significantly strengthen Kevlar fiber with respect
+to transversal deformations.
+
+PACS numbers: 62.20.-x, 68.35.Gy, 81.40.-z
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+2
+
+1. Introduction
+Reinforced polymer fibers have been studied intensively in search of superior fabrics for
+a broad range of applications including bullet-proof vests, protective clothing, and highperformance composites for aircraft and automotive industries [1, 2] . For most structural
+materials, the compressive strength is much greater than the tensile strength. Fiberreinforced composites are among a few materials that exhibit greater tensile strength
+than compressive strength. This behavior results from fiber micro buckling compressive
+failure mechanism in fiber composites. Static compressive strengths of unidirectional
+composites have been studied by several research groups in the past few decades [3-6].
+A major step forward in the protection of personnel against ballistic threats has
+been achieved by introduction of Kevlar synthetic fibers and textiles. The most common
+approaches for the fabrication of reinforced composite fibers have been melt processing
+and solution coagulation spinning [7, 8] Kevlar fibers are produced by wet-spinning from
+sulfuric acid solutions [9]. While in acid solution, Kevlar form liquid crystalline phase,
+with rod-like polymer chains well-aligned parallel to each other, and bonded by hydrogen
+bonds across to form strong planar sheets [10]. Such sheets are stacked radially to
+form Kevlar fiber. As a result, the fiber is much stronger with respect to longitudinal
+deformations than to transversal deformations.
+On the other hand, the carbon nanotubes (CN) and graphene sheets (GS) have
+been proposed as one of the most promising additives for the fabrication of ultra-strong
+polymer composites due to their advanced mechanical properties [11, 12]. It is well-known
+that carbon nanotubes and graphene sheets have Young’s modulus and tensile strength
+above 1 TPa and 60 GPa, [13-16] respectively, while their densities can be as low as
+1.3 g/cm3 . They may exist as single layered or multi-layer structures. It is possible
+to harness the multifunctional properties of graphene sheets and design novel class of
+advanced composites with superior mechanical and electric performance [17, 18] Thus,
+various polymeric-CN and polymeric-GS composites and their chemical functionalisations
+have become a subject of intensive research and technological development over the last
+years [19, 20]. Recently, a significant mechanical enhancement of Kevlar fibers has been
+demonstrated by incorporation of surface modified carbon nanotubes achieved by using
+N-methylpyrrolidone (NMP) solvent [21, 22]. The maximum values observed were for
+Young’s modulus 115-207 GPa; yield strength 4.7-5.9 GPa; strain at break 4.0-5.4 %; and
+toughness 63-99 J/g [21].
+In this paper we present the 2D linear elasticity model to predict the mechanical
+properties of the Kevlar fibers reinforced by depositing an outer shell of graphene, rigidly
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+3
+
+attached to Kevlar fiber by chemical bonding. The schematic diagram of the kevlargraphene fibers is shown in Figure 1,(a). Graphene outer layer can be formed by soaking
+kevlar single fiber with graphene dispersed in N-methylpyrrolidone (NMP) solvent. By
+using spinning technique it will be possible to create a composite structure by depositing
+an outer layer of graphene enveloping the Kevlar fiber. This lead us to hypothesize that
+graphene could be incorporated into swelled Kevlar fibers by soaking fibers in a dispersion
+of graphene in NMP. Chemical functionalization of graphene and Kevlar may be achieved
+by modification of appropriate surface-bound functional (e.g., carboxylic acid) groups
+on their surfaces. We anticipate that outer graphene layer enveloping Kevlar fiber may
+stabilize radially stacked hydrogen-bonded planar sheets forming Kevlar fiber with respect
+to transversal deformations.
+The main goal of this paper is to model the mechanical behavior of kevlar-graphene
+fibers and to predict the optimal thickness of the outer layer of graphene for strengthening.
+We show that within 2d linear elasticity model, and taking realistic Young modulus and
+Poisson ratios for transversal deformations, reinforcement starts to occur when the outer
+hard shell radius is about 4 % of kevlar fiber radius (corresponding to about 8 % weight).
+We assume that applied load has a narrow load peak along the diameter, which we may
+take to be the Y axes; typical displacements are shown in Figure 1,(b).
+Our modeling assumes that graphene flakes are tied up together by covalent bonds,
+which may be achieved by graphene functionalization. In the presence of strong interlayer
+covalent bonds, we assume that bonded graphene flakes will have high Young modulus
+and tensile strength in all directions, and we model it by isotropic continuous model. Such
+model predicts theoretical limit on strengthening which may be achieved.
+Commercially available Kevlar fiber has radius of about 6 microns. In that case,
+we will need about 240 nanometers of functionalized multilayer graphene for substantial
+two-fold yield strength improvement. At such scale, continuous elasticity model may be
+used.
+2. Explicit solution
+We assume that the enveloping graphene layer and Kevlar fiber are rigidly attached by
+chemical bonds on their common boundary, and that the load is perpendicular to the
+fibers.
+In this section we derive an explicit solution of planar linear elasticity equations,
+modeling a circular fiber enveloped by a rigidly attached to it ring of different stronger
+material.
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+4
+
+In section 3, we use our explicit solution to compute stress tensor, both in the outer
+graphene layer and inside Kevlar fiber, and to analyze increase of the yield strength of
+the composite system, as a function of reinforcing layer thickness.
+Our explicit solution is given in terms of the Airy stress function U. Airy stress
+function is a function from which the stress (and strain) tensors can be derived at any given
+point (x, y); those stress and strain tensors will then automatically satisfy the equilibrium
+equations of linear elasticity. Airy stress function is a solution of bi-harmonic equation
+∆2 U = 0.
+
+(1)
+
+It is related to the stress tensor by
+2
+
+σyy = ∂∂xU2 ,
+2
+σxx = ∂∂yU2 ,
+∂2U
+.
+σxy = − ∂x∂y
+
+(2)
+
+It is well-known [23] that a biharmonic function can be expressed via two analytic
+functions ϕ(z), χ(z), z = x + iy :
+2U = z̄ϕ + z ϕ̄ + χ + χ̄.
+
+(3)
+
+It follows from (2) that
+
+σxx + σyy = 2 Φ + Φ̄ ,
+σyy − σxx + 2iσxy = 2 (z̄Φ0 + Ψ) ,
+
+Φ ≡ ϕ0 , Ψ ≡ χ00 .
+
+Changing variables to polar coordinates (r, θ), we have
+
+σrr + σθθ = 2 Φ + Φ̄ ,
+σθθ − σrr + 2iσrθ = 2e2iθ (z̄Φ0 + Ψ) ,
+
+(4)
+
+(5)
+
+and it follows that
+σrr − iσrθ = Φ + Φ̄ − e2iθ (z̄Φ0 + Ψ) .
+
+(6)
+
+For the displacement u = (ux , uy ), it follows from the Hook’s Law that
+¯ + 2 λ + 2µ ϕ = κϕ − z ϕ̄0 − χ̄0 ,
+2µ (ux + iuy ) = 2µ (ur + iuθ ) eiθ = −2∂U
+λ+µ
+(7)
+λ + 3µ
+κ=
+λ+µ
+(equation (7) goes back to Lamé; the derivation can be found in Ref (22), §32). Lamé
+parameters λ, µ are related to the Young modulus E and Poisson ratio ν as follows,
+Eν
+E
+λ = (1+ν)(1−2ν)
+, µ = 2(1+ν)
+.
+
+(8)
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+5
+
+We expand functions Φ, Ψ in the Laurent series in the outer ring, and in Taylor series
+on the inner disk,
+R1 ≤ |z| ≤ R2
+ n
+ n
+∞
+∞
+X
+X
+z
+z
+Φ=
+an
+,Ψ =
+pn
+;
+R2
+R2
+n=−∞
+n=−∞
+
+(9)
+
+|z| ≤ R1
+ n
+ n
+∞
+∞
+X
+X
+z
+z
+,Ψ =
+qn
+.
+Φ=
+bn
+R
+R
+2
+2
+n=0
+n=0
+
+(10)
+
+We assume that the external stress applied to the outer boundary |z| = R2 is known, and
+has a Fourier series expansion
+∞
+X
+σrr − iσrθ =
+An einθ .
+(11)
+n=−∞
+
+Thus on the external boundary |z| = R2 from (6), (9), (11) we have that
+(1 − n)an − pn−2 + ā−n = An .
+
+(12)
+
+We now turn to analyzing conditions on the internal boundary |z| = R1 . Let us
+introduce dimensionless radius r1 ,
+R1
+(13)
+r1 ≡
+,
+R2
+and let us use the convention that
+bn = qn = 0, n < 0.
+
+(14)
+
+On the internal boundary |z| = R1 , stress components σrr , σrθ and the displacement are
+continuous. Using (6)-(10), continuity of such stress components imply that
+(1 − n)an r12 − pn−2 + ā−n r12−2n = (1 − n)bn r12 − qn−2 + b̄−n r12−2n ,
+
+(15)
+
+and the continuity of displacement imply that
+1 
+1 
+(n − 1)r12 an + pn−2 + κ2 ā−n r1−2n+2 =
+(n − 1)r12 bn + qn−2 + κ1 b̄−n r1−2n+2 . (16)
+µ2
+µ1
+Using (12) to eliminate pn ,
+
+−(n − 1) (1 − r12 ) an − (n − 1)r12 bn − qn−2 + 1 − r12−2n ā−n + r12−2n b̄−n = An , (17)
+
+
+−(n − 1) (1 − r12 ) an + ā−n 1 + r12−2n κ2 − µµ21 (n − 1)r12 bn + qn−2 + r12−2n κ1 b̄−n
+(18)
+= An
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+6
+
+We can solve (17), (18), supplemented with complex conjugates of those equations. We
+denote complex conjugates of coefficients by ā, b̄, etc. Complex conjugation and n → −n
+in (17), (18) yields
+
+1 − r12+2n an + r12+2n bn − (1 + n) (1 − r12 ) ā−n + (1 + n)r12 b̄−n − q̄−2−n = Ā−n (19)
+
+
+1 + r12+2n κ2 an + (1 + n) (1 − r12 ) ā−n − µµ12 −(1 + n)r12 b̄−n + q̄−2−n + r12+2n κ1 bn =
+(20)
+Ā−n .
+From the zero torque condition, we have that
+(21)
+
+Ā0 = A0 ;
+
+this is the condition for (17)-(20) with n = 0 to have solution. In fact, solution for n = 0
+mode is not unique. However, it is clear from (5) that imaginary part of a0 does not affect
+the stresses, thus we can take
+(22)
+
+ā0 = a0 .
+Assuming zero total force,
+
+(23)
+
+A1 = 0;
+
+with this condition and using (14), equations (17) , (18) are consistent for n = 1 mode,
+and similarly equations (19) , (20) are consistent for n = −1.
+Solving equations (17)- (20), we can find coefficients {ai , bi , qi } , i ∈ Z :
+1 −µ2 +κ1 µ2
+a0 = 21 2µ1 −µ2 +κ1 µ2µ
+A0 ,
+2
+2 +r (κ2 µ1 −κ1 µ2 +µ2 −µ1 )
+1
+
+µ1 +κ2 µ1
+b0 = 21 2µ1 −µ2 +κ1 µ2 +r
+2 (κ µ −κ µ +µ −µ ) A0 ,
+2 1
+1 2
+2
+1
+1
+
+1 +κ2 µ1
+b1 = µ1 +κ1 µ2µ+r
+Ā−1 ,
+4
+1 (κ2 µ1 −κ1 µ2 )
+
+ā−1 = 0,
+1 +κ1 µ2
+a1 = µ1 +κ1 µ2µ+r
+4 (κ µ −κ µ ) Ā−1 ,
+2 1
+1 2
+1
+
+(24)
+
+
+−1 
+
+
+−(n − 1) (1 − r12 )
+2r1n−1 + 1
+−(n − 1)r12 −1
+an
+
+
+
+
+(1 + n) (1 − r12 )
+r12+2n
+0 
+1 − r12+2n
+ ā−n  
+
+
+=
+−(n−1)r12 µ2
+2
+1 + r12−2n κ2
+− µµ21 
+ bn  
+µ1
+ −(n − 1) (1 − r1 )
+
+−r12+2n κ1 µ2
+2+2n
+2
+qn−2
+1 + r1 κ2
+(1 + n) (1 − r1 )
+0
+µ1
+R1
+n ≥ 2, r1 ≡ R2 .
+
+
+
+An
+ Ā 
+ −n 
+
+,
+ An 
+Ā−n
+
+We note that for the displacement (7) to be single-valued, we must have κ1 a−1 −ā−1 =
+0, which is satisfied by our solution (24) since a−1 = ā−1 = 0.
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+7
+
+Coefficients {pn } can be found from (12), (24)
+pn = −A2+n − (1 + n)a2+n + ā−2−n ,
+
+n ∈ Z.
+
+(25)
+
+We note that it is evident from the above formulas (as well as from dimensional
+analysis) that for a prescribed applied external stress, given as a function of the polar
+angle, the solution for stresses on the domain depends on the ratio of internal and external
+R1
+, but not the overall scale R2 .
+radii r1 = R
+2
+3. Analyzing solution.
+For a given load, we can compute components of stress tensor using equations (5), (9),
+(10), (14), (24), (25); those formulas determine stresses created by any transversal load.
+In this paper we will analyze in detail response to uni-directional transversal
+compression applied along a diameter. Such load may be used to estimate a response
+to the transversal compression of a fiber created by impacting projectile, when the fiber
+is pressed against a matrix and other fibers to stay in place. We assume that in such
+case high loads will be applied in a small neighborhood of points of contact, and will be
+uni-directional. Young modulus of the reinforcing outer graphene layer is very high, thus
+we anticipate that material delivering external load (e.g. a projectile and the matrix, or
+loading plate in a static loading experiment) will be deformed at a point of contact with
+the reinforced fiber. To estimate stresses in the Kevlar-graphene system we assume that
+the load is uniform in a small region of contact.
+The load we use in our study is shown in Figure 2. Compressing force is applied on
+the outer boundary in the (−Y ) direction in a small neighborhood of Y axes intercept,
+with an opposite balancing force applied in diametrically opposite region. Magnitude of
+the force per transversal to Y surface area element, as a function of the polar angle θ,
+π
+has narrow peaks centered at θ = ± ; we take the magnitude to be constant (1 GPa ) at
+2
+π
+such peaks, and we take width of the peak to be w = 16
+. Outside of the peaks, we take a
+smooth interpolation to a zero value in a small angular region of width . Thus fY , the
+Y axes projection of the applied force per transversal to Y area element, as a function of
+polar angle is given by
+
+θw
+
+π
+
+−1,
+|θ
+−
+|
+≤
+
+2
+
+2
+θw
+fy (θ) =
+(26)
+π
+1, |θ + 2 | ≤
+
+
+2
+
+
+0, |θ ± π2 | > θw + .
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+8
+
+Corresponding stresses applied on the outer boundary , as functions of polar angle, are
+σrr (θ) = fy (θ)| sin θ| sin θ,
+σrθ (θ) = fy (θ)| sin θ| cos θ;
+
+(27)
+
+fy as a function of the polar angle θ is shown in Figure 2 (a). In Figure 2(b) and 2
+(c) we plot components of the stress tensor σrr and σrθ , induced in the material by such
+applied load, as a function of the polar angle; here r, θ are polar coordinates. Stress σrr
+corresponds to a compression in the vicinity of two diametrically opposite points on the
+Y axes. Stress σrθ rapidly changes sign at those points (this is because projection of fy
+onto the polar unit vector eθ changes sign).
+To understand how stresses are distributed in the Kevlar fiber and the outer graphene
+layer, we compute components of the stress tensor using equations (5), (9), (10), (14),
+(24), (25).
+We take experimental values for the transverse Young modulus E1 = 5 GPa and
+Poisson ratio ν1 = 0.35 for Kevlar, and E2 = 600 GPa and Poisson ratio ν2 = 0.1
+for the graphene in our analysis, and we use the relationship (8) to estimate the Lamé
+parameters λ and µ of Kevlar and graphene. For the particular combination of Lamé
+parameters which appear in the exact solution (24) we get: µ1 = 1.85 GP a, κ1 = 1.6 for
+the Kevlar, µ2 = 270 GP a, κ2 = 2.6 for the graphene. We note that using the five elastic
+constants describing anisotropic, transversally isotropic material (when those constants
+are known) will give more accurate determination of the transversal Lamé parameters.
+Those five elastic constants were measured for the Kevlar KM2 fiber [25]; using those, we
+get values of the same order as above for µ1 and κ1 , and the qualitative behavior of the
+solution is similar.
+In Figure 3 we plot the σyy component of the stress tensor on the Y axes (that is on the
+line where the load is applied), for varying values of the ratio of the inner to outer radius
+R1
+: We clearly see that the stress in the Kevlar fiber region is considerably reduced,
+r1 = R
+2
+dropping down in the stronger graphene region, with about 2 fold drop when r1 ≃ 0.96,
+and even bigger drop for smaller r1 . The magnitude of the drop varies continuously when
+we vary r1 . When r1 approaches 1 , there is no reduction of stress, as expected.
+In Figure 4, we plot all 3 components of the stress tensor, in the Kevlar fiber region,
+for varying thickness of the outer graphene shell. When graphene shell is thin, e.g.
+R1
+r1 =
+≃ 0.99, there is not much reduction in stresses in Kevlar; but for a thicker
+R2
+outer shell, r1 ≃ 0.96, there is about 2 fold reduction of stresses in the Kevlar fiber region.
+We see that stresses in the Kevlar fiber region attain a maximum value in the outmost
+region of the fiber and near the Y axes where the load is applied. Stresses in Kevlar fiber
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+9
+
+region vary continuously with the change of r1 , getting smaller when the outer graphene
+shell gets thicker in a continuous manner, as expected.
+In Figure 5, we plot the σrr and σrθ components of the stress tensor in the Kevlar
+fiber region, corresponing to polar coordinates r, θ. Those two components of stress tensor
+are selected since those are continuous across the inner boundary between Kevlar and
+graphene regions. Behavior of those components in the Kevlar fiber region is similar to
+the stress components in the Euclidean coordinates (x, y) shown in Figure 4: stresses
+are larger in the outer parts of the fiber and near the Y axes where the external load is
+R1
+,
+applied; for a fixed external load stresses decrease continuously with decrease of r1 =
+R2
+with approximately 2-fold decrease at r1 = 0.96.
+3.1. Estimating yield
+Yield criteria for a broad class of materials may be given in terms of the Von Mises
+stress. The Von Mises stress is proportional to the square root of the sum of squares
+of characteristic values of the trace-free part of the stress tensor. Since Kevlar fiber is
+transversally isotropic, and the transversal yield strength of the Kevlar fiber is much lower
+than the longitudinal one, we will use a 2 dimensional version of the Von Mises stress,
+q
+2 .
+(28)
+σM = (σxx − σyy )2 + 4σxy
+We note that for a planar elasticity problem we consider, the longitudinal stress σzz =
+c13
+(σxx + σyy ) ∼ 0.6 (σxx + σyy ), and so is of the same order as planar stresses, while
+2(λ+µ)
+longitudinal yield is much higher than the transversal yield. Thus using more accurate
+for anisotropic material yield criteria such as Hill yield criteria will produce similar
+conclusions.
+To illustrate how the Von Mises stress is distributed on the Kevlar-graphene domain,
+we plotted the Von Mises stress (28) on the whole domain, Figure 6 (a), and on the
+1
+Kevlar fiber region, Figure 6 (b), in the case when r1 = R
+= 0.95. The external applied
+R2
+π
+load is along the Y axes and has a sharp peak of polar angle width 16
+, as in (26), (27 ).
+Distribution of the von Mises stress is largely similar to the distribution of components
+of the stress tensor in Figure 4. There is a sharp drop of the Von Mises stress occuring in
+the stronger outer graphene layer, with a more than 2 fold decrease of stress in the Kevlar
+fiber compared to the case of no graphene reinforcement. On the Kevlar fiber domain, the
+Von Mises stress is larger in the outmost region and near the Y axes where the external
+stress is applied.
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+10
+
+Von Mises yield criteria is that yield occurs when σmax , the maximum value of the
+Von Mises stress σM taken over the domain, becomes greater or equal to the critical
+value σyield , specific for the material. For Kevlar, σyield ≈ 2.9 GPa for longitudinal
+loads [10]; but for transversal loads it is lower (e.g. for Kevlar/PEKK composite the
+transversal strength is 21 MPa, [24]).
+If, at a fixed external load, the maximum von Mises stress in the Kevlar region is
+reduced by a factor of 2, say, due to reinforced outer graphene layer, that implies that
+combined Kevlar-graphene system will have twice bigger yield strength (we assume, as
+experimental data suggests, that the yield strength of graphene is much bigger than the
+transversal yield strength of Kevlar, and that linear elasticity approximation suffices for
+the estimate).
+In Figure 7, we show the reduction of the maximum value of the von Mises stress
+in the Kevlar fiber region, as a function of the ratio of the Kevlar fiber radius R1 to the
+total radius R2 , for various loading cases.
+Figure 7 (a) shows a uni-axial compression in the Y direction, applied to the outer
+π
+on the Y axes. Figure 7(a)
+graphene layer, and having a sharp peak of angular width 16
+illustrates typical displacements for such load. In Figure 7(d), we show the reduction of
+max {R2 }
+the maximum von Mises stress in the Kevlar fiber region, σσmax
+as a function of the
+{R1 }
+R1
+inner to outer radius ratio R2 .
+Figure 7 (b) shows an off-center compression in the Y direction, applied to the outer
+π
+graphene layer at 4 points, having polar angles ± π4 , ± 3π
+. Each load has angular width 16
+.
+4
+Figure 7 (c) shows a one-sided version of such off-center compression, applied at 2 points
+having polar angles ± π4 . In Figures 7 (b), (c) we illustrate typical displacements for such
+loads. Reduction of the maximum von Mises stress for such loads is shown in Figures 7
+(e) and 7 (f), respectively.
+The calculation reveals that the reduction of the maximum von Mises stress for all
+the three different loading cases was similar.
+Conclusions
+Strengthening of Kevlar-graphene fibers, with the increase of thickness of the outer layer
+of graphene, was predicted by analyzing an explicit solution of the equations of 2D linear
+elasticity.
+Results of computation of von Mises stress in Kevlar-graphene fibers for different
+transversal loadings demonstrated a two-fold increase in the yield strength, when the
+outer graphene shell radius was about 4 % (corresponding to about 8 % weight) of the
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+11
+
+Kevlar fiber radius.
+The theoretical results presented here can potentially be used to guide experimental
+work, and to model strengthening of other fiber reinforced composites.
+Acknowledgments
+We acknowledge the financial support of this research by the National Science Foundation,
+grants 0933140 and 1138205.
+References
+[1] Tanner D, Fitzgerald J A , Phillips B R (1989) Angew. Chem. Int. Ed. 28 : 649
+[2] Chae H G,Kumar S (2006) J. Appl. Polym. Sci. 100 : 791
+[3] Kumar P, Garg A , Agarwal B D (1986) Dynamic compressive behavior of unidirectional GFRP for
+various fiber orientations. Materials Letters 4 : 111-116
+[4] Sun C T, Chen J L (1989) A simple flow rule for characterizing nonlinear behavior of fiber composites.
+Journal of Composite Materials 23 : 1009-1020
+[5] Budiansky B, Fleck N A (1993) Compressive failure of fiber composites. Journal of Mechanics and
+Physics of Solids 41 : 183-221
+[6] Jelf P M , Fleck N A (1994) The failure of composite tubes due to combined compression and torsion.
+Journal of Materials Science 29 : 3080-3084
+[7] Haggenmueller R, Gommans H H, Rinzler A G , Fischer J E, Winey K I (2000) Chem. Phys. Lett.
+330 : 219
+[8] Dalton A B , Collins S, Munoz E, Razal J M , Ebron V H , Ferraris J P , Coleman J N , Kim B G,
+Baughman R H (2003)Super-tough carbon-nanotube fibres. Nature 423: 703
+[9] Blades H (1973) US Patent 3767756
+[10] Kevlar aramid fiber, DuPont technical guide http://www2.dupont.com/Kevlar/en US/assets/
+downloads/ KEVLAR Technical Guide.pdf.
+[11] Baughman R H , Zakhidov A A, de Heer W A (2002) Carbon Nanotubes-The Route Towards
+Applications. Science 297 : 787-792
+[12] Stankovich S, Dikin D A , Dommett G H B , Kohlhaas K M , Zimney E J, Stach E A , Piner R D ,
+Nguyen S T, Ruoff R S (2006) Graphene-based composite materials. Nature 442 : 282
+[13] Wong E W , Sheehan P E, Lieber C M (1997) Science 277 : 1971
+[14] Yu M, Lourie O, Dyer M J, Kelly T F, Ruoff R S (2000) Science 287 : 637
+[15] Yu M F, Files B S, Arepalli S , Ruoff R S (2000) Phys. Rev. Lett. 84 : 5552
+[16] Lee C , Wei X ,Kysar J W. , Hone J (2008) Measurement of the Elastic Properties and Intrinsic
+Strength of Monolayer Graphene. Science 321: 385
+[17] Duplock E J, Scheffler M, Lindan P J D (2004) Phys. Rev. Lett. 92 : 225502
+[18] Novoselov K S, Geim A K , Morozov S V, Jiang D, Katsnelson M I, Grigorieva I V, Dubonos S V,
+Firsov A A (2005) Nature 438 : 197-200
+[19] He X Q , Kuang Y D, Chen C Y, Li G Q (2009) J. Phys.: Condens. Matter 21 : 215301
+[20] Boukhvalov D W, Katsnelson M I (2009) J. Phys.: Condens. Matter 21 : 344205
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+12
+
+[21] Coleman J N , Khan U, Blau W J, Y.K. Gun’ko (2006) Carbon 44 : 1624
+[22] O’Connor I, Hayden H, Coleman J N, Gun’ko Y (2009) Nanocomposites 5 : 466-469
+[23] Muskelishvili N I (1953) Some basic problems of the mathematical theory of elasticity (P. Noordhoff,
+Groningen-Holland)
+[24] Peters S T (ed) (1998) Handbook of composites , Chapman & Hall, 2 edition
+[25] Cheng M, Chen W , Weerasooriya T (2005) Mechanical Properties of Kevlar KM2 Single Fiber.
+Journal of Engineering Materials and Technology 127 : 197
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+13
+
+Figure Captions
+Figure 1. (a) - Schematic diagram of Kevlar-graphene system: the inner part is Kevlar
+fiber with radius R1 , the outer layer is graphene with radius R2 : (R2 > R1 ); (b) R1
+= 0.70
+Displacements on the whole domain, in the case R
+2
+Figure 2. (a) Applied force per unit transverse area, as a function of polar angle. Force
+π
+π
+centered at θ = ± ;
+is in the Y direction, and is nonzero in an interval of width θw = 16
+2
+(b) σrr component of material stress on the outer boundary, as a function of polar angle
+θ; (c) σrθ component of material stress on the outer boundary, as a function of polar angle
+θ (polar coodinates are denoted r, θ )
+Figure 3. σyy component of the stress on the Y axes (that is on the line where the load
+1
+1
+: (a) R
+= 0.90
+is applied), for varying values of the ratio of the inner to outer radius R
+R2
+R2
+R1
+R1
+R1
+(b) R2 = 0.93 (c) R2 = 0.96 (d) R2 = 0.99 Applied force per unit area is the same ,at ±1
+unit, and is in the Y direction; it is applied on the outer boundary at polar angle intervals
+π
+of width 16
+centered at θ = ± π2 .
+There is a marked drop of stress occurring in the outer reinforcing graphene layer, provided
+1
+that R2R−R
+& 4%.
+2
+Figure 4. σxx ,σyy ,σxy components of the stress tensor on the Kevlar fiber domain, for
+R1
+varying values of the ratio of the inner to outer radius R
+:
+2
+R1
+R1
+R1
+(a) σxx , R2 = 0.90 (b) σyy , R2 = 0.90 (c) σxy , R2 = 0.90
+R1
+1
+1
+(d) σxx , R
+= 0.93 (e) σyy , R
+= 0.93 (f) σxy , R
+= 0.93
+R2
+R2
+2
+R1
+R1
+R1
+(g) σxx , R2 = 0.96 (h) σyy , R2 = 0.96 (i) σxy , R2 = 0.96
+R1
+1
+1
+= 0.99 (k) σyy , R
+= 0.99 (l) σxy , R
+= 0.99
+(j) σxx , R
+R2
+R2
+2
+Applied on the outer boundary force per unit area is the same, at ±1 unit, and is in the
+π
+Y direction; it is applied on the outer boundary within a polar angle interval of width 16
+centered at θ = ± π2 .
+Figure 5. σrr , σrθ polar coordinates components of the stress tensor on the Kevlar fiber
+1
+domain, for varying values of the ratio of the inner to outer radius R
+:
+R2
+R1
+R1
+(a) σrr , R2 = 0.90, (b) σrθ , R2 = 0.90,
+R1
+1
+(c) σrr , R
+= 0.93, (d) σrθ , R
+= 0.93,
+R2
+2
+R1
+R1
+(e) σrr , R2 = 0.96, (f) σrθ , R2 = 0.96,
+1
+1
+(g) σrr , R
+= 0.99, (h) σrθ , R
+= 0.99 .
+R2
+R2
+Applied on the outer boundary force per unit area is the same, at ±1 unit, and is in the
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+14
+
+π
+Y direction; it is applied on the outer boundary within a polar angle interval of width 16
+centered at θ = ± π2 .
+
+Figure 6. Von Mises stress σM (a) on the whole domain , (b) in the fiber region only, in
+1
+is 0.95 . Applied force per unit area
+the case where ratio of the inner to outer radius R
+R2
+is ±1 unit, and is a compression along the Y axes; it is applied on the outer boundary
+π
+within a polar angle interval of width 16
+centered at θ = π2 , with an opposite force applied
+in the diametrically opposite region.
+Figure 7. External loads, corresponding typical displacements, and reductions of the
+maximum Von Mises stress in the Kevlar fiber region as a function of the ratio of the
+Kevlar fiber radius R1 to the total radius R2 :
+(a) uni-axial compression in the Y direction, applied to the outer graphene layer, and
+π
+on the Y axes. Typical displacements are shown.
+having a sharp peak of angular width 16
+(b)off-center compression in the Y direction, applied to the outer graphene layer at 4
+π
+points, having polar angles ± π4 , ± 3π
+, and of angular width 16
+each .
+4
+(c) one-sided off-center compression in the Y direction, applied to the outer graphene
+π
+layer at two points, having polar angles ± π4 , and of angular width 16
+each.
+(d) reduction of the maximum Von Mises stress in the Kevlar fiber region, as a function
+of the ratio of the Kevlar fiber radius R1 to the total radius R2 , for the central loading
+shown in Fig. 7(a).
+(e) reduction of the maximum Von Mises stress in the Kevlar fiber region, as a function
+R1
+of R
+, in the case of symmetric off-center loading, Fig. 7(b)
+2
+(f)reduction of the maximum Von Mises stress in the Kevlar fiber region, as a function of
+R1
+, in the case of one-sided off-center loading, Fig. 7(c).
+R2
+Reference red line in (d), (e), (f) corresponds to no graphene reinforcement.
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+Graphene
+
+15
+
+a
+b
+
+Kevlar
+
+R2
+R1
+
+Figure 1. (a) - Schematic diagram of Kevlar-graphene system: the inner part is Kevlar fiber
+with radius R1 , the outer layer is graphene with radius R2 : (R2 > R1 ); (b) - Displacements on
+1
+the whole domain, in the case R
+R2 = 0.70
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+a
+
+b
+
+-0.5
+
+16
+
+0.5
+
+0.5
+
+c
+
+Figure 2. (a) Applied force per unit transverse area, as a function of polar angle. Force is in
+π
+π
+the Y direction, and is nonzero in an interval of width θw = 16
+centered at θ = ± ; (b) σrr
+2
+component of material stress on the outer boundary, as a function of polar angle θ; (c) σrθ component of material stress on the outer boundary, as a function of polar angle θ (polar coodinates
+are denoted r, θ )
+
+HaL
+
+HbL
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+ΣYY
+
+50
+
+-0.2
+-0.5
+
+ΣYY
+
+y
+90 -0.2
+
+50
+
+17
+
+93
+
+y
+
+-0.5
+
+-1.
+ΣYY
+-0.2
+
+HcL
+
+-1.
+
+50
+
+y
+96 -0.2
+
+ΣYY
+
+-0.5
+
+-0.5
+
+-1.
+
+-1.
+
+HdL
+50
+
+99
+
+y
+
+Figure 3. σyy component of the stress on the Y axes (that is on the line where the load
+R1
+1
+is applied), for varying values of the ratio of the inner to outer radius R
+R2 : (a) R2 = 0.90 (b)
+R1
+R1
+R1
+R2 = 0.93 (c) R2 = 0.96 (d) R2 = 0.99 Applied force per unit area is the same ,at ±1 unit, and
+π
+is in the Y direction; it is applied on the outer boundary at polar angle intervals of width 16
+centered at θ = ± π2 .
+There is a marked drop of stress occurring in the outer reinforcing graphene layer, provided that
+R2 −R1
+& 4%.
+R2
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+18
+
+R1 =90
+
+R1 =93
+
+R1 =96
+
+R1 =99
+
+Figure 4. σxx ,σyy ,σxy components of the stress tensor on the Kevlar fiber domain, for varying values
+R1
+of the ratio of the inner to outer radius R
+:
+2
+R1
+R1
+1
+(a) σxx , R2 = 0.90 (b) σyy , R2 = 0.90 (c) σxy , R
+R2 = 0.90
+R1
+R1
+R1
+(d) σxx , R2 = 0.93 (e) σyy , R2 = 0.93 (f) σxy , R2 = 0.93
+R1
+R1
+1
+(g) σxx , R
+R2 = 0.96 (h) σyy , R2 = 0.96 (i) σxy , R2 = 0.96
+R1
+R1
+1
+(j) σxx , R
+R2 = 0.99 (k) σyy , R2 = 0.99 (l) σxy , R2 = 0.99
+Applied on the outer boundary force per unit area is the same, at ±1 unit, and is in the Y
+π
+direction; it is applied on the outer boundary within a polar angle interval of width 16
+centered
+π
+at θ = ± 2 .
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+19
+
+R1 =90
+
+R1 =93
+
+R1 =96
+
+R1 =99
+
+Figure 5. σrr , σrθ polar coordinates components of the stress tensor on the Kevlar fiber domain, for
+1
+varying values of the ratio of the inner to outer radius R
+R2 :
+R1
+R1
+(a) σrr , R2 = 0.90, (b) σrθ , R2 = 0.90,
+R1
+1
+(c) σrr , R
+R2 = 0.93, (d) σrθ , R2 = 0.93,
+R1
+R1
+(e) σrr , R
+= 0.96, (f) σrθ , R
+= 0.96,
+2
+2
+R1
+R1
+(g) σrr , R2 = 0.99, (h) σrθ , R2 = 0.99 .
+Applied on the outer boundary force per unit area is the same, at ±1 unit, and is in the Y
+π
+direction; it is applied on the outer boundary within a polar angle interval of width 16
+centered
+π
+at θ = ± 2 .
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+20
+
+Figure 6. Von Mises stress σM (a) on the whole domain , (b) in the fiber region only, in the
+R1
+is 0.95 . Applied force per unit area is ±1
+case where ratio of the inner to outer radius R
+2
+unit, and is a compression along the Y axes; it is applied on the outer boundary within a polar
+π
+angle interval of width 16
+centered at θ = π2 , with an opposite force applied in the diametrically
+opposite region.
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+a
+
+b
+
+Y
+
+X
+
+d
+
+c
+
+Y
+
+21
+
+Y
+
+X
+
+X
+
+e
+
+f
+
+Figure 7. External loads, corresponding typical displacements, and reductions of the maximum
+Von Mises stress in the Kevlar fiber region as a function of the ratio of the Kevlar fiber radius
+R1 to the total radius R2 :
+(a) uni-axial compression in the Y direction, applied to the outer graphene layer, and having a
+π
+on the Y axes. Typical displacements are shown.
+sharp peak of angular width 16
+(b)off-center compression in the Y direction, applied to the outer graphene layer at 4 points,
+π
+having polar angles ± π4 , ± 3π
+4 , and of angular width 16 each .
+(c) one-sided off-center compression in the Y direction, applied to the outer graphene layer at
+
+Simulation of the Elastic Properties of Reinforced Kevlar-Graphene Composites
+
+22
+
+π
+two points, having polar angles ± π4 , and of angular width 16
+each.
+(d) reduction of the maximum Von Mises stress in the Kevlar fiber region, as a function of the
+ratio of the Kevlar fiber radius R1 to the total radius R2 , for the central loading shown in Fig.
+7(a).
+1
+(e) reduction of the maximum Von Mises stress in the Kevlar fiber region, as a function of R
+R2 ,
+in the case of symmetric off-center loading, Fig. 7(b)
+1
+(f)reduction of the maximum Von Mises stress in the Kevlar fiber region, as a function of R
+R2 ,
+in the case of one-sided off-center loading, Fig. 7(c).
+Reference red line in (d), (e), (f) corresponds to no graphene reinforcement.
+
+
+
+## Metadata
+- Source file: junk_drawer/DeltaV/Future Research/ReinforcedKevlar-GrapheneComposites.pdf
+- Extracted: 2026-05-18
+- Category: research-paper

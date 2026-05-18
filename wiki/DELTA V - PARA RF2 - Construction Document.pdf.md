@@ -1,0 +1,113 @@
+# DELTA V - PARA RF2 - Construction Document.pdf
+
+Source: junk_drawer/DELTA V - PARA RF2 - Construction Document.pdf
+
+Category: [[work-deltav]]
+
+## Summary
+HARD PLATE RF2 ●​ Product name / model number: DELTA V – PARA RF2 ●​ Armor type: HARD ●​
+
+## Full Content
+HARD PLATE RF2
+●​
+
+Product name / model number: DELTA V – PARA RF2
+
+●​
+
+Armor type: HARD
+
+●​
+
+NIJ standard: 0101.07
+
+●​
+
+Claimed threat level: RF2
+
+●​
+
+Construction description:
+
+Materials and Manufacturing Description
+1.​ Cutting of Ballistic Fabrics​
+The ballistic fabrics are cut using either an automatic CNC cutting machine or
+manual cutting methods. Cutting markers are generated based on size
+specifications and production quantities to optimize material yield.
+2.​ Layer Stacking​
+After cutting, the ballistic fabrics are stacked according to size. In this
+configuration, 100 layers of UHMWPE fabric are used, each with an areal density
+of 130 g/m².
+3.​ Mold Loading​
+The stacked fabric layup is positioned inside the mold cavity of the
+thermoforming press.
+4.​ Thermoforming and Consolidation​
+The thermoforming process is carried out under controlled pressure and
+temperature conditions. This thermo-mechanical cycle consolidates the fabric
+stack into a monolithic composite structure with a final thickness of 16 mm. The
+mold geometry defines the final plate shape while integrating all fabric layers into
+a single consolidated body.
+5.​ Front Ceramic Strike Face Bonding​
+A 5 mm thick monolithic Silicon Carbide (SiC) ceramic plate is bonded to the
+front (strike face) of the consolidated UHMWPE backing using a contact
+adhesive system. The purpose of the ceramic strike face is to disrupt, blunt, and
+erode steel-core projectiles (e.g., M855 / SS109), thereby reducing penetrator
+effectiveness before energy absorption by the composite backing.
+6.​ Aramid Spall Control Layer​
+Two woven aramid fabric layers are bonded to the Silicon Carbide plate using a
+
+polyurethane adhesive. This layer functions as a spall mitigation and fragment
+containment system.
+7.​ Trauma Reduction Panel Integration​
+A trauma reduction panel is cut and bonded to the rear face of each plate (the
+side in contact with the user). In this case, the trauma pad consists of
+cross-linked polyolefin foam with an areal density of 100 g/m². The foam is
+bonded to the UHMWPE backing using contact adhesive.
+8.​ External Protective Encapsulation​
+The fully assembled plate (SiC strike face + UHMWPE backing + trauma pad) is
+encapsulated with 1000 denier ripstop nylon fabric, pre-laminated with contact
+adhesive to ensure full surface bonding and environmental protection.
+9.​ Final Assembly​
+A front and rear plate are inserted into the corresponding carrier system (plate
+carrier vest) to configure a ballistic vest providing front and back RF2 ballistic
+protection.
+●​
+
+Nominal dimensions:
+
+Size
+
+Width [mm]
+
+Length [mm]
+
+Small
+
+222
+
+300
+
+Medium
+
+240
+
+300
+
+Standard
+
+254
+
+305
+
+Large
+
+260
+
+320
+
+
+
+## Metadata
+- Source file: junk_drawer/DELTA V - PARA RF2 - Construction Document.pdf
+- Extracted: 2026-05-18
+- Category: work-deltav

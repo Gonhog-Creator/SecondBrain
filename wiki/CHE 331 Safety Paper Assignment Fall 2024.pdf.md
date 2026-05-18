@@ -1,0 +1,46 @@
+# CHE 331 Safety Paper Assignment (Fall 2024).pdf
+
+Source: junk_drawer/CHE 331 Safety Paper Assignment (Fall 2024).pdf
+
+Category: [[technical-safety]]
+
+## Summary
+CHE 331 Safety Paper Assignment (Fall 2024) Description Each CHE 331 student has been assigned a safety video from the CSB Video Room, located at: http://www.csb.gov/videos The video assigned to each student is included in the “CHE 331 Safety Paper Assignment” file on the course’s Moodle page. Identify and watch your assigned video, then provide answers to the following prompts regarding the video's content: 1. (25%) Describe the incident(s) which occurred, including ramifications (damage to pro
+
+## Full Content
+CHE 331 Safety Paper Assignment (Fall 2024)
+Description
+Each CHE 331 student has been assigned a safety video from the CSB Video Room, located at:
+http://www.csb.gov/videos
+The video assigned to each student is included in the “CHE 331 Safety Paper Assignment” file
+on the course’s Moodle page. Identify and watch your assigned video, then provide answers to
+the following prompts regarding the video's content:
+1. (25%) Describe the incident(s) which occurred, including ramifications (damage to
+property, injuries/deaths, etc.)
+2. (25%) Describe what design, maintenance or operational issues caused the incident(s) to
+occur.
+3. (25%) Describe what could be done to prevent the incident(s) from occurring again.
+4. (5%) Rate the quality of the visuals used in the video on a scale of 1-10, and briefly
+explain your rating.
+5. (5%) Rate the overall quality/effectiveness of the video on a scale of 1-10, and briefly
+explain your rating.
+6. (15%) Dr. Golpour would like to assign only the most effective process safety
+assignments in his classes. With this in mind, provide a detailed suggestion for a different
+assignment / activity related to safety which you would have either preferred doing or
+found more valuable than this safety paper assignment. Be sure to describe how you
+would assess (grade) student learning of process safety – in other words, your suggestion
+must result in materials which can be graded rather than just a participation grade.
+Format and Delivery
+This paper is intended to be less than two pages in length, but you will not be penalized if you
+write more than two pages. Your paper should be typed in 12 pt Times New Roman font either in
+single or double-spaced format. Submit your paper to TurnItIn.com using the submission
+information provided on the Moodle page – if you haven’t already created a TurnItIn.com
+student account, follow the instructions in “TurnItIn Upload Instructions” file on the Moodle
+page to create an account.
+
+
+
+## Metadata
+- Source file: junk_drawer/CHE 331 Safety Paper Assignment (Fall 2024).pdf
+- Extracted: 2026-05-18
+- Category: technical-safety

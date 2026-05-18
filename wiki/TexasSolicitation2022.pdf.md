@@ -1,0 +1,725 @@
+# TexasSolicitation2022.pdf
+
+Source: junk_drawer/DeltaV/Future Research/Market Research/TexasSolicitation2022.pdf
+
+Category: [[other]]
+
+## Summary
+Request for Proposals RFP #2021-001 POLICE BODY ARMOR NOTICE TO RESPONDENTS The City of Edinburg is soliciting competitive sealed Request for Proposals; hereinafter referred to as RFP, to be received by the City Secretary’s Office located at 415 W. University Drive, Edinburg, Texas 78541. City of Edinburg normal business days are Monday through Friday between the hours of 8:00 a.m. to 5:00 p.m. and shall be closed on recognized holidays. RFPS will be received until 3:00 p.m. Central Time, on Mon
+
+## Full Content
+Request for Proposals
+RFP #2021-001
+POLICE BODY ARMOR
+
+NOTICE TO RESPONDENTS
+The City of Edinburg is soliciting competitive sealed Request for Proposals; hereinafter referred to as RFP, to be received
+by the City Secretary’s Office located at 415 W. University Drive, Edinburg, Texas 78541. City of Edinburg normal business
+days are Monday through Friday between the hours of 8:00 a.m. to 5:00 p.m. and shall be closed on recognized holidays.
+RFPS will be received until 3:00 p.m. Central Time, on Monday, November 2, 2020, shortly thereafter all submitted RFPS
+will be gathered and taken to the Edinburg City Hall Community Room, 1st Floor, to be publicly opened and read aloud. Any
+RFP received after the closing time will not be accepted and will be returned to the submitter unopened. It is the
+responsibility of the submitter to see that any RFP submitted shall have sufficient time to be received by the City Secretary’s
+Office prior to the RFP opening date and time. The receiving time in the City Secretary’s Office will be the governing time
+for acceptability of the RFPs. RFPs will not be accepted by telephone or facsimile machine. All RFPS must bear original
+signatures and figures. The RFP shall be for:
+
+RFP #2021-001
+POLICE BODY ARMOR
+If you have any questions or require additional information regarding this RFP, please contact Ms. Lorena Fuentes,
+Purchasing Agent, at (956) 388-1895 or at the following e-mail address: lfuentes@cityofedinburg.com. If you have any
+questions or require additional information regarding specifications for this proposal, please contact Laura Cerda
+at (956) 289-7710.
+The City of Edinburg reserves the right to refuse and reject any or all RFPs and to waive any or all formalities or
+technicalities and to accept the RFP deemed most advantageous to the City, and hold the RFPs for a period of 90 days
+without taking action.
+RFPs must be submitted in an envelope sealed with tape and prominently marked on the lower left hand corner of the
+envelope with corresponding RFP number and title.
+Please read your requirements thoroughly and be sure that the RFP offered complies with all requirements/specifications
+noted. Any variation from the solicitation requirements/specifications must be clearly indicated by letter, on a point by point
+basis, attached to and made a part of your RFP. If no exceptions are noted, and you are the successful respondent, it will
+be required that the service(s) be provided as specified.
+
+SECTION I.
+GENERAL TERMS AND CONDITIONS
+PURPOSE
+(1) The purpose of these solicitation documents is to provide a proposal for: POLICE BODY ARMOR The City of Edinburg
+(hereinafter referred to as “THE CITY”) is soliciting submittals from qualified companies with an interest in contracting, to
+provide approximately (24) twenty-four ballistic soft body armor vest. Proposed vest must meet NIJ Standard 0101.06 Level
+IIIA Compliance with (2) under uniform vest carriers per vest to the Edinburg Police Department located at 1702 S. Closner
+Bl., Edinburg Texas.
+INTENT
+(2) The services to be provided under this RFP shall be in accordance with and shall meet all specifications and/or
+requirements as shown in this solicitation for RFP. There is no intention to disqualify any respondent who can meet the
+requirements.
+SUBMITTAL OF RFP
+(3) RFPs shall be submitted in sealed envelopes as referenced on the attached solicitation. Three (3) complete sets of the
+response, one (1) original marked “ORIGINAL,” and two (2) copies marked “COPY”. RFPs submitted by facsimile (fax) or
+electronically shall NOT be accepted. Submittal of an RFP in response to this solicitation constitutes an offer by the
+respondent. Once submitted, RFPs become the property of the City of Edinburg and as such the City reserves the right to
+use any ideas contained in any RFP regardless of whether that respondent/firm is selected. Submission of a RFP in
+response to this solicitation, by any respondent, shall indicate that the respondent(s) has/have accepted the conditions
+contained in the RFP, unless clearly and specifically noted in the RFP submitted and confirmed in the contract between the
+City and the successful respondent otherwise. RFPs which do not comply with these requirements may be rejected at the
+option of the City. RFPs must be filed with the City of Edinburg before the deadline day and hour. No late RFPs will be
+accepted. They will be returned to respondent unopened (if properly identified). Failure to meet RFP requirements may be
+grounds for disqualification.
+Hand Delivered RFPS:
+
+415 W. University Drive
+c/o City Secretary Department (1st Floor)
+
+If using Land Courier (i.e. FedEx, UPS):
+
+City of Edinburg
+c/o City Secretary
+415 W. University Drive
+Edinburg, Texas 78541
+
+If Mailing RFPs:
+
+City of Edinburg
+c/o City Secretary
+P.O. Box 1079
+Edinburg, Texas 78540-1079
+
+TIME ALLOWED FOR ACTION TAKEN
+(4) The City of Edinburg may hold RFP/s 90 days after deadline without taking action. Respondents are required to hold
+their RFP/s firm for same period of time.
+RIGHT TO REJECT/AWARD
+
+(5) The City of Edinburg reserves the right to reject any or all RFPs, to waive any or all formalities or technicalities, and to
+make such awards of contract as may be deemed to be the best and most advantageous to the City of Edinburg.
+ASSIGNMENT
+(6) Respondents are advised that the City of Edinburg shall not allow the successful respondent to sell, assign, transfer, or
+convey any part of any contract resulting from this RFP in whole or in part, to a third party without the written approval of the
+City of Edinburg.
+AWARD
+(7) Respondents are advised that the City of Edinburg is soliciting RFPs and award shall be made to the respondent that in
+the opinion of the City of Edinburg is the best qualified.
+NUMBER OF CONTRACTS
+(8) THE CITY reserves the right to award one or no contract in response to this RFP.
+STATUTORY REQUIREMENTS
+(9) It shall be the responsibility of the successful respondent to comply with all applicable State & Federal laws, Executive
+Orders and Municipal Ordinances, and the Rules and Regulations of all authorities having jurisdiction over the work to be
+performed hereunder and such shall apply to the contract throughout, and that they will be deemed to be included in the
+contract as though written out in full in the contract documents.
+ALTERATIONS/AMENDMENTS TO RFP
+(10) RFP CANNOT be altered or amended after opening time. Alterations made before opening time must be initialed by
+respondent guaranteeing authenticity. No RFP may be withdrawn after opening time without acceptable reason in writing
+and only after approval by the City of Edinburg.
+NO RESPONSE TO RFP
+(11) If unable to submit a RFP, respondent should return inquiry giving reasons.
+LIST OF EXCEPTIONS
+(12) The respondent shall attach to his/her RFP a list of any exceptions to the specifications/ requirements.
+PAYMENT
+(13) The City of Edinburg will execute payment by mail in accordance with the State of Texas Pay Law after SERVICES
+have been completed, introduced to the City, and found to meet City of Edinburg specifications/requirements. No other
+method of payment will be considered.
+SYNONYM
+(14) Where in this solicitation package SERVICES is used, its meaning shall refer to the request for the purchase of
+POLICE BODY ARMOR as specified.
+RESPONDENT’S EMPLOYEES
+(15) Neither the Respondent nor his/her employees engaged in fulfilling the terms and conditions of this Service Contract
+shall be considered employees of the City. The method and manner of performance of such undertakings shall be under the
+exclusive control of the vendor on contract. The City shall have the right of inspection of said undertakings at any time.
+
+INDEMNIFICATION CLAUSE
+(16) The Respondent agrees to indemnify and save harmless the City, from all suits and actions of every nature and
+description brought against them or any of them, for or on account of the use of patented appliances, products or
+processes, and he shall pay all royalties and charges which are legal and equitable. Evidence of such payment or
+satisfaction shall be submitted upon request of the Purchasing Agent, as a necessary requirement in connection with the
+final estimate for payment in which such patented appliance, products or processes are used
+INTERPRETATIONS
+(17) Any questions concerning the project and/or specifications/requirements with regards to this solicitation for statement(s)
+of qualifications shall be directed to the designated individuals as outlined in the RFP. Such interpretations, which may
+affect the eventual outcome of this request for statements of qualifications, shall be furnished in writing to all prospective
+Respondents via Addendum. No interpretation shall be considered binding unless provided in writing by the City of Edinburg
+in accordance with paragraph entitled “Addenda and Modifications”.
+VERBAL THREATS AND OFFICIAL CONTACT
+(18) Any threats made to any employee of the City, be it verbal or written, to discontinue the providing of
+item/material/services for whatever reason and/or reasons shall be considered a breach of contract and the City will
+immediately sever the contract with the Respondent/Consultant on contract.
+Respondents shall not offer gratuities, favors or any monetary value to any official or employee of the City for purpose of
+influencing the selection. Any attempt by any Respondent to influence the selection process by any means, other than
+disclosure of qualifications and credentials through the proper channels, shall be grounds from exclusion from the selection
+process. Once the project is advertised, there shall be no contact with any city official or employee unless using the formal
+process through the Purchasing Department. Failure to comply will result in the firm being disqualified from the process.
+CONFIDENTIAL INFORMATION
+(19) Any information deemed to be confidential by the respondent should be clearly noted on the pages where confidential
+information is contained; however, the City cannot guarantee that it will not be compelled to disclose all or part of any public
+record under Texas Public Information Act, since information deemed to be confidential by the respondent may not be
+considered confidential under Texas Law, or pursuant to a Court order.
+PAST PERFORMANCE
+(20) Respondent’s past performance shall be taken into consideration in the evaluation of RFP submittal.
+JURISDICTION
+(21) Contract(s) executed as part of this solicitation shall be subject to and governed under the laws of the State of Texas.
+Any and all obligations and payments are due and performable and payable in Hidalgo County, Texas.
+RIGHT TO AUDIT
+(22) The City of Edinburg reserves the right to audit the vendor’s books and records relating to the performance of this
+contract. The City of Edinburg, at its own expense, shall have the right at all reasonable times during normal business
+hours and upon at least twenty-four (24) hours’ advance notice, to audit, to examine, and to make copies of or extracts from
+the books of account and records maintained by the vendor(s) with respect to the Supply/Service and/or Purchase Contract.
+If such audit shall disclose overpayment by City to vendor, written notice of such overpayment shall be provided to the
+vendor and the amount of overpayment shall be promptly reimbursed by vendor to the City. In the event any such
+overpayment is not paid within ten (10) business days after receipt of such notice, the unpaid amount of such overpayment
+shall bear interest at the rate of one percent (1%) per month from the date of such notice until paid.
+
+VENUE
+(23) The parties agree that venue for purposes of any and all lawsuits, cause of action, arbitration, and/or any other
+dispute(s) shall be in Hidalgo County, Texas.
+IF YOU HAVE ANY QUESTIONS ABOUT COMPLIANCE, PLEASE CONSULT YOUR OWN LEGAL COUNSEL.
+COMPLIANCE IS THE INDIVIDUAL RESPONSIBILITY OF EACH PERSON OR AGENT OF A PERSON WHO IS
+SUBJECT TO THE FILING REQUIREMENT. AN OFFENSE UNDER CHAPTER 176 IS A CLASS “C” MISDEMEANOR.
+CONFLICT OF INTEREST
+(24) CHAPTER 176 OF THE TEXAS LOCAL GOVERNMENT CODE
+Effective January 1, 2006, Chapter 176 of the Texas Local Government Code requires that any vendor or person
+considering doing business with a local government entity disclose in the Questionnaire Form CIQ, the vendor or person’s
+affiliation or business relationship that might cause a conflict of interest with a local government entity. By law, this
+questionnaire must be filed with the records administrator of the City of Edinburg not later than the 7 th business day after the
+date the person becomes aware of facts that require the statement be filed. See Section 176.006, Local Government Code.
+A person commits an offense if the person violates Section 176.006, Local Government Code. An offense under this
+section is a Class C misdemeanor. For more information or to obtain Questionnaire CIQ go to the Texas Ethics
+Commission web page at www.ethics.state.tx.us/forms/CIQ.pdf.
+CERTIFICATE OF INTERESTED PARTIES (Form 1295)
+(25) In 2015, the Texas Legislature adopted House Bill 1295, which added section 2252.908 of the Government Code. The
+law states that a governmental entity or state agency may not enter into certain contracts with a business entity unless the
+business entity submits a disclosure of interested parties to the governmental entity or state agency at the time the business
+entity submits the signed contract to the governmental entity or state agency. The law applies only to a contract of a
+governmental entity or state agency that either (1) requires an action or vote by the governing body of the entity or agency
+before the contract may be signed or (2) has a value of at least $1 million. The disclosure requirement applies to a contract
+entered into on or after January 1, 2016. For more information go to the Texas Ethics Commission web page at
+www.ethics.state.tx.us/forms/CIQ.pdf.
+CONFIDENTIALITY OF INFORMATION AND SECURITY
+(26) Should the successful respondent become the holder of and have access to confidential information in the process of
+fulfilling its responsibilities in connection with an awarded contract the successful respondent agrees that it shall keep such
+information confidential and will comply fully with the laws and regulations of the State of Texas, ordinances and regulations
+of the City, and any applicable federal laws and regulations relating to confidentiality.
+TERMINATION OF CONTRACT
+(27) The City of Edinburg reserves the right to terminate the contract if, in the opinion of the City of Edinburg, the successful
+vendor’s performance is not acceptable, no funds are available, or if the City wishes, without cause, to discontinue this
+contract. Termination will be in written form allowing a 30-day notice.
+RESPONSE DEADLINE
+(28) Responses to the RFP must be addressed to City Secretary, City of Edinburg, 415 W. University Drive by Monday,
+November 2, 2020 until 3:00 p.m. for consideration. An (1) original and two (2) copies of complete sets of the response
+must be submitted no later than this date and time in a sealed envelope indicating that its contents are in response to the
+RFP for the “POLICE BODY ARMOR”. Respondents are advised that all confidential records must be submitted in a
+separate sealed envelope and marked accordingly.
+
+ADDENDA AND MODIFICATIONS
+(29) Any changes, additions, or clarifications to the RFP are made by amendments (addenda). Any respondent in doubt as
+to the true meaning of any part of the RFP or other documents may request an interpretation from the Purchasing Division.
+At the request of the respondent, or in the event the Purchasing Division deems the interpretation to be substantive, the
+interpretation will be made by written addendum. Said Addenda shall be mailed, e-mailed, hand delivered and/or faxed, to
+all prospective respondents. All Addenda issued in respect to this RFP shall be considered official changes to the original
+documents. Verbal statements in response to inquiries and/or requests for explanations shall not be authoritative or
+binding. It shall be the respondent’s responsibility to ensure that they have received all Addenda in respect to this project.
+Furthermore, respondents are advised that they must recognize, comply with, and attach a signed copy of each Addendum
+which shall be made part of their RFP Submittal. Respondent(s) signature on Addenda shall be interpreted as the
+respondent’s “recognition and compliance to” official changes as outlined by the City of Edinburg and as such are made part
+of the original solicitation documents. Failure of any respondent to receive any such addendum or interpretation shall not
+relieve such respondent from its terms and requirements. The City may issue a written addendum no later than five
+calendar days prior to the date bids must be received. Addendums are available online at www.cityofedinburg.com.
+RFP PREPARATION COSTS
+(30) The City of Edinburg shall not be held liable for any costs incurred by any respondent for work performed in the
+preparation of and production of a RFP or for any work performed prior to execution of contract.
+EQUAL EMPLOYMENT OPPORTUNITY
+(31) Respondent agrees that they will not discriminate in hiring, promotion, treatment, or other terms and conditions of
+employment based on race, sex, national origin, age, disability, or in any way violate Title VII of 1964 Civil Rights Act and
+amendments, except as permitted by said laws.
+AUTHORIZATION TO BIND RESPONDENT TO RFP
+(32) RFPs MUST give full firm name and address of respondent, and be manually signed. Failure to do so will disqualify
+your RFP. Person signing bid must show title or AUTHORITY TO BIND HIS/HER FIRM IN A CONTRACT. Firm name and
+authorized signature must appear on each page that calls for this information. The legal status of the Respondent whether
+corporation, partnership, or individual, shall also be stated in the RFP. A corporation shall execute the RFP by its duly
+authorized officers in accordance with its corporate by-laws and shall also list the state in which it is incorporated. A
+partnership Respondent shall give full names and addresses of all partners. All partners shall execute the RFP.
+Partnership and Individual Respondent shall state in the proposal the names and addresses of all persons with a vested
+interest therein. The place of residence of each Respondent, or the office address in the case of a firm or company, with
+county and state and telephone number, shall be given after the signature.
+BRAND OR MANUFACTURER REFERENCE
+(33) Unless otherwise specified, any catalog or manufacturer’s reference or brand name used in describing an item is
+merely descriptive, and not restrictive, and is used only to indicate type and style of product desired. Proposals on alternate
+brands will be considered if they meet specification requirements. If a bidder quotes on equipment other than the one(s)
+specified in the bid, sufficient specifications and descriptive (pictured literature) data must accompany same to permit
+thorough evaluation. In the absence of these qualifications, he/she will be expected to furnish the product called for.
+COOPERATIVE PRICING
+(34) Bidders are advised that in addition to responding to our “local” solicitation for bids/Bids with Dealer pricing,
+vendors/contractors are encouraged to provide pricing on the below referenced items/products/services based on
+BuyBoard, TX-MAS, H-GAC and/or any other State of Texas recognized and approved cooperative which has complied with
+the bidding requirements for the State of Texas. If bidding other than or in addition to “dealer” pricing, kindly duplicate the
+
+bid forms for each bid being provided from a cooperative contract. Any and all applicable fees must be included. All
+cooperative pricing must be submitted on or before bid opening date and hour.
+QUESTIONS AND CLARIFICATIONS
+(35) Questions and clarifications that change or substantially clarify the Request for Proposals will be affirmed in writing and
+copies will be provided to all firms on record responding to RFP. Any inquiries to this RFP must be submitted to Ms.
+Lorena Fuentes, Purchasing Agent, at (956) 388-1895 or at the following e-mail address:
+lfuentes@cityofedinburg.com no later than October 23, 2020 at 5:00 p.m.
+HB 89
+(35) The 85th Texas Legislature approved new legislation, effective Sept. 1, 2017, which amends Texas Local Government
+Code Section 1. Subtitle F, Title 10, Government Code by adding Chapter 2270 which states that a governmental entity may
+not enter into a contract with a company for goods or services unless the contract contains a written verification from the
+company that it:
+1) does not boycott Israel; and
+2) will not boycott Israel during the term of the contract
+Confidential Information Respondents are advised that all confidential records must be submitted in a separate
+sealed envelope and marked accordingly.
+
+SECTION II
+RFP REQUIREMENTS
+PURPOSE:
+The intent of this Request for Proposal and resulting contract is to obtain pr oposals from a qualified
+professional company to provide approximately (24) twenty-four ballistic soft body armor vest meeting NIJ Standard
+0101.06 Level IIIA Compliance with (2) under uniform vest carriers per vest; to the Edinburg Police Department located at
+1702 S. Closner Blvd., Edinburg Texas. The term proposal, will be from the date the City Council approves the award of the
+RFP through September 30, 2021, with an automatic (2) one fiscal year extension; unless either party decides to terminate
+the resulting contract by certified mail by September 1st, 2021.
+REQUEST FOR PROPOSALS: The required contents and limitations for the preparation of the RFP are described in this
+section. Failure to provide the requested information or adhere to any of The CITY limitations will result in disqualification of
+the submitted RFP. A total of one (1) original and two (2) copies of the RFP shall be submitted to the address on the
+cover letter.
+SUBMITTAL: For proper comparison and evaluation, THE CITY requests that proposals address, at a minimum, the
+following format.
+1) Cover Letter - A brief introductory letter of representation. The letter of representation shall include the history of
+the company and experience with body armor. The statement shall also include documentation of financial
+stability. The financial stability statement shall include a statement profits and losses for the last 10 years.
+2) Proof of NIJ-Standard-0101.06 Level IIIA Compliance - The vendor shall provide proof of NIJ-Standard-0101.06
+Level IIIA Compliance. Documentation shall include proof of the following: Any body armor not meeting proof of
+NIJ-Standard -0101.06 level III will be rejected and will not be considered.
+a)
+b)
+c)
+d)
+e)
+f)
+g)
+h)
+i)
+j)
+
+Compliance testing with NIJ Standard 0101.06 Level IIIA
+Ballistic panel weight per square foot and method or standard used to calculate the weight.
+Ballistic panel thickness in inches.
+Test Data for Threat 1 – Low Caliber, V50 and BFS (Back Face Signature), Certification date.
+Test Data for Threat 2 – High Caliber, V50 and BFS (Back Face Signature), Certification date.
+Special Threat Testing Data.
+A summary of the construction for uniform panel creation.
+A summary of the materials used in the ballistic panels.
+A summary of the materials used in the ballistic panel cover material.
+A summary description of how the ballistic panels are protected from water or moisture which could affect
+ballistic protective performance.
+k) A summary description of the under uniform shirt protective carrier’s properties such as color, style and any
+electric incapacitating properties from electric weapons.
+l) Warranty terms and conditions.
+3) Sample Body Armor – All vendors shall submit samples for male and female body armor of the proposed body
+armor. Vendor shall be responsible for all shipping cost. The Edinburg Police Department is responsible for
+returning the sampled once shipping tags have been sent or provided to the police department.
+4) Personal Customer Care Service – A detailed statement regarding how officer measurements will be obtained,
+
+to include the number of proposed fitting dates at the Edinburg Police Department located at 1702 S. Closner
+Blvd., Edinburg Texas.
+a) Vendor shall also include a detailed statement regarding proper tailoring, e xchanges, and returns.
+b) The statement should include what method will be used to measure officers for example tape measurements
+or use of sample body armor.
+c) The statement should address measurement fitting for officers working evenings and graveyard shifts.
+d) The statement shall include delivery procedure to the Edinburg Police Department.
+e) The statement or RFP shall include a sample “Shipping Report or Packing Slip” and how it will be affixed
+outside packages. The “Shipping Report or Packing Slip” shall provide a detailed description of the contents.
+f) A statement agreeing to ship officer’s body armor with packaging labels which allow for officer identification
+without the need to open the package.
+5) References – Provide a listing of (5) five Police Departments of the similar size of the Edinburg Police
+Department (150 sworn) which the vendor has provided body armor for. Provide the Department’s name, contact
+person, phone number and email address.
+6)
+
+Value Analysis- Please use the “Value Analysis Vendor’s Submission” Form (Attachment V) at the end of the
+RFP. The Department RFP committee members will use this form in order to evaluate price value among Vendors.
+Low price will not be the sole factor in the vendor selection process. Price will be one of many factors in the
+vendor selection process.
+
+SECTION III
+SELECTION AND SCHEDULES
+SELECTION PROCEDURES: The RFP shall be submitted according to the schedule below.
+PROPOSAL RANKING: A selection committee composed of (3) three Police Officers with at least (5) five years of
+experience as police officers within the Edinburg Police Department will evaluate and rank the written RFPs on the vendor’s
+proof of financial stability, sample of body armor submission, personal care customer service, references and value
+analysis. After the RFPs have been ranked, the committee will make a recommendation to the CITY Council.
+NEGOTIATING PROCESS: If negotiations prove unsuccessful, the next highest ranked firm will be contacted. The CITY
+reserves the right to reject any and all RFPs.
+RFP SUBMITTED TO: An original and two (3) copies of RFPs should be submitted to:
+City of Edinburg
+c/o City Secretary
+415 West University
+Edinburg, Texas 78541
+RFPs must be submitted by no later than 3:00 p.m. on Monday, November 2, 2020.
+
+SECTION IV
+GENERAL CONTRACT TERMS AND CONDITIONS
+CONTRACT
+The award of the contract shall be made to the responsible Proposer whose proposal is evaluated and determined
+to be the greatest value to the City resulting from negotiations, taking into consideration the relative importance of
+price and other factors set forth in the Request for Proposals in accordance with the Texas Local Government Code,
+Chapter 262.
+Negotiations may be conducted with responsible bidders who submit proposals determined to be reasonably susceptible
+of being selected for award. All bidders will be accorded fair and equal treatment with respect to any opportunity for
+negotiation and revision of proposals. Revisions to proposals may be permitted after submission and before award for
+the purpose of obtaining best and final offers.
+CONFLICT OF INTEREST
+No public official shall have any interest in this contract, except as permitted by and subject to the disclosure
+requirements of Vernon’s Texas Codes Annotated, Local Government Code, Title 5, Subtitled C, Chapter 171.
+CONFIDENTIALITY
+All information disclosed by the CITY to successful Proposer for the purpose of the work to be done or information that
+comes to the attention of the successful Proposer during the course of performing such work is to be kept strictly
+confidential.
+ADDENDA
+Any interpretations, corrections or changes to this RFP will be made by addenda. Sole issuing authority of addenda
+shall be vested in THE CITY Purchasing. Addenda will be mailed to all who are known to have received a copy of this
+Request for Proposal. Proposers shall acknowledge receipt of all addenda.
+CHANGE ORDERS
+No oral statement of any person shall modify or otherwise change, or affect the terms, conditions or specifications
+stated in the resulting contract. All change orders to the contract will be made in writing by THE CITY purchasing staff.
+ASSIGNMENT
+The successful Proposer shall not sell, assign, transfer or convey any contract resulting from this RFP, in whole or in
+part, without the prior written consent of THE CITY Council.
+VENUE
+This agreement will be governed and construed according to the laws of the State of Texas. This agreement is
+performable in Edinburg, Texas.
+SUBMITTAL OF CONFIDENTIAL MATERIAL
+Any material that is to be considered as confidential in nature must be clearly marked as such by the Proposer and will
+be treated as confidential by the CITY.
+MINIMUM STANDARDS FOR RESPONSIBLE PROSPECTIVE PROPOSERS
+A prospective Proposer must meet the following requirements:
+
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+
+A prospective Proposer must affirmatively demonstrate their responsibility.
+Have adequate financial resources, or the ability to obtain such resources as required;
+Be able to comply with the required or proposed delivery schedule;
+Have a satisfactory record of performance;
+Have a satisfactory record of integrity and ethics;
+Be otherwise qualified and eligible to receive an award;
+THE CITY may request representation and other information sufficient to determine Proposer ’s ability to meet
+these minimum standards listed above.
+
+SUCCESSFUL PROPOSER SHALL
+Successful Proposer shall defend, indemnify and save harmless the CITY and all its officers, agents and employees
+from all suits, actions, or other claims of any character, name and description brought for or on account of any injuries
+or damages received or sustained by any person, persons, or property on account of any negligent act or fault of the
+successful Proposer, or of any agent, employee, subcontractor or supplier in the execution of, or performance under,
+any contract which may result from proposal award. Successful Proposer shall pay any judgment with cost which may
+be obtained against THE CITY growing out of such injury or damages.
+PROPOSALS/PROPOSERS MUST COMPLY WITH:
+All federal, state, county and local laws governing or covering this type of service.
+TERMINATION OF CONTRACT
+1. This contract shall remain in effect until completion and acceptance of services or default. THE CITY reserves
+the right to terminate the contract immediately in the event the successful Proposer fails to:
+a) Meet delivery or
+b) Otherwise perform in accordance with the accepted proposal.
+2.
+
+Breach of contract or default authorizes the CITY to award to another Proposer, purchase elsewhere and
+charge the full increase cost to the defaulting Proposer.
+
+PURCHASE ORDER
+A purchase order(s) shall be generated by The City to the successful Proposer.
+INVOICES
+The invoices shall show:
+1. Name and address of successful Proposer;
+2. Officer submitting the order. To include date and time and order number.
+3. A Detailed line item listing, to include quantities, description, sku number or item number, unit price.
+4. THE CITY Purchase Order Number.
+Invoices shall be based upon actual products delivered.
+PAYMENT
+Payment will be made upon receipt and acceptance by the CITY of all completed services and/or products ordered and
+receipt of a valid invoice, in accordance with the Texas Government Code, Chapter 2251.
+NUMBER OF COPIES TO BE SUBMITTED: The CITY requires one (1) original submittal and three (3) copies.
+
+SECTION V
+VENDOR RFP EVALUATION
+RFP – EVALUATION: The evaluation system consists of a 100 percentage point system. The RFP will be ranked after
+evaluation. The submittal evaluation will be based on the following criteria.
+30%
+
+Financial Stability
+
+30%
+
+Sample Body Armor Submission
+
+15%
+
+Personal Customer Care Service
+
+10%
+
+References
+
+15%
+
+Value Analysis
+
+SECTION VII
+AWARD OF CONTRACT, RESERVATION OF RIGHTS
+Final Selection and The CITY Council Approval: THE CITY may accept any Submittal in whole or in part. If subsequent
+negotiations are conducted, they shall not constitute a rejection or alternate RFP on the part of THE CITY. However, final
+selection of a company submitting proposal for Police Apparel & Equipment is subject to THE CITY Council approval.
+Remedy of Technical Errors: THE CITY reserves the right to accept one or more submittals or reject any or all submittals
+received in response to this RFP, and to waive informalities and irregularities in the submittals received. THE CITY also
+reserves the right to terminate this RFP, and reissue a subsequent solicitation, and/or remedy technical errors in the RFP
+process.
+Preparation Costs: This RFP does not commit THE CITY to enter into a Contract, award any services related to this RFP,
+nor does it obligate THE CITY to pay any costs incurred in preparation or submission of a submittal or in anticipation of a
+contract.
+Insurance and Indemnity: If selected, company submitting proposal for Police Apparel & Equipment will be required to
+comply with the Insurance and Indemnity Requirements established herein.
+Independent Contractor: The company submitting proposal for Police Apparel & Equipment agrees and understands that,
+if selected, it and all persons designated by it to provide services in connection with a contract, is (are) and shall be deemed
+to be (an) independent contractor(s), responsible for its (their) respective acts or omissions, and that THE CITY shall in no
+way be responsible for company submitting proposal for Police Apparel & Equipment actions, and that none of the parties
+hereto will have authority to bind the other or to hold out to third parties.
+Purchase Orders, As Needed: Execution of a contract does not obligate The CITY to engage any delivery orders,
+Purchase Orders, or other commitments for services. Service delivery shall be at the CITY’s discretion, as needed, and will
+be communicated to the company submitting proposal for Police Apparel & Equipment through individual Purchase Orders.
+
+ATTACHMENT I
+RFP EVALUATION FORM
+
+Selection
+Criteria
+
+*RIF
+Range
+
+*RIF
+Max
+
+0-30
+
+(30)
+
+=
+
+(
+
+)
+
+0-30
+
+(30)
+
+=
+
+(
+
+)
+
+0-15
+0-10
+0-15
+
+(15)
+(10)
+(15)
+
+=
+=
+=
+
+(
+(
+(
+
+)
+)
+)
+
+Financial Stability
+Sample Body Armor Submission – To include (1) one uniform
+undershirt carrier and (1) one raid Vest Carrier in black with
+“POLICE” and equipment pockets.
+Personal Customer Care Service
+References
+Value analysis
+
+Score
+
+Provider: _____________________________________________________
+Evaluator: ______________________ Date: ________________________
+*
+
+The Relative Importance Factor (RIF) is the relative importance (or weight) of each criterion as it relates to the
+particular project, and must be within the specified acceptable range. The RIF is expressed as a percentage of the
+total importance of the project and always totals 100%.
+
+ATTACHMENT II
+LITIGATION DISCLOSURE FORM
+Failure to fully and truthfully disclose the information required by this Litigation Disclosure form may result in the
+disqualification of your submittal from consideration or termination of the contract, once awarded.
+1. Have you or any member of your Firm or Team to be assigned to this engagement ever been indicted or convicted of a
+felony or misdemeanor greater than a Class C in the last five (5) years?
+Circle One
+1
+
+YES
+
+NO
+
+Have you or any member of your Firm or Team to be assigned to this engagement ever been terminated (for cause
+or otherwise) from any work being performed for the CITY or any other Federal, State or Local Government, or
+Private Entity?
+
+Circle One
+
+YES
+
+NO
+
+3. Have you or any member of your Firm or Team to be assigned to this engagement ever been involved in any claim or
+litigation with the CITY or any other Federal, State or Local Government, or Private Entity during the last ten (10) years?
+Circle One
+
+YES
+
+NO
+
+If you have answered “Yes” to any of the above questions, please indicate the name(s) of the person(s), the nature,
+and the status and/or outcome of the information, indictment, conviction, termination, claim or litigation, as
+applicable. Any such information should be provided on a separate page, attached to this form and submitted with
+your submittal.
+
+ATTACHMENT III
+COMPANY PROVIDING PROPOSAL GENERAL QUESTIONNAIRE
+1
+
+Name/Name of Agency/Company:
+(Full, correct legal name)
+
+
+Address:
+
+
+
+
+Telephone/Fax:
+Email address:
+
+2. Does your Company anticipate any mergers, transfer of organization ownership, management reorganization, or
+departure of key personnel within the next twelve (12) months that may affect the organization’s ability to carry out its
+submittal?
+Yes____ No____
+3. Is your Company authorized and/or licensed to do business in Texas?
+Yes____ No____
+4. Where is the Company’s corporate headquarters located?
+5. a. Does the Company have an office located in Edinburg, Texas?
+Yes____ No____
+b. If the answer to the previous question is “yes”, how long has the Company conducted business from its Edinburg
+office?
+_____ (years) _____ (months)
+c. State the number of full-time employees at the Edinburg office.
+6. Has the Company or any of its principals been debarred or suspended from contracting with any public entity?
+Yes____ No____
+If yes, identify the public entity and the name and current phone number of a representative of the public entity familiar
+with the debarment or suspension, and state the reason for or circumstances surrounding the debarment or
+suspension, including but not limited to the period of time for such debarment or suspension.
+
+7. Indicate person whom The CITY may contact concerning your submittal.
+Name:
+Address:
+
+Telephone:
+Fax:
+Email:
+8. Surety Information
+Have you or the Company ever had a bond or surety instrument “called,” canceled, or forfeited?
+Yes ( ) No ( ).
+If yes, state the name of the bonding company, date, amount of bond and reason for such bond being “called,” or its
+cancellation or forfeiture.
+
+9. Bankruptcy Information
+Have you or the Company ever been declared bankrupt or filed for protection from creditors under state or federal
+proceedings? Yes ( ) No ( )
+If yes, state the date, court, jurisdiction, cause number, amount of liabilities and amount of assets.
+
+10. Provide any other names under which your business has operated within the last 10 years.
+
+ATTACHMENT IV
+SUBMITTAL CHECKLIST
+This checklist is to help the company submitting proposal for ballistic soft body armor vest meeting NIJ Standard
+0101.06 Level IIIA Compliance ensure that all required documents have been included in its submittal.
+Document and Location in Submittal
+
+Financial Stability Statement
+NIJ-Standard -0101.06 level III Certification documentation
+Ballistic carrier protection from electrical weapons documentation.
+Sample Body Armor Submissions
+Customer Care Service Statement
+References
+Value Analysis
+
+HB 89 Verification Form
+
+1 Original* and 2 Copies of Submittal
+
+Check or Initial to
+Indicate Document is
+Attached to
+Submittal
+
+HOUSE BILL 89 VERIFICATION
+
+I, __________________________________________________, the undersigned representative of
+_____________________________________________________, (Company or Business name) (hereafter referred to as
+company) being an adult over the age of eighteen (18) years of age, verify that the company named-above, under
+the provisions of Subtitle F, Title 10, Government Code Chapter 2270:
+1. Does not boycott Israel currently; and
+2. Will not boycott Israel during the term of the contract.
+3) Is not currently listed on the State of Texas Comptroller’s Companies that Boycott Israel List located at
+https://comptroller.texas.gov/purchasing/publications/divestment.php
+Pursuant to Section 2270.001, Texas Government Code:
+1. “Boycott Israel” means refusing to deal with, terminating business activities with, or otherwise taking any action that is
+intended to penalize, inflict economic harm on, or limit commercial relations specifically with Israel, or with a person or entity
+doing business in Israel or in an Israeli-controlled territory, but does not include an action made for ordinary business
+purposes; and
+2. “Company” means a for-profit sole proprietorship, organization, association, corporation, partnership, joint venture, limited
+partnership, limited liability partnership, or any limited liability company, including a wholly owned subsidiary, majority-owned
+subsidiary, parent company or affiliate of those entities or business associations that exist to make a profit.
+
+_______________________________________________________
+SIGNATURE OF COMPANY REPRESENTATIVE:
+_______________________________________________________
+TYPE/PRINT NAME AND TITLE:
+_______________________________________________________
+DATE:
+
+Attachment V
+Value Analysis Vendor’s Submission
+Quantity
+
+Item Description
+
+1
+
+NIJ-Standard -0101.06 level III body Armor with (2) two under uniform
+soft body carrier with electric weapons protection.
+
+2
+
+Shipping and freight charges
+
+Unit Cost
+
+Extension
+
+
+
+## Metadata
+- Source file: junk_drawer/DeltaV/Future Research/Market Research/TexasSolicitation2022.pdf
+- Extracted: 2026-05-18
+- Category: other

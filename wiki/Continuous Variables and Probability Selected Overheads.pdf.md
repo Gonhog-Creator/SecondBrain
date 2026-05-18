@@ -1,0 +1,77 @@
+# Continuous Variables and Probability (Selected Overheads).pdf
+
+Source: junk_drawer/Continuous Variables and Probability (Selected Overheads).pdf
+
+Category: [[other]]
+
+## Summary
+Known Relationships for Continuous Variables  Probability of x falling in the x1 – x2 range → P(x1<x<x2): x2 =  f ( x)dx x1 
+
+## Full Content
+Known Relationships for Continuous Variables
+
+
+Probability of x falling in the x1 – x2 range → P(x1<x<x2):
+x2
+
+=  f ( x)dx
+x1
+
+
+
+Sum of all probabilities must add to 1:
+
+
+1=
+
+ f ( x)dx
+
+
+
+
+
+Expectation value of x → E(x) = <x>:
+
+
+ xf ( x)dx
+
+=
+
+
+
+
+
+Expectation value of a function of x → E[y(x)] = <y(x)>
+
+
+=  y ( x) f ( x)dx
+
+
+
+
+2
+
+Variance of x → σ :
+
+
+= E[(x-<x>)2] =  ( x   x ) 2 f ( x)dx
+
+
+
+
+Standard Deviation of x → σ:
+
+
+=
+
+ ( x  x ) f ( x)dx
+2
+
+
+
+
+
+## Metadata
+- Source file: junk_drawer/Continuous Variables and Probability (Selected Overheads).pdf
+- Extracted: 2026-05-18
+- Category: other

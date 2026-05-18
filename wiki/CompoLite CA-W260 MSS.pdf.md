@@ -1,0 +1,53 @@
+# CompoLite CA-W260 MSS.pdf
+
+Source: junk_drawer/CompoLite CA-W260 MSS.pdf
+
+Category: [[technical-safety]]
+
+## Summary
+COMPOLITE® CA-W260 PRODUCT SPECIFICATION SHEET CA-W260 is a composite material for bullet-proof soft armor applications, to reduces post-shot trauma. It is made from Aramid Prepreg Woven Fabric. Items Properties Fiber
+
+## Full Content
+COMPOLITE® CA-W260
+PRODUCT SPECIFICATION SHEET
+
+CA-W260 is a composite material for bullet-proof soft armor applications, to
+reduces post-shot trauma. It is made from Aramid Prepreg Woven Fabric.
+Items
+
+Properties
+
+Fiber
+
+Aramid
+
+Areal density (g/m2)
+
+260±10
+
+Standard Roll Length (m)
+
+50
+
+Standard Roll Width (cm)
+
+120±2
+
+Applications
+
+Anti Trauma
+
+Note:
+Roll length or width can be tailored-made
+Estimate weight per Roll (120m in a roll): 15kgs
+
+1/1
+
+Science for Lighter Composite
+
+
+
+## Metadata
+- Source file: junk_drawer/CompoLite CA-W260 MSS.pdf
+- Extracted: 2026-05-18
+- Category: technical-safety

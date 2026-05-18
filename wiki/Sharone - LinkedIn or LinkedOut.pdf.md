@@ -1,0 +1,1299 @@
+# Sharone - LinkedIn or LinkedOut.pdf
+
+Source: junk_drawer/Sharone - LinkedIn or LinkedOut.pdf
+
+Category: [[other]]
+
+## Summary
+LINKEDIN OR LINKEDOUT? HOW SOCIAL NETWORKING SITES ARE RESHAPING THE LABOR MARKET Ofer Sharone ABSTRACT The rapid growth of online social networking sites (“SNS”) such as LinkedIn and Facebook has created new forms of online labor market intermediation that are reconfiguring the hiring process in profound ways; yet, little is understood about the implications of these new technologies for job seekers navigating the labor market, or more broadly, for the careers and lives of workers. The existing
+
+## Full Content
+LINKEDIN OR LINKEDOUT? HOW
+SOCIAL NETWORKING SITES ARE
+RESHAPING THE LABOR MARKET
+Ofer Sharone
+ABSTRACT
+The rapid growth of online social networking sites (“SNS”) such as LinkedIn
+and Facebook has created new forms of online labor market intermediation
+that are reconfiguring the hiring process in profound ways; yet, little is understood about the implications of these new technologies for job seekers navigating the labor market, or more broadly, for the careers and lives of workers.
+The existing literature has focused on digital inequality  workers’ unequal
+access to or skilled use of digital technologies  but has left unanswered critical questions about the emerging and broad effects of SNS as a labor market
+intermediary. Drawing on in-depth interviews with unemployed workers this
+paper describes job seekers’ experiences using SNS to look for work. The
+findings suggest that SNS intermediation of the labor market has two kinds
+of effects. First, as an intermediary for hiring, SNS produces labor market
+winners and losers involving filtering processes that often have little to do with
+evaluations of merit. Second, SNS filtering processes exert new pressures on
+all workers, whether winners or losers as perceived though this new filter, to
+manage their careers, and to some extent their private lives, in particular
+ways that fit the logic of the SNS-mediated labor market.
+Keywords: Labor market; social networking; human resources; Internet;
+digital technologies
+
+Emerging Conceptions of Work, Management and the Labor Market
+Research in the Sociology of Work, Volume 30, 131
+Copyright r 2017 by Emerald Publishing Limited
+All rights of reproduction in any form reserved
+ISSN: 0277-2833/doi:10.1108/S0277-283320170000030001
+
+1
+
+2
+
+OFER SHARONE
+
+Over a decade ago leading scholars of the American labor market began
+observing that the “Internet is bringing radical change to corporate recruiting”
+(Cappelli, 2001, p. 139), and predicted that a “spectacular rise” in online labor
+market intermediation “will change the way employer-employee matches are
+made” (Autor, 2001, p. 25). While academic research in this area remains
+sparse, the existing data suggest, as these scholars foresaw, that the use of the
+Internet for recruiting has rapidly risen. Since 2006 a majority of new hires
+have been “sourced” from the Internet (Cober & Brown, 2006), but little is
+known about the implications of this transformation for workers.
+The use of the Internet for hiring has come in two great waves. The first
+wave was marked by the rise of online job boards, such as Monster.com, where
+employers post ads and job seekers post resumes. This first wave replaced local
+newspaper ads with a globally accessible database of jobs listings and resumes
+that is continuously updated. A second wave of technological change  the
+explosive growth of online social networking sites (“SNS”)  has created new
+forms of online labor market intermediation that are currently reconfiguring
+the hiring process in even more profound ways that have no pre-digital equivalents. SNS are online platforms on which users create profiles, connect (or
+“friend”) other users, and make themselves visible and searchable to network
+contacts and potential employers. A report by the Society for Human Resource
+Management (SHRM), the largest association for human resource professionals
+in the United States, revealed that among a random sample of its 250,000 member companies the use of SNS for recruiting increased from 34% in 2008 to
+56% in 2011 to 77% in 2013 (SHRM, 2013). By 2015 another industry survey
+found that 92% of recruiters used social media as part of their candidate search
+(Jobvite, 2015). SNS provide recruiters who pay a fee the ability to search their
+entire database of profiles, review potential candidates’ work histories, pictures,
+and contacts, and send a personal message to any potential candidate of interest.
+SNS are being used to recruit for a wide range of jobs, from executives to hourly
+employees, with the highest rates of usage for hiring of “non-managerial salaried
+employees” (SHRM, 2013). One study suggests that even in cases where job
+applicants initiate contact using traditional resumes, and in which no links to
+social media are provided, up to a third of U.S. firms nonetheless search SNS
+for information about the applicant (Acquisti & Fong, 2013). Despite these
+trends, little is understood about the implications of SNS for job seekers navigating the labor market, or more broadly, for the careers and lives of working
+professionals. This paper is the first to my knowledge to use interview data with
+job seekers to explore the implications of the rise of SNS for workers.
+The literature on digital technologies and labor markets has to date largely
+focused on the issue of digital inequality: job seekers’ unequal access to digital
+technologies and various barriers to the effective use of these digital technologies (DiMaggio, Hargittai, Celeste, & Shaer, 2004). The literature’s focus on
+digital inequality implicitly takes for granted the career benefits of using SNS
+and is concerned about workers who do not have access to these benefits.
+
+LinkedIn or LinkedOut?
+
+3
+
+While barriers to the use of SNS technology are undoubtedly important, this
+focus has left unanswered critical questions about the broader effects of SNS as
+an emerging labor market intermediary for all workers.
+A dominant narrative has emerged among policy-makers and career professionals that SNS empower job seekers, and correspondingly the central
+issue of policy concern has been the ability of job seekers to access and effectively use SNS. This perspective is a subset of the more general concern over
+a growing digital divide or digital inequality in which technological change is
+largely perceived as beneficial to all who are able to use it; a perspective
+which may overlook how new technologies may have unanticipated consequences for generating new forms of inequalities or for reproducing existing
+inequalities.
+This paper breaks new ground by pointing to a range of previously overlooked tensions and dilemmas that exist for the growing numbers of job seekers
+who have full access and capacity to use SNS. Drawing on in-depth interviews
+with unemployed job seekers using SNS to look for work, and participant observations at workshops to train job seekers to use SNS, this study finds that while
+job seekers perceive certain benefits to using SNS, the use of SNS also raises a
+range of difficulties and potential obstacles. At core, SNS increase the exposure
+of job seekers, and this exposure is double-edged. The same visibility that makes
+it easier for job seekers to expand their networks and for employers to find and
+recruit them, also makes it possible for employers to classify, compare, and
+screen out entire categories of job seekers on the basis of job seekers’ pictures or
+political activities. Moreover, for reasons that will be described in this paper,
+SNS mediation of the labor market may disadvantage workers who wish to
+simultaneously pursue different kinds of jobs, or whose work histories are not
+optimally presented in a reverse chronological order. Reflecting this double-edge,
+the job seekers I interviewed share deep ambivalences and anxieties about the
+effects of using SNS. In various ways these anxieties all point to a perceived loss
+of control over one’s narrative and image, and to concerns about the implications of such lost control for one’s ability to find work. Job seekers’ experiences
+suggest that SNS intermediation of the labor market has two kinds of effects.
+First, as a filtering mechanism for hiring, SNS may generate labor market winners and losers on the basis of information that has little to do with merit.
+Second, these filtering mechanisms may exert new disciplinary pressures on all
+workers (Foucault, 1977), whether winners or losers, to manage their careers and
+private lives in ways that fit the logic of the SNS-mediated labor market.
+
+JOB SEARCH AND DIGITAL INTERMEDIARIES
+Since scholars first observed that digital technologies are changing the nature of
+hiring (Autor, 2001; Cappelli, 2001) most studies of this change have focused
+
+4
+
+OFER SHARONE
+
+on digital inequality in access and use. In the early 2000s research revealed a
+substantial “digital divide” along the traditional stratification lines of education, income, race, and initially gender. For example, a national survey in 2002
+showed that Internet access and adoption rates were higher for those with
+higher incomes and education levels (Hargittai, 2008). Over the past decade
+access and use of digital technologies has become much more widespread, and
+although some studies continue to examine inequalities in access  particularly
+as measured by bandwidth (Hilbert, 2016; Pick, Sarkar, & Johnson, 2015) 
+the literature has largely shifted its focus from access and use to inequalities in
+skills, capacities and know-how to make effective use of digital technologies
+(see DiMaggio et al., 2004; Duerson & Dijk, 2014; Halford & Savage, 2010;
+Hargittai, 2008; Lee, Park, & Hwang, 2015; Robinson, 2009). For example,
+Duerson and Dijk (2014) recently found that lower levels of education are associated with more hours of Internet usage  a finding that turns traditional digital divide concerns on their head  but also that higher socioeconomic status
+individuals are better skilled at gaining valuable information from digital technologies. Lee et al. (2015, p. 46) similarly discuss the importance of focusing on
+the skilled use of digital technology, nothing that “the rise of social network
+sites (SNS) is intensifying the use of participatory online activities,” which
+require a host of digital skills, and the lack thereof risks “social, cultural, and
+economic exclusion” (p. 54).
+While inequalities in skills and capacities to utilize digital technologies are
+important, I hypothesize that there are other important emergent mechanisms
+of stratification that are both underexplored and under-theorized. The focus on
+digital inequality has potentially obscured the ways in which new technologies
+are not simply empowering all skilled users but may make some workers 
+including skilled users of SNS  more vulnerable to systematic exclusion from
+the labor market. Additionally, the focus on digital inequality also leaves unexamined the ways in which digital technologies may exert new disciplinary
+pressures on all workers (Foucault, 1977) to manage their careers and private
+lives in ways that fit the logic of the SNS-mediated labor market.
+The focus on digital inequality misses the significant effects of the rise of
+SNS in reconfiguring the architecture of the labor market and redesigning the
+space in which job seekers and employers see and are seen. Drawing on
+Goffman (1959, p. 12) this paper shows how SNS construct new virtual “settings” in which workers present themselves to potential employers; and its features constitute the “furniture, décor, physical layout and other background
+items which supply the scenery and stage props” for job seeker performances.
+This architecture’s distinct features shape and delimit the possible presentations
+of self by, for example, limiting the capacity for job seekers to erect barriers for
+the purpose of “segregating” their audiences for different performances
+(Goffman, 1959, p. 137). This paper also builds on an important line of more
+recent literature which expands Goffman’s insights and analysis of presentations of self beyond physically bounded and face-to-face interactions and
+
+LinkedIn or LinkedOut?
+
+5
+
+recognizes that interactions are increasingly “disembedded from local settings”
+but nonetheless bound together by emerging virtual “microstructures” (Cetina &
+Brugger, 2002, p. 908). As Cetina (2009, p. 63) argues there is nothing “analytically prior” about face-to-face contexts, and the need to update concepts and
+theories rooted in presumptions of geographically bounded face-to-face interactions is evident given the increasing number of interactions that now routinely
+occur in virtual settings whether we are chatting, shopping, working, learning, or
+hiring. For example, Marwick and boyd (2014b, p. 1188) observe that “in most
+American high schools social media have replaced the street or coffee shop
+as the ‘place’ where much discussion, interaction, and ‘hanging out’ between
+teens goes on.”
+By shaping and constraining workers’ presentations of self, SNS architectures redesign the ways in which workers are categorized, compared, filtered,
+and excluded. Foucault (1977, p. 172) discusses how architectures can facilitate forms of disciplinary power using “calculations of openings, of filled and
+empty spaces, passages and transparencies.” Disciplinary power operates on
+two levels simultaneously. On the one hand, it individuates subjects by constructing hierarchies of “qualities, skills and aptitudes” (Foucault, 1977,
+p. 181), entailing a continuum of winners and losers. On the other hand, it
+creates “constant pressure to conform to the same model,” entailing that all
+individuals are “subjected to ‘subordination [and] docility” (Foucault, 1977,
+p. 183). As Foucault summarizes it, disciplinary power “compares, differentiates, hierarchizes, homogenizes, excludes. In short, it normalizes” (1977,
+p. 183, italics in the original).1
+While Foucault developed the theory of disciplinary power in the context of
+prisons and criminal justice he explicitly treats these as particular manifestations of a broader pattern of disciplinary power embedded in the design of
+modern institutions. In The Birth of Biopolitics (2008) Foucault analyses the
+design of markets. Although neoliberal discourses depict markets as neutral
+spaces in which buyers and sellers spontaneously interact, Foucault shows that
+exchange within markets is not a “natural process,” but takes place “insofar as
+an institutional framework and positive rules have provided them with their
+conditions of possibility” (2008, p. 163). In analyzing the SNS-mediated labor
+market, we are thus guided by Foucault to be particularly mindful of the effects
+of the market’s specific design. This paper argues that the rise of SNS mediation has meaningfully changed the design of the labor market by reshaping
+what, when, and to whom particular slices of job seeker information are visible,
+in what sequence such slices are visible, and with what salience. This changed
+design is perceived by workers as exposing them in new ways to the employers’
+gaze, and as opening the door to new employer filtering processes  both conscious and subconscious  through which applicants are selected or rejected.
+In short, as the architecture that increasingly houses our professional selves,
+SNS makes visible and salient certain dimensions of the self, and thus brings
+into play both levels of disciplinary power. First, SNS generates new
+
+6
+
+OFER SHARONE
+
+technologies of classification, producing new filters that sort winners and losers.
+Second, it exerts new forms of discipline on all job seekers, winners and losers
+alike, through practices and discourses that create pressures on subjects to
+become particular kinds of selves. Far from a straightforward tool of empowerment for digitally savvy workers, the effects of SNS are more complex and double-edged than is often assumed, and have significant but overlooked
+implications for modern subjects as workers as well as citizens.
+
+DATA AND METHODOLOGY
+To explore the social networking practices and experiences of American job
+seekers I primarily draw on 76 in-depth semi-structured interviews with unemployed white-collar American workers. The paper focuses on unemployed
+workers because as a group these workers are particularly motivated to use all
+available means to find work, including SNS, and therefore the focus on this
+group is likely to yield uniquely rich data about the uses of SNS to find work.
+All interviewees were living in the greater Boston area and were between the
+ages of 25 and 65. Each interview lasted approximately 90 minutes. The sample
+included a broad range of white-collars occupations, including managers, technical workers, administrative assistants, and teachers. In terms of its racial and
+ethnic composition the sample was 84% white, which reflects the demographics
+of site where job seekers were recruited (discussed later) but which means that
+the data are of limited applicability with respect to the experiences of racial and
+ethnic minorities. Table 1 summarizes the basic demographic characteristics of
+the interviewees.
+During the interviews open-ended questions were used to probe, among
+other things, whether job seekers used SNS to look for work, details about the
+variety of ways they used SNS in their search, the perceived benefits and costs
+of using this technology, and how the use of SNS affects the day-to-day
+Table 1.
+
+Sample Demographics.
+Interviewed Job Seekers
+
+Number of Interviewees
+
+76
+
+Percentage Female
+
+54%
+
+Age (median)
+
+53
+
+Race/ethnicity
+White
+
+84%
+
+African-American
+
+7%
+
+Asian-American and other
+
+9%
+
+LinkedIn or LinkedOut?
+
+7
+
+experiences of job searching. The interviews were transcribed and coded, initially using broad concepts that inductively emerged from the interviews. Codes
+that corresponded to large amounts of data were subsequently broken down
+into several sub-codes.
+Approximately half of the interviewees were recruited at general introductory workshops for unemployed workers at a One Stop center in the greater
+Boston area. I chose to recruit at this workshop because unemployed workers
+were required to attend this workshop as a condition to receiving unemployment benefits. This requirement means that there was minimal self-selection in
+attending these workshops but only in agreeing to participate in this study, for
+which participants were paid US $20.
+Since this study focuses on the use of SNS to job search, and less than half
+of the job seekers recruited at these mandatory workshops actively used SNS to
+job search (pointing to the persistence of digital inequality), I also recruited job
+seekers at a workshop offered at the same One Stop center which specifically
+focused on how to use SNS to job search. This group of job seekers, by definition, had some interest in using SNS. Recruiting at this workshop purposively
+aimed at self-select job seekers who chose to develop their SNS job search skills
+so as to gather rich data on the experiences of using SNS. When recruiting in
+this group I attempted to obtain a sample that varied along potentially significant independent variables (Lamont & White, 2009; Small, 2009; Trost, 1986),
+including occupation, gender, and age. The ultimate number of interviews
+was determined by saturation; the point at which further interviews provided
+little new and surprising information (Small, 2009). This purposive recruiting
+approach has been recognized as appropriate when seeking to understand particular processes, with the aim of developing or extending theories (Becker,
+1998; Burawoy, 1998; Trost, 1986).
+I also gathered data through participant observations at SNS workshops. As
+a participant-observer I was able to supplement my primary interview data
+with observations of job seekers discussing with classmates and with the
+instructor their concerns and responses to using SNS for job searching. Each
+class had between 10 and 20 students. Finally, to further supplement my data
+and provide context, I also interviewed five HR professionals who recruit for a
+broad range of industries about their use of SNS in the hiring process. I was
+introduced to these HR professionals by the staff at the One Stop center.
+
+THE LURE AND BENEFITS OF SOCIAL NETWORKING
+TECHNOLOGIES
+When seeking advice on how to find work in the current labor market, unemployed job seekers who visit state-funded “one stop” centers in the Boston area
+are told that finding work begins with social networking. In Massachusetts, the
+
+8
+
+OFER SHARONE
+
+Secretary of Labor and Workforce Development declared: “It is becoming clear
+that understanding online networking tools is critical in order to get ahead and
+successfully find your next job.”2 Accordingly, one stops career centers in
+Massachusetts, as elsewhere around the United States, have begun to provide
+trainings for unemployed job seekers focused on how to use SNS in their job
+search, particularly “LinkedIn,” the most popular SNS for career purposes.
+When attending such workshops I repeatedly heard two assertions: First, that
+SNS and particularly “LinkedIn has revolutionized job searching.” And second, that “if you are not on LinkedIn you are invisible.” At one workshop the
+facilitator emphasized to the 20 job seekers in the room: “For the purposes of
+networking, if you’re not on LinkedIn you don’t exist.” She then elaborated:
+You wouldn’t use an old tennis racket to play in a professional competition. Same thing for
+networking: The rules have changed and the tools have changed. LinkedIn is one of the new
+tools that changes how the game is being played, and it isn’t going away.
+
+Striking a more positive tone, at another workshop the facilitator excited the
+job seekers by explaining:
+We often talk about the black hole of the applications. Well, LinkedIn is one way to get
+around that. With my first degree contacts I can get introduced to up to eighty two thousand
+people. That’s a lot of people. With my second degree contacts I can be introduced to over
+five million people.
+
+The five million number drew several audible “wows” from workshop participants. 3
+Along the same lines, a growing number of career-advice books claim that
+the social media “revolution” provides a great boost to those job seekers who
+know how to make use of it. The purported benefits of SNS include increased
+visibility of job seekers to potential employers and an easy and efficient tool to
+expand their network.
+SNS allow users, free of charge, to create a profile page that includes their
+career history, educational background and picture, connect to other members
+or join various “groups” of members, and post updates of recent activities or
+ideas (Brown & Vaughn, 2011). Once connected members can browse each
+other’s contacts. Members can also conduct keyword searches of their entire
+“network,” which on SNS like LinkedIn includes their direct contacts, their
+contacts’ contacts (called “second degree” contacts) and the contacts of their
+second degree contacts (“third degree” contacts). Typically, a person who has
+100 direct contacts will have around 10,000 second degree contacts, and
+1,000,000 third degree contacts. The million members of the extended network
+are searchable by occupation, university, workplace, location, or other
+keywords.
+The SNS most widely used for career purposes is LinkedIn, which in 2016
+was the 16th most visited website in the world.4 The most widely used SNS in
+the world is Facebook, which has a more social focus and which in 2016 was
+
+LinkedIn or LinkedOut?
+
+9
+
+the 3rd most visited website in the world behind Google and YouTube.5 As
+Fig. 1 shows, membership in the SNS platform LinkedIn grew at breakneck
+speed between 2009 and 2016.
+Why is LinkedIn growing so rapidly? My interviews suggest that workers
+perceive concrete benefits to joining. Most American job seekers put great
+emphasis on networking (Lane, 2011; Sharone, 2013), and job seekers perceive
+that SNS provide a useful tool to identify and connect with networking targets
+who may be helpful in their job search. Moreover, networking in person is
+often a dreaded activity and the promise of SNS is of an easier and more efficient way to connect with others. Job seekers primarily use LinkedIn to reconnect with old contacts. As Helen explains:
+People that you’ve worked with have gone in different ways. There’s a tremendous amount
+of people that I know of that had gone in different ways. Or if you’ve lost touch you can
+look them up. You can always say, “Hi, so-and-so, I noticed your name, I would like to connect up with you if possible in pursuit of a position.” So that’s another opportunity.
+
+Job seekers use SNS is to perform what I call “reverse networking,” a new
+form of networking made possible by SNS. While in traditional networking job
+seekers first approach members of their network and ask for information and
+referrals to possible job openings, in reverse networking the job seeker starts by
+identifying a particular company that has posted an opening and then searches
+for any connections, including second or third degree contacts, who are presently
+working in that company and thus in a position to provide a referral. SNS makes
+this kind of reverse networking possible because it renders ones’ extended network instantly visible. In the past such networking would have been implausible
+
+Fig. 1. The Rise of LinkedIn Membership. Source: LinkedIn.
+
+10
+
+OFER SHARONE
+
+as it would have required one to ask all their contacts whether they or anyone
+they are connected to, know anyone at a particular company. In short, SNS not
+only makes networking easier, it transforms the way networking is practiced.
+SNS can also be used to balance the informational asymmetries between the
+interviewee and interviewer. While job seekers have always submitted their
+resumes in advance of interviews, with LinkedIn, they can now look up their
+interviewers and, as Sarah put it: “see what their credentials are.” More
+broadly, one can learn about the hiring company by viewing the credentials
+and work histories of other workers presently in the company who are in the
+position that one is seeking. Learning about the hiring manager’s background
+and experiences is particularly useful for knowing how to optimally present
+oneself at an interview to increase the likelihood of a positive interaction. It
+may also help job seekers feel at ease. As Carolyn explained:
+I have a job interview next week and I’ve looked up all the people that are going to be interviewing me and I tried to find them all on LinkedIn, and it’s very helpful that way. If you
+find the people you can get an idea of their background, sometimes you get a picture, which
+is very helpful. So then when you get to the interview you know who’s who before you get
+introduced. So I think it helps provide more of a comfort level for me.
+
+Some job seekers also perceive value from joining groups of SNS members
+that share particular occupations or professional interests. Groups range in size
+from less than 100 to over 100,000 members, and some job seekers report that
+these groups are a valuable source of professionally relevant information. Jack
+finds in such groups a source of “sharing solutions,” or as Bruce put it, “technical, professional-related advice” that is specific to his field. Beyond the intrinsic
+value of the information, joining a group can also be a signal to employers that
+one is an active member in a given profession. Debbie explains: “There’s a tremendous amount of groups that you can become affiliated with. People that
+are in the same caliber professionally that you are, [and] you can sort of get
+yourself affiliated.” Dave explained that comments he makes in groups help
+“me brand myself as an expert in the field.” By creating a profile, connecting
+with others, joining groups, and making comments SNS provide a new way for
+job seekers to gain exposure; yet, the exposure is double-edged.
+
+DOUBLE-EDGED EXPOSURE
+Although the above-discussed potential benefits lure job seekers to explore
+using SNS, job seekers also discuss deep anxieties and ambivalences. As Karen
+expressed it: “I have my profile out on LinkedIn, although I have to say I hate
+the whole idea of LinkedIn. I feel exposed on LinkedIn. You can’t select who
+you share you information with, really.” Or as John put it: “I feel like it’s a sort
+of an invasion of privacy. I want to share my information with who I want to
+share it with.”
+
+LinkedIn or LinkedOut?
+
+11
+
+The anxiety and ambivalence from the disclosure of information about oneself are pervasive. While the previously described digital inequality literature
+focuses on the negative consequences for individuals who do not have the
+capacity to effectively use SNS, it overlooks the tensions and dilemmas that
+exist for job seekers who have full capacity to use SNS but fear it may undermine them.
+A minority of job seekers expressed a sense of generalized fear related to
+making public personal information. For example, Heather explained her hesitation in putting information on LinkedIn:
+I don’t like to put a lot of personal information out there… With anything that deals with
+social media you should be careful because you don’t know who your audience may be…
+I’ve known people that have gotten spammed, and been targets of phishing. There were times
+that I would get spammed… You have to be astute and just be conscientious when you give
+out information.
+
+Yet, such generalized fears being spammed or scammed were the least common type of concerns shared by job seekers. The most common concerns were
+more distinct and specific to the job-searching context, and to the management
+of information about oneself as a job candidate.
+The remainder of this paper will unpack the multiple dimensions of this
+anxiety. I will in turn discuss varied types of exposures that arise via SNS,
+which generate a sense of lost control over key dimensions of self-presentation,
+image, and narrative.
+
+EXPOSURE OF ONE’S IMAGE
+A salient form of exposure occurs with the posting of one’s picture on the SNS
+profile. The picture entails a highly significant change in the sequence of the filters which job seekers must pass through before being hired; specifically, making considerably earlier the timing of when the employer scrutinizes a job
+seeker’s looks. In the pre-SNS world this scrutiny would typically happen only
+after successfully passing through other filters and reaching the interview stage.
+However, SNS labor market intermediation makes one’s picture a slice of the
+information that is provided upfront, and likely among the most salient pieces
+of information. As one recruiter explained: “I definitely prefer to see a picture
+[on LinkedIn profile]. It’s priceless… I also check them out on Facebook, get a
+sense of the person.” Prior research shows the significant effects of candidate
+pictures in hiring decisions (Marlowe, Schneider, & Nelson, 1996; Ruffle &
+Shtudiner, 2013). An industry study, which uses eye-tracking technology, found
+that recruiters looking at the LinkedIn profiles of potential candidates spend
+19% of their time examining the candidate’s picture (Ladders, 2012), and a
+study in Belgium found that over 40% of recruiters agreed with the statement
+
+12
+
+OFER SHARONE
+
+that SNS profile pictures signal applicant’s level of “extraversion” and “maturity” (Caers & Castelyn, 2011).
+To contextualize the salience of job seeker pictures it is important to consider prior research revealing the extent to which employers form impressions
+and make decisions about candidates on the bases of intangible qualities or
+gut feelings (Rivera, 2015; Moss & Tilly, 2001; Watkins & Johnston, 2000),
+and the link between such employer impression and candidate appearance.
+For example, examining the work of headhunters Finlay and Coverdill
+(2002, p. 130) report the central importance employer’s attach to intangible
+qualities of fit or “chemistry,” and add that in assessing these intangible qualities the candidates’ physical appearance matters, with particular attention
+paid to beauty and weight. In the context of temp agencies Smith and
+Neuwirth (2008) likewise find that intangible characteristics are critically
+important and assessed through interviews. Like the headhunters, the temp
+agency recruiters report that candidates’ appearance is important, and
+their assessment of possible recruits includes a section on “grooming,” and
+requires ranking candidate’s appearance as “management and professional
+material,” “fit for light industrial and manual labor,” or “unacceptable”
+(Smith & Neuwirth, 2008, p. 83). These pre-SNS studies suggest the importance that employers attach to intangible characteristics, but also that the
+institutions which mediated hiring in the pre-SNS labor market structured a
+typical sequence in which employers would first review documents, such as
+resumes and cover letters, and then invite the few candidates who made the
+first cut to a personal interview in which intangible qualities, including
+appearance, would be evaluated. The dramatic change brought on by the
+SNS-mediated labor market is the disruption of this sequence by frontloading the candidate’s image, and thus making more likely an evaluation based
+on appearance at the very start of the filtering process.
+Job seekers are fully aware that images make a difference, and report substantial ambivalence about the exposure of their image. They see both advantages and risks. Some job seekers discuss practical advantages of posting a
+picture for networking such as making it easier for others to recognize you
+“when you meet for coffee.” It can also help when people seek to connect
+online. Sally explains: “When people want to connect with me I don’t necessarily know who they are, but if I look at their picture I go, ‘Oh, I know
+that person!’ So I thought maybe that might happen to somebody else.”
+Chris adds another practical consideration: “I have a very common name,
+so I include a picture just so that when people try to find me, it makes it
+easier.”
+More often the kinds of advantages job seekers discussed were not strictly
+practical but related to how their image can enhance their likelihood of getting
+beyond employers’ initial filters. Some job seekers perceived that posting pictures provide a way to establish their professionalism, or as one put it, their
+
+LinkedIn or LinkedOut?
+
+13
+
+“normalcy.” These job seekers believe they have a professional look that will
+appeal to employers. Lisa explained:
+I think a lot of people still subconsciously may be judging people based on how they look or
+what they’re wearing… They don’t want you to show up with tattoos on your face and whatever if it’s like a specific type of job… I would never judge them by their appearance, because
+you could get a totally benign-looking person who couldn’t get the job done.
+
+Maryann likewise believed that her professional image would help her:
+I don’t know. I mean it probably helps. Maybe if they see you with a suit and a nice blouse
+on or something they’ll say “Oh, they look professional.” They might think, “Oh, yeah, she
+would fit into our office.” She doesn’t have a bone sticking out of her nose or something.
+
+Another perceived advantage of posting a picture was the possibility of fostering a sense of connection. As Alex explained: “It makes you more personal,
+it puts a face behind it. You know, when you would just send out a resume, all
+they have is a piece of paper. They don’t have a human connection to it. So if
+you have a photo I think it sort of personalizes it a little bit.” Fiona believed
+that her happiness could be seen in her picture and would help: “I’m a pretty
+happy person, and it’s a pretty happy photo. And I think people want to work
+with happy people … It gives somebody a sense of who I am.”
+But the exposure is double-edged. Job seekers also discuss the risks that
+come with a picture. They share a range of concerns and anxieties rooted in the
+same insights underlying the perceived benefits. In both cases it is understood
+that images have powerful effects. The assessment of risks and benefits depends
+on the extent to which this powerful form of communication is expected to
+attract or repel potential employers. Anxieties were expressed through insecurity about how one looks in pictures. As Lena put it: “I’m not photogenic so
+I don’t put a photo on there.” One job seeker described a chicken and egg situation, feeling that having a picture is important for finding work, but also
+expressing that she will only feel confident enough to post a picture once she
+had a job: “Once I get a full-time job I think I will have more confidence to put
+a profile that will include a picture.” Job seekers’ insecurity is rooted in the
+sense that any number of assumptions could be made about them based on
+their pictures. In the same way that a picture may help establish one’s “normalcy,” or help the viewer connect, it could also drive them away. As Karen
+put it:
+I think it would make a huge difference. If you can see somebody, connect with them, you
+might think they look like a friendly person. And they can just get a better feel for you. But
+on the flip side again, people make assumptions based on pictures, and those assumptions
+could be wrong.
+
+The most common specific concern that job seekers articulated focused on the
+fact that, as Marie put it, the picture “definitely opens the door for possible discrimination.” Jerry explains: “I think it does make a difference to an employer,
+
+14
+
+OFER SHARONE
+
+but if you were to ask them they would probably say no. I don’t know, it could
+be kind of racist, or it could be ageist or sexist or whatever.” Jerry is 48-year-old
+white male and he is clearly aware of the possibility of age discrimination:
+I’d say my age and my photograph on LinkedIn could definitely be a factor … In this industry, I mean, why would you hire somebody in their 40s when you could hire somebody in
+their 20s? You can get a lot more mileage out of the younger person, maybe not the experience, but it’s a pretty physically demanding job.
+
+Just like age, discrimination based on ethnicity was also a concern. As
+Veronica put it: “I actually was really hesitant to put up a photo. My name is
+just very Caucasian, so if you don’t see a photo of me, you don’t know that I’m
+an Asian-Pacific Islander.” Given that my sample is largely white, with a
+median age of 53, the data likely understate the extent of job seeker concern
+about possible racial and ethnic discrimination (Ruggs, Speights, & Walker,
+2013), and perhaps over-represents age-related concerns.6
+Despite these concerns there are several reasons job seekers feel pressured or
+compelled to include a picture on their LinkedIn profile (76% of interviewees).
+First, on LinkedIn, profiles are categorized as “incomplete” if they are missing
+pictures. In LinkedIn workshops job seekers are made aware of the fact that to
+optimize their profile’s visibility to recruiters  that is, to make it more likely that
+their profile will come up near the top on searches by recruiters  their profiles
+need to be deemed 100% complete. Completion, among other things, requires a
+picture.
+The SNS’s algorithm for determining which job seekers will appear at the top
+of a keyword search is a critical dimension of the design of the SNS-mediated
+market, and since only a limited number of job candidates appear at the top of
+a recruiter search, this design creates a new terrain of competition. In this
+context, notwithstanding job seekers’ ambivalence and awareness of the ways
+that visibility and exposure may disadvantage them, the design of the SNSmediated market works to generate competition for scarce visibility. Specifically,
+it produces a strong pressure on job seekers to complete their SNS profile for
+the sake of search engine optimization (SEO), which foremost requires adhering
+to the requirements for profile completeness, including posting a profile picture.
+Why would LinkedIn condition the completeness of a profile, and thus
+search engine optimization, on the inclusion of a picture? Gillespie (2010)
+argues that when analyzing technological platforms owned by for-profit firms it
+is important to explore the relationship between the architecture and the business model; for example, Gillespie shows how the YouTube platform is shaped
+by catering to the desires of advertisers. Following Gillespie (2010) in analyzing
+the SNS-mediated labor market we hypothesize that the design, and specifically
+the conditioning of profile’s search engine optimization on the inclusion of a
+picture, is driven by the needs of the playing clients, which in the case of
+LinkedIn are recruiters. As previously discussed, a long line of research establishes employers’ keen interest in candidates’ intangible characteristics, and the
+
+LinkedIn or LinkedOut?
+
+15
+
+explicit or implicit link between such intangible characteristics and job applicants’ appearance.
+Beyond the pressure to include a picture in order to optimize the likelihood
+of appearing in recruiter searches, LinkedIn workshops and career-advice
+books emphasize that job seekers “raise question marks” if they do not show
+up on SNS with their image. The following was a typical exchange between a
+job seeker and workshop facilitator:
+Facilitator: People with no pictures show up as a silhouette. You’ll be more attracted to networking with people with photos. People respond to other human beings. I suggest a close
+up headshot, that’s well-lit. It’s nice to have a smile.
+Job seeker: If I am over 50, should I post a picture?
+Facilitator: Posting a picture is up to you. If you don’t want to use a picture you can use an
+avatar. It’s all subjective and depends on you. This can be a delicate issue, but its up to the
+individual.
+
+This facilitator’s refrain of “its up to the individual” avoids discussing the
+thorny dilemma that older job seeker’s face by making it a matter of “subjective” preference. At another workshop the same question surfaced and the facilitator did her best to allay concerns: “In terms of discrimination, if someone
+found your profile they are looking for a skill set and trying to solve a problem.
+Something obviously led them to your profile in the first place.” Although optimistic facilitator responses such as this allowed the workshop to avoid difficult
+discussions of discrimination, the persistence of workers’ concerns about discrimination was clear during in-depth interviews.
+While at interviews and during workshops job seekers consistently expressed
+anxiety about posting their pictures, over three quarters of the interviewees ultimately opted to post pictures. Jack explains: “The silhouette [that appears if
+there is no picture] is just kind of lame. It’s kind of like you’re participating but
+you’re not. Or you’re kind of just lurking in the background… You need your
+photograph to be 100% participating.”
+A widely shared notion among job seekers was that if one does not post
+their picture they are presumably trying to hide something about themselves. Alex explained the pressure to post: “It’s one of these things, I think
+you have to do it just because it’s expected now. If you don’t have a picture
+out there it may hurt you, because someone may say ‘Well, what is this person trying to hide?’” This pressure creates dilemmas. As Patricia puts it: “If
+you put [a picture] it could go against you, but if you do not have it on,
+what are you trying to hide? I feel between a rock and hard place. I don’t
+look like I am in my 20s… You are damned if you do and damned if you
+don’t.”
+Given the possibility of age discrimination, job seekers also face dilemmas
+about what kind of picture to post. Kenny considered dying his hair but
+resisted, explaining: “If I post my picture people will find out that I have white
+
+16
+
+OFER SHARONE
+
+hair. If I colored it, it would be a surprise to anyone who knows me.” Facing a
+similar predicament Sandy decided to dye her hair:
+My hair was sort of grey and white and I really liked it and I’ve had it that way for a long
+time. And I had an interview several weeks ago. I can’t stand dealing with the prejudice
+involved around age so I had it colored. My photo sort of makes my hair look blonde.
+(Laughs) These are the things I obsess about. I felt the photo was really important.
+
+In sum, most SNS users I interviewed post pictures but with great ambivalence. Recruiters’ ability to see applicant pictures at the initial screening stage
+represents an important change in the labor market architecture, which substantially alters the sequence and extent of job seeker exposure. Job seekers perceive that based on physical characteristics some will be screened out while
+others may gain an edge. In addition, beyond the early stage filtering based on
+appearance in pictures, with its winners and losers, all job seekers are presumably affected by becoming more widely exposed to the employers’ “gaze”
+(Foucault, 1977) and thus face pressure to look young and “normal” by, for
+example, coloring one’s hair. Cathy’s articulation of the feeling of “damned if
+you do and damned if you don’t” is a sentiment that encapsulates many job
+seekers’ overall feeling about the use of SNS. It is at once necessary in order to
+network and be visible to potential employers as a candidate, and at the same
+time, it makes visible factors that may be used to screen them out.
+
+EXPOSURE AND THE ONE-PROFILE DILEMMA
+Another important dimension of exposure and of job seekers’ loss of control
+is what I call the one-profile dilemma. Traditionally job seekers adjust their
+presentation-of-self to the targeted audience. The pre-SNS labor market architecture contained multiple separate “settings” for job seeker “performances”
+(Goffman, 1959) such that workers could tailor their cover letters, resume, networking appeals, and personal pitches to the perceived needs and preferences
+of the targeted employer. Most workers have varied experiences and skills that
+can be framed and highlighted in varied ways. Equally important, most job seekers are able to fine-tune their personal style and image to fit the targeted job.
+This targeted self-presentation is a specific case of the broader phenomenon
+famously discussed by Goffman (1959, p. 136) wherein people find it advantageous to give the “impression that the role they are playing at the time is their
+most important role and that the attributes claimed by or imputed to them are
+their most essential and characteristic attributes” (emphasis added). For example, in the context of job search, a person with work experience in both engineering and management, and who is open to both kinds of jobs, will typically
+want to create different cover letters, and to claim in one cover letter that at
+core they are really engineers, and in the other that at core they are really
+
+LinkedIn or LinkedOut?
+
+17
+
+managers. Maintaining these distinct self-presentations for distinct audiences
+requires that the audiences be segregated. As Goffman explains: “when individuals witness a show that was not meant for them they may, then, become disillusioned about this show, as well as about the show that was meant for them”
+(1959, p. 136).
+The architecture of SNS prevent audience segregation by requiring users to
+have a single profile for their professional identity, which declares to one and
+all, who, as a professional, one is. The strict requirement of a single identity is
+common to all dominant SNS platforms, including Facebook and LinkedIn,
+and is defended on moralistic grounds by the companies controlling SNS. For
+example, Facebook founder Marc Zuckerberg is quoted as saying: “You have
+one identity … Having two identities is an example of lack of integrity” (quoted
+in van Dijck, 2013, p. 199). But beyond moral concerns, scholars have suggested that “platform owners have vested interest in pushing the need for a uniform online identity” because advertisers, and more relevant in this context
+recruiters may find it useful to have users’ “truthful’ data” (van Dijck, 2013,
+pp. 200, 211).
+While it may be advantageous for recruiters to know that a job seeker is not
+claiming to be a passionate manager in one application and a passionate engineer in another, for workers the new SNS architecture mandating a singular
+professional identity is experienced as limiting. As one job seeker explained:
+“One disadvantage is that if you’re going after very different targets, you can
+only really have one profile. It makes sense because you’re an individual, but
+individuals have multiple things.” Brian explains the problem this way: “You
+write a different resume depending on the job you apply for, [but] in LinkedIn
+it’s the same resume to every person.” Brian most recently worked as a chef in
+a restaurant. Seeking more autonomy over his schedule he decided to focus on
+trying to become a self-employed “home chef.” He created an SNS profile with
+the top line saying “home chef” and in his description of his past jobs he highlights relevant experiences. While being a home chef is Brian’s preference, given
+the difficulty of starting a successful new business, he is also open to considering restaurant chef positions. But using SNS, Brian explains, “I am foreclosing
+going back to the restaurant business by declaring that I am a personal chef.
+There are jobs that I might apply for, and am qualified for. So the LinkedIn
+profile does close off some doors.” Brian cannot simultaneously have a profile
+in which his title is “home chef” and make a compelling case that he is committed to working in a restaurant environment.
+Kenny found himself in a similar predicament because he wants to apply to
+jobs in biomechanics and in engineering. He explains:
+[having one LinkedIn profile] will be a problem for me because I want to do biomechanics
+but have not done it since 1977. So any resume I send out [for biomechanics] would emphasize the 1977 experience and deemphasize stuff not relevant. But when I apply to engineering
+jobs I would leave out the biomechanics work. So LinkedIn having it all visible to everybody,
+it’s a problem.
+
+18
+
+OFER SHARONE
+
+At LinkedIn workshops anxious questions from job seekers about this oneprofile dilemma were almost as common as questions about posting pictures.
+Typically, job seekers ask whether it’s possible to create two profiles, and the
+facilitators, somewhat apologetically explain that in fact this is not possible. As
+one facilitator put it: “Actually, LinkedIn is very strict about people having
+only one profile, so this is against their terms of use.” Or, as another put it:
+“It’s against company policy. It creates all kinds of problems. But you can represent both interests on the same page.” Facilitators’ seemed somewhat
+uncomfortable in providing these answers because of the implicit reminder that
+the ultimate customers, which SNS company policies serve, are employers not
+job seekers. From the job seekers’ perspective, the one-profile rule is a gamechanger that favors employers in the information exchange game, depriving
+job seekers’ of their traditional strategy of customizing information for different audiences.
+The one-profile dilemma goes beyond which skills or experiences to highlight
+and reaches back to the less tangible matter of image. In an earlier section,
+I discussed the timing of the exposure of a picture of the physical self and concerns about discrimination. But the posting of a picture also presents tensions
+regarding what kind of image of the self to simultaneously expose to multiple
+audiences. In a pre-SNS world where one’s appearance is only revealed in an
+in-person interview, one’s appearance and style can be customized, to some
+extent, using mode of dress and other “props” (Goffman, 1959), to fit the
+expectations of the employer. But the posting of a picture upfront requires
+making a choice about the singular personal style and person one wishes to
+highlight to all potential employers and network contacts.
+A similar concern arises with respect to posting updates or comments on
+SNS. Dan never posts “status updates” on social media like LinkedIn or
+Facebook. He explains:
+I hesitate to post because it is like saying something to one person, and then another person
+says I hear you. Facebook give me that feeling. I have 250 friends. To talk to everyone its
+just weird to me… It’s the “you’ve got your pants down” feeling all the time.
+
+The sense of being exposed from having your “pants down” arises because
+one cannot easily compartmentalize different presentations of self across different audiences. Whatever dimension of the self is presented to one audience is
+now visible to all. As Goffman notes “when audience segregation fails… difficult problems in impression management arise” (1959, p.139).
+Studies of how SNS mediate the social lives of teenagers reveal striking parallels. The challenges of managing a single identity to multiple audiences arises
+due to what boyd (2014, p. 31) calls “context collapse,” wherein “people are
+forced to grapple simultaneously with otherwise unrelated social contexts that
+are rooted in different norms and seemingly demand different social responses.”
+For teenagers such tensions typically arise when teachers or parents observe
+
+LinkedIn or LinkedOut?
+
+19
+
+a teen’s presentations of self to other teens, or when teens present themselves
+simultaneously to different groups of peers. For example, Marwick and boyd
+(2014b, p. 1194) describe the everyday struggle of teens whose SNS posts aim
+at one group of friends but create negative social repercussions when seen by
+another group of friends. In short, teens report experiencing a “lost privacy”
+(Marwick & boyd, 2014a, p. 1056) that is strikingly similar to the experiences
+described by unemployed job seekers in this paper, and this similarity suggests
+that the challenges posed by SNS cannot be understood as limited to the context of unemployment but are broader and deeper. Moreover, the fact that
+teenagers  presumably the most native users of SNS technology in society 
+are experiencing these challenges undercuts arguments that the challenges
+described by the unemployed workers in this paper are merely a product of
+their older age and possible discomfort with digital technologies.
+Both teenagers and unemployed workers report that there is no easy and
+effective individual way of dealing with context collapse. Marwick and boyd
+(2014a, p. 1056) show that privacy settings offered on SNS are not a reliable
+solution but are “complicated, confusing, and rarely provide meaningful protection.” Job seekers take a few different strategic approaches to dealing with
+the single profile dilemma.7 One approach is to present oneself as a generalist
+who can be potentially valuable to different kinds of employers. To remain viable for different kinds of jobs, David explains, “you make [the profile] very general.” The tradeoff, as David explains, is that with a “pared down version of
+yourself” you are not “the best version of yourself for any particular audience,”
+but at least “you are not alienating the various people you want to connect to.”
+Or as Sheila put it: “I try to convey my work ethics, what I’m strong at, like
+say at communication and bringing people together, that kind of stuff that I
+was good at my job, which can be transferrable. So I’m trying to make it so all
+the skills that I think are transferrable.” Kenny likewise explains: “I deal with
+this by leaving in whatever I want everybody to see.”
+Most interviewees, however, avoided the generalist approach because they
+believed that such self-presentation would not be effective. Their belief comports
+with the typical advice of career coaches who claim that in the SNS-mediated
+labor market, where recruiters can find countless potential workers with a keyword search, a general profile means the job seeker has no chance of standing
+out as the unique right fit for any specific job opening. Instead, job seekers are
+increasingly urged to create a clear and unique personal “brand,” as can be seen
+in the dramatic rise in career-advice books focusing on personal branding
+(Vallas & Cummins, 2015). Sarah, a job seeker explains: “You need a clear picture of what you can do. The description of the profile needs to back up what
+you say. You can’t be jack of all trades. You need a focus.” While a clear focus,
+and the claiming of a particular niche, can indeed help some job seekers, it is
+also perceived as a high-risk strategy. Job seekers are pushed to become more
+like entrepreneurs, selling a differentiated product, and putting their financial
+
+20
+
+OFER SHARONE
+
+future in the one basket of this product. Most job seekers are hesitant and anxious about this strategy, wishing to keep more options open, but nonetheless
+feeling pressure to identify a single niche.
+Again we see the dual effects of SNS. First, the redesign of the labor market
+architecture may advantage some and hurts others. Specifically, the single profile identity may be helpful to job seekers who are specialists and who seek to
+make visible their distinct niche, but disadvantageous to many workers who
+have varied experiences and who wish to target varied potential jobs. Second,
+beyond winners and losers, SNS may generate pressure on all workers to
+choose and define their “personal brand,” and clearly differentiate from others.
+In this way SNS contribute to broader forces shaping what Foucault (2008)
+calls the “enterprise of oneself,” as will be discussed in the conclusion.
+Aside from the pressure to choose a single career niche, a further source of
+subjective anxiety and potential disadvantage stems from job seekers’ loss of
+control over how their career narrative is revealed and how it is packaged. In
+crafting traditional resumes job seekers maintain considerable degree of control
+over the construction of their career narratives. A critical dimension of any
+career narrative is the sequence in which information is presented, and particularly which information comes first. Whatever information is provided first (i.e.,
+at the top) has disproportionate importance because in many cases resumes or
+profiles are only given a few seconds by screeners and the first few lines are therefore the only ones that are ever read (Ladders, 2012). Moreover, even if the
+screener reads beyond the first few lines, the work experience that is first
+highlighted provides the frame for their reading of further experiences. Given the
+importance of order, job seekers constructing resumes use a variety of formats.
+If their most recent job happens to be the most useful for making their case to
+the prospective employer then a traditional reverse chronological format may be
+used, but if the most relevant experience was three jobs ago then a “functional”
+resume may be preferred, which is organized around descriptions of various professional experiences and highlights the most relevant experience at the top.
+SNS severely limit job seekers’ flexibility in constructing their career narratives by imposing a strict reverse chronological presentation of career history.
+Carolyn provides an illustrative case. She explains:
+I was only at my last two jobs for a short time because I was laid off twice. People frown on
+that, they think, “Oh, gee, she doesn’t stay at a job.” So that’s one reason I’m hesitant to use
+it.… They can look at your information and just make an assumption and rule you out based
+on whatever assumption that might be.
+
+Carolyn is worried that a negative impression will be created by her short
+tenure at her two recent jobs, and the structure of SNS profiles requires job seekers to put their positions in reverse chronological order, and to specify the
+dates. The standardization of formats may benefit employers trying to quickly
+sift through profiles, but from the perspective of job seekers whose career
+
+LinkedIn or LinkedOut?
+
+21
+
+narratives are not optimally communicated in reverse chronological format,
+standardization means that their ability to avoid being routinely screened out is
+diminished. Cathy, who is searching for work as a tutor, focuses on a similar
+predicament. She explains: “the relevant stuff, the teaching [experience], is at
+the beginning of my career. There are lots of middle years when I did lots
+of things. If I do a functional paper resume it can be more vague, but on
+LinkedIn they want to see dates.”
+As with other dimensions of the redesigned labor market architecture the
+standardized package of information is perceived by job seekers to be favorable
+to recruiters because it limits their own flexibility in how they present their narratives and thus allows for easier  but perhaps more superficial  categorizing
+and screening out. Specifically, because it makes salient what a worker has
+done most recently, the loss of control over one’s narrative is likely to be particularly disadvantageous to anyone with an non-standard career trajectory, wishing to make a career change, or to return to work they have done in the not
+recent past. Beyond winners and losers, it can be expected that this architecture
+exerts pressure on all workers to normalize their careers; to manage their
+careers in a way that will fit the standardizing conventions and logics of the
+SNS-mediated labor market.
+
+EXPOSURE OF THE SOCIAL-POLITICAL SELF
+A final category of anxiety discussed by job seekers concerns exposure of their
+social or political selves to potential employers. With the dramatic rise in recent
+years of SNS and other social media tools such as YouTube and Twitter, which
+are widely used to communicate about personal, social, and political matters,
+job seekers worry that such communications may negatively affect their image
+as appropriate and appealing professionals to employers. As Karla put it:
+“I really don’t want employers looking at my personal life. Making assessments
+of me.”
+This concern leads job seekers to monitor the content of their online interactions. Alan explained: “You have to maintain a professional demeanor on
+LinkedIn. Because even if you make one off-color comment or something you
+could screw yourself over forever… It can come back to haunt you, so you
+really have to be careful with what you put on electronic media.”
+Most job seekers have heard stories of inappropriate pictures of drinking or
+partying leading to employers to disqualify candidates. To deal with this type
+of challenge some job seekers take the approach of being much more selective
+of what images to post online, even on more social SNS platforms such as
+Facebook. Jeff explains that as he began his job search he cleaned up his online
+image: “Before I was living in Italy, cooking for students, and I had put
+
+22
+
+OFER SHARONE
+
+pictures of me drinking. I took that down. I took down things that look like
+partying, or do not look serious. I now monitor photos.” Sarah likewise
+explained: “I don’t put my family’s photos on there. I have one of my pictures
+and the only other pictures I have my friends have put on there, you know like
+tagged you. Which, whatever, I can’t stop them.” With private lives increasingly being lived through SNS such as Facebook, the cleaning up of one’s
+image for employers is not trivial.
+The attempt to maintain a sharp line between one’s visible professional identity and other forms of identify (e.g., social, political) can be seen in the norms
+of behavior in LinkedIn groups. Strikingly, LinkedIn group discussions never
+go beyond technical and professional matters. These groups of workers, facing
+similar labor market conditions, never discuss their job search experiences, salaries, or difficult bosses. The discussions are also free of any negative emotions
+or hardships. For unemployed job seekers the sharing of negative emotions or
+hardships may lead to their exclusion from consideration as job applicants
+(Sharone, 2013). But even for those who are currently employed there is a perceived risk of open communication. For example, Sherry explained:
+Yeah, that’s why I don’t put anything on there. I don’t write any weird things on there. I still
+think that’s not cool for HR to go in and look at your Facebook, but if you’re trashing the
+company you work for it’s not cool either. And some people do that. And we had some managers that were pretty vindictive.
+
+In recent decades, institutions that bring together workers to discuss shared
+interests and concerns, like labor unions, have declined. While LinkedIn groups
+provide a new space where such sharing could potentially take place, it is a
+space that is sharply constrained by visibility and fear of employer scrutiny.
+When I asked job seekers to explain why the group conversations never go
+beyond the narrowly technical, there was a consensus explanation. Discussions
+in the groups, or for that matter in any other non-anonymous online context,
+are viewable by potential employers and therefore one must strategically present oneself in a manner that will appeal to employers.
+For example, in the fall of 2011 the “Occupy Wall Street” (OWS) protests
+received considerable media attention. Yet, not a single word was mentioned
+about OWS in the many SNS group discussions that I followed. As one job
+seeker explained: “I’m sure if I were a prospective employer, and if I learned of
+candidate’s involvement with OWS, or if somebody pointed it out to me, you
+definitely take it into consideration.” The awareness that employers may take
+such involvement into account goes well beyond individual activity on
+LinkedIn and spills over to all online activities that may appear on Internet
+searches.
+Social media are heralded as new venues for politics. As former Secretary of
+State Hilary Clinton put it: “Social media have become the public space of the
+21st century,” akin to the physical public squares of the 20th century (Coll,
+2011). Yet, as social media has facilitated political participation, job seekers
+
+LinkedIn or LinkedOut?
+
+23
+
+have grown concerned about their political and private selves being scrutinized
+by potential employers. As Helen explains: “Let’s say someone was commenting on something, a topic of discussion, maybe they were having a conversation
+with someone else on Facebook. That comment can be viewed. Anything can be
+viewed.” The sense of exposure leads to many job seekers to abstain from online
+political activity even during periods of historically high levels of unemployment. As Susan put it:
+I think, yeah, if somebody has very strong political opinions and if they’re out there and easy
+to find on the Internet that could definitely work against them. In the job search the best
+thing is to appear to be as neutral as possible until you get the job. You don’t want to advertise you’re for this or for that, because people may have strong adverse reactions. But, you
+know, there are some people who just don’t care. I don’t have the luxury to take that
+attitude.
+
+Maryann explained a similar concern:
+You have to understand that you could actually put your job on the line if you participated
+in sit-ins or protests. A lot of people kind of walk on eggshells. Even if they watch the news
+at home they might agree with [the protestors]. They might keep it to themselves, because
+they don’t want [employers] to think that they’re too radical or too independent or too leftwing. I mean if they had a mortgage to pay, and two kids to feed, they’re not gonna put their
+job on the line and post: “Hey, I’m gonna go down there at lunchtime and sit in with the
+Occupy guys.”
+
+Andrew echoed the same type of concern: “It could have a negative effect.
+[Employers] may have a negative view of the Occupy Wall Street crowd, so if
+they see postings, that could hurt you… So I keep it more at the dinner
+table with my wife or my social groups versus posting the stuff online. But I
+think it could have an awful effect, regardless of your opinion.”8
+The belief that there would be repercussions for political activity online was
+almost universally held. Only one person expressed a view that employers’
+hiring decisions would not be affected. Everyone else believed there would be
+an effect and only two interviewees expressed a defiant attitude of maintaining
+their political involvement online despite this effect. Bruce was one such defiant
+job seeker: “If they do not hire me because of my political views. I don’t want
+to work for them. So I am pretty open.” But Bruce was in a distinct minority.
+In the pre-SNS era job seekers would surely refrain from discussing politics
+in job interviews for the same reasons as articulated above. The difference is
+that with SNS, and social media more broadly, even if a job seeker does not
+proactively discuss their politics, job seekers are keenly aware that the employer
+may nonetheless easily stumble upon online traces of their political activities
+while browsing the mix of information that may appear about the job seeker
+on various SNS, social media, and the Internet more broadly. The concern
+about exposure from posting “inappropriate” social or political information is
+also intensified by the sense that, as Paul put it, once information is posted “it’s
+there forever.” As with pictures, singular profiles, and career narratives,
+
+24
+
+OFER SHARONE
+
+exposure likely produces winners and losers, and exerts a disciplinary
+(Foucault, 1977) and depoliticizing pressure on all workers.
+Looking at research outside the unemployment context we can see similar
+effects. For example, when examining the practices of users of the micro blogging platform Twitter Marwick and boyd (2010) find that context collapse leads
+to self-censorship. Specifically, Marwick and boyd (2010, p. 124) find that “people refrain from discussing certain topics on Twitter,” including “complaining
+about an employer” or “one’s job,” and that most consider discussions of politics as risky and “dangerous” (p. 127). Given their market vulnerability unemployed workers may indeed be more sensitive than others to the risks of
+exposure, but studies like Marwick and boyd (2010) suggest that what may be
+clearly seen in interviews with unemployed workers may likely play out more
+broadly, albeit in less visible ways, across our SNS-mediated society.
+
+IMPLICATIONS AND CONCLUSION
+The existing literature on SNS and the labor market has focused on the problem of digital inequality and unequal access and skilled use of SNS. The data
+presented in this paper suggest the need for greater attention to questions that
+go beyond such issues and focus on the complex effects of intermediation of
+labor markets by SNS. Specifically, this paper points to important but previously overlooked effects of SNS in significantly reshaping the space in which
+job seekers and employers see and are seen.
+SNS increase workers’ exposure, and this exposure is double-edged. On the
+one hand, it is beneficial for increasing visibility to employers, growing one’s
+network, and for engaging in practices like reverse networking as described in
+the first part of this paper. However, on the other hand, it is also the source of
+new vulnerabilities. Unlike the sharing of information during in-person conversations, in the SNS-mediated labor market one cannot customize the extent or
+nature of the disclosed information depending on the audience, the context, or
+the level of established trust. Unlike in-person conversations, sharing information on SNS is not done gradually and reciprocally with each side sharing more
+in turn. SNS sharing has neither contextual customization nor reciprocity.
+Most striking, audience segregation (Goffman, 1959)  a timeless strategy for
+navigating multiple presentations-of-self  is simply not allowed in the SNS
+house. Information sharing is upfront and standardized and visible to all.
+Dominant career-advice discourses focus on the benefits of utilizing SNS to
+workers, and declare that workers not on SNS are rendering themselves practically “non-existent.” But even if opting out of SNS is not a viable option for
+those seeking employment, stepping back, particularly in light of the considerable ambivalences and anxieties expressed by job seekers in this paper,
+
+LinkedIn or LinkedOut?
+
+25
+
+important questions arise that merit further consideration. The first set of questions that should be further explored are whether and how workers are
+unequally advantaged and disadvantaged by being more visible. Put another
+way, who are the winners and who are the losers of this new form of labor
+market intermediation? Does this new sorting of winners and losers correspond
+to our notions of meritocracy and fairness? Based on the experiences and perceptions of job seekers described in this paper the rise of SNS may indeed produce new forms of stratification. Job seekers’ perceive that winning in this new
+game hinges on factors that are of little relevance to their merit as workers,
+including their abilities to digitally convey images and narratives that fit the
+screening logics of the SNS-mediated market. Examples discussed in this paper
+include how the SNS labor market brings one’s physical image to an earlier
+stage of filtering, which may disadvantage those whose image may not fit
+employers’ expectations or preferences. The SNS labor market may also disadvantage workers who are pursuing two or more kinds of jobs and wish to customize their presentations-of-self for each kind of employers, and workers
+whose career trajectory and work history are not optimally presented in a
+reverse chronological format. While there is an emerging literature on the
+effects of SNS on the evaluation of candidates (Acquisti & Fong, 2013;
+Bohnert & Ross, 2010), much more research along these lines is needed.
+While this paper primarily draws job seekers’ experiences and perceptions,
+on the issue of winners and losers there is reason to believe that SNS may have
+additional implications that are not easily observable to job seekers themselves.
+Specifically, future research may examine whether among the effects of
+increased recruiting through SNS is the increased systematic exclusion of specifically unemployed job seekers. A survey of HR professionals by the Society of
+Human Resources Management reports that the most important reason
+employers offer for using SNS for recruitment is “to recruit passive job candidates” (SHRM, 2013). Passive job candidates are typically individuals who are
+currently employed but are open to considering new opportunities. The stigma
+of unemployment may lead employers to prefer currently employed candidates
+as revealed in recent audit studies (Eriksson & Rooth, 2014; Ghayad, 2013),
+and SNS make it significantly easier and cheaper for recruiters to find,
+contact, and recruit employed candidates instead of relying on their pool of
+active  and more likely unemployed  applicants. The extent to which SNS
+represents a dramatic shift in the ease of recruiting passive job seekers is
+indubitable when considering Finlay and Coverdill’s (2002) fascinating account
+of the laborious and creative ruses headhunters used in the pre-SNS era just to
+obtain the contact information for potential passive candidates. One example is
+tricking receptionists to reveal the names of employees who do certain jobs in
+their organization by pretending to be a student writing a term paper. The fact
+that with SNS this information has become very easy and cheap to obtain,
+often with one just a few clicks, likely benefits those workers that employers
+
+26
+
+OFER SHARONE
+
+most wish to contact and recruit: the currently employed. As a result, the erstwhile advantage unemployed job seekers’ enjoyed from having the time and the
+lower opportunity costs to actively reach out with applications and resumes to
+potential employers may have greatly diminished. To the extent that use of
+social networking websites decreases the cost of recruiting currently employed
+workers for new positions, it would constitute another distinct mechanism by
+which SNS mediation of the market may provide advantage to the already privileged and further leave behind marginalized unemployed job seekers.
+Increased SNS mediation of labor markets raises two kinds of concerns.
+One concern discussed above focuses on new forms of inequality or mechanisms of reproducing traditional inequalities and exclusions. The other concern
+may be more difficult to measure but is of no less importance and focuses on
+the intensification of disciplinary pressures to shape the self in accordance with
+the demands of the market. The starting point for this analysis is Foucault
+(1977) insight: Exposure disciplines. This paper argues that the exposure builtin to the design of SNS-mediated labor market disciplines individuals as workers, social beings, and political citizens.
+To understand this broad intensification of discipline it is important to note
+how exposure in the SNS-mediated labor market is of particular slices of information about job seekers, which are thereby made more salient. Two examples
+from this paper are one’s appearance as conveyed in a picture, and one’s career
+narrative as conveyed in strict reverse chronology. It is by calling forth and
+compiling these specific slices of information that the SNS-mediated labor market facilitates the proliferation of a set of homogenizing standards, against
+which all workers are measured, ranked, and compared (Foucault, 1977). This
+process is described by Gutting (2005, p. 84) across a growing variety of modern social contexts in which individuals or institutions are rated and ranked,
+and as such disciplined to conform. For example, Sauder and Espeland (2009)
+find that law schools responding to the discipline of regularly published rankings experience intense pressure to conform to the standardized demands and
+logics of the new metrics. These conforming pressures affect the shape of law
+schools even when law school deans are aware that given the norms underlying
+the rankings “student bodies may become homogenized, as admissions officers
+select for high GPAs instead of students with unique career goals” or “diverse
+backgrounds” (Sauder & Espeland, 2009, p. 73). As suggested throughout this
+paper, the rise of SNS as a labor market intermediary may similarly create pressures to normalize professional careers to fit the logic of the SNS labor market.
+Moreover, beyond careers, for individuals in their private lives as social beings
+and political citizens, the use of SNS for labor market filtering may also exert
+pressures to normalize their social selves and refrain from political or otherwise
+potentially controversial activities that may find a trace online.
+The SNS mediation of the labor market thus appears to be one of the forces
+in the forging of the disciplined and homogenized subject that Foucault variously refers to as the “entrepreneur of himself” (2008, p. 226) or the “enterprise
+
+LinkedIn or LinkedOut?
+
+27
+
+of oneself” (2008, p. 230). The pressure to present a marketable self can be seen
+as part of what Foucault describes as the “generalization of the ‘enterprise’
+form” which gives rise to a particular “model of social relations and of existence itself” (p. 242) where society is “subdivided, and reduced, not according
+to the grain of individuals, but according to the grain of enterprises” (p. 241).
+While Foucault could not have anticipated the SNS-mediated labor market,
+this paper has shown the variety of ways in which SNS generates disciplinary
+pressures on subjects to shape themselves as marketable enterprises. For example, because SNS undermines individuals’ ability to engage in Goffmanesque
+audience segregation and construct different presentations of self for different
+target audiences, individuals are not only constrained with reduced flexibility in
+seeking different kinds of jobs, but also, and perhaps more profoundly, inhibited in expressing or developing non-marketable dimensions of the self. boyd
+(2014, pp. 3738) notes the irony that Internet-based technologies, which a
+mere 20 years earlier where perceived as holding the promise of enabling radical
+self-experimentation in which subjects would be free of “the burdens of their
+‘material’  or physically embodied  identities,” have now become entwined
+with very forces constraining and disciplining subjects through dominant forms
+of SNS. boyd’s particular concern is the ability of teens to develop a self under
+ever-present surveillance of parents who “hover, lurk, and track.” (2014, p. 74).
+In light of the findings in paper, we may extend boyd’s concern and wonder
+about the free development of all selves under the ever-present gaze of the
+SNS-mediated market.
+This paper reveals the curtailment of online political activities among unemployed workers, but less clear is the breadth of such curtailment. Might the
+same logic that leads to the curtailment of online political activity also make it
+less likely that individuals will participate in support groups for health-related
+issues fearing that the exposure of illness will lead employers screen them out?
+What other practices and behaviors might be disciplined into extinction because
+once exposed these might be deemed less than marketable? While it awaits further research to explore the full implications of SNS reshaping of the labor
+market, as an increasing proportion of modern life is mediated by SNS we may
+expect that correspondingly workers’ concerns about employability will have
+increasingly profound effects on all realms of modern social life.
+Can the disciplinary pressures described in this paper be successfully resisted
+and countered? It is worthwhile reflecting on Crossley’s (1993, p. 407) simple
+but provocative question of whether being exposed must always be “experienced anxiously or as controlling.” In considering the conditions that make
+exposure controlling it is striking that precarity is the common link between the
+unemployed adults discussed in this paper, and the other group of individuals
+where prior research reveals similarities in experiences with SNS  teenagers
+living with their parents. While different in obvious ways these two groups
+nonetheless do share the vulnerability of having their SNS-mediated selves scrutinized by parents and employers, respectively, on whom they are materially
+
+28
+
+OFER SHARONE
+
+dependent. Future research might explore the hypothesis that disciplinary
+effects of visibility vary in relation to the degree of one’s precarity. For example, we expect that in the university context visibility would exert more discipline on precarious adjunct faculty than on tenured faculty. If this hypothesis is
+correct then it follows that institutions that counteract precarity would also
+diminish the force of disciplinary pressures.9
+Addressing precarity offers an indirect way of countering disciplinary power.
+A more direct approach would be to contest aspects of the design of the SNSmediated labor market. The precondition for any such contestation is recognition
+that this market, and the technology that undergirds it, do more than provide a
+neutral space for the spontaneous interactions of buyers and sellers. As Foucault
+(2008) recognizes, all markets are sites of regulation and discipline. Foucault’s
+insight can be extended in critically examining, problematizing, and politicizing technologically mediated labor markets. Building on Gillespie (2010), it is
+important to develop an understanding of the interests and logics underlying
+the specific designs of technologically enabled “platforms” like SNS, and
+how such designs shape uses and outcomes. At least since passage of civil
+rights legislation in the 1960s the United States has recognized that hiring
+practices  even in the private sector  are public matters, and this is reflected
+in regulations prohibiting various forms of discrimination in the hiring process. Given the growing role of SNS in mediating the labor market, and the
+varied effects of such mediation as described in this paper, it is vital to recognize and grapple with questions of SNS architecture as public issues, and to
+facilitate democratic participation in assuring that SNS are designed in ways
+that serve the broad public interest.
+With the bulk of our interactions migrating to online spaces, we are living in
+a new social architecture with levels of visibility unimaginable only two decades
+ago. This architecture disciplines workers, teens, and tweeters alike; yet, unlike
+Foucault’s (1977) panopticon, it is important to note that visibility in SNS is
+not only vertical  of the watchtower  but also horizontal  of the other
+inmates  and therefore holds the potential of being an emerging space where
+those with shared hardships and grievances can find each other and develop
+horizontal solidarity. The findings in this paper suggest that any such horizontal solidarity will be constrained so long as the architecture structuring our
+SNS interactions does not facilitate horizontal visibility which is free of vertical
+surveillance.
+
+NOTES
+1. While the theories of Goffman and Foucault are very different this paper draws on
+both given their shared concern about the ways in which institutional contexts shape the
+performative nature of the self.
+2. Press release from Labor and Workforce Development on February 3, 2011.
+
+29
+
+LinkedIn or LinkedOut?
+
+3. The workshop trainers are employees of the One Stop center and establish their
+legitimacy to teach these materials on the basis of their past experience supporting job
+seekers learn how to effectively use SNS.
+4. While at the time of writing LinkedIn is the dominant SNS for job seekers,
+and therefore most examples in this paper draw on experiences with LinkedIn, this
+paper is not only about LinkedIn or any specific SNS or feature thereof. Given the
+rapid changes in this sector it is possible that any particular feature of LinkedIn or
+other SNS discussed in this paper may change; yet, I contend that the overall
+direction of changes in the architecture of SNS-mediated labor market are likely to
+continue pointing toward the double-edged forms of exposure discussed in this
+paper.
+5. Data base on Ranking.com accessed on June 3 2016 at http://scripts.ranking.com/
+data/report_domain.aspx
+6. It is also worthy of noting that while interviewees did not often discuss a possible
+employer bias in favor of physically attractive candidates, the previously described
+research suggests that physically attractive job candidates are advantaged in the hiring
+process and we can accordingly expect that this form of bias is also exacerbated by the
+availability of photos at the early screening stage.
+7. Some teens attempt to navigate context collapse by engaging in “social stenography,” the “encoding [of] a meaningful message to a narrow, desired audience”
+(Marwick & boyd, 2014a, p. 1058). The practice of phrasing a communication in a way
+that is decodable by the targeted audience but not by others appears similar to politicians’ use of dog-whistle messages to targeted audiences, but is not a strategy discussed
+by any of the unemployed workers I interviewed.
+8. Consistent with the findings of Marwick and boyd (2010) most interviewees did
+not trust “privacy settings” on SNS to limit the exposure of information. Some cited
+the example of Facebook updating its platform in a way which made generally visible
+information previously set to only be visible to a limited audience. To avoid exposure
+individuals can and do use Internet platforms that allow for anonymity but such platforms lack the potential impact of open discussions among workers who share personal
+networks.
+9. It is notable that in Foucault’s (1986) own writing the clearest case of visibility that
+is not associated with discipline are the practices of self-examination which enhance the
+autonomy of ancient Greek men with sufficient economic resources to afford the time
+for such practices.
+
+REFERENCES
+Acquisti, A., & Fong, C. M. (2013). An experiment in hiring discrimination via online social networks.
+SSRN Working Paper No. 2031979.
+Autor, D. H. (2001). Wiring the labor market. Journal of Economic Perspectives, 5(1), 2540.
+Becker, H. S. (1998). Tricks of the trade: How to think about your research while you’re doing it.
+Chicago, IL: University of Chicago Press.
+Bohnert, D., & Ross, W. (2010). The influence of social networking web sites on the evaluation of
+job candidates. Cyberpsychology, Behavior and Social Networking, 13(3), 341347.
+boyd, D. (2014). It’s complicated: The social lives of networked teens. New Haven, CT: Yale
+University Press.
+Brown, V., & Vaughn, D. (2011). The writing on the (Facebook) wall: The use of social networking
+sites in hiring decisions. Journal of Business and Psychology, 26(2), 219225.
+Burawoy, M. (1998). The extended case method. Sociological Theory, 16(1), 433.
+
+30
+
+OFER SHARONE
+
+Caers, R., & Castelyn, V. (2011). LinkedIn and Facebook in Belgium: The influences and biases of
+social network sites in recruitment and selection produces. Science and Computer Review,
+29(4), 437448.
+Cappelli, P. (2001). Making the most of online recruiting. Boston, MA: Harvard Business.
+Cetina, K. K. (2009). The synthetic situation: Interactionism for a global world. Symbolic Interaction,
+32(1), 6187.
+Cetina, K. K., & Bruegger, U. (2002). Global microstructures: The virtual societies of financial markets. American Journal of Sociology, 107(4), 905950.
+Cober, R., & Brown, D. (2006). Direct employers association recruiting trends survey. Washington,
+DC: Booz Allen Hamilton.
+Coll, S. (2011). The Internet: For Better or for Worse. New York Times Magazine.
+Crossley, N. (1993). The politics of the gaze: Between Foucault and Merleau Ponty. Human Studies,
+16(4), 399419.
+DiMaggio, P., Hargittai, E., Celeste, C., & Shaer, S. (2004). Digital inequality: From unequal access
+to differentiated use. In K. Neckerman (Ed.), Social inequality (pp. 355400). New York,
+NY: Russell Sage Foundation.
+Duerson, A., & van Dijk, J. (2014). The digital divide shifts to differences in usage. New Media and
+Society, 16(3), 507526.
+Eriksson, S., & Rooth, D.-O. (2014). Do employers use unemployment as a sorting criterion
+when hiring? Evidence from a field experiment. The American Economic Review, 104(3),
+10141039.
+Finlay, W., & Coverdill, J. (2002). Headhunters: Matchmaking in the labor market. Ithaca, NY: ILR
+Press.
+Foucault, M. (1977). Discipline and punish: The birth of the prison. London: Allen Lane.
+Foucault, M. (1986). Volume 3 of the history of sexuality the care of the self. New York, NY: Vintage
+Books.
+Foucault, M. (2008). The birth of biopolitics. New York, NY: Palgrave Macmillan.
+Ghayad, R. (2013). The jobless trap. Working Paper. Retrieved from http://media.wix.com/ugd/
+576e9a_684e84d83d694fef8c58c4d176cd4c4b.pdf
+Gillespie, T. (2010). The politics of ‘platforms’. New Media & Society, 12(3), 347364.
+Goffman, I. (1959). The Presentation of Self in Everyday Life. New York, NY: Doubleday Anchor
+Books.
+Gutting, G. (2005). Foucault: A very short introduction. Oxford: Oxford University Press.
+Halford, S., & Savage, M. (2010). Reconceptualizing digital social inequality. Information
+Communication and Society, 13(7), 937955.
+Hargittai, E. (2008). The digital reproduction of inequality. In D. Grusky (Ed.), Social stratification
+(pp. 936944). Boulder, CO: Westview Press.
+Hilbert, M. (2016). The bad news is that the digital access divide is here to stay. Telecommunications
+Policy, 40(6), 567581.
+Jobvite. (2015). Recruiter nation survey. Retrieved from https://www.jobvite.com/wp-content/
+uploads/2015/09/jobvite_recruiter_nation_2015.pdf
+Ladders. (2012). Keeping an eye on recruiter behavior. Retrieved from http://cdn.theladders.net/
+static/images/basicSite/pdfs/TheLadders-EyeTracking-StudyC2.pdf
+Lamont, M., & White, P. (2009). Interdisciplinary standards for systematic qualitative research.
+National Science Foundation Workshop for Cultural Anthropology, Law and Social
+Sciences, Political Science, and Sociology Programs; 2005 May 1920; Arlington, VA.
+Lane, C. M. (2011). A company of one: insecurity, independence, and the new world of white-collar
+unemployment. Ithaca, NY: Cornell University Press.
+Lee, H., Park, N., & Hwang, Y. (2015). A new dimension of the digital divide: Exploring the relationship between broadband connection, smartphone use, and communication competence.
+Telematics and Informatics, 32(2015), 4556.
+Marlowe, M., Schneider, S. L., & Nelson, C. E. (1996). Gender and attractiveness biases in hiring decisions: Are more experienced managers less biased? Journal of Applied Psychology, 81(1), 1121.
+
+LinkedIn or LinkedOut?
+
+31
+
+Marwick, A., & boyd, D. (2010). I tweet honestly, I tweet passionately: Twitter users, context
+collapse, and the imagined audience. New Media & Society, 13(1), 114133.
+Marwick, A., & boyd, D. (2014a). Networked privacy: How teenagers negotiate context in social
+media. New Media & Society, 16(7), 10511067.
+Marwick, A., & boyd, D. (2014b). ‘It’s just drama’: Teen perspectives on conflict and aggression in a
+networked era. Journal of Youth Studies, 17(9), 11871204.
+Moss, P., & Tilly, C. (2001). Stories employers tell: Race, skill, and hiring in America. New York,
+NY: Russell Sage Foundation.
+Pick, J., Sarkar, A., & Johnson, J. (2015). United States digital divide: State level analysis of spatial
+clustering and multivariate determinants of ICT utilization. Socio-Economic Planning
+Sciences, 49(2015), 1632.
+Rivera, L. (2015). Pedigree: How elite students get elite jobs. Princeton, NJ: Princeton University Press.
+Robinson, L. (2009). A taste for the necessary: A Bourdieuian approach to digital inequality.
+Information, Communications and Society, 12(4), 488507.
+Ruffle, B. J., & Shtudiner, Z. (2013). Are good-looking people more employable? SSRN. Retrieved
+from http://ssrn.com/abstract¼1705244
+Ruggs, E., Speights, S., & Walker, S. (2013). Are you in or out? Employment discrimination in
+online and offline networks. Industrial and Organizational Psychology, 6(4), 457462.
+Sauder, M., & Espeland, W. (2009). The discipline of rankings: Tight coupling and organizational
+change. American Sociological Review, 74, 6382.
+Sharone, O. (2013). Flawed system/flawed self: Job searching and unemployment experiences.
+Chicago, IL: University of Chicago Press.
+Small, M. L. (2009). ‘How many cases do I need?’: On science and the logic of case selection in fieldbased research. Ethnography, 10(1), 538.
+Smith, V., & Neuwirth, E. (2008). The good temp. Ithaca, NY: Cornell University Press.
+Society for Human Resources Management. (2013). Social networking websites and recruiting selection. Retrieved from http://www.shrm.org/Research/SurveyFindings/Articles/Pages/SHRMSocial-Networking-Websites-Recruiting-Job-Candidates.aspx
+Trost, J. E. (1986). Statistically nonrepresentative stratified sampling: A sampling technique for qualitative studies. Qualitative Sociology, 9(1), 5457.
+Vallas, S., & Commins, E. (2015). Personal branding and identity norms in the popular business
+press: Enterprise culture in an age of precarity. Organization Studies, 36(3), 293319.
+Van Dijck, J. (2013). ‘You have one identity’: Performing the self on Facebook and LinkedIn.
+Media, Culture and Society, 35(2), 199215.
+Watkins, L. M., & Johnston, L. (2000). Screening job applicants: The impact of physical attractiveness and application quality. International Journal of Selection and Assessment, 8(2), 7684.
+
+
+
+## Metadata
+- Source file: junk_drawer/Sharone - LinkedIn or LinkedOut.pdf
+- Extracted: 2026-05-18
+- Category: other

@@ -1,0 +1,94 @@
+# MSE300_HW2_Questions-F23.pdf
+
+Source: junk_drawer/MSE300_HW2_Questions-F23.pdf
+
+Category: [[academic-homework]]
+
+## Summary
+MSE300 Homework 2 Q1) Energy required to create nanomaterials (10 pts) Using an attritional method with an overall energy efficiency of 10%, you transform a Cu metal into a nanomaterial with cubic shape and 5 nm sides. Compute the amount of energy required to transform a 1 mg cube of material into cubic nanoparticles, considering the density of copper is 9 g/cm3, its surface energy (100) is 1.43 J/m2, and the edge energy is approximately 10-10 J/m. Assume all
+
+## Full Content
+MSE300
+
+Homework 2
+
+Q1) Energy required to create nanomaterials (10 pts)
+Using an attritional method with an overall energy efficiency of 10%, you transform
+a Cu metal into a nanomaterial with cubic shape and 5 nm sides. Compute the
+amount of energy required to transform a 1 mg cube of material into cubic
+nanoparticles, considering the density of copper is 9 g/cm3, its surface energy
+(100) is 1.43 J/m2, and the edge energy is approximately 10-10 J/m. Assume all
+nanoparticles are identical in size and no material is lost during the transformation.
+
+Q2) Broken bonds and surface energy (15 pts)
+A) Use the broken bond model to calculate the surface energy of the (100)
+surface (100) for iron (cubic I, aka body center cubic), assuming the unit cell
+parameter is a = 0.287 nm and 1 = 75 kJ/mol.
+B) Recalculate (𝛾100) for iron considering both first and second nearest
+neighbors, with cohesive bond energies 𝜀1 and 𝜀2 = 𝜀1/3. Hint: assume the
+same facet and planar density of atoms.
+Q3) Crystal shape. (10 pts)
+Consider a 2D crystal with the following surface energies:
+𝛾10 = 3; 𝛾01 = 3; 𝛾11 = 3; 𝛾11bar = 2
+The crystal has a mirror symmetry along the [01] direction, so the right and left
+side of the crystal mirror each other.
+A) Use the Wolff construction to plot the equilibrium shape of the 2D crystal on
+a square grid plot.
+B) Determine the number of equilibrium facets and provide their Miller indices.
+
+1
+
+MSE300
+
+Homework 2
+
+Q4) Nomenclature of reconstructed surfaces. (10 pts)
+Define the unit cell and use Wood’s notation to describe the reconstructed surface
+structure (large circles) relative to the bulk structure (small circles).
+
+Q5) Surface curvature and nanoscale stability. (10 pts)
+Using mathematical arguments and your words, explain why a concave
+surface is more stable than a convex surface.
+
+Q6) Heterogeneous Nucleation. (15 pts)
+The total Gibbs free energy of a system undergoing heterogeneous
+nucleation changes according to a volume term, surface terms and an
+interfacial term. G is thus given by
+∆𝐺 = 𝑎3 𝑟 3 ∆𝐺𝑣 + (𝑎1 𝛾𝑣𝑓 + 𝑎2 𝛾𝑓𝑠 −𝑎2 𝛾𝑠𝑣 )𝑟 2 ,
+where r is the radius of the nucleus. Consider all other terms to be constant.
+
+2
+
+MSE300
+
+Homework 2
+
+Without further knowledge about heterogeneous nucleation, calculate the
+expressions for critical nucleus size, r*, and the energy required to nucleate
+a stable island with radius r*.
+Q7) Electrostatic Stabilization (5 pts)
+Describe electrostatic stabilization, its characteristics, and its main limitations.
+Would you recommend this stabilization approach for global transport of
+nanomaterials? Explain your answer.
+Q8) Nanoparticle size distribution (10 pts)
+In your words, describe the major steps of nanoparticle formation and what
+approaches you would take to achieve the narrowest possible particle size
+distribution for relatively small nanoparticles.
+Q9) Nanoparticle energetics (5 pts)
+In your words, describe the various energy minimization processes that
+nanomaterials may be subject to at different scales.
+Q10) VLS growth (5 pts)
+Describe and illustrate the mechanism of VLS growth.
+Q11) Anisotropic growth (5 pts)
+Supersaturation is critical to nucleation and growth of nanoparticles. Explain why
+low supersaturation is also critical to achieving anisotropic growth in the context of
+one-dimensional nanostructures.
+
+3
+
+
+
+## Metadata
+- Source file: junk_drawer/MSE300_HW2_Questions-F23.pdf
+- Extracted: 2026-05-18
+- Category: academic-homework

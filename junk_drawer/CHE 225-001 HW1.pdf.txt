@@ -1,0 +1,68 @@
+CHE-225 Introduction to Chemical Engineering Analysis
+
+Spring 2023
+
+PROBLEM SET 1
+(due Jan 20, 2023 @ 8:30 AM in Gradescope)
+Problem 1 (20 pts total)
+A liquid mixture containing 30.0 mole % of benzene (B), 25.0 mole % of toluene (T), and the
+balance of xylenes (X) is fed to a distillation column. The bottom product contains 98.0 mole %
+of X and no B; moreover, 96.0% of the X in the feed is recovered in this stream. The overhead
+product is fed to a second column. The overhead product from the second column contains 97.0%
+of the B in the feed to this column. The composition of this stream is 94 mole % of B and the
+balance of T. The second column has both overhead and bottom streams as well.
+a) Draw and label a flowchart of this process and do the degree of freedom analysis to prove
+that for an assumed basis of calculation, molar flow rates and compositions of all process
+streams can be calculated from the information given. Write in order the equations you
+would use (and solve) to calculate unknown process variables. In each equation (or a pair
+of simultaneous equations) circle the variable(s) for which you would solve. Do NOT do
+the calculations.
+b) Calculate: 1) the percentage of B in the process feed (i.e., the feed to the first column) that
+emerges in the overhead product from the second column; and 2) the percentage of T in
+the process feed that emerges in the bottom product from the second column.
+Problem 2 (35 pts total)
+Butane is burned with air. No carbon monoxide is present in the combustion product.
+a) Use a degree of freedom analysis to prove that if the percentage excess air and the
+percentage conversion of butane are specified, the molar composition of the product gas
+can be determined.
+b) Calculate the molar composition of the product gas for each of the following three cases:
+1) theoretical air supplied and 100% conversion of butane; 2) 20% excess air and 100%
+conversion of butane; and 3) 20% excess air and 90% conversion of butane. (Assume a
+basis of calculation)
+Problem 3 (15 pts total)
+A vapor mixture containing 30 mole % of benzene (B) and 70 mole % of toluene (T) at 1 atm is
+cooled isobarically in a closed container from an initial temperature of 115°C. Use the Txy
+diagram (attached below) to answer the following questions:
+a) At what temperature does the first drop of condensate form? What is its composition?
+
+b) At one point during the process the system temperature is 100°C. Determine the mole
+fraction of B in the vapor and liquid phases, and the ratio of total moles in vapor/total moles
+in liquid at this point (assume a basis of calculation).
+c) At what temperature does the last bubble of vapor condense? What is its composition?
+
+Problem 4 (30 pts total)
+Ethanol is produced commercially by the hydration of ethylene
+C2H4(g) + H2O(v) « C2H5OH(v)
+Some of the product is converted to dietyl ether (i.e., C2H5)2O) in the undesired side reaction
+2C2H5OH(g) « (C2H5)2O(v) + H2O(v)
+The combined feed to the rector contains 57.3 mole% C2H4, 36.7 mole% H2O and the balance
+nitrogen. The feed enters the reactor at 310°C and the reactor operates isothermally at the same
+temperature as the input stream. An ethylene fractional conversion of 5% is achieved, and the
+yield of ethanol (i.e., moles of ethanol produced/moles of ethylene consumed – see chemical
+reaction) is 0.90.
+a) Calculate the reactor heating or cooling requirement in kJ/mol feed (Use Enthalpy table
+and assume a basis of calculation)
+b) Why would the reactor be designed to yield such a low conversion of ethylene? What
+processing step(s) would probably follow the reactor in a commercial implementation of
+this process?
+
+Note:
+You can find thermodynamic data for ethylene, water, methanol and nitrogen in the various
+Appendices in F&R&B. Data for dietyl ether are as follows:
+#!° =-272.8 kJ/mol (for liquid diethyl ether)
+∆𝐻
+## =26.05 kJ/mol (to the first approximation assume the same value at any temperature)
+∆𝐻
+𝑐$ = 0.08945 + 40.33x10 -5 T - 2.444x10 -7 T 2 (T is in °C and cp is in kJ/mol/°C)
+
+

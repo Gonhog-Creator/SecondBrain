@@ -1,0 +1,71 @@
+# Jose Resume - Jan 2022 (1).pdf
+
+Source: junk_drawer/Jose Resume - Jan 2022 (1).pdf
+
+Category: [[work-general]]
+
+## Summary
+José María Barbeito 919.667.4663 | jbarbei@ncsu.edu | 2221 Dunn Ave, Raleigh EDUCATION North Carolina State University, Raleigh, NC ● B.S.E: Material Science Engineering; Minor: Chemistry ● Current Cumulative GPA: 3.7/4.0 Trinity School of Durham and Chapel Hill (TSDCH), Durham, NC ● High School Diploma ● Cumulative GPA: 3.7/4.0
+
+## Full Content
+José María Barbeito
+919.667.4663 | jbarbei@ncsu.edu | 2221 Dunn Ave, Raleigh
+EDUCATION
+North Carolina State University, Raleigh, NC
+● B.S.E: Material Science Engineering; Minor: Chemistry
+● Current Cumulative GPA: 3.7/4.0
+Trinity School of Durham and Chapel Hill (TSDCH), Durham, NC
+● High School Diploma
+● Cumulative GPA: 3.7/4.0
+
+Expected May 2025
+
+April 2020
+
+INDEPENDENT PROJECT EXPERIENCE
+Aquarium and Vivarium Construction, Fabrication Engineer, Durham, NC
+March 2018 - Present
+● Constructed a 55 gallon poison dart frog vivarium to house five distinct varieties of
+poison dart frogs, designed to be a self-sustaining closed cycle.
+● Created a 28 gallon aquarium based around crystalline structures of natural gemstones
+such as amethyst geodes, quartz clusters, and copper sulfate crystals.
+● Applied wet lab experience to create copper sulfate crystal structures at home.
+BEE Educated, Founder, Durham, NC
+August 2014 – Dec 2020
+● Founder and lead instructor of BEE Educated, a local outreach program that
+teaches children ages 8-12 the importance of bees through an on-site program with active apiaries.
+● Raised bees for eight years, doing inspections and honey harvesting, processing, and selling to local businesses.
+● Helped local beekeepers with their own hives, teaching and assisting them in keeping healthy colonies, along with
+providing swarm capture services for locals.
+WORK EXPERIENCE
+Mesas, Entrepreneur, Durham, NC
+February 2018 – Present
+● Started a venture selling custom river tables and resin cutting boards out of oak, walnut, ash, and maple.
+● Designed and built a 10’ long outdoor dining table out of dyed red epoxy resin and live edge white oak,
+working alongside a local blacksmith to fabricate a steel trestle base.
+Freelance Contractor, Durham, NC
+August 2019 – Present
+● Worked locally to design and execute a variety of projects, depending on client needs.
+● Projects include barn doors, chicken coops, garden fences, bunk beds, benches, tables,
+electrical installations, bathroom tiling, porch renovations, and concrete repair.
+LEADERSHIP AND COMMUNITY EXPERIENCE
+TSDCH Chemistry Club, Leader and Co-founder, Durham, NC
+August 2019 – April 2020
+● Founded and led the Chemistry Club at TSDCH.
+● Organized a program for first graders to learn about phase changes through super-saturated
+solutions and gas-producing reactions.
+TSDCH Cross Country and Track, Captain, Durham, NC
+August 2019 – April 2020
+● Led the TSDCH cross country team as Captain during the school’s first regional conference win.
+● Won 3rd place in NC State Championship meet for 300m hurdles.
+TECHNICAL SKILLS: Woodworking, Metalworking, Lathe, Crystalline Structure Fabrication, Drone/Digital Cinematography
+SOFTWARE SKILLS: JavaScript, Adobe Lightroom, Adobe Photoshop, Video Editing and Production
+LANGUAGES: Spanish (Native), German (Beginner)
+INTERESTS: Computer Assembly, Backpacking, Traveling, Rock Climbing, Scuba Diving, Drums, Guitar, Crystal Growing
+
+
+
+## Metadata
+- Source file: junk_drawer/Jose Resume - Jan 2022 (1).pdf
+- Extracted: 2026-05-18
+- Category: work-general

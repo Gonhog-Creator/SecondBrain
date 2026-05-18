@@ -1,0 +1,27 @@
+# Exam 3 Review Session Notes.pdf
+
+Source: junk_drawer/Exam 3 Review Session Notes.pdf
+
+Category: [[academic-homework]]
+
+## Summary
+Exam 3 Review Session Notes Tuesday, April 8, 2025 11:56 AM MSE 360 - Kinetic Processes in Materials 2 Page 1 MSE 360 - Kinetic Processes in Materials 2 Page 2 MSE 360 - Kinetic Processes in Materials 2 Page 3
+
+## Full Content
+Exam 3 Review Session Notes
+Tuesday, April 8, 2025
+
+11:56 AM
+
+MSE 360 - Kinetic Processes in Materials 2 Page 1
+
+MSE 360 - Kinetic Processes in Materials 2 Page 2
+
+MSE 360 - Kinetic Processes in Materials 2 Page 3
+
+
+
+## Metadata
+- Source file: junk_drawer/Exam 3 Review Session Notes.pdf
+- Extracted: 2026-05-18
+- Category: academic-homework

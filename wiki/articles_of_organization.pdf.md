@@ -1,0 +1,261 @@
+# articles_of_organization.pdf
+
+Source: junk_drawer/articles_of_organization.pdf
+
+Category: [[other]]
+
+## Summary
+INSTRUCTIONS FOR FILING LIMITED LIABILITY COMPANY ARTICLES OF ORGANIZATION Item 1 Enter the complete company name, which must include a limited liability company ending required by N.C.G.S. §55D-20 (Limited Liability Company, L.L.C., Ltd. Liability Co., Limited Liability Co., or Ltd. Liability Company). Item 2 Enter the name and address of each person who executes the articles of organization and whether they are executing them in the capacity of a member or of an organizer or both by checking t
+
+## Full Content
+INSTRUCTIONS FOR FILING
+LIMITED LIABILITY COMPANY
+ARTICLES OF ORGANIZATION
+Item 1 Enter the complete company name, which must include a limited liability company ending required by N.C.G.S.
+§55D-20 (Limited Liability Company, L.L.C., Ltd. Liability Co., Limited Liability Co., or Ltd. Liability Company).
+Item 2 Enter the name and address of each person who executes the articles of organization and whether they are executing
+them in the capacity of a member or of an organizer or both by checking the applicable boxes. Unless the articles of
+organization provide otherwise, each person executing the articles of organization in the capacity of a member of the
+limited liability company becomes a member at the time that the filing by the Secretary of State of the articles of
+organization of the limited liability company becomes effective. (See N.C.G.S. § 57D-3-01)
+Item 3 Enter the name of the registered agent. The registered agent must be either an individual who resides in North Carolina; a
+domestic business corporation, nonprofit corporation, or limited liability company whose business office is identical with the
+registered office; or a foreign corporation, nonprofit corporation or limited liability company authorized to transact business
+or conduct affairs in North Carolina whose business office is identical with the registered office.
+Item 4 Enter the complete street address of the registered office and the county in which it is located.
+Item 5 Enter the complete mailing address of the registered office only if mail is not delivered to the street address shown in
+Item 4 or if the registered agent prefers to have mail delivered to a P.O. Box or Drawer.
+Item 6 Select item “a” if the limited liability company has a principal office. Enter the telephone number and the complete
+street address of the principal office and the county in which it is located. If mail is not delivered to the street address of
+the principal office or if you prefer to receive mail at a P.O. Box or Drawer, enter the complete mailing address of the
+principal office.
+Select item “b” if the limited liability company does not have a principal office.
+Item 7 N.C.G.S. §57D-2-21(b) states that the articles of organization may contain any provision not inconsistent with law,
+including any matter that under Chapter 57D is permitted to be set forth in a limited liability company’s operating
+agreement. The name and address of each of the initial members of the limited liability company may be stated as an
+attachment. Unless the articles of organization provide otherwise, each person who is named in the articles of organization
+as a member of the limited liability company becomes a member at the time that the filing by the Secretary of State of the
+articles of organization of the limited liability company becomes effective. (See N.C.G.S.
+§ 57D-3-01)
+Item 8 (Optional): This field is being provided in order to assist business entities in identifying its company officials and
+complying with Federal banking regulations.
+Item 9 (Optional): The Department offers a free voluntary notification system for which you may choose to participate. If you
+would like to receive this free service, please provide a business e-mail address in the space provided. Your participation
+will not result in your e-mail address being viewable on our website. Participation will help us to prevent business identity
+theft in the event an unauthorized person submits a fraudulent document for filing in the name of the business entity.
+Item 1 0 The document will be effective on the date and at the time of filing, unless a delayed date or an effective time (on the day
+of filing) is specified. If a delayed effective date is specified without a time, the document will be effective at 11:59:59
+p.m. Raleigh, North Carolina time on the day specified. If a delayed effective date is specified, the document will be
+effective on the day and at the time specified. A delayed effective date may be specified up to and including the 90th day
+after the day of filing.
+Date and Execution
+Enter the date the document was executed. In the
+blanks provided enter:
+• The name of the entity executing the Articles of Organization; if an individual, leave blank.
+• The signature of the member and/or organizer or representative of the organizing entity.
+• The name of the member and/or organizer or name of the above-signed representative.
+• The title of the individual or entity executing the Articles of Organization (i.e. Organizer, Member or both)
+• The document may, but need not, contain an acknowledgment, verification, or proof.
+ATTENTION: Limited liability companies wishing to render a professional service as defined in N.C.G.S. §55B-2(6) must
+contact the appropriate North Carolina licensing board to determine whether compliance with additional licensing requirements
+may be mandated by law. Such limited liability companies should consult N.C.G.S. §57D-2-02 for further details.
+
+BUSINESS REGISTRATION DIVISION
+(Revised August. 2017)
+
+P.O. BOX 29622
+
+Raleigh, NC 27626-0622
+Form L-01
+
+State of North Carolina
+Department of the Secretary of State
+Limited Liability Company
+ARTICLES OF ORGANIZATION
+Pursuant to §57D-2-20 of the General Statutes of North Carolina, the undersigned does hereby submit these Articles
+of Organization for the purpose of forming a limited liability company.
+
+Delta V International LLC
+
+1.
+
+The name of the limited liability company is:
+
+2.
+
+The name and address of each person executing these articles of organization is as follows: (State whether each
+person is executing these articles of organization in the capacity of a member, organizer or both by checking
+all applicable boxes.) Note: This document must be signed by all persons listed.
+Name
+Business Address
+Capacity
+Jose
+Maria
+Barbeito
+456
+Eagle
+Drive,
+Chapel
+Hill,
+NC
+27517
+________________________ _______________________________________
+Member Organizer
+
+(See Item 1of the Instructions for appropriate entity designation)
+
+________________________ _______________________________________
+
+Member
+
+Organizer
+
+________________________ _______________________________________
+
+Member
+
+Organizer
+
+Jose Maria Barbeito
+
+3.
+
+The name of the initial registered agent is: __________________________________________________
+
+4.
+
+The street address and county of the initial registered agent office of the limited liability company is:
+Number and Street
+
+456 Eagle Drive
+
+Chapel Hill
+
+City____________________________ State: NC Zip Code:
+5.
+
+27517 County: Chatham
+
+The mailing address, if different from the street address, of the initial registered agent office is:
+Number and Street
+City____________________________ State: NC Zip Code:
+
+6.
+
+County:
+
+Principal office information: (Select either a or b.)
+a.
+
+✔ The limited liability company has a principal office.
+
++1 919 667 4663
+
+The principal office telephone number: _____________________________________________________
+The street address and county of the principal office of the limited liability company is:
+Number and Street:
+
+456 Eagle Drive
+
+Chapel Hill
+
+City: ___________________ State:
+
+BUSINESS REGISTRATION DIVISION
+(Revised August. 2017)
+
+NC Zip Code: 27517 County: Chatham
+
+P.O. BOX 29622
+
+Raleigh, NC 27626-0622
+Form L-01
+
+The mailing address, if different from the street address, of the principal office of the company is:
+Number and Street:
+City: ___________________ State:
+
+Zip Code:
+
+County:
+
+The limited liability company does not have a principal office.
+
+b.
+7.
+
+Any other provisions which the limited liability company elects to include (e.g., the purpose of the entity) are
+attached.
+
+8.
+
+(Optional): Listing of Company Officials (See instructions on the importance of listing the company officials in the
+creation document.
+
+Name
+
+Title
+
+Jose Maria Barbeito
+
+9.
+
+Business Address
+
+Manager
+
+456 Eagle Drive, Chapel Hill, NC 27517
+
+josebarbeito.deltav@gmail.com
+(Optional): Please provide a business e-mail address: __________________________________
+
+The Secretary of State’s Office will e-mail the business automatically at the address provided above at no cost when a
+document is filed. The e-mail provided will not be viewable on the website. For more information on why this service is
+offered, please see the instructions for this document.
+
+10.
+
+These articles will be effective upon filing, unless a future date is specified:
+
+This is the
+
+17
+
+day of March
+_____________, 26
+20____.
+Jose Maria Barbeito, Organizer
+
+Signature
+
+Type or Print Name and Title
+The below space to be used if more than one organizer or member is listed in Item #2 above.
+
+Signature
+
+Signature
+
+_______________________________________
+Type and Print Name and Title
+
+_______________________________________
+Type and Print Name and Title
+
+NOTE:
+1.
+Filing fee is $125. This document must be filed with the Secretary of State.
+
+BUSINESS REGISTRATION DIVISION
+(Revised August. 2017)
+
+P.O. BOX 29622
+
+Raleigh, NC 27626-0622
+Form L-01
+
+
+
+## Metadata
+- Source file: junk_drawer/articles_of_organization.pdf
+- Extracted: 2026-05-18
+- Category: other

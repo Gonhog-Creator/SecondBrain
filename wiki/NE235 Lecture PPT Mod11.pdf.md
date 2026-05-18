@@ -1,0 +1,424 @@
+# NE235 Lecture PPT Mod11.pdf
+
+Source: junk_drawer/NE235 Lecture PPT Mod11.pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+NE235 Nuclear Reactor Operations Module #11 Neutron Flux and Power Density, & Heat Balance and Power Calibration Dept. of Nuclear Engineering North Carolina State University NE235 Nuclear Reactor Operations Training Topics: A. Neutron Flux Distribution
+
+## Full Content
+NE235 Nuclear Reactor Operations
+Module #11
+Neutron Flux and Power Density,
+& Heat Balance and Power Calibration
+Dept. of Nuclear Engineering
+North Carolina State University
+
+NE235 Nuclear Reactor Operations Training
+Topics:
+A. Neutron Flux Distribution
+B. Power Density & Peaking Factors
+C. Departure from Nucleate Boiling (DNB) and Safety Limits
+D. Heat Balance & Power Calibration
+Laboratory Sessions:
+
+•
+•
+
+Lab#7 – Axial Flux Profile - THURSDAY
+Lab#8 – Heat Balance - TUESDAY
+
+Homework #11 – Due 11/29
+
+NE235 Nuclear Reactor Operations Training
+
+2
+
+Neutron Flux & Power Density
+Flux (Φ) and Power Density are variable throughout the core
+• Variable across the fuel pellet as the flux dips in the center due to
+self shielding of thermal neutrons
+• Variable radially across the fuel assemblies (horizontally)
+• Variable vertically along the fuel channel
+Variability in the radial and vertical flux is a function of many factors
+including:
+• Power history
+• Moderator temperature
+• Geometry & characteristics of reflector materials
+• Enrichment and Burnup of 235𝑈
+• Critical rod height
+• Distribution of Fission Product Poisons: 135𝑋𝑒, 149𝑆𝑚
+NE235 Nuclear Reactor Operations Training
+
+3
+
+Neutron Flux Gradients
+❑ Variable across the fuel
+pellet as the flux dips in
+the center due to self
+shielding of thermal
+neutrons.
+❑ Peaks in coolant channel
+in under-moderated core
+like light water
+moderated & cooled
+PULSTAR.
+
+❑ Variable radially across the
+core (horizontally).
+❑ Thermal peaking in
+reflector due to fast
+leakage.
+Pellet Image from “Using Finite Model Analysis and Out of Hot Cell Surrogate Rod Testing to Analyze High Burnup Used Nuclear Fuel Mechanical Properties,” Report Number DOE
+FCRD-UFD-2014-000603, ORNL/TM-2014/257
+
+4
+
+Neutron Flux Gradients: Radially in Fuel Pin
+
+5
+
+Neutron Flux Gradients
+❑ Variable across the fuel
+pellet as the flux dips in
+the center due to self
+shielding of thermal
+neutrons.
+❑ Peaks in coolant channel
+in under-moderated core
+like light water moderated
+& cooled PULSTAR.
+❑ Variable radially across
+the core (horizontally).
+❑ Thermal peaking in
+reflector due to fast
+leakage.
+
+Pellet Image from “Using Finite Model Analysis and Out of Hot Cell Surrogate Rod Testing to Analyze High Burnup Used Nuclear Fuel Mechanical Properties,” Report Number DOE
+FCRD-UFD-2014-000603, ORNL/TM-2014/257
+
+6
+
+Slide #6 - Neutron Flux Gradients: Radially in Core
+
+7
+
+Fuel Assembly Peaking Factor Measurement
+❑ Miniature In-Core (MIC) fission
+chambers used to measure flux
+distribution.
+
+❑ Inserted in dry wells inside fuel
+assemblies.
+❑ Current generated through ionization
+of recoiling fission products in detector
+is proportional to local neutron flux.
+
+8
+
+Neutron Flux Gradients: Axially (vertically)
+
+9
+
+Assembly Peaking Factors
+❑ Fuel assembly
+peaking factor (axial
+x radial) –vs- Pin
+peaking factor.
+❑ Measure assembly
+peaking factors with
+in-core detectors.
+❑ Benchmark codes
+that model pin
+peaking factors to
+assure pin peaking is
+within TS limits
+within the ‘hot
+channel’.
+
+10
+
+Pin Peaking Factor & DNB Limits
+PULSTAR Technical Specifications (TS):
+T.S. LCO 3.1(f): Maximum (Hot Pin) Peaking Factor < 2.92 Peak-to-Average
+
+Maintains local power density (watts/cm3) low enough to avoid DNB!
+𝑷𝒐𝒘𝒆𝒓 𝑫𝒆𝒏𝒔𝒊𝒕𝒚
+
+𝑾𝒂𝒕𝒕𝒔
+𝑾𝒂𝒕𝒕𝒔 ∗ 𝒔𝒆𝒄
+𝟏
+𝒏
+=
+𝑪
+∗
+𝑵𝝈
+∗
+Φ
+𝒇
+𝑻𝑯
+𝒄𝒎𝟑
+𝑭𝒊𝒔𝒔𝒊𝒐𝒏
+𝒄𝒎
+𝒄𝒎𝟐 𝒔𝒆𝒄
+
+Power density in fuel (watts/cm3) drives heat flux across cladding (watts/cm2), where
+‘Critical Heat Flux’ = onset of ‘Departure from Nucleate Boiling’ (DNB).
+𝑫𝑵𝑩 𝑹𝒂𝒕𝒊𝒐 ≥ 𝟐. 𝟎 =
+
+𝑪𝒓𝒊𝒕𝒊𝒄𝒂𝒍 𝑯𝒆𝒂𝒕 𝑭𝒍𝒖𝒙
+𝑯𝒆𝒂𝒕 𝑭𝒍𝒖𝒙
+
+Minimum DNB > 2.0 is a typical limiting safety criterion under all steady state and
+accident transient conditions.
+NE235 Nuclear Reactor Operations Training
+
+11
+
+Heat Transfer & DNB:
+Nucleate Boiling –vs- Film Boiling
+
+Nucleate Boiling
+assures efficient heat
+transfer to coolant
+DNB!
+
+12
+
+Safety Limit Envelope for PULSTAR
+ Current SAR Safety Limit:
+Core Power –vs- Primary
+Coolant Flow Curve.
+ Safety Limit ‘envelope’
+assures minimum DNB
+ratio of > 2.0 is always met
+under steady state and
+accident transient
+conditions.
+ Lower power and higher
+coolant flow rate required
+to stay within DNB limits.
+ Updated SAR Safety Limit:
+Based on Fuel Clad Temp;
+<2,200°F under all steady
+state and accident transient
+conditions (Reactivity
+insertion, LOCA, LOFA)
+13
+
+Reactor Heat Balance
+Perform Heat Balance to calibrate reactor power and stay within limits:
+
+𝑯𝒆𝒂𝒕 𝑮𝒂𝒊𝒏𝒔 𝑰𝒏 𝑪𝒐𝒓𝒆 = 𝑯𝒆𝒂𝒕 𝑳𝒐𝒔𝒔𝒆𝒔 (𝑨𝒓𝒐𝒖𝒏𝒅 𝑪𝒐𝒐𝒍𝒊𝒏𝒈 𝑳𝒐𝒐𝒑)
+Therefore,
+Reactor Power = Heat Exchanger Losses + Pool Heat-Up + Ambient Losses
+
+Where:
+
+𝑸ሶ
+
+𝑩𝒕𝒖
+𝒉𝒓
+
+= 𝒎ሶ
+
+𝒍𝒃𝒎
+𝑩𝒕𝒖
+× 𝑪𝒑
+× ∆𝑻 ℉
+𝒉𝒓
+𝒍𝒃𝒎℉
+
+Mass Flow
+Rate of Primary
+
++ 𝒎 𝒍𝒃𝒎 × 𝑪𝒑
+Primary
+Coolant
+Mass
+NE235 Nuclear Reactor Operations Training
+
+𝑩𝒕𝒖
+ሶ
+× ∆𝑻(℉/𝒉𝒓)
+𝒍𝒃𝒎℉
+Temp
+Increase
+“Heatup
+Rate”
+
+Heat Capacity
+of Water
+
+Across Heat
+Exchanger
+
++ Ambient Losses
+Go to ~0 at
+Thermal Equilibrium
+
+14
+
+PULSTAR - Primary Cooling System Schematic
+450 Gallon
+Delay Tanks
+Annubar
+Primary Flow
+Sensor
+
+CORE
+
+RTD T2: Pool
+(within ~6’ of top
+of core)
+
+RTD T4:
+Primary
+Core Outlet
+
+RTD T3: Primary
+Cold Return
+
+RTD T5: Primary
+Hx Inlet
+
+Primary
+Pump
+
+To Cooling
+Tower Header
+RTD T8: Secondary
+Hot Hx Outlet
+
+RTD T6: Primary
+Hx Outlet
+
+RTD T9: Cooling Tower
+Fan VFD Control Point
+
+Demineralizer
+Loop Pump
+
+(to CT header)
+
+From Cooling
+Tower Basin
+
+ΔTcore = T4 – T2
+
+RTD T7: Secondary
+Cold Hx Inlet
+(from CT basin)
+
+ΔTheat-ex = T5 – T6
+Secondary
+Pump
+
+NE235 Nuclear Reactor Operations Training
+
+Heat Balance – Power Calibration
+ሶ
+Example: Calculate true reactor power 𝑸(𝑴𝑾)
+Given: ∆T across the heat exchanger = +10°F
+Primary Heatup Rate = + 0.5°F/hr
+Primary Volume = 15,650 GAL
+Primary Flow Rate = 500 GAL/min
+Where:
+Density of Water is 𝟖. 𝟐𝟕𝟐
+
+𝒍𝒃𝒎
+at ~ 108°F (nominal avg. coolant temp)
+𝑮𝑨𝑳
+
+Where 1 MW = 3.413x106 Btu/hr (Btu = British Thermal Unit where 1 Btu
+of heat raises one pound of water by 1°F)
+
+NE235 Nuclear Reactor Operations Training
+
+16
+
+Reactor Power Calibration by Heat Balance
+𝑄ሶ = ሶ
+𝑚𝐶𝑝 ∆𝑇 + 𝑚𝐶𝑝 ∆𝑇ሶ + 0
+
+Eq. from Chpt. 3
+
+𝐵𝑡𝑢
+𝐺𝐴𝐿
+𝑙𝑏𝑚
+𝑚𝑖𝑛
+𝐵𝑡𝑢
+ሶ
+𝑄(
+) = 500
+𝑥 8.272
+𝑥 60
+× 0.998
+× +10℉
+ℎ𝑟
+𝑚𝑖𝑛
+𝐺𝐴𝐿
+ℎ𝑟
+𝑙𝑏𝑚℉
+
+𝑙𝑏𝑚
+𝐵𝑡𝑢
+℉
++ 15650 𝐺𝐴𝐿 𝑥 8.272
+× 0.998
+× 0.5
+𝐺𝐴𝐿
+𝑙𝑏𝑚℉
+ℎ𝑟
+= 2.48𝑥106
+𝑸ሶ 𝑹𝒆𝒂𝒄𝒕𝒐𝒓 =
+
+𝐵𝑡𝑢
+𝐵𝑡𝑢
+𝐵𝑡𝑢
++ 6.46𝑥104
+= 2.54𝑥106
+ℎ𝑟
+ℎ𝑟
+ℎ𝑟
+
+1 𝑀𝑊
+3.413𝑥106
+
+NE235 Nuclear Reactor Operations Training
+
+𝐵𝑡𝑢
+ℎ𝑟
+
+× 2.54𝑥106
+
+𝐵𝑡𝑢
+= 𝟎. 𝟕𝟒𝟓 𝑴𝑾
+ℎ𝑟
+
+17
+
+Summary
+❑ The neutron flux distribution varies throughout core volume – within
+the fuel pin and both radially and axially in the core.
+❑ The spatial power density (watts/cm3) in the fuel is a function of the
+flux distribution and drives the hot pin and assembly peaking factors.
+Reactor TS limits pin peaking factor to <2.92 peak to average.
+
+❑ If the local power density gets too high, the Critical Heat Flux
+(watts/cm2) across the cladding can get too high and lead to a
+‘Departure from Nucleate Boiling (DNB)’
+❑ Safety Limits for peaking factor, reactor power, and primary coolant
+flow assure that DNB > 2.0, so fuel cladding is not damaged!
+❑ A heat balance measurement is performed to calibrate the power
+level of the reactor to assure it stays within safety limits.
+
+18
+
+
+
+## Metadata
+- Source file: junk_drawer/NE235 Lecture PPT Mod11.pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

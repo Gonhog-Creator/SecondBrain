@@ -1,0 +1,108 @@
+MA341
+Applied ODE’s
+Handout 3
+Definition 1. A Separable equation is an equation that can be transformed
+dy
+dy
+into dx
++ f (x) g (y) = 0. One rewrite it as g(y)
+= −f (x) dx to solve by integration. A singular solutions y0 may happen if g(y0 ) = 0.
+Definition 2. (Linear Substitution) Suppose y 0 = f (ax + by + c) define
+z = ax + by + c to get a separable equation z 0 = a + by 0 = a + f (z).
+Definition 3. (Homogeneous equations) A function f (x, y) is called homogeneous if f (tx, ty) = f (x, y). Particularly, in such case f (x, y) = f ( xy ). To
+solve ODE of the form y 0 = f (x, y) = f ( xy ) substitute z (x) = y(x)
+x , now y = xz
+dz
+0
+0
+and y = xz + z = f (z), and we got a separable equation f (z)−z = dx
+x .
+Definition 4. (Quotient of two linear functions) Suppose y 0 = f
+
+
+
+ax+by+c
+αx+βy+γ
+
+
+
+If the lines are parallel
+ ta, β = tb, substitute v (x) = ax + by, to solve
+ α =
+v 0 = a + by 0 = a + bf
+
+v+c
+tv+γ
+
+.
+
+If the lines intersects at point (x0 , y0 ), define t = x − x0 and s = y − y0 , to get
+an homogeneous equation
+
+
+
+
+
+
+a + b st
+ds
+dy
+ax + by + c
+at + bs
+=
+=f
+=f
+=f
+dt
+dx
+αx + βy + γ
+αt + βs
+α + β st
+
+
+a+bz
+0
+Next, a substitution s(t) = tz(t) leads to ds
+so we solve
+dt = tz + z = f α+βz
+ 
+
+−1
+a+bz
+f α+βz
+dz = dt
+−z
+t .
+Definition 5. Exact equation is an equation that can be transformed
+into
+R
+P (x, y) dx+Q (x, y) dy = 0, where Py = Qx . To find it, solve f (x, y) = P dx =
+Pe + g(y) to determine g, solve fy = Q. Note: f is a potential of a conservative
+vector field: < P, Q >= ∇f .
+Definition 6. Integration factor Given a non exact equation M dx+N dy = 0
+sometimes it is possible to find an integration factor µ such that µ (M dx + N dy) =
+(µM ) dx + (µN ) dy = 0 is exact. Here is the possible cases:
+Rx
+µ0
+M y − Nx
+=
+= f (x) ⇒ µ (x) = e 0 f (s)ds
+µ
+N
+Rx
+µ0
+Nx − M y
+=
+= g (y) ⇒ µ (x) = e 0 g(s)ds
+µ
+M
+0
+Rx
+µ
+Nx − My
+=
+= h (xy) ⇒ µ (x) = e 0 h(s)ds
+µ
+xM − yN
+
+

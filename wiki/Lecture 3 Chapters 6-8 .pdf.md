@@ -1,0 +1,300 @@
+# Lecture 3 (Chapters 6-8) .pdf
+
+Source: junk_drawer/Lecture 3 (Chapters 6-8) .pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+CURRENT HEALTH ISSUES ➤ Cardiovascular ➤ Respiratory ➤ Renal/Hepatic (Kidney/Liver) ➤ Metabolic ➤ Bone and Connective Tissue ➤ Digestive ➤ Drug Addiction ➤ Sexual Health
+
+## Full Content
+CURRENT HEALTH ISSUES
+➤ Cardiovascular
+➤ Respiratory
+➤ Renal/Hepatic (Kidney/Liver)
+➤ Metabolic
+➤ Bone and Connective Tissue
+➤ Digestive
+➤ Drug Addiction
+➤ Sexual Health
+
+Cardiovascular
+Health
+
+CORONARY HEART DISEASE (CHD)
+UNCONTROLLABLE FACTORS:
+➤ AGE
+➤ SEX
+➤ GENETICS
+
+THE LEADING CAUSE
+OF DEATH
+IN THE UNITED STATES
+
+➤ Physical Activity can prevent CHD, promote physiological well being & healthy
+
+body weight.
+
+Risk Factors for Coronary Heart Disease
+(CHD)
+PRIMARY
+➤ Smoking
+➤ High Cholesterol
+➤ High Blood Pressure
+➤ Inactivity
+➤ Obesity
+➤ Diabetes
+
+SECONDARY
+➤ Stress
+➤ Alcohol
+➤ Diet & Nutrition
+
+Nutrition
+
+Suzanne Williams
+
+The process of taking in food and using it for growth,
+metabolism & repair. Nutritional stages are ingestion,
+digestion, absorption, transport, assimilation & excretion
+
+6 Essential Nutrients
+Macronutrients
+
+Micronutrients
+
+1. CARBOHYDRATES
+
+5. VITAMINS
+
+2. PROTEIN
+
+6. MINERALS
+
+3. FAT
+
+“Micro” Only needed in
+small amounts; “MAGIC
+WANDS” enabling the body
+to produce enzymes,
+hormones and other
+substances essential for
+proper growth and
+development.
+
+4. WATER
+“Macro” Needed in large
+quantities for normal growth
+and development; body’s
+source of energy (CALORIES)
+to fuel life processes.
+
+•
+
+CARBOHYDRATES: Main source of energy
+
+•
+
+PROTEIN: Major structural building blocks
+
+•
+
+FAT: Energy storage; synthesis & repair of cell
+parts
+
+•
+
+WATER: Solvent, lubricant, Medium for
+transport & temperature regulation
+
+•
+
+VITAMINS: Enable chemical reactions in the
+body
+
+•
+
+MINERALS: Aid enzyme function, electrical
+balance; generate nerve impulses; bone
+structure
+
+A Daily Guide
+• Be more physically ACTIVE
+• HALF your plate FRUITS and
+
+VEGETABLES
+• More WHOLE grains
+• Healthier beverage choices-
+
+more WATER, less sugar
+• Be AWARE of sodium
+• SWITCH to lower fat dairy
+•
+
+LIMIT foods high in solid fat
+
+Food Labels
+
+FAT
+
+Vitamins
+
+Minerals
+•
+
+Unique- only essential nutrient that is inorganic (do not contain
+carbon) & not broken down during digestion or absorption.
+
+•
+
+Bodies cannot make minerals so we must get them through
+food
+
+•
+
+Help maintain structure of bone and teeth, fluid balance,
+normal cell and muscle activity, heart rhythm, & nerve
+impulses
+
+•
+
+Regulate metabolism
+
+•
+
+2 Types: 1)Major (Macrominerals) 2)Trace (Microminerals)
+
+Water
+•
+
+Regulates body temperature
+
+•
+
+Protects organs and tissues
+
+•
+
+Lubricates and cushions joints
+
+•
+
+Transports nutrients
+
+•
+
+Aids in metabolism, nerve function, muscle contraction and
+waste elimination
+
+5 PRACTICES THAT IMPACT BODY COMPOSITION:
+➤ Sedentary vs Active Lifestyle
+➤ Healthy Eating
+➤ Weight Training
+➤ Water Consumption
+➤ Sleep
+
+BODY MASS INDEX (BMI)
+➤ Fat and nonfat components
+
+of the human body
+➤ Skinfold Test
+
+STRESS
+1) Stimulus
+2) Physiological Reaction
+3) Strain
+Ø
+
+Inevitable, needed, stimulates
+growth and development
+
+Ø
+
+Too much for too long, if unrelieved,
+can = physical and/or mental illness
+
+Ø
+
+EUSTRESS- Beneficial (exercise)
+
+Ø
+
+DISTRESS- Detrimental (schedule
+overload)
+
+RESPONSES TO STRESS:
+Psychological or Cognitive:
+➤ Arousal (phychological) Anxiety (cognitive)
+
+Physiological
+➤ General Adaption Syndrome:
+
+Alarm Stage (fight or flight)
+Resistance Stage
+Recovery Stage
+Exhaustion Stage
+
+Stress Management:
+➤ Personality? (A,B or C)
+➤ Type C- Hardiness
+
+(Challenge, Confidence,
+Commitment, Control)
+
+•
+
+Check your perspective
+
+•
+
+Understand & Deal with Anger
+
+•
+
+Use support systems, expand networks
+& healthy relationships to safely share
+worries & emotions (trust).
+
+•
+
+Exercise regularly
+
+•
+
+Eat well
+
+•
+
+Slow down (talking, walking, eating)
+
+•
+
+Positive Focus. Gratitude
+
+•
+
+Practice Good Time management (Don’t
+overcommit)
+
+•
+
+Look outside yourself (volunteer)
+
+•
+
+LAUGH regularly
+
+•
+
+SEEK HELP
+
+•
+
+Include Relaxation daily (Techniques)
+
+
+
+## Metadata
+- Source file: junk_drawer/Lecture 3 (Chapters 6-8) .pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

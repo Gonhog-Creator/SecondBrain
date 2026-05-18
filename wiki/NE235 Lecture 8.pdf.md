@@ -1,0 +1,591 @@
+# NE235 Lecture 8.pdf
+
+Source: junk_drawer/NE235 Lecture 8.pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+NE235 Nuclear Reactor Operations Module #8 Reactor Period, Inhour Equation, and Exponential Power Equations Dept. of Nuclear Engineering North Carolina State University NE235 Nuclear Reactor Operations Training Module #8
+
+## Full Content
+NE235 Nuclear Reactor Operations
+Module #8
+
+Reactor Period, Inhour Equation, and
+Exponential Power Equations
+Dept. of Nuclear Engineering
+North Carolina State University
+
+NE235 Nuclear Reactor Operations Training
+Module #8
+Module #8 Contents:
+1. Inhour Equation
+2. Inhour Plots: Reactivity r –vs- Reactor Period t
+3. One Group Approximation for Small Reactivity Insertions
+4. Exponential Power Equations
+
+Homework #8 – Due 11/1/2022
+
+Shultis, J.K and Faw, R. E, Fundamentals of Nuclear
+Science and Engineering, Pg. 145
+
+NE235 Nuclear Reactor Operations Training
+
+2
+
+RECAP: Subcriticality –vs- Supercriticality
+Fission Neutrons; Nf - Increase through subcritical multiplication, then
+exponentially in super-critical reactor
+
+Nf
+
+Critical at power levels up to 1 MW: ΦTH ~1x1013 n/cm2/sec
+
+Delayed
+»
+Supercriticality
+
+1 < Keff < 1.0073
+0 < ρnet < 730pcm
+
+Critical @ 10W (Rods at ACP):
+
+Use exponential power
+equations to predict behavior!
+
+ΦTH ~1x108 n/cm2/sec
+
+Keff = 1; ρnet = 0
+Subcritical
+Multiplication
+
+S
+
+»
+
+Keff <1
+ρnet <0
+
+Use subcritical multiplication
+equations to predict behavior!
+
+Sub-Critical (Shutdown - Rods In): ΦTH ~103-104 n/cm2/sec
+
+Source Neutrons; S ~ Constant for each Start-Up
+NE235 Nuclear Reactor Operations Training
+
+3
+
+Definitions
+Reactor Period (τ):
+≡ Time, in seconds, to change power by a factor of e = 2.718.
+
+“SUR” Start-Up Rate in Decades per Minute (DPM):
+A 1 DPM SUR => Reactor power is increasing by 1 decade (x10) per minute
+A 2 DPM SUR => Reactor power is increasing by 2 decades (x100) per minute
+
+“Inhour” Unit:
+The amount of reactivity (pcm or
+
+NE235 Nuclear Reactor Operations Training
+
+∆𝒌
+) yielding a +1 hour (3600 sec) period
+𝒌
+
+4
+
+Inhour Equation:
+Reactivity r –vs- Reactor Period t
+The rate of power change (expressed as period or startup rate) is related
+to reactivity by the “Inhour” equation:
+ℓ∗
+
+𝟔
+
+𝜷𝒊
+𝝆=
++෍
+𝒌𝝉
+𝟏 + 𝝀𝒊 𝝉
+
+𝑬𝒒# 𝟐. 𝟗
+
+𝒊=𝟏
+
+Where:
+ℓ* = prompt neutron lifetime (sec)
+
+τsec = Period (sec)
+βi
+λi
+
+= Fractional yields for 6 groups of delayed neutron precursors.
+= Decay constants for 6 groups of delayed neutron precursors.
+
+Therefore, the “Inhour” equation relates Period τsec to 𝝆
+
+NE235 Nuclear Reactor Operations Training
+
+∆𝒌
+𝒌
+
+5
+
+Delayed Neutron Pre-Cursors – 6 Groups
+
+Decay Constants li
+NE235 Nuclear Reactor Operations Training
+
+Yield Fractions bi
+6
+
+Inhour Equation:
+Reactivity r/b –vs- Reactor Period t
+Since βi and βeff vary through core life we divide Inhour by β to yield
+reactivity in dollars $(ρ/β) :
+
+ℓ∗
+
+𝟔
+
+𝝆
+𝜷𝒊
+=
++෍
+𝜷 𝒌𝝉𝜷
+𝜷 𝟏 + 𝝀𝒊 𝝉
+𝒊=𝟏
+
+The advantage of using dollars is it always correctly defines the boundary
+for prompt criticality. If ρ/β = $1, ρ = 730pcm, which is the boundary for
+prompt criticality, or the reactor state of being supercritical without having
+to wait for delayed neutrons.
+
+NE235 Nuclear Reactor Operations Training
+
+7
+
+Inhour Plot*:
+Reactivity (pcm) – vs- Period (sec) (log/log)
+
+NE235 Nuclear Reactor Operations Training
+
+* Assumes beff = 0.0073 DK/K
+
+8
+
+Inhour Plot*:
+Reactivity (pcm) – vs- Period (sec) (lin/lin)
+
+NE235 Nuclear Reactor Operations Training
+
+* Assumes beff = 0.0073 DK/K
+
+9
+
+Inhour Plot*:
+Reactivity (pcm) –vs- Startup Rate (DPM)
+
+NE235 Nuclear Reactor Operations Training
+
+* Assumes beff = 0.0073 DK/K
+
+10
+
+One-Group Approximations to InHour Eq.
+Approximations:
+1. For short periods (where ρ ≳ β) the delayed neutron term drops
+out and:
+ℓ∗
+𝝆=
++𝟏
+𝑲𝝉
+Prompt Neutron
+Term
+
+2.
+
+For long periods (where ρ<<β) the prompt neutron term drops out
+and we have the “One Group Approximation for Small Reactivity
+Insertion”:
+𝜷𝒆𝒇𝒇
+𝝆=
+𝑬𝒒# 𝟐. 𝟏𝟎
+𝟏 + 𝝀𝒆𝒇𝒇 𝝉
+Where λeff ∼ 0.1 (1/sec) for slightly supercritical
+
+Note: ρ and β must be in the same units (pcm vs ΔK/K)!!
+NE235 Nuclear Reactor Operations Training
+
+11
+
+Approximations -vs- Graph Results
+Example 1:
+If ρnet = +100 pcm, what is the reactor period t ?
+• One Group Approximation for Small Reactivity Insertion:
+𝜷
+
+−𝟏
+𝜷
+𝝆
+𝝆=
+∴ 𝝉=
+𝟏+𝝀𝝉
+𝝀
+
+=
+
+𝟕𝟑𝟎
+−𝟏
+𝟏𝟎𝟎
+𝟏
+𝟎.𝟏( )
+𝒔𝒆𝒄
+
+= 𝟔𝟑 𝒔𝒆𝒄
+
+• From Graph (linear/Linear) – see next page:
+τ = 64 sec
+So, good agreement between graph and approximation for small reactivity.
+NE235 Nuclear Reactor Operations Training
+
+12
+
+Inhour Plot*:
+Reactivity (pcm) – vs- Period (sec) (lin/lin)
+
+~64 sec
+NE235 Nuclear Reactor Operations Training
+
+* Assumes beff = 0.0073 DK/K
+
+13
+
+Approximations vs Graph Results
+Example 2:
+If ρnet = +500 pcm, what is the period t ?
+• One Group Approximation:
+𝜷
+𝝆=
+∴ 𝝉=
+𝟏+𝝀𝝉
+
+𝜷
+−𝟏
+𝝆
+
+𝝀
+
+=
+
+𝟕𝟑𝟎
+−𝟏
+𝟓𝟎𝟎
+𝟏
+𝟎.𝟏( )
+𝒔𝒆𝒄
+
+= 𝟒. 𝟔 𝒔𝒆𝒄
+
+• From Graph – see next page:
+
+τ = 2 sec
+So, poor agreement between graph and approximation for larger ρnet .
+
+NE235 Nuclear Reactor Operations Training
+
+14
+
+Inhour Plot*:
+Reactivity (pcm) – vs- Period (sec) (lin/lin)
+
+~2 sec
+NE235 Nuclear Reactor Operations Training
+
+* Assumes beff = 0.0073 DK/K
+
+15
+
+Exponential Power Equations
+𝒕
+
+𝑷 𝒕 = 𝑷𝟎 𝒆 ൗ𝝉
+𝒕
+𝑷 𝒕 = 𝑷𝟎 𝟐 ൗ𝒅𝒕
+𝒕ൗ
+𝑷 𝒕 = 𝑷𝟎 𝟏𝟎 𝑫𝑻
+𝑷 𝒕 = 𝑷𝟎 𝟏𝟎𝑺𝑼𝑹∙𝒕
+
+Eq. 2.5 & 2.6
+
+Where:
+P(t) = power as a function of time.
+Po = initial power
+t = Time over which power is changing (sec)
+t = period (sec)
+DT = Decade time (minutes) ≡ Time to increase 1 decade (x10) where
+(DT = 1/SUR)
+dt = doubling time (sec) ≡ Time to double reactor power
+SUR = Startup Rate (# decades per minute power is increasing) (DPM)
+NE235 Nuclear Reactor Operations Training
+
+16
+
+Rate Conversions
+τ (𝑠𝑒𝑐) = 1.44 x 𝑑𝑡 (sec)
+26.1
+SUR 𝐷𝑃𝑀 =
+τ (𝑠𝑒𝑐)
+SUR(DPM) =
+
+Eq. 2.7
+
+18.1
+𝑑𝑡 (𝑠𝑒𝑐)
+
+DT (min) = 1 / SUR (DPM)
+
+NE235 Nuclear Reactor Operations Training
+
+17
+
+Exponential Power Equations
+Example:
+How long will it take to go from 10 Watts to 10 Kilowatts if
+ρnet = +100 pcm?
+From previous example, +100pcm => τ = 64 sec from Inhour curve
+So, if:
+
+𝒕
+
+𝑷 𝒕 = 𝑷𝟎 𝒆 Τ𝝉
+𝒕ൗ
+𝟏𝟎, 𝟎𝟎𝟎 = 𝟏𝟎𝒆 𝟔𝟒
+𝟏𝟎, 𝟎𝟎𝟎
+𝒕
+𝐥𝐧
+=
+𝟏𝟎
+𝟔𝟒
+∴ 𝒕 = 𝟒𝟒𝟐 𝒔𝒆𝒄
+
+NE235 Nuclear Reactor Operations Training
+
+18
+
+Exponential Power Equations
+Example – continued:
+And if ρnet = +500 , τ =2 sec from Inhour curve
+𝒕
+
+𝑷 𝒕 = 𝑷𝟎 𝒆 ൗ𝝉
+𝒕
+𝟏𝟎, 𝟎𝟎𝟎 = 𝟏𝟎𝒆 ൗ𝟐
+
+𝟏𝟎, 𝟎𝟎𝟎
+𝒕
+𝐥𝐧
+=
+𝟏𝟎
+𝟐
+∴ 𝒕 = 𝟏𝟒 𝒔𝒆𝒄 to go from 10 W to 10 kW
+
+Applications - Relating time to reactivity via Inhour Eq. allows us to:
+a) Perform control rod calibrations.
+b) Measure reactivity worth of insertions.
+c) Predict the rate of power increase.
+NE235 Nuclear Reactor Operations Training
+
+19
+
+Lab #5 – Control Rod Calibration
+Objective: Measure the reactivity –vs- length for a
+reactor control rod.
+Laboratory Procedure Snapshot:
+Withdraw rod, measure power doubling time (dt),
+calculate reactivity worth of pull via Inhour, and plot
+differential & integral rod worth –vs- control rod
+height.
+Reactor Theory concepts:
+• Keff –vs- Reactivity r
+• InHour Equation: Reactivity r –vs- Period (t)
+• Core Neutron Flux Distribution
+Physical Plant Elements:
+• Control Rods
+• Linear Channel and chart recorder
+20
+
+PULSTAR Reactor: Instrumentation for Control Rod Calibration
+Reactor Core
+
+Linear Power
+Channel Schematic
+Linear Monitor
+Power Channel (MW)
+
+Control Rod
+Position Indicators
+
+Control Rods
+
+Control Rod Drive
+Switches
+
+Compensated Neutron
+Ion Chamber Schematic
+Boron lined
+Chamber
+(Working)
+
+Unlined
+Chamber
+(Compensating)
+
+SRM Count
+Rate Recorder
+
+21
+
+Reactor Theory Concepts: Core Neutron Flux Distribution
+Neutron Flux Distribution:
+• Control rod ‘worth’ per unit length is
+a function of thermal neutron flux
+distribution in the core.
+• Vertical and horizontal flux gradients
+in core due to leakage at core edges
+• Local flux gradients in proximity to
+control rods, water gaps,
+instrumentation penetrations, etc…
+
+Control Rod Calibration:
+Measure Differential Worth (pcm/inch), and Integral
+Worth (pcm):
+1. Bank rods so that the rod to be calibrated is fully
+inserted.
+2. Withdraw rod in steps, measuring time to double
+reactor power (doubling time dt (sec)).
+3. Convert dt to period (𝝉 = 1.44x dt), and period to
+reactivity 𝝆 using InHour curves.
+4. Plot Differential (pcm/inch) and Integral Rod
+(pcm) Worths –vs- Rod Height.
+
+22
+
+Safety #1 Rod Calibration Data
+Control Rod Calibration
+PULSTAR Safety #1 Rod - Differential Worth (pcm/inch) & Integral Worth (pcm)
+180
+
+1400
+Diff. p (pcm/inch)
+
+160
+
+1300
+
+Int. p (pcm)
+
+1200
+
+Differential Worth (pcm/inch)
+
+1000
+120
+
+900
+
+800
+
+100
+
+700
+80
+
+600
+500
+
+60
+
+400
+
+40
+
+Integral Rod Worth (pcm)
+
+1100
+
+140
+
+300
+200
+
+20
+
+100
+0
+
+0
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+Rod Position (inches)
+
+23
+
+Summary
+ Inhour Equation: Relates reactivity to rate of change of
+reactor power, commonly expressed as reactor period.
+ Inhour Plots: Expresses Reactivity r –vs- Reactor Period t,
+or –vs- reactor Startup Rate (DPM)
+
+ One Group Approximation for Small Reactivity Insertions:
+Convenient approximation for calculating relationship
+between reactivity and period for small reactivity values.
+ Exponential Power Equations: Determine power level as a
+function of time given the rate of change of reactor power
+expressed as t, dt, DT, or SUR.
+
+NE235 Nuclear Reactor Operations Training
+
+24
+
+
+
+## Metadata
+- Source file: junk_drawer/NE235 Lecture 8.pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

@@ -1,0 +1,851 @@
+# Lecture 22.pdf
+
+Source: junk_drawer/Lecture 22.pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+Lecture 22 ChE 467/596-012 Polymer Rheology 1 ChE 598K – Lecture ©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+## Full Content
+Lecture 22
+
+ChE 467/596-012
+Polymer Rheology
+
+1
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of 30
+
+Overview
+1. Review: particles with strong electrostatic repulsion
+2. Sterically Stabilized Systems
+3. Flocculated Systems
+4. Research Examples
+
+2
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of 30
+
+Particles with strong electrostatic repulsion: Electrolyte Effects
+
+Log 
+
+10-5 M
+
+10-5 M
+V
+
+10-1 M
+
+10-3 M
+
+10-3 M
+10-1 M
+Van der Waals
+Log 
+
+10-5 M
+
+h
+
+10-3 M
+
+10-1 M
+
+Increasing ionic strength
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+3
+
+of 30
+
+pH and Isoelectric Point
+ 1 
+
+pH
+
+
+log
+[H
+]
+
+log
+•
+ 10  [H  ] 
+10 
+
+
+
+• What is the isoelectric point (IEP, pI)?
+– pH unit at which net charge on molecule = 0
+– Property of proteins based on amino acid sequence
+
+1. pH < pI:
+
+Net charge = +1
+
+2. pH = pI:
+
+Net charge = 0
+
+3. pH > pI:
+
+Net charge = -1
+4
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of 30
+
+Particles with strong electrostatic repulsion: pH Effects
+Log 
+
+pH = pI
+pH > pI
+
+pH << pI
+
+Log 
+
+pH = pI
+pH << pI
+
+=0
+
+Increasing pH
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+pH > pI
+5
+
+of 30
+
+In-Class Exercise: Effect of pH and Ionic Strength
+You have four solutions of 2 μm particles densely coated with
+a protein whose pI = 5.2:
+A. Solution pH = 8.0, ionic strength = 0.1 M
+B. Solution pH = 8.0, ionic strength = 0.01 M
+C. Solution pH = 5.2, ionic strength = 0.1 M
+D. Solution pH = 5.2, ionic strength = 0.01 M
+Rank the solutions in order of increasing 0:
+
+Answer:
+B < A < C, D
+
+6
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of 30
+
+Sterically Stabilized System
+
+Polymer chain
+
+2a
+
+Interpenetration
+
+No chain overlap
+
+7
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of 30
+
+Polymeric or Sterically Stabilized System
+
+What is G’ vs w at different f?
+
+High f
+
+Potential Energy
+
++
+
+-
+
+Interparticle distance
+
+Log G’
+
+2
+
+Low f
+logw
+8
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of 30
+
+Dynamic Rheology - “Soft” Particles
+Moduli G’, G’’
+
+Elastic effects
+dominate at
+high f
+
+G’’
+G’
+0.4
+
+Particle Volume Fraction, f
+
+0.6
+9
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of 30
+
+Polymeric Stabilized System, cont’d
+• Cannot penetrate
+d
+
+Layer full of polymer chains
+
+• Starts to show Brownian
+Hard Sphere behavior
+
++
+Potential Energy
+
+• Increased effective
+volume fraction of solid
+
+Interparticle distance
+2d
+
+10 of 30
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Polymeric Stabilized System, cont’d
+Layer thickness d
+
+•
+•
+
+Repulsions are “short” range
+Effectively increasing solid fraction
+ d
+feff  f  1  
+a
+
+
+3
+
+ feff 
+ rx  1 
+
+f
+relative
+max 
+
+
+2.5fmax
+
+11 of 30
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Polymeric Stabilized System, cont’d
+Layer thickness d
+
+r
+
+Actual
+data
+Prediction
+Krieger
+Dougherty
+
+Back out d from rheology data
+f
+
+To get d:
+Use f and adjust d to match
+the experimental data with
+Krieger Dougherty eqn.
+
+ d
+feff  f  1  
+a
+
+
+3
+
+12 of 30
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+In-class exercise
+Layer thickness d
+
+o
+
+r
+
+
+Shear rate
+
+Given:
+ro = 10
+F = 0.4
+a =100 nm
+
+Outline how would you find d?
+
+ feff 
+ rx  1 
+
+f
+relative
+max 
+
+
+ d
+feff  f  1  
+a
+
+
+3
+
+2.5fmax
+
+Plug in for  and fmax and
+get feff
+
+Answer:
+Feff = 0.49, d  6.9 nm
+13 of 30
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Flocculated Systems
+Potential Energy
+
+• Thixotropy
+• Physical gels
+
++
+
+-
+
+Interparticle distance
+
+Flocculation
+
+Network
+14 of 30
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Flocculated Systems, cont’d
+Plot the viscosity versus shear
+rate behavior of this sample
+
+log
+
+log 
+
+G’
+
+log G’
+log G”
+
+G”
+
+logw
+15 of 30
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Flocculated Systems, cont’d
+Absence of Newtonian region
+=> presence of microstructure/flocculation
+
+log
+
+log 
+
+G’
+
+log G’
+log G”
+
+G”
+
+n
+
+G’  fn
+
+Log G’
+
+Low f
+logw
+
+f
+16 of 30
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Flocculated Systems, cont’d
+w  10 rad/s
+
+G’
+Log
+G’,
+G’’
+
+Plot the modulus versus strain
+behavior
+
+G”
+
+log strain
+
+G’
+
+log G’
+log G”
+
+G”
+
+logw
+17 of 30
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Flocculated Systems, cont’d
+
+18 of 30
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Flocculated Systems, cont’d
+Fractal nature in many of these systems
+df
+
+m (mass) or n (number) ~ r
+df = Fractal dimension  3
+
+r
+
+df ≈ 1.8, aggregation mechanism = Diffusion-limited
+(incoming particle sticks to periphery of floc,
+high “sticking probability”)
+
+df ≈ 2.1-2.2, aggregation mechanism = Reaction-limited
+(incoming particle bounces around before finding a home,
+low “sticking probability”)
+19 of 30
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Flocculation from Adsorbing Polymer
+
+Low polymer concentration
+Flocculation by bridging
+mechanism
+Low surface coverage
+High polymer concentration
+Stabilization
+20 of 30
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Non-adsorbing polymer - Depletion Flocculation
+
+Low polymer concentration
+Stable Dispersion
+
+High polymer concentration
+Flocculation by volume
+restriction mechanism
+
+f  f p
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+21 of 30
+
+Depletion Flocculation and gelation
+How can you determine that gelation is due to depletion flocculation?
+
+G’
+
+Add polymer to
+suspension and see if
+gelation occurs
+
+log G, G’’
+
+G’’
+
+Add
+polymer
+G’’
+G’
+logw
+22 of 30
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Depletion Flocculation and gelation
+
+Bingham yield stress
+
+Increasing concentration
+of non-adsorbing polymer
+
+No polymer
+added
+
+0.2
+
+Particle Volume Fraction, f
+
+0.7
+23 of 30
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Polymer Grafted System
+
+Polymer chain
+
+2a
+
+Interpenetration
+Can we make the
+chains “sticky”?
+
+c  1/2
+
+No chain overlap
+(Steric stabilization)
+24 of 30
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Range of Fumed Silicas with Non-Polar Surfaces
+Different Chain Lengths
+
+C2
+
+C8
+
+C18
+
+Different Surface Coverage by Alkyl Chains (C8)
+
+31%
+ChE 598K – Lecture
+
+42%
+
+48%
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+25 of 30
+
+Elastic (G'), Viscous (G") moduli (Pa)
+
+Varying Chain Length of n-alkyl Groups on FS
+105
+10% Silica in
+PEG(300)
+
+104
+
+G'
+
+OTCS (C8)
+
+ODTCS (C18)
+
+103
+
+G"
+
+ETCS (C2)
+
+102
+
+101
+0.01
+
+G'
+G"
+
+0.1
+
+1
+
+10
+
+Frequency, w (rad/s)
+
+
+
+
+
+Elastic network in all cases
+Degree of gel formation increases with chain length
+No enhancement in modulus beyond certain chain length (C8)
+26 of 30
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Elastic (G'), Viscous (G") moduli (Pa)
+
+Surface Coverage Effect on octyl-modified FS
+105
+R805 (48% octyl)
+
+104
+
+G'
+
+G' ODM-42 (42% octyl)
+
+103
+
+G"
+
+G"
+
+102
+101
+G"
+100
+
+ODM-31 (31% octyl)
+
+G'
+
+10% Silica in
+PEG (300)
+
+10-1
+0.01
+
+0.1
+
+1
+
+10
+
+Frequency, w (rad/s)
+
+
+
+Flocculated suspension at lowest surface coverage
+
+
+
+Gel-like behavior at high surface coverage
+
+
+
+Shows that high coverage of octyl chains shields silanols
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+27 of 30
+
+Interactions Between Tethered chains
+Interactions between tethered chains depend on:
+segment – segment contacts
++
+solvent – solvent contacts
+
+vs.
+
+segment - solvent
+contacts
+
+Governed by c parameter
+
+Mismatch between chains & solvent  c > 1/2
+– Chains on particles become “sticky” (attractive) at
+close approach
+28 of 30
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Colloidal Interactions and Rheology
+G’ related to depth of attractive potential well
+
+log G’, G”
+
+G'
+
+G"
+Frequency, (log w)
+
+
+We obtain the following scaling relationship: (Russel, 1989) G' ~ N  Vmin
+
+Since
+
+V
+~ ( 12  c )
+kT
+
+and c can be related to solubility parameters:
+
+G' ~ d s  d m 
+
+c
+
+vm
+d s  d m 2  0.34
+RT
+
+2
+
+we finally get:
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+29 of 30
+
+Colloidal Interactions of Fumed Silica Systems
+105
+
+Elastic Modulus G' (Pa)
+
+10% R805 (octyl-modified silica)
+
+G ~ d s  d m 
+
+2
+
+PEG-300
+Tri-EG
+
+10
+
+4
+
+PEGm-350
+PPG-425
+PEGdm-250
+
+103
+
+
+
+Incompatibility between surface
+chains and liquid molecules
+induces chains on adjacent
+particles to interpenetrate
+
+
+
+Elastic modulus scales with the
+difference in solubility parameter
+between the liquid medium (dm)
+and silica surface (ds)
+
+PPG-1000
+
+102
+3
+
+4
+
+5
+
+6
+
+7
+
+8 9
+
+10
+
+20
+
+dm  doct2 (cal/cm3)
+
+30
+
+40
+
+50
+
+60
+
+Raghavan, et al, Langmuir (2000)
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+30 of 30
+
+• Review of Multiphase Systems
+– How is viscosity affected in foams and
+emulsions?
+– What factors are important for dilute
+suspensions?
+– How does a non-dilute suspension differ?
+
+• In class problems
+
+
+
+## Metadata
+- Source file: junk_drawer/Lecture 22.pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

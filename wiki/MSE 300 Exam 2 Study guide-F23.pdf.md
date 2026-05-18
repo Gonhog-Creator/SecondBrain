@@ -1,0 +1,69 @@
+# MSE 300 Exam 2 Study guide-F23.pdf
+
+Source: junk_drawer/MSE 300 Exam 2 Study guide-F23.pdf
+
+Category: [[academic-homework]]
+
+## Summary
+MSE 300 Exam 2 Study guide Topic 5: Crystallography in 1D & 2D • • • • • Symmetry elements and operations in 1D and 2D Application of symmetry operations
+
+## Full Content
+MSE 300 Exam 2 Study guide
+Topic 5: Crystallography in 1D & 2D
+•
+•
+•
+•
+•
+
+Symmetry elements and operations in 1D and 2D
+Application of symmetry operations
+Proper vs improper operations
+Decoding line groups and plane groups, including Bravais lattices and symmetries
+Identifying the lattice points, unit cell, basis, point group and line/plane group in 1D/2D
+arrays
+
+Topic 6: 3D Crystal symmetries, Point Groups and Space Groups
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Symmetry elements and operations in 3D
+Application and combination of symmetry operations
+Proper vs improper operations
+Point groups and how to decode them (crystal system, symmetries, their directions)
+Can distinguish centrosymmetric from non-centrosymmetric point/space groups
+Interpret point group planar projections
+Calculate general equivalent positions from a point group
+Derive point groups, crystal systems, Bravais lattices and (non)centrosymmetry from
+space groups
+Information encoded by a point group and/or space group and its general interpretation
+Calculate general equivalent positions for a given space group
+Order of a space group and multiplicity
+Interpretation of International Tables of Crystallography, including drawing the full unit
+cell with atomic positions
+
+Topic 7: Crystallographic computations in 3D
+•
+•
+•
+
+Compute the metric tensor of a Bravais Lattice
+Calculate the distance between any two points in Bravais lattices
+Calculate the angle of a bond or between any two directions in Bravais lattices
+
+
+
+## Metadata
+- Source file: junk_drawer/MSE 300 Exam 2 Study guide-F23.pdf
+- Extracted: 2026-05-18
+- Category: academic-homework

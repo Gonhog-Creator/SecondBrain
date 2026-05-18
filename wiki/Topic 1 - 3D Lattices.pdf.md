@@ -1,0 +1,843 @@
+# Topic 1 - 3D Lattices.pdf
+
+Source: junk_drawer/Topic 1 - 3D Lattices.pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+Topic 1: Bravais Lattices in 3D Questions we will answer... • What are the crystal systems and Bravais lattices in 3D? • How are the different Bravais lattices distinct from each other? • How do we denote locations, directions and planes in Bravais lattices?
+
+## Full Content
+Topic 1: Bravais Lattices in 3D
+Questions we will answer...
+• What are the crystal systems and Bravais
+lattices in 3D?
+
+• How are the different Bravais lattices distinct
+from each other?
+• How do we denote locations, directions and
+planes in Bravais lattices?
+
+Topic 1 -
+
+1
+
+What Is Crystallography?
+Crystals
+Atoms that are bound together ➔ minimize the energy
+➔generally achieved by a periodic arrangement
+
+➔ Two elements: lattice
+
++
+
+basis
+
+In 1D…
+1 Bravais lattice
+In 2D…
+5 Bravais lattices
+In 3D…
+14 Bravais lattices
+
+We will revisit 1D & 2D
+lattices, symmetries, point
+groups & diffraction in
+Topics 6+
+Topic 1 -
+
+2
+
+3D Bravais Lattices: Fourteen
+7 crystal systems
+
+1
+
+2
+
+14 crystal lattices
+P = primitive
+C = base-centered
+I = body-centered
+F = face-centered
+
+3
+
+4
+
+5
+
+6
+
+FCC &
+
+BCC
+
+7
+Auguste Bravais
+1811-1863
+
+Formerly
+
+SC,
+
+These are the 3D Bravais lattices that all known crystals belong to!
+Note: SC, BCC and FCC elemental metal structures are special cases of cubic P, I and
+F, respectively, where basis = one atom and each atom sits on a lattice point. Topic 1 - 3
+
+Bravais lattice + Basis in 3D
+
+(0,0,0)
+
+(1/2,1/2,1/2)
+
+Cubic I
+
+BCC (elemental metal)
+
+Cubic P with diatom basis CsCl
+
+2 lattice points per unit cell: Basis: (0,0,0) & (½, ½, ½)
+➔All structures consist of one of the 14 Bravais lattices plus a Basis, i.e., a
+collection
+of atoms that decorate each lattice point. All lattice points must be
+4
+Topic 1 - point.
+identical! The atomic position does not need to coincide with a lattice
+
+Bravais lattice + Basis in 3D
+Rocksalt (NaCl):
+Cubic F lattice with two atoms in basis
+Related by a (1/2,0,0) displacement
+
+Note: Basis atoms in white
+Cubic F centering + basis of 2 atoms:
+4 lattice points per unit cell  2
+Lattice coordinates used for Na+: (0,0,0); 8 corners per cube
+implicit; (½,½,0), (½,0,½), (0,½,½); 6 faces per cube implicit
+Four additional coordinates used for Cl-: one body center
+atom; 3 edge atoms; 12 edges per cube implicit
+
+Topic 1 - 5
+
+Bravais lattice + Basis in 3D
+Diamond:
+Cubic F lattice with two atoms in basis
+Related by a displacement of (¼,¼,¼)
+Additional atom is identical (e.g., C or Si)
+and occupies 4 tetrahedral sites: 8 atoms
+per unit cell in total
+
+Hexagonal closed packed (HCP):
+Hexagonal P lattice with two atoms per basis
+Related by displacement (1/3, 2/3, 1/2)
+
+Note: Basis atoms in white
+Topic 1 - 6
+
+3D Bravais lattices
+
+Topic 1 - 7
+
+Conventional lattice
+parameter definition
+
+Three primitive vectors, a, b, c
+Six scalars:
+- Magnitude of primitive vectors (a, b, c)
+- Relative orientation of primitive vectors (,,)
+Note: reference frame is Cartesian only for orthonormal systems
+
+Topic 1 -
+
+8
+
+Location in a unit cell
+➔Definition of the Bravais lattice
+➔Position of the j atoms within the unit cell with
+respect to a Bravais lattice origin
+➔Positions within the unit cell are identified by coefficients of location
+➔Three fractional coordinates (x, y, z)
+➔Greater than or equal to zero, but less than 1: 0  (x, y, z) < 1
+➔No unit needed
+➔Separate by coma and use brackets (parantheses)
+
+c
+
+b
+
+Notice that (0.5,0,0.5) and (0.5,1,0.5) are equivalent.
+(0.5,0.3,0) and (0.5,0.3,1) are also equivalent.
+
+a
+Unit cell: implies periodic boundary conditions on all sides
+Topic 1 - 9
+
+Directions in a unit cell
+➔Three integer indices
+➔Component of the Bravais lattice that specifies the direction of interest
+
+Algorithm
+
+c
+
+1.
+
+(1, ½, 1)
+
+b
+a
+
+2.
+3.
+4.
+
+5.
+
+and
+
+Read off point coordinates of intercept
+with unit cell and tail in terms of unit cell
+dimensions a, b, and c
+Calculate difference (Intercept – Tail)
+Adjust to smallest integer values
+Enclose in square brackets, no commas
+
+[uvw]
+Use overbar symbol to designate
+negative directions
+
+belong to the same family of directions, noted
+
+The number of equivalent directions in a family
+depends on the Bravais lattice
+Topic 1 -
+
+10
+
+Planes in a unit cell
+➔Indices for planes
+➔The reciprocal of the intercepts
+
+c
+
+c
+b
+
+a
+
+c
+b
+
+a
+
+a
+
+c
+
+c
+b
+
+a
+In cubic crystals,
+
+b
+
+b
+a
+,
+
+all belong to
+Topic 1 - 11
+
+Crystallographic Planes
+• Miller Indices: Reciprocals of the (three) axial
+intercepts for a plane, cleared of fractions &
+common multiples.
+Algorithm
+1. Planes cannot pass through the origin
+2. Planes must intersect or be parallel to the axes
+3. Read off intercepts of plane with axes in
+terms of a, b, c
+4. Take reciprocals of intercepts
+5. Reduce to smallest integer values
+6. Enclose in parentheses, no commas,
+i.e., (hkl)
+
+MSE 201
+
+Topic 1 -
+
+12
+
+In-class exercise 1
+example
+1. Intercepts
+2. Reciprocals
+3.
+
+Reduction
+
+a
+1
+1/1
+1
+1
+
+4.
+
+Miller Indices
+
+(110)
+
+example
+1. Intercepts
+2. Reciprocals
+3.
+
+Reduction
+
+a
+1/2
+1/½
+2
+2
+
+4.
+
+Miller Indices
+
+(200)
+
+b
+1
+1/1
+1
+1
+
+c
+
+1/
+0
+0
+
+c
+y
+
+b
+
+a
+x
+
+b
+
+1/
+0
+0
+
+z
+
+c
+
+1/
+0
+0
+
+z
+c
+
+y
+a
+
+b
+
+x
+
+MSE 201
+
+Topic 1 -
+
+13
+
+In-class exercise 1
+z
+example
+1. Intercepts
+2. Reciprocals
+3.
+
+Reduction
+
+a
+1/2
+1/½
+2
+6
+
+4.
+
+Miller Indices
+
+(634)
+
+MSE 201
+
+b
+1
+1/1
+1
+3
+
+c
+c
+3/4
+·
+1/¾
+4/3
+·
+4 a
+x
+
+·
+
+y
+
+b
+
+Topic 1 -
+
+14
+
+Cubic P Lattice
+Any unit cell that encloses a volume V = a(bc) and has only one
+lattice point is designated as Primitive (P)
+
+c=a
+90º 90º
+
+a
+
+b=a
+
+90º
+
+Cubic Primitive centering:
+1 lattice point per unit cell
+6 nearest neighbors (coordination number = 6)
+Single lattice coordinate: (0,0,0); 8 corners of cube implicit
+
+Topic 1 -
+
+15
+
+Cubic I Lattice
+
+c=a
+90º 90º
+
+a
+
+b=a
+
+90º
+
+1 and 2 have identical
+
+Cubic I centering:
+8-fold coordination →
+2 lattice points per unit cell
+Bravais lattice
+8 nearest neighbors (coordination number = 8)
+Two lattice coordinates: (0,0,0); 8 corners per
+Topic 1 16
+cube implicit; (½,½,½) body center of cube implicit
+
+Cubic F Lattice
+
+c=a
+90º 90º
+
+a
+
+b=a
+
+90º
+
+Cubic F centering:
+4 lattice points per unit cell
+12 nearest neighbors (coordination number = 12)
+Lattice coordinates: (0,0,0); 8 corners per cube implicit;
+(½,½,0), (½,0,½), (0,½,½); 6 faces per cube implicit
+
+Topic 1 -
+
+17
+
+Tetragonal P / I Lattices
+Stretching along [001] axis
+
+c≠a
+90º 90º
+
+a
+
+b=a
+
+90º
+
+Cubic P
+
+Cubic I
+
+Tetragonal P
+Tetragonal I
+Topic 1 -
+
+18
+
+Tetragonal F Lattice?
+Stretching along [001] axis the Cubic F?
+c=0
+Projection top view (001)
+c = 1/2
+c≠a
+90º 90º
+
+a
+
+b=a
+
+90º
+
+“Tetragonal F”
+“Tetragonal F”➔Tetragonal I
+Topic 1 -
+
+19
+
+Tetragonal to orthorhombic
+Let’s lower the symmetries a bit more
+
+Projection top view (001)
+
+Topic 1 - 20
+
+Orthorhombic
+c≠a
+90º 90º
+
+a
+
+Stretch along [010] & [001] by different amounts
+
+b≠a
+
+90º
+
+Cubic P
+Orthorhombic P
+# lattice pts
+
+1
+(0,0,0)
+
+Orthorhombic A, B and C
+2
+2
+2
+(0,0,0)
+(0,0,0)
+(0,0,0)
+(0,1/2,1/2) (1/2,0,1/2) (1/2,1/2,0)
+c-b plane a-c plane Topic
+a-b1 -plane
+
+Orthorhombic
+c≠a
+90º 90º
+
+a
+
+Stretch along [010] & [001] by different amounts
+
+b≠a
+
+90º
+
+Cubic I
+
+Cubic F
+# lattice pts
+
+Orthorhombic I
+2
+(0,0,0)
+(1/2,1/2,1/2)
+
+Orthorhombic F
+4
+(0,0,0)
+(1/2,1/2,0) (1/2, 0,1/2)
+(0, 1/2, 1/2) Topic 1 - 22
+
+Crystal systems & symmetries
+
+cubic
+
+orthorhombic
+Lower symmetry
+than cubic
+More on 3D symmetries and diffraction in future topics!
+Topic 1 - 23
+
+Trigonal lattice
+c=a
+
+Distortion of the angles, not lattice dimensions
+
+Stretch along [111]
+a
+
+ 
+
+
+b= a
+
+< 120
+
+Cubic P
+
+Trigonal R
+(rhombohedral)
+Topic 1 - 24
+
+Monoclinic crystals
+c≠a
+
+a
+
+90
+
+b≠a
+
+Distortion of the angles
+
+90
+
+(modern convention)
+
+Orthorhombic P
+
+Monoclinic P
+
+Monoclinic C=A
+
+Topic 1 - 25
+
+Orthorhombic to monoclinic
+c≠a
+
+a
+
+90
+
+b≠a
+
+90
+
+Projection view along [010] (b-axis)
+at (101) plane
+
+Topic 1 - 26
+
+Triclinic crystals
+c
+
+a
+
+ 
+
+
+Distortion of all angles
+b
+
+Orthorhombic P
+
+Triclinic P
+
+Among 26000 inorganic compounds
+➔27.6% are Cubic, 72% are Orthorhombic or higher symmetry
+Only a minority are Triclinic ➔ Nature prefers symmetry
+Topic 1 - 27
+
+Hexagonal lattice
+c≠a
+90 90
+
+a
+
+b=a
+
+120
+
+120
+
+Tetragonal P
+
+Hexagonal P
+Topic 1 -
+
+28
+
+Planes in Hexagonal Crystals
+Hexagonal crystals → Miller-Bravais indices
+Directions and planes in hexagonal lattices and crystals can be designated by the
+4-index Miller-Bravais notation instead of 3-index Miller indices
+In the four-index notation:
+
+•
+
+the first three indices are a symmetrically related set on the basal plane
+
+•
+
+the third index is a redundant one (which can be derived from the first two) and
+is introduced to make sure that members of a family of directions or planes have
+a set of numbers which are identical - this is because in 2D two indices suffice to
+describe a lattice (or crystal)
+
+•
+
+the fourth index represents the ‘c’ axis (⊥ to the basal plane)
+
+The first three indices in a hexagonal lattice can be permuted to get the different
+members of a family; while, the fourth index is kept separate.
+Topic 1 - 29
+
+Planes in Hexagonal Crystals
+Miller-Bravais notation
+(h k i l)
+i = −(h + k)
+
+Related to ‘l’ index
+
+Related to ‘i’ index
+
+Related to ‘k’ index
+Related to ‘h’ index
+Topic 1 - 30
+
+In class exercise 2
+• In hexagonal unit cells the same idea is used
+z
+
+example
+1. Intercepts
+2. Reciprocals
+
+3.
+
+Reduction
+
+a1
+1
+1
+1
+1
+
+a2
+
+1/
+0
+0
+
+a3
+-1
+-1
+-1
+-1
+
+c
+1
+1
+1
+1
+
+a2
+
+a3
+
+4.
+
+Miller-Bravais Indices
+
+(1011)
+
+a1
+Adapted from Fig. 3.8(a), Callister 7e.
+
+(h k i l)
+i = −(h + k)
+
+MSE 201
+
+Topic 1 -
+
+31
+
+In class exercise 3
+a3 (i)
+
+(h k i l), i = −(h + k)
+Intercepts → 1 1 - ½ 
+
+Plane → (1 12 0)
+
+(h k i l)
+i = −(h + k)
+
+a2 (k)
+
+a1 (h)
+The use of the 4-index notation is to bring out the equivalence between
+crystallographically equivalent planes and directions Topic 1 - 32
+
+In class exercise 4
+a3
+
+a2
+
+a1
+(h k i l)
+i = −(h + k)
+
+Intercepts → 1 -1  
+Miller → (1 1 0 )
+Miller-Bravais → (1 1 0 0 )
+
+Intercepts →  1 -1 
+33
+Miller → (0 1 0)
+Topic 1 Miller-Bravais
+→ (0 11 0)
+
+In class exercise 5
+Intercepts → 1 1 - ½ 1
+(h k i l)
+i = −(h + k)
+
+Plane → (1 12 1)
+
+Intercepts → 1  − 1 1
+Plane → (1 01 1)
+
+MSE 201
+
+Topic 1 - 34
+
+
+
+## Metadata
+- Source file: junk_drawer/Topic 1 - 3D Lattices.pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

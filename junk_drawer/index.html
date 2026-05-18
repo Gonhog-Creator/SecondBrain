@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Astronomy Website</title>
+    <style>
+        /* General Reset */
+        body, h1, h2, h3, p, ul, li, a {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        
+        /* Navigation Bar */
+        nav {
+            background: #222;
+            color: #fff;
+            padding: 0.5rem;
+        }
+        nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+        }
+        nav ul li {
+            margin: 0 1rem;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        /* Hero Section */
+        .hero {
+            text-align: center;
+            background: url('hero-image.jpg') no-repeat center center/cover;
+            color: white;
+            height: 50vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .hero h1 {
+            font-size: 3rem;
+        }
+
+        /* Main Content */
+        .container {
+            max-width: 1100px;
+            margin: auto;
+            padding: 1rem;
+        }
+        .section {
+            margin: 2rem 0;
+        }
+        .section img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            background: #222;
+            color: white;
+            padding: 1rem;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <ul>
+            <li><a href="#astronomy">Astronomy</a></li>
+            <li><a href="#travel">Travel Photos</a></li>
+            <li><a href="#projects">Projects</a></li>
+        </ul>
+    </nav>
+
+    <!-- Hero Section -->
+    <div class="hero">
+        <h1>Welcome to My Cosmos</h1>
+    </div>
+
+    <!-- Astronomy Section -->
+    <div id="astronomy" class="container section">
+        <h2>Astronomy</h2>
+        <p>Explore the stars and galaxies through my lens.</p>
+        <img src="astronomy-photo.jpg" alt="Astronomy Photo">
+    </div>
+
+    <!-- Travel Photos Section -->
+    <div id="travel" class="container section">
+        <h2>Travel Photos</h2>
+        <p>Discover breathtaking landscapes from my travels.</p>
+        <img src="travel-photo.jpg" alt="Travel Photo">
+    </div>
+
+    <!-- Projects Section -->
+    <div id="projects" class="container section">
+        <h2>Projects</h2>
+        <p>Check out some of the exciting projects I've been working on.</p>
+        <img src="project-photo.jpg" alt="Project Photo">
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Your Name. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>

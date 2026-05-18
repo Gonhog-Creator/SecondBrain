@@ -1,0 +1,36 @@
+Design and Analysis of Axial Turbine Power Extraction from a Small-Scale Rotating
+Detonation Rocket Combustor
+The Rotating Detonation Turbine Generator (RDTG) project, in conjunction with Braun’s
+Engineering Factory for Advanced Supersonic Technologies (BEFAST Lab) at North Carolina
+State University, aims to present an experimental set-up to prove the feasibility of high-efficiency
+power generation using an axial turbine generator in the exhaust of a rotating detonation engine
+(RDE). This is accomplished through the design, optimization, and experimental validation of a
+small turbine blisk capable of extracting power from BEFAST Lab’s RDE exhaust while handling
+the adverse effects of detonation-induced turbulence and thermal gradients. RDE technology
+offers thermodynamic advantages over conventional deflagration-based systems. However, the
+inherently unsteady, supersonic exhaust flow presents challenges for a typical turbine
+integration, including extreme pressure fluctuations, shock-induced energy losses, and thermal
+stresses that can compromise structural integrity and operational articles placed downstream of
+the exhaust. The small-scale turbine rotor-stator assembly is designed with consideration of
+detonation induced shockwave, incorporating exit area reductions to increase upstream
+pressure and reduce axial Mach number experienced by the turbine stage. Blade geometry
+design is conducted using Advanced Design Technology and Aerodynamic Solutions software,
+ensuring optimal aerodynamic efficiency. CFD simulations using ANSYS Fluent, ANSYS CFX,
+and ADS CFD are employed to refine turbine design, with an emphasis on aerodynamic
+efficiency and structural soundness. Structural and dynamic predictions for the rotor, shaft, and
+bearings are conducted using MATLAB as well as Simscape tools, which allows for the
+determination of shaft resonance, shaft deflection, and bearing loading to drive shaft, bearing,
+and coupling design and selection. Furthermore, finite element methods are used in ANSYS
+Mechanical to assess material stresses and ensure durability under extreme thermal loads for
+exhaust routing systems, the motor mount interface, and shaft-rotor system. The proposed
+experimental validation involves controlled short-duration RDE firings; a target electrical power
+output of 3 kW serves as the primary performance benchmark, while secondary objectives
+encompass efficiency maximization, thermal stability, and mechanical longevity. Instrumentation,
+including a high-frequency pressure transducer and pressure taps, thermocouples, and torque
+sensors, allows real-time data acquisition of flow properties, thermal conditions, and mechanical
+performance during testing. This study represents a proof in concept in realizing compact,
+power-dense, and thermodynamically optimized energy systems capable of operating under
+extreme flow and combustion conditions, and will act as the first step in BEFAST Lab’s platform
+for developing RDE-driven axial turbines.
+
+

@@ -1,0 +1,200 @@
+# centaur_animation.json
+
+Source: junk_drawer/github/TheAncientWorld/src/main/resources/assets/theancientworld/animations/centaur_animation.json.txt
+
+Category: [[github-code]]
+
+## Summary
+{ "format_version": "1.8.0", "animations": { "walking": { "loop": true, "animation_length": 2.08, "bones": { "backleftleg": { "rotation": { "0.0": {
+
+## Full Content
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "walking": {
+      "loop": true,
+      "animation_length": 2.08,
+      "bones": {
+        "backleftleg": {
+          "rotation": {
+            "0.0": {
+              "vector": [0, 0, 0]
+            },
+            "0.28": {
+              "vector": [10, 0, 0]
+            },
+            "0.8": {
+              "vector": [-10, 0, 0]
+            },
+            "1.32": {
+              "vector": [10, 0, 0]
+            },
+            "1.84": {
+              "vector": [-10, 0, 0]
+            }
+          }
+        },
+        "backrightleg": {
+          "rotation": {
+            "0.0": {
+              "vector": [0, 0, 0]
+            },
+            "0.28": {
+              "vector": [-10, 0, 0]
+            },
+            "0.8": {
+              "vector": [10, 0, 0]
+            },
+            "1.32": {
+              "vector": [-10, 0, 0]
+            },
+            "1.84": {
+              "vector": [10, 0, 0]
+            }
+          }
+        },
+        "frontleftleg": {
+          "rotation": {
+            "0.0": {
+              "vector": [0, 0, 0]
+            },
+            "0.28": {
+              "vector": [-10, 0, 0]
+            },
+            "0.8": {
+              "vector": [10, 0, 0]
+            },
+            "1.32": {
+              "vector": [-10, 0, 0]
+            },
+            "1.84": {
+              "vector": [10, 0, 0]
+            }
+          }
+        },
+        "frontrightleg": {
+          "rotation": {
+            "0.0": {
+              "vector": [0, 0, 0]
+            },
+            "0.28": {
+              "vector": [10, 0, 0]
+            },
+            "0.8": {
+              "vector": [-10, 0, 0]
+            },
+            "1.32": {
+              "vector": [10, 0, 0]
+            },
+            "1.84": {
+              "vector": [-10, 0, 0]
+            }
+          }
+        }
+      }
+    },
+    "running": {
+      "loop": true,
+      "animation_length": 1.04,
+      "bones": {
+        "backleftleg": {
+          "rotation": {
+            "0.0": {
+              "vector": [0, 0, 0]
+            },
+            "0.28": {
+              "vector": [40, 0, 0]
+            },
+            "0.8": {
+              "vector": [-40, 0, 0]
+            },
+            "1.04": {
+              "vector": [0, 0, 0]
+            }
+          }
+        },
+        "backrightleg": {
+          "rotation": {
+            "0.0": {
+              "vector": [0, 0, 0]
+            },
+            "0.28": {
+              "vector": [-40, 0, 0]
+            },
+            "0.8": {
+              "vector": [40, 0, 0]
+            },
+            "1.04": {
+              "vector": [0, 0, 0]
+            }
+          }
+        },
+        "frontleftleg": {
+          "rotation": {
+            "0.0": {
+              "vector": [0, 0, 0]
+            },
+            "0.28": {
+              "vector": [-40, 0, 0]
+            },
+            "0.8": {
+              "vector": [40, 0, 0]
+            },
+            "1.04": {
+              "vector": [0, 0, 0]
+            }
+          }
+        },
+        "frontrightleg": {
+          "rotation": {
+            "0.0": {
+              "vector": [0, 0, 0]
+            },
+            "0.28": {
+              "vector": [40, 0, 0]
+            },
+            "0.8": {
+              "vector": [-40, 0, 0]
+            },
+            "1.04": {
+              "vector": [0, 0, 0]
+            }
+          }
+        }
+      }
+    },
+    "tail_swing": {
+      "loop": true,
+      "animation_length": 1.118,
+      "bones": {
+        "tail": {
+          "rotation": {
+            "0.0": {
+              "vector": [0, 0, 0]
+            },
+            "0.2": {
+              "vector": [0, 0, -20]
+            },
+            "0.44": {
+              "vector": [0, 0, 20]
+            },
+            "0.68": {
+              "vector": [0, 0, -20]
+            },
+            "0.88": {
+              "vector": [0, 0, 20]
+            },
+            "1.12": {
+              "vector": [0, 0, 0]
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+## Metadata
+- Source file: junk_drawer/github/TheAncientWorld/src/main/resources/assets/theancientworld/animations/centaur_animation.json.txt
+- Extracted: 2026-05-18
+- Category: github-code

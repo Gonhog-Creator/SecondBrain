@@ -1,0 +1,71 @@
+# Jose Resume - Feb 2023 (1).pdf
+
+Source: junk_drawer/Jose Resume - Feb 2023 (1).pdf
+
+Category: [[work-general]]
+
+## Summary
+José María Barbeito 919.667.4663 | jbarbei@ncsu.edu | josebarbeito.com EDUCATION North Carolina State University, Raleigh, NC ● B.S.E: Chemical Engineering; Minor: Material Science Engineering ● Masters: Material Science Engineering ● Current Cumulative GPA: 3.7/4.0 Expected May 2025 Expected May 2026
+
+## Full Content
+José María Barbeito
+919.667.4663 | jbarbei@ncsu.edu | josebarbeito.com
+EDUCATION
+North Carolina State University, Raleigh, NC
+● B.S.E: Chemical Engineering; Minor: Material Science Engineering
+● Masters: Material Science Engineering
+● Current Cumulative GPA: 3.7/4.0
+
+Expected May 2025
+Expected May 2026
+
+INDEPENDENT PROJECT EXPERIENCE
+Aquarium and Vivarium Construction, Fabrication Engineer, Durham, NC
+March 2018 - Present
+● Constructed a 55 gallon poison dart frog vivarium to house five distinct varieties of
+poison dart frogs, designed to be a self-sustaining closed cycle.
+● Applied wet lab experience to create copper sulfate crystal structures at home.
+Arduino Projects
+August 2021- Present
+● Built a self-controlling evaporator to dry fruit controlled by an Arduino, including a
+power switch, a heat bulb, and temperature and humidity sensors.
+● Constructed various counters and clocks with LED screens and controlled by various mechanical inputs
+Liquid Bromine Distillation
+December 2021
+● Distilled .98 moles of liquid bromine from sodium bromide using a variety of acids, reagents,
+and reactants. Utilized proper safety procedures and PPE.
+WORK EXPERIENCE
+Doble W Servicios, Buenos Aires, Argentina
+February 2021 – March 2021
+● Disassembled and reassembled various cars and trucks to install bulletproof glass
+and kevlar plating for the Argentine Police - averaging ten cars a day fully outfitted.
+● Constructed bulletproof glass through assembling and kilning multiple layers of glass and
+specialty polycarbonate before sanding and installing.
+Freelance Contractor, Durham, NC
+August 2019 – Present
+● Worked locally to design and execute a variety of projects, depending on client needs.
+● Projects include barn doors, chicken coops, garden fences, bunk beds, benches, tables,
+electrical installations, bathroom tiling, porch renovations, and concrete repair.
+LEADERSHIP AND COMMUNITY EXPERIENCE
+TSDCH Chemistry Club, Leader and Co-founder, Durham, NC
+August 2019 – April 2020
+● Founded and led the Chemistry Club at TSDCH.
+● Organized a program for first graders to learn about phase changes through super-saturated
+solutions and gas-producing reactions.
+BEE Educated, Founder, Durham, NC
+August 2014 – Dec 2020
+● Founder and lead instructor of BEE Educated, a local outreach program that
+teaches children ages 8-12 the importance of bees through an on-site program with active apiaries.
+● Helped local beekeepers with their own hives, teaching and assisting them in keeping healthy colonies, along with
+providing swarm capture services for locals.
+TECHNICAL SKILLS: Woodworking, Metalworking, Lathe, Crystalline Structure Fabrication, Drone/Digital Cinematography
+SOFTWARE SKILLS: JavaScript, Adobe Lightroom, Adobe Photoshop, Video Editing and Production
+LANGUAGES: Spanish (Native), German (Beginner)
+INTERESTS: Computer Assembly, Backpacking, Traveling, Rock Climbing, Scuba Diving, Drums, Guitar, Crystal Growing
+
+
+
+## Metadata
+- Source file: junk_drawer/Jose Resume - Feb 2023 (1).pdf
+- Extracted: 2026-05-18
+- Category: work-general

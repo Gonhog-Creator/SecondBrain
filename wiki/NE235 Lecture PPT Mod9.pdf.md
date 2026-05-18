@@ -1,0 +1,680 @@
+# NE235 Lecture PPT Mod9.pdf
+
+Source: junk_drawer/NE235 Lecture PPT Mod9.pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+NE235 Nuclear Reactor Operations Module #9 Reactivity Coefficients Dept. of Nuclear Engineering North Carolina State University NE235 Nuclear Reactor Operations Training Module #9 Module #9 – Reactivity Coefficients:
+
+## Full Content
+NE235 Nuclear Reactor Operations
+Module #9
+
+Reactivity Coefficients
+Dept. of Nuclear Engineering
+North Carolina State University
+
+NE235 Nuclear Reactor Operations Training
+Module #9
+Module #9 – Reactivity Coefficients:
+A.
+B.
+C.
+D.
+
+Moderator Temperature Coefficient
+Void Coefficient
+Doppler Broadening (Fuel Temperature) Coefficient
+Fission Product Poisons
+
+Laboratory Session this week:
+•
+
+No lab this week!
+
+Homework #9 – Due 11/08
+
+NE235 Nuclear Reactor Operations Training
+
+2
+
+NE235 Nuclear Reactor Operations Training
+Module #9
+Net Reactivity is comprised of the following reactivity parameters which
+we will cover in the next few lectures:
+rnet = rexcess + rrods + rDoppler + rmod temp + rvoids + rpoisons + rexperiments + rsource
+
+For this lecture we will focus on:
+
+▪
+▪
+▪
+▪
+
+rmod temp : reactivity effects due to changes in moderator temperature
+rvoids :
+reactivity effects due to moderator displacement by voids
+rDoppler : reactivity effects due to change in fuel temperature
+rpoisons : reactivity effects due to addition of fission products that have
+large neutron absorption cross sections
+
+NE235 Nuclear Reactor Operations Training
+
+3
+
+NE235 Nuclear Reactor Operations Training
+Module #9
+Reactivity Coefficients:
+A. Moderator Temperature Coefficient : αT Mod (pcm/°Fmod)
+B. Void Coefficient : αVoids (pcm/ccvoid)
+C. Fuel Temp Coefficient (Doppler) : αFuel (pcm/°Ffuel)
+
+How do these α coefficients vary as a function of operating
+conditions of the reactor over time?
+
+NE235 Nuclear Reactor Operations Training
+
+4
+
+NE235 Nuclear Reactor Operations Training
+Module #9
+A. Moderator Temperature Coefficient : αT mod
+Function of 3 sub-coefficients relating to the 6 factor formula:
+
+∆𝝆(𝒑𝒄𝒎)
+𝜶𝑻 𝒎𝒐𝒅 = 𝜶𝑻 𝑓 + 𝜶𝑻 𝒑 + 𝜶𝑻 (𝓛) =
+℉𝒎𝒐𝒅
+#1
+
+#2
+
+#3
+
+#1: Thermal Utilization 𝑓
+#2: Resonance Escape Probability 𝒑
+#3: Non-Leakage Probabilities (𝓛)
+
+NE235 Nuclear Reactor Operations Training
+
+5
+
+Moderator Temperature Coefficient
+#1: Thermal Utilization Factor (𝑓) :
+𝜮𝒂 𝒇𝒖𝒆𝒍
+𝜮𝒂 𝒇𝒖𝒆𝒍
+𝒇≡
+=
+𝜮𝒂 𝒄𝒐𝒓𝒆
+𝜮𝒂 𝒇𝒖𝒆𝒍 + 𝜮𝒂 𝒄𝒐𝒐𝒍𝒂𝒏𝒕/𝒎𝒐𝒅 + 𝜮𝒂 𝒄𝒐𝒓𝒆 𝒔𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆𝒔
+where Σa = Nσa
+Atom density N is a function of physical density, and therefore
+temperature (see figure on Slide #7 for water)
+Therefore if Tfuel ↑ (increases) ; Nfuel ↔ (stays the same!) ∴ Σa fuel ↔
+But if Tcoolant/mod ↑; Ncoolant/mod ↓ (decreases), ∴ Σa coolant/mod ↓
+So, 𝑓 increases ∴ 𝜶𝑻 𝑓 = +
+NE235 Nuclear Reactor Operations Training
+
+𝒑𝒄𝒎
+= 𝑷𝒐𝒔𝒊𝒕𝒊𝒗𝒆 𝒇𝒆𝒆𝒅𝒃𝒂𝒄𝒌 𝒘𝒊𝒕𝒉 𝒕𝒆𝒎𝒑!
+°𝑻
+6
+
+Density of Water –vs- Temperature
+
+7
+
+Moderator Temperature Coefficient
+#2: Resonance Escape Probability (p):
+For a liquid moderator/ coolant:
+As Tmod ↑ (increases), Nmod ↓ ∴ Σs mod = Nσs ↓ & mean thermal energy ↑
+So, neutrons don’t slow down as readily, spending more time in the
+resonance energy region.
+Therefore:
+Capture of neutrons in resonances of 238𝑈 increases (See Fig. on Slide #9)
+So, resonance escape probability p decreases (non linearly with temp –
+see Fig. on Slide 10)
+∴ 𝜶𝑻 (𝝆) =
+NE235 Nuclear Reactor Operations Training
+
+𝒑𝒄𝒎
+= 𝒏𝒆𝒈𝒂𝒕𝒊𝒗𝒆 𝒇𝒆𝒆𝒅𝒃𝒂𝒄𝒌 𝒘𝒊𝒕𝒉 𝒕𝒆𝒎𝒑!
+°𝑻
+8
+
+Slide #9 - Neutron Energy Spectrum and
+energy dependent reaction Cross Section
+Cross
+Section
+(barns)
+
+σ
+
+p decreases!
+As Tmod increases
+
+σth
+
+Resonance Integral (RI)
+
+σfast
+
+Neutron
+Flux
+(n/cm2/s)
+
+φ
+
+Fast Flux
+
+Thermal Flux
+
+φth
+
+φepi
+~0.5 eV
+
+NE235 Nuclear Reactor Operations Training
+
+φfast
+
+~0.1 MeV
+
+Neutron Energy
+
+~10 MeV
+9
+
+Slide #10 - Moderator Temperature Effects on 𝒇 and 𝒑
+
+Thermal Utilization f (with
+and without Boron e.g. for
+power reactor): Increases
+with increasing temperature!
+Resonance Escape Probability
+p: Decreases with increasing
+temperature
+Product
+(p x f) as function
+of temperature
+
+Increasing Temperature
+
+Boundaries of
+over-vs-under moderated
+core
+(shown with and without
+Boron ‘chemical shim’ –
+PULSTAR does not use
+chemical shim)
+10
+
+Moderator Temperature Coefficient
+#3: Thermal and Fast Non-Leakage Probability
+
+As Tmod ↑ Nmod ↓. Therefore Σs = Nσs ↓ because there are less moderator
+atoms to scatter neutrons. Then, leakage increases so non-leakage
+probability (𝓛) decreases.
+∴ 𝜶𝑻 𝓛 =
+So:
+
+𝒑𝒄𝒎
+= 𝒏𝒆𝒈𝒂𝒕𝒊𝒗𝒆 𝒇𝒆𝒆𝒅𝒃𝒂𝒄𝒌 𝒘𝒊𝒕𝒉 𝒕𝒆𝒎𝒑!
+°𝑻
+
+𝜶𝑻 𝒎𝒐𝒅 = 𝜶𝑻 𝑓
+#1: Always
+(+)
+
++ 𝜶𝑻 𝒑
+#2: Always (–)
+But non-linear
+With temp
+
++ 𝜶𝑻 (𝓛) =
+
+∆𝝆(𝒑𝒄𝒎)
+𝑻 𝒎𝒐𝒅 (℉)
+
+#3: Always
+(-)
+
+So is αT Mod Positive or Negative?
+
+It depends on relative magnitudes of αT(𝑓) vs αT(p). It’s a function of fuel type,
+dimensions, and moderator temperature.
+
+NE235 Nuclear Reactor Operations Training
+
+11
+
+Moderator Temperature Coefficient
+Case #1: Over-Moderated (High Mod/Fuel Ratio)
+
+Pin Spacing
+
+If pin spacing is greater than the mean thermal
+diffusion length then the capture in the
+moderator is high. So, as Tmod ↑ Nmod ↓ and Σa
+↓. Therefore, the thermal utilization factor(𝑓)
+increase predominates and αT mod is positive.
+This gives a positive temperature feedback.
+So what can happen?
+• Voids from boiling or experiments can result
+in positive reactivity feedback which can lead
+to an uncontrolled power increase.
+
+NE235 Nuclear Reactor Operations Training
+
+Pin OD
+Capture in
+moderator
+more likely
+
+Neutron
+thermalization and
+diffusion path
+
+12
+
+Moderator Temperature Coefficient
+Case #2: Under-Moderated (Low Mod/Fuel
+Ratio)
+If the pin spacing is less than the mean thermal
+diffusion length, then capture in the moderator is
+less likely. So, as Tmod ↑ Nmod ↓ and Σa & Σs ↓.
+Therefore, the thermal utilization factor(𝑓) does
+increase. However, the resonance escape
+probability (p) decreases, predominates, and
+causes αT mod to be negative. This gives a
+negative temperature feedback which serves to
+stabilize reactor power.
+
+Pin Spacing
+
+Pin OD
+Capture in
+moderator
+less likely
+
+Neutron
+thermalization and
+diffusion path
+
+For the PULSTAR , αT mod = -3.9 pcm/°F
+
+NE235 Nuclear Reactor Operations Training
+
+13
+
+Void Coefficient
+B. Void Coefficient : αvoids
+Void coefficient has the same physics as αT mod. Displacement of the
+moderator, whether by thermal expansion or by the introduction of
+voids gives the same effect on reactivity. Therefore, we want a
+negative void coefficient.
+Where might voids come from in a power reactor?
+Scenario: A PWR power reactor is operating at full power and
+temperature when a loss of primary pressurization occurs.
+Therefore, primary coolant flashes to steam, which leads to boiling
+which then leads to voids.
+
+NE235 Nuclear Reactor Operations Training
+
+14
+
+Void Coefficient
+Consider the scenario:
+If the PWR is under-moderated, voids will result in negative reactivity
+leading to lower power. If it is over-moderated, there will be a positive
+reactivity effect leading to higher power.
+
+For the PULSTAR , αvoids = -1.6 pcm/cc void
+The PULSTAR is not pressurized, so is not succeptible to a loss of
+pressurization accident. However, the primary water could boil if
+coolant channel was blocked or if a pressurized experiment ruptures
+and releases gas bubbles.
+
+So, we design reactors to be under-moderated under all credible
+operating and accident scenarios.
+NE235 Nuclear Reactor Operations Training
+
+15
+
+Fuel Temperature Coefficient (Doppler)
+C.
+
+Fuel Temperature Coefficient (Doppler Coefficient) : αT fuel
+∆𝒑𝒄𝒎
+𝜶𝑻 𝒇𝒖𝒆𝒍 =
+∆𝑻 𝒇𝒖𝒆𝒍
+Doppler effect → concept of relative motion of neutrons –vs- 238𝑈
+In “rest” frame:
+𝓿238 U
+n
+
+𝓿n
+
+Thermal motion of 238U
+atom is a function of
+fuel temperature where
+𝓋∝ 𝑇
+
+where KE = ½ mv2
+NE235 Nuclear Reactor Operations Training
+
+16
+
+Fuel Temperature Coefficient (Doppler)
+In the frame of the absorbing 238𝑈 nucleus:
+KEn
+
+238U Rest Frame
+
+238
+
+±DKEn
+
+n
+
+Kinetic energy of the
+neutron is KEn±∆KEn
+due to relative motion.
+
+𝑈 cross section => function of neutron KE (See Fig. on Slide #18)
+
+Therefore, the shape of resonances “broadens” with increased
+temperature, while total area under the resonance stays
+constant (See Fig. on Slide #19).
+
+NE235 Nuclear Reactor Operations Training
+
+17
+
+238U Absorption Cross Section
+
+NE235 Nuclear Reactor Operations Training
+
+18
+
+Doppler Broadening
+Where the area under
+the resonance curve:
+න 𝝈 𝑬 𝒅𝑬 = 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕
+
+NE235 Nuclear Reactor Operations Training
+
+19
+
+Doppler Broadening & Self Shielding
+Capture cross section
+peaks “broaden” at higher
+temperature, causing
+increased absorption.
+
+“Self Shielding” in fuel
+increases with fuel
+temperature – outer
+portions of the fueled
+volume shield inner
+portions as the neutron
+flux is attenuated.
+NE235 Nuclear Reactor Operations Training
+
+20
+
+Fission Product Poisons
+D.
+
+There are two primary isotopes that are fission product poisons,
+135
+𝑋𝑒 & 149𝑆𝑚, both with a large absorption cross section (σa ).
+135
+
+𝑋𝑒 (Xenon-135):
+135
+
+𝑋𝑒 σa = 2.6x106 barns –vs- 235𝑼 σf = 585 barns.
+
+4400x greater!!
+See Slide #22 for Production Modes
+
+NE235 Nuclear Reactor Operations Training
+
+21
+
+Slide #22 – 135Xe Production
+
+NE235 Nuclear Reactor Operations Training
+
+22
+
+135Xe Production
+135
+
+𝑋𝑒 activity as a function of time and power:
+Sources
+
+135
+
+ഥ 𝑇 − λ𝑋𝑒 𝑋𝑒 − σ𝑎 Φ
+ഥ 𝑇 135𝑋𝑒
+𝑋𝑒 ∝ λ𝐼 135𝐼 + γ𝑥 Σത𝑓 Φ
+𝑥
+Iodine
+Decay to
+Xenon
+(97%)
+
+135
+
+Sinks
+
+Direct
+Fission
+Production
+of Xenon
+(~3%)
+
+Decay of
+Xenon
+
+Burn-up
+of Xenon
+
+𝑰 activity as a function of time and power:
+135
+
+ഥ 𝑇 − λ𝐼 135𝐼
+𝑰 ∝ λ 𝑇𝑒 𝑇𝑒 + γ𝐼 Σത𝑓 Φ
+Tellurium
+Decay to
+Iodine
+
+NE235 Nuclear Reactor Operations Training
+
+Fission
+Production
+of Iodine
+
+Decay of
+Iodine
+
+23
+
+135Xe Production
+
+Where:
+Xe
+= Xe-135 activity
+I
+= Iodine-135 activity
+σ𝑎𝑥
+=2.6x106 barns
+γ𝑥
+= Fission yield of Xenon (0.24% for U-235)
+γ𝐼
+= Fission yield of Iodine (6.39% for U-235)
+Σത𝑓
+= Average thermal macroscopic fission cross section
+ഥ𝑇
+Φ
+= Average thermal flux
+λ𝐼 & λ𝑋 = Decay constants
+
+ഥ𝑇 change throughout the core matrix due to gradients in
+Xe, I, 𝛴ത𝑓 , and 𝛷
+core loading, flux and power density.
+For PULSTAR, equilibrium ρXe ~ -900 pcm.
+NE235 Nuclear Reactor Operations Training
+
+24
+
+135Xe Production – Time & Power Dependent
+
+NE235 Nuclear Reactor Operations Training
+
+25
+
+135Xe Production – Time & Power Dependent
+
+Xenon Concentration:
+A. Equilibrium concentration or activity is reached after ~5 half-lives
+(see Figure on Slide #25):
+𝒕𝟏ൗ𝟐 135𝑋𝑒 = 9.1 ℎ𝑜𝑢𝑟𝑠 𝑥 5 ≃ 40 − 45 ℎ𝑜𝑢𝑟𝑠 to equilibrium
+
+B. Equilibrium concentration is a function of flux & power. Therefore, it
+saturates at a higher level for higher power.
+C. If power is decreased (see Figure on Slide #27):
+1. Burn-up decreases while production from decay of iodine is
+unchanged. Therefore, Xenon increases.
+2. Iodine decays towards new lower equilibrium concentration.
+Therefore, Xenon decreases and will peak 2-6 hours after power
+is decreased or reactor is shutdown.
+NE235 Nuclear Reactor Operations Training
+
+26
+
+135Xe Production – Time & Power Dependent
+
+NE235 Nuclear Reactor Operations Training
+
+27
+
+135Xe Production – Time & Power Dependent
+
+D. If power is increased (see Figure on Slide #27):
+1. Burn-up will increase while 135𝐼 concentration is initially
+unchanged. Therefore, Xenon decreases and reaches a minimum
+2-6 hours after the start of the increase.
+2. 135𝐼 concentration builds up which counteracts burn-up.
+Therefore, Xenon increases until reaching a new equilibrium
+value in 40-45 hours.
+E. If reactor is shutdown Xenon peaks within 2-6 hours (depending on
+operating history) then decays to Xenon free in ~70 hours.
+
+NE235 Nuclear Reactor Operations Training
+
+28
+
+135Xe Production – PULSTAR Startup Testing
+
+NE235 Nuclear Reactor Operations Training
+
+29
+
+Xenon in Load Following Power Plant
+
+Introduction to Nuclear Engineering, 2nd Ed.; Lamarsh
+NE235 Nuclear Reactor Operations Training
+
+30
+
+Fission Product Poisons
+Fission Product Poisons: 149𝑆𝑚
+149
+
+𝑺𝒎 σa = 4x104 barns; γSm ~1.1%
+
+149
+
+𝛽
+
+𝛽
+
+𝛽
+
+𝛽 149
+
+𝐵𝑎 → 𝐿𝑎 → 𝐶𝑒 → 𝑃𝑟 →
+
+𝛽 149
+
+𝑁𝑑 →
+
+t1/2=1.73
+hours
+
+𝛽 149
+
+𝑃𝑚 →
+
+𝑆𝑚(𝑠𝑡𝑎𝑏𝑙𝑒)
+
+t1/2=2.2 days
+(~53 hours)
+
+ഥ 𝑻 − 𝝈𝒂 Φ𝑻 𝑺𝒎
+∴ 𝑺𝒎 ∝ λ𝑷𝒎 𝑷𝒎 + γ𝑺𝒎 Σത 𝒇 Φ
+𝑺𝒎
+Decay of
+Promethium
+
+149
+
+Fission Production
+149
+of
+𝑆𝑚
+
+149
+Burn-up of
+𝑆𝑚,
+(stable so no decay
+term)
+
+𝑆𝑚 is stable and is only removed by burnout.
+
+NE235 Nuclear Reactor Operations Training
+
+31
+
+Buildup of Poisons in a Power Reactor
+
+Introduction to Nuclear Engineering, 2nd Ed.; Lamarsh
+NE235 Nuclear Reactor Operations Training
+
+32
+
+Summary
+1. Moderator Temperature Coefficient – design reactor so
+that aTmod is negative for all operating and accident
+conditions.
+2. Void Coefficient – same physics as aTmod; assure negative
+feedback.
+3. Doppler Broadening (Fuel Temperature) Coefficient –
+provides significant negative feedback in low enriched
+reactors (e.g. with higher 238U content in fuel).
+4. Fission Product Poisons – Xenon-135 contributes significant
+negative reactivity as a function of power history.
+
+NE235 Nuclear Reactor Operations Training
+
+33
+
+
+
+## Metadata
+- Source file: junk_drawer/NE235 Lecture PPT Mod9.pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

@@ -1,0 +1,1245 @@
+# Argentina RB Standards.pdf
+
+Source: junk_drawer/Argentina RB Standards.pdf
+
+Category: [[other]]
+
+## Summary
+CHALECOS ANTIBALAS Norma RENAR MA.01-A1 AÑO 2010 COMISIÓN TÉCNICA NORMA ANMaC MA.01-A1 ÍNDICE
+
+## Full Content
+CHALECOS
+ANTIBALAS
+Norma RENAR
+MA.01-A1
+
+AÑO 2010
+
+COMISIÓN TÉCNICA NORMA ANMaC MA.01-A1
+
+ÍNDICE
+Prólogo
+
+04
+
+Concepto de chaleco antibala
+
+05
+
+Mecánica de funcionamiento del chaleco antibala
+
+05
+
+Norma y niveles de resistencia balística
+
+07
+
+Control de la fabricación e importación
+
+08
+
+Norma RENAR MA.01-A1
+
+08
+
+Vigencia de la certificación
+
+09
+
+Niveles de clasificación
+
+09
+
+Nivel RB0
+Nivel RB1
+Nivel RB2
+Nivel RB3
+Nivel RB4
+Nivel RB5
+Nivel RBE
+
+10
+10
+10
+10
+10
+11
+11
+
+Definiciones
+
+11
+
+Exigencias técnicas
+
+13
+
+Penetración y deformación balística
+
+14
+
+Métodos de ensayo
+
+14
+
+Acondicionamiento del panel balístico para ensayo en condición húmeda
+
+15
+
+Preparación del ensayo
+
+16
+
+Test balísticos
+
+16
+
+Test de penetración y trauma de los niveles RB0, RB1, RB2 y RB3
+Test de penetración y trauma de los niveles RB4
+Test de penetración y trauma de los niveles RB5
+Test de penetración y trauma de los niveles RBE
+
+16
+18
+19
+20
+
+Prueba de determinación de límite balístico
+
+21
+
+Examen de la calidad de confección del chaleco
+
+21
+
+Informe de tejidos
+
+21
+
+Otras protecciones
+
+21
+
+Guarda de muestras testigo
+
+22
+
+Recomendación
+
+22
+
+Modelo de etiqueta de portapaneles para chalecos niveles RB0 a RB3 (anexo A)
+
+23
+
+Modelo de etiqueta de portapaneles para chalecos niveles RB4 y RB5 (anexo B)
+
+24
+
+Modelo de etiqueta de paneles balísticos niveles RB0 a RB3 (anexo C)
+
+25
+
+Modelo de etiqueta de paneles balísticos niveles RB4 y RB5 (anexo D)
+
+26
+
+Modelo de etiqueta de placas antitrauma (anexo E)
+
+27
+
+Modelo de etiqueta de placas balísticas o insertos (anexo F)
+
+28
+
+Tabla N° 1 de niveles de resistencia balística (anexo G)
+
+29
+
+Angulo de incidencia (anexo H)
+
+30
+
+Equipo de ensayo balístico (anexo I)
+
+31
+
+Secuencia y ubicación aproximada de los disparos (anexo J)
+
+32
+
+4
+
+NORMA RENAR MA. 01-A1 CHALECOS ANTIBALA
+PRÓLOGO
+
+Los chalecos a prueba de bala son materiales de usos especiales controlados por la Ley
+Nacional de Armas y Explosivos y demás normativa vigente; constituyen el principal
+componente del equipo de protección personal de los efectivos de las fuerzas armadas,
+fuerzas de seguridad, policías, servicios penitenciarios y demás usuarios pertenecientes a
+agencias de seguridad y transportadoras de caudales, entre otros. Consecuentemente, resulta
+de fundamental importancia contar a nivel nacional, con una norma rigurosa que establezca el
+procedimiento de evaluación técnica y metodología de ensayo de los chalecos, a fin de
+evaluar sus aptitudes constructivas y balísticas.
+Para la confección de la norma RENAR MA.01-A1 versión actualizada de la norma RENAR
+MA.01 -, se contó con la cooperación de especialistas en la materia, personal jerárquico de los
+laboratorios de ensayo, técnicos de las empresas, médicos forenses y datos suministrados por
+la Dirección Nacional de Política Criminal del Ministerio de Justicia, Seguridad y Derechos
+Humanos.
+La norma RENAR MA.01-A1 regula los niveles de resistencia balística de los chalecos a prueba
+de bala y fija los requerimientos técnicos que deben respetar los fabricantes e importadores,
+siguiendo las actualizaciones y lineamientos de las normas internacionales vigentes e
+incorporando los avances en materia de componentes y nuevos calibres de armas de fuego,
+cuyo uso se ha generalizado a nivel nacional.
+Esta actualización es también una respuesta institucional hacia los hombres y mujeres que
+prestan servicios en las fuerzas armadas, fuerzas de seguridad, policías y servicios
+penitenciarios, a fin de contar con chalecos de protección balística mas confiables y que
+respondan a las nuevas exigencias, impuestas por el avance del armamento y de la tecnología
+en materia de su manufactura.
+
+DIRECCIÓN EJECUTIVA
+ANMaC
+
+5
+
+NORMA RENAR MA. 01-A1
+CONCEPTO DE CHALECO ANTIBALA
+El uso de protección individual contra las armas de fuego, constituye una necesidad que se fue
+incorporando al campo militar y policial, representada por una prenda denominada
+. El principio de funcionamiento de estas prendas, está basado en un escudo
+protector de cierto tipo de material, que por su resistencia al impacto de los proyectiles, se los
+denomina
+.
+Cuando estos paneles están confeccionados con una determinada cantidad de telas de alta
+resistencia al impacto, se los denominan
+. También pueden fabricarse chalecos
+antibala con materiales
+los cuales son utilizados generalmente por grupos que
+desarrollan tareas especiales. Los chalecos flexibles, cubren las necesidades de la mayoría de
+los usuarios, quienes los pueden utilizar bajo la ropa o por sobre ella, presentándose en
+diversas formas.
+Los paneles balísticos, poseen un portapanel destinado a cubrirlos, protegerlos y como
+elemento de adherencia al cuerpo. Estos portapaneles, están confeccionados con telas de alta
+resistencia, normalmente unidas con cintas tipo Velcro.
+Los portapaneles se presentan en diversos colores, adaptables a la función militar, policial,
+táctica y de uso civil. En último caso, pueden tener el aspecto de chalecos de vestir,
+camperas, abrigos, etc. Cuando son de uso táctico, suelen poseer bolsillos funcionales de
+acuerdo con las necesidades de la tarea para la cual se los confeccionó.
+
+MECÁNICA DE FUNCIONAMIENTO
+DEL CHALECO ANTIBALA
+La mayoría de los chalecos funciona atrapando el proyectil en una red de fibras muy
+resistentes, logrando que el proyectil transfiera su energía tensando, no solamente las fibras
+con las que entra en contacto, sino también las de las zonas vecinas que constituyen la red. De
+esta manera se entiende que cuanto más capas de este tejido utilicen, mayor será la
+resistencia balística lograda.
+Para la confección del tejido balístico, actualmente se están utilizando fibras denominadas
+poliaramídicas, que se comercializan bajo diversos nombres, tales como KEVLAR o TWARON,
+utilizándose las denominadas fibras de polietileno de cadena extendida, como el SPECTRA y
+DYNEEMA. Conceptualmente, todas estas fibras son livianas, varias veces más resistentes que
+el acero, lo cual también explica su alta capacidad para detener proyectiles.
+Las redes de fibras entretejidas, que no hayan recibido algún tipo de tratamiento que lo
+impida, pierden una parte de su capacidad balística cuando se humedecen. El agua, lubrica los
+puntos de intersección de la red de tela, denominados
+no disipando debidamente la
+energía del proyectil que impactó contra la red.
+
+6
+
+A pesar de las indiscutibles virtudes de los chalecos antibala, cualquiera sea el material de
+fabricación, su uso no constituye una garantía absoluta en un enfrentamiento armado, por las
+siguientes razones:
+1.
+
+Existen varias zonas del cuerpo que continúan expuestas: cabeza, cuello, bajo vientre y
+extremidades, y no están protegidas para un impacto de bala. En consecuencia, podrían
+producirse heridas, que nada tienen que ver con el uso del chaleco.
+2. Eventualmente pueden recibirse disparos de armas de fuego, que superen la resistencia
+balística de la prenda, es decir su Nivel MA.01-A1.
+3. Durante su uso, el chaleco podría haber sido maltratado, de manera tal, que su estructura
+puede haber sido afectada y como consecuencia su nivel de resistencia balística haya
+disminuido.
+En consecuencia, el chaleco antibala, incrementa sensiblemente la probabilidad de sobrevivir
+en un enfrentamiento armado, pero esto no constituye una garantía absoluta.
+Esto significa, que el buen uso y cuidado del chaleco, tiene mucho que ver con su real
+duración.
+El impacto del proyectil, produce en el cuerpo que protege, un efecto elástico penetrante e
+instantáneo con forma de hongo, tal como una pelota de fútbol lo haría con la red del arco. A
+ese efecto, se lo denomina
+.
+Esta Norma establece los requerimientos mínimos de prestación de los chalecos; el trauma
+estipulado en este reglamento es el MAYOR admisible en condiciones ideales de ensayo de
+acuerdo a parámetros internacionales.
+Se recomienda la utilización de PLACAS ANTITRAUMA incorporadas al panel balístico, para
+reducir un potencial trauma en condiciones reales de servicio a valores menores, con el
+propósito de incrementar la protección al usuario.
+Estas placas limitan el valor del trauma, ya que siendo confeccionadas con materiales diversos,
+distribuyen la energía en una superficie mayor, disminuyendo en consecuencia el efecto
+traumático.
+En la elección de un chaleco antibala, también influyen estos otros factores:
+1. Lugar de uso en el cuerpo, es decir por debajo o sobre la ropa. Esto tiene mucho que ver
+también con su capacidad de resistencia balística, dado que los de uso bajo camisa son
+generalmente más livianos.
+2. Tipo de munición que se estima será la que potencialmente use la delincuencia, dentro de
+una razonable gama de velocidades iniciales, material y peso de las puntas, lo cual estará a
+su vez influenciado por la temperatura ambiente, presión atmosférica y humedad.
+3. Grado de cubrimiento en el cuerpo, es decir si el panel balístico protegerá la parte frontal y
+en forma separada la posterior o si tendrá un refuerzo en la parte alta del torso, tal como
+hombros, cuello y otras zonas.
+4. Sexo de la persona a la cual se destinará, dado que la mujer puede ver afectadas sus
+mamas por el trauma, que eventualmente podría derivar en otras afecciones y por la forma
+y tamaño del busto. En consecuencia requiere chalecos femeninos.
+
+7
+
+Los chalecos balísticos, no son capaces de proteger contra elementos cortantes o punzantes,
+debido al corte del tejido que podrían hacer dichos elementos. En consecuencia, los chalecos
+antibala, cuando son destinados al personal del servicio penitenciario, deben poseer placas
+adecuadas para adquirir esta otra capacidad y constituye un requerimiento específico especial
+para una licitación.
+Como se puede apreciar, existen varios niveles de resistencia balística y también posibilidades
+múltiples en materia de proyectiles. En consecuencia, las normas que regulan las diversas
+resistencias balísticas, están íntimamente relacionadas con las armas y calibres que utiliza la
+delincuencia de cada país o región.
+Este panorama en materia de chalecos antibala, revela que escoger adecuadamente su tipo y
+características, es una tarea nada fácil, que requiere un estudio profundo antes de concretar su
+compra. Cada comprador deberá decidir el Nivel de protección deseado, en base a sus
+necesidades.
+
+NORMA Y NIVELES DE RESISTENCIA BALÍSTICA
+La mayoría de los países que poseen normas de resistencia balística relacionadas con los
+chalecos antibalas, denominan los diferentes Niveles en base a números, letras, o su
+combinación. Cada nivel balístico, implica un grado de resistencia al impacto, establecido para
+determinados calibres, velocidades iniciales, pesos de los proyectiles, etc.
+Para determinar el nivel de resistencia balística de los chalecos, se deben efectuar pruebas y
+asignarles el Nivel MA.01-A1 correspondiente, ya sea de fabricación nacional o importado.
+Estas pruebas se deben realizar en laboratorios calificados, bajo condiciones técnicas muy
+exigentes. Una vez certificado el Nivel, se otorga una certificación al fabricante, cuya
+referencia deberá constar en cada uno de los chalecos.
+La norma RENAR MA.01-A1, permite certificar de esta manera, que el diseño de un chaleco
+prototipo se adecua a los estándares exigibles, siendo la calidad final del producto
+responsabilidad directa del fabricante, quien de ninguna manera puede variar las condiciones
+de fabricación del chaleco testeado, en cada uno de los niveles exigidos. En consecuencia, un
+test MA.01-A1, certifica que un chaleco prototipo superó las exigencias de determinado nivel, y
+que la línea de chalecos fabricados en las mismas condiciones, podrían superar el mismo test.
+La certificación MA.01-A1, no asegura que los demás chalecos de producción normal son
+construidos idénticos al de las muestras ensayadas, pero al certificar un modelo de chaleco
+antibalas, el fabricante se ve en la obligación de asegurar que toda la producción de
+chalecos invocando la certificación obtenida, sea de idéntica construcción y
+características del modelo que aprobó el test.
+
+8
+
+CONTROL DE LA FABRICACIÓN E IMPORTACIÓN
+Las empresas fabricantes o importadoras de chalecos antibala, antes de su oferta o
+presentación en el mercado, deberán solicitar autorización a la ANMaC para construir o
+importar sus prototipos de acuerdo con la Norma MA.01-A1 en los Niveles que corresponda.
+La entidad importadora o fabricante, tiene que estar debidamente inscripta en este Organismo
+como
+fabricante o importador de
+de Usos
+según corresponda y luego someter a un test a los chalecos que fabrique o importe, en alguna
+de las entidades autorizadas.
+Una vez que el prototipo haya superado el test, se le otorgará al interesado, la certificación
+correspondiente norma RENAR MA.01-A1 del Nivel que corresponda, quien para poder
+comercializar la prenda, asegurará que no variará ninguna de las características del chaleco
+testeado para determinado Nivel.
+El término
+implica no solamente la composición de los paneles balísticos, sino, la
+cantidad de capas, material utilizado, el centimetraje cuadrado total de cada talle declarado y
+otras especificaciones de la muestra testeada. Recién en esta oportunidad, el fabricante o
+importador, tendrá derecho a fabricar o importar las prendas bajo la norma RENAR MA.01-A1.
+Las telas de los forros y portapaneles podrán eventualmente, ser reemplazadas por otras telas
+de mayor calidad y/o resistencia, con previa autorización de la ANMaC. Los colores de estos
+materiales podrán modificarse sin autorización previa de la ANMaC, siempre que no modifique
+las propiedades físicas de los mismos como la composición, hilos y pasadas/cm., peso/m²,
+ligamento, resistencia a la tracción tira deshilada, resistencia al desgarre, solidez al frote,
+solidez a la limpieza en seco, resistencia a la presión hidrostática, resistencia al mojado
+superficial, etc.
+En consecuencia, la responsabilidad de asegurar los niveles MA.01-A1, en cualquiera de los
+modelos que fabrique o importe una Empresa, le cabe exclusivamente a ésta.
+No se aceptarán chalecos que presenten algún tipo de arrugas, ampollas, grietas, roturas de
+tejido, cuarteaduras, esquinas cortantes, sectores despegados u otra evidencia que implique
+dudosa calidad de fabricación. Las telas u otros materiales que se utilicen en la construcción
+del panel balístico, deberán ser enterizas y uniformes, y abarcar toda la superficie del panel. No
+se permite el uso de trozos o recortes en la fabricación de los paneles balísticos.
+Cada componente del modelo de chaleco antibalas debe ser claramente identificado mediante
+una etiqueta indeleble, con tipos de letra de tamaño fácilmente legibles, en español, donde se
+especifiquen datos varios de importancia.
+Los paneles balísticos del chaleco, deben estar rotulados de acuerdo con las indicaciones que
+se indican más adelante.
+
+9
+
+NORMA RENAR MA.01-A1
+La norma RENAR MA.01-A1 es una regulación de la evaluación del chaleco. No constituye una
+especificación del método de fabricación, ni de diseño del mismo.
+Esta norma proporciona una certificación para el fabricante o importador, que el chaleco en
+cuestión posee un tipo de resistencia balística definida por los estándares, en ensayos
+realizados sobre muestras prototipo de dicho modelo y que han pasado satisfactoriamente el
+test de resistencia balística.
+Los chalecos certificados y aceptados por la ANMaC, figurarán en una Nómina de
+Chalecos Antibala Aprobados (NOCA) y esta lista, constituye la única vía segura de
+determinar la adecuación del chaleco a las exigencias RENAR MA.01-A1. (solo integrarán
+la lista aquellos modelos cuyo fabricante o importador se encuentre con su inscripción
+vigente ante ANMaC)
+Debido a la fluidez con que se modifican las condiciones balísticas de los cartuchos en el
+mercado mundial o a la aparición de nuevos productos que podrían alterar los conceptos, que
+en materia de resistencia balística existen actualmente, la norma RENAR MA.01-A1, estará
+sujeta eventualmente a revisiones y modificaciones, que serán comunicadas a través de los
+canales oficiales adecuados.
+La Norma solamente califica el chaleco antibala desde el punto de vista de su resistencia
+balística, pero no indica su comportamiento ante efectos de puñales o elementos punzantes.
+El objetivo buscado por esta Norma, consiste en establecer los requerimientos MÍNIMOS y
+métodos de ensayo para los chalecos balísticos. En la misma, se especifican:
+•
+Las condiciones de clasificación de Niveles de los chalecos
+•
+El texto de las etiquetas y las advertencias fijadas a los paneles balísticos y fundas
+portapaneles
+•
+Las condiciones de calificación y aprobación de estos materiales
+•
+Los calibres de prueba
+•
+Trauma máximo aceptable.
+La vestimenta a prueba de balas (camperas, trajes, camisetas, etc.) tendrá el mismo
+tratamiento, se someterá a los mismos ensayos y será de aplicación respecto de ella la norma
+para chalecos antibalas. En caso de tener aberturas tanto en la zona delantera como trasera
+(con cierres, botones, etc), dos de los impactos deberán realizarse sobre la misma, uno a 0° y
+otro a 45°.
+
+VIGENCIA DE LA CERTIFICACIÓN
+La vigencia de la certificación RENAR MA.01-A1 será de 5 (cinco) años contados a partir de la
+fecha de su obtención.
+
+10
+
+NIVELES DE CLASIFICACIÓN
+Los chalecos antibala considerados en esta Norma, se clasifican según siete Niveles
+de resistencia balística. En el caso de presentar resistencias balísticas distintas, se
+considerarán las zonas más débiles para realizar el test.
+La amenaza balística de un proyectil, depende mayoritariamente de:
+•
+Su composición
+•
+Factor de forma
+•
+Calibre
+•
+Masa
+•
+Angulo de incidencia
+•
+Velocidad de impacto
+Debido a la inmensa variedad de cartuchos existentes en plaza, de un determinado
+calibre y por la posibilidad de utilizarse munición de recarga, un chaleco que superó el
+ensayo para la munición standard de calificación en determinado Nivel, podría no
+resistir otras cargas del mismo calibre.
+Es por tal motivo, que la munición de ensayo responde a la utilizada en plaza, en
+nuestra región de provisión y se adecua al armamento confiscado y a su munición.
+Asimismo, debe preverse la resistencia a los proyectiles de las armas provistas a cada
+Fuerza de Seguridad o Fuerza Armada, para cubrir la eventualidad de que el efectivo
+que utiliza dicho chaleco, pueda ser atacado por su propia arma.
+
+NIVEL RB0
+PROYECTILES CALIBRE .22LR Y .38SPL
+
+Estos chalecos protegen contra proyectiles calibre .22 LR, punta de plomo (SL), con
+masas nominales de 2.6 gr (40 grains), que impactan a una velocidad de 320 m/s
+(1050 pies/seg) y del calibre .38 Spl, punta redonda de plomo (RNL), con masas
+nominales de 10.2 gramos (158 grains), que impactan a una velocidad de 259 m/s
+(850 pies/seg).
+
+NIVEL RB1
+PROYECTILES CALIBRE .40 S&W DE VELOCIDAD NORMAL Y 9 MM DE BAJA VELOCIDAD
+
+Estos chalecos protegen contra proyectiles calibre .40 S&W encamisado (FMJ), con
+masa nominales de 11.7 gr. (180 grains), que impactan a una velocidad de 343 m/s
+(1125 pies/seg) y de calibre 9 mm encamisados (FMJ), con masas nominales de 8.0 gr.
+(124 grains) impactando a una velocidad de 332 m/s (1090 pies/seg).
+
+11
+
+NIVEL RB2
+PROYECTILES CALIBRE .357 MG DE ALTA VELOCIDAD Y 9 MM DE MEDIA VELOCIDAD
+Estos chalecos protegen contra proyectiles calibre .357 Mg encamisados punta blanda (JSP)
+con masas nominales de 10.2 g (158 grains) que impactan a una velocidad de 425 m/s (1395
+pies/seg) y calibre 9 mm encamisados (FMJ) con masas nominales de 8.0 g (124 grains) que
+impactan a una velocidad de 358 m/s (1175 pies/seg.).
+
+NIVEL RB3
+PROYECTILES CALIBRE .44 MG Y 9 MM DE ALTA VELOCIDAD
+Estos chalecos protegen contra proyectiles calibre .44 Mg de plomo semisacabocado, (SWC),
+con masas nominales de 15.55 gramos (240 grains) que impactan a una velocidad de 426 m/s
+(1400 pies/seg.) y calibre 9 mm encamisado (FMJ) con masas nominales de 8.0 g (124 grains)
+que impactan a una velocidad de 426 m/s ( 1400 pies/seg.) .
+
+NIVEL RB4
+PROYECTILES CALIBRE 7.62 MM NATO Y 5.56 MM NATO
+Estos chalecos protegen contra proyectiles calibre 7.62 mm NATO (.308 Winchester),
+encamisado (FMJ), con masas nominales de 9.7 g (150 grains), que impactan a una velocidad
+de 838 m/s (2750 pies/seg) y del calibre 5.56 mm NATO (.223 Remington), encamisado (FMJ
+BT) con masas nominales de 3.57 g (55 grains), que impactan a una velocidad de 991 m/s
+(3250 pies/seg).
+
+NIVEL RB5
+PROYECTILES PERFORANTES CALIBRE 7.62 MM NATO
+Estos chalecos protegen contra un disparo de proyectil perforante 7.62 mm NATO (.308
+Winchester)
+con masa nominal de 9.7 g (150 grains), que impacta a una velocidad de 838
+m/s (2750 pies/seg)
+
+NIVEL RBE
+PARA CHALECOS DE RESISTENCIA BALÍSTICA ESPECIAL
+ANMaC eventualmente podrá autorizar la fabricación de chalecos para usos especiales, que
+verifiquen resistencia balística para un nivel de protección especificada por el usuario.
+
+12
+
+DEFINICIONES
+Velocidad de Impacto:
+Las velocidades de impacto consignadas más arriba, corresponden a las velocidades MÍNIMAS
+exigidas por el ensayo para cada nivel de resistencia balística, y se especifica como velocidad
+máxima para cada nivel, aquella que supera a la indicada en 15 m/s (50 pies/seg.).
+Angulo de Incidencia:
+Se denomina ángulo de incidencia, al existente entre la trayectoria del proyectil y la línea
+perpendicular al plano tangente a la superficie del chaleco en el punto de impacto. Ver Anexo
+H, Figura 1.
+Material de Apoyo:
+Está constituido por un bloque de arcilla de modelar al aceite, de endurecimiento retardado,
+que está en contacto con la cara posterior del chaleco durante el ensayo.
+Garantía de Fabricación:
+Constituye una declaración jurada (certificación) del fabricante, de que el modelo de chaleco
+antibalas de producción standard, cumple con las exigencias de la NORMA RENAR MA.01-A1,
+para el nivel de protección especificado, y se compromete a no modificar sus características
+respecto a la muestra del modelo ensayado, que igualó o superó las exigencias de la norma
+MA.01-A1 para ese nivel de protección balística. La misma deberá ser por un mínimo de 5
+(cinco) años a partir de la fecha de fabricación.
+Deformación:
+Este parámetro, constituye el mayor desplazamiento temporario de la cara posterior del
+chaleco antibalas sometido a ensayo, provocado por el impacto franco de un proyectil válido
+que no lo perfora, cuando el chaleco está en contacto con el material de apoyo.
+Disparo Válido:
+Se denomina así, a un proyectil que impacta en el chaleco, con un ángulo de incidencia que no
+varía en más de 5° hacia una u otra dirección, respecto del ángulo de incidencia exigido por la
+Norma (tabla N°1). Adicionalmente deberá mantener una distancia mínima al borde del panel
+balístico de 76 mm (3 y estar separado de la impronta de un impacto anterior, una distancia
+no inferior de 50 mm (2
+y no diferir su velocidad en más de 15 m/s (50 pies/seg.) en exceso,
+respecto de la velocidad mínima exigida por la especificación, para el nivel de resistencia
+balística determinado (tabla N°1).
+Proyectil Encamisado (FMJ):
+Se trata de una bala de núcleo de plomo o aleación de plomo recubierta por una camisa de
+aleación, con excepción o no de su base.
+Proyectil Encamisado Punta Blanda (JSP):
+Se trata de una bala con núcleo de plomo o aleación de plomo, recubierta por una camisa de
+aleación, exceptuada la punta.
+
+13
+
+Proyectil de Plomo (RNSL):
+Se denomina de esta manera a una bala de plomo aleado.
+Semisacabocado (SWC):
+Este tipo de bala se caracteriza por poseer una punta chata troncocónica, con un resalto
+cilíndrico de reborde vivo en la base de la misma.
+Penetración:
+Se denomina de este modo, a la perforación completa del chaleco de ensayo por un proyectil
+válido, o por un fragmento de ese proyectil o del panel balístico, evidenciado por la presencia
+del proyectil o del fragmento en el material de apoyo, o por el orificio que atraviesa el material
+de apoyo.
+Cara de Impacto del Chaleco:
+Está constituida por la superficie diseñada por el fabricante, para enfrentar los proyectiles.
+
+Cara Interior del Chaleco:
+Está constituida por la superficie diseñada por el fabricante para apoyarse contra el cuerpo del
+usuario.
+Los trajes antibombas que cumplen con una función ajena a la protección balística, no serán
+considerados a los fines de esta norma.
+
+EXIGENCIAS TÉCNICAS
+Criterios de Aceptación:
+Un modelo de chaleco satisface los requerimientos de esta Norma, si las nueve muestras de
+producción (prototipo) del mismo superan los requerimientos de calidad del material y de
+confección, y satisfacen las exigencias indicadas en su etiqueta, y adicionalmente, al ser
+ensayado cada uno de sus paneles balísticos (frontal, posterior, lateral, inguinal y coxial), ellos
+verifican los requerimientos de deformación máxima (tabla N°1) y de no penetración.
+Chalecos para uso bajo ropa:
+Este tipo de chaleco, está diseñado para ser utilizado bajo prendas de vestir. En el caso que
+sus paneles balísticos sean similares a un modelo sobre ropa, deberán ser certificados en
+forma independiente, diferenciando la denominación de los modelos. Y haciendo constar su
+uso en las etiquetas identificatorias.
+Chaleco para uso femenino:
+Tipo de chaleco diseñado para adaptarse mejor al torso femenino. Para este fin estos chalecos
+deben poseer en la zona del busto, tazas o copas de 4 cm de profundidad como mínimo.
+
+14
+
+Etiquetado:
+Cada componente del modelo de chaleco antibalas, debe ser claramente identificado
+mediante una etiqueta indeleble, con tipo de letra de tamaño fácilmente legible, donde se
+especifiquen en español los siguientes datos:
+Paneles balísticos:
+Todos los paneles balísticos, que posea el chaleco, deben ser rotulados en cualquiera de las
+superficies exteriores del panel conteniendo la siguiente información:
+1. Marca, en todos los casos.
+2. Nombre, logotipo u otra identificación del fabricante o importador, en todos los casos.
+3. Procedencia del material.
+4. Nivel de protección balística de acuerdo con la Norma MA.01-A1.
+5. Tamaño, Ej: pequeño, mediano, grande, super grande, especial.
+6. Número del lote y serie.
+7. Fecha de fabricación
+8. Designación del modelo que identifique unívocamente el panel balístico. Los chalecos para
+uso masculino tendrán designaciones diferentes a los de uso femenino. Asimismo, también
+se deberá designar en forma diferencial los chalecos de uso externo de los uso interno.
+9. Identificación de la cara de impacto y de la cara interior del panel balístico, de manera de
+no posicionarlos equivocadamente durante su mantenimiento.
+10. Para los chalecos de nivel RB0 a RB3, se deberá consignar la advertencia que el chaleco no
+protege contra disparos de fusil. En general, si el chaleco sólo ofrece protección balística,
+se indicará que no ha sido diseñado para proteger contra ataques, con elementos
+punzantes o filosos.
+11. Datos de la certificación del cumplimiento de la Norma RENAR MA.01-A1.
+12. Especificaciones del material que conforma el panel balístico y portapanel.
+Las etiquetas deberán estar sujetas mediante costura o el uso de otro método que impida su
+desprendimiento de las fundas del chaleco antibalas.
+En los Anexos A, B, C, D, E y F de esta norma RENAR MA.01-A1, se pueden observar modelos
+de etiquetas pertenecientes a el portapanel, panel balístico, placa antitrauma y placas
+removibles para incrementar el nivel balístico, respectivamente.
+Talles y forma
+Al momento de solicitar la Certificación RENAR MA.01-A1, el fabricante o importador deberá
+indicar los talles y forma del modelo a fabricar o importar y las medidas indicadas en la planilla
+de solicitud de ensayo de chaleco antibala. Los chalecos a fabricar o importar podrán tener
+como tolerancia máxima en sus medidas perimetrales +/- 10 mm. En el caso de necesidad de
+fabricación o importación de un talle no autorizado, el fabricante o importador deberá solicitar
+su incorporación a la certificación otorgada, pudiendo ser autorizado previo ensayos balísticos
+y de tejidos, de muestras del chaleco antibalas del nuevo talle.
+
+15
+
+PENETRACIÓN Y DEFORMACIÓN BALÍSTICA
+Cuatro chalecos completos (ambos paneles balísticos) serán ensayados para comprobar su
+resistencia balística a la penetración y la máxima deformación balística (trauma), después de
+acondicionarlos para el ensayo en condición húmeda. Otros cuatro chalecos completos
+(ambos paneles balísticos) serán ensayados para comprobar su resistencia balística a la
+penetración y la máxima deformación balística (trauma) en condición seca. Toda penetración
+del panel o deformación balística superior al MAXIMO estipulado en este reglamento,
+producida por un disparo válido; penetración del panel o deformación balística superior al
+MÁXIMO estipulado, producido por un proyectil disparado a una velocidad menor que la
+MINIMA indicada en esta norma, será causal de rechazo del chaleco ensayado. Asimismo, un
+proyectil que impacte a una distancia del borde o a otro impacto, inferior a la distancia
+MÍNIMA especificada o a una velocidad mayor a la MÁXIMA consignada en esta norma, pero
+que no logre penetrar el panel balístico ni provocar un trauma superior al MÁXIMO, será
+considerado un disparo válido. Del mismo modo una bala que impacta el panel a una
+velocidad mayor a la MÁXIMA pero que no penetra el panel balístico y que produce un trauma
+no superior al MÁXIMO, resulta a los fines de este reglamento, un disparo válido.
+Los chalecos de los niveles RB0, RB1, RB2 y RB3 que poseen insertos removibles para lograr
+una resistencia balística adicional o reducción del trauma, deberán ser ensayados SIN LOS
+INSERTOS.
+
+MÉTODO DE ENSAYO
+Muestras: La muestra de ensayo se conforma de 10 (diez) chalecos completos, 6 (seis) del
+talle menor y 4 (cuatro) del talle mayor, con la condición de que la zona de protección quepa
+en el tablero de prueba, cuyas dimensiones son de 61 cm x 61 cm. Para caso del nivel RB5 La
+muestra de ensayo se conforma con 5 (cinco) chalecos completos, 3 (tres) del talle menor y 2
+(dos) del talle mayor.
+Equipo de Ensayo: El ensayo deberá realizarse mediante la utilización de cañones de prueba
+del calibre requerido por esta norma.
+Material de Apoyo del Chaleco: El material de apoyo del chaleco, estará constituido por un
+bloque de 10.2 cm (4 de espesor, con dimensiones mínimas de 61 cm x 61 cm (24 x 24
+para permitir el apoyo de todo el portapanel con el panel balístico a ensayar.
+El material de apoyo del chaleco, deberá ser acondicionado durante al menos 3 horas a
+temperaturas de entre 15°C y 30°C (59°F y 95°F) y perfectamente amasado para eliminar los
+poros y vacíos. Su consistencia será determinada mediante una prueba de caída, utilizando
+una pesa cilíndrica de 44 mm a 45 mm de diámetro con terminación semiesférica del lado de
+impacto, de 1 Kg. +/- 10 gr. de peso, con la exigencia de que deje en el material de apoyo una
+huella de 25 mm +/- 3 mm cuando se arroja desde una altura de 2 m +/- 2 cm.
+
+16
+
+Este procedimiento deberá ser repetido tres veces, y de tal manera, que sus centros disten
+entre sí 76 mm ( 3 como mínimo, y con una separación similar a los bordes del material de
+apoyo.
+Para asegurar que la zona hemisférica de la pesa impacte perpendicularmente al material de
+apoyo, podrá utilizarse un tubo cilíndrico como guía de la misma. El material de apoyo del
+chaleco, se puede mantener a cualquier temperatura dentro del intervalo definido, para que
+tenga la consistencia necesaria para ser utilizado para efectuar el ensayo.
+
+ACONDICIONAMIENTO DEL PANEL BALÍSTICO
+PARA ENSAYO EN CONDICIÓN HÚMEDA
+Para esta certificación deberá acondicionarse cuatro chalecos completos, dos del talle menor
+y dos del talle mayor, extrayéndose sus paneles balísticos.
+Cada panel se sumergirá en una batea o bañera con agua durante 30 minutos como mínimo y
+35 minutos como máximo. La inmersión deberá ser total y en forma vertical, con el borde
+superior del panel a por lo menos, 100 mm. por debajo de la superficie del agua y con un
+espacio de por lo menos 50 mm. alrededor de la misma. En el caso que la prenda flote, se le
+colocarán pesas en el borde inferior, sin dañar la funda, hasta que la misma cumpla con las
+condiciones de inmersión . Una vez retirado el panel del agua, deberá ser colgado
+verticalmente por un lapso de 10 minutos como mínimo y 15 minutos como máximo, antes de
+ser montado sobre el tablero de prueba.
+El agua utilizada deberá ser potable de red o desmineralizada. La temperatura de la misma
+deberá encontrarse entre 17°C y 24°C.
+El agua de la batea o bañera deberá ser reemplazada cuando se observen impurezas en ella.
+El testeo completo del panel, deberá efectuarse en un lapso no mayor de 40 minutos a partir
+del momento en que el panel se retira de la bañera o batea de inmersión. Si el test no se
+completa en el período mencionado, todos los resultados del test, serán inválidos, debiendo
+reiniciar el test, utilizando un nuevo panel.
+
+PREPARACIÓN DEL ENSAYO
+Se debe disponer el equipo de prueba, de la manera que está graficado en la figura N°2 del
+Anexo I.
+Se utilizará el cañón de prueba apropiado para la munición requerida según la tabla N°1, el cual
+deberá estar fijado horizontalmente, mediante una prensa en la mesa de ensayo.
+Con el propósito de preparar los equipos de medición, se deben efectuar algunos disparos de
+hasta lograr la estabilización de las mediciones. Para efectuar el ensayo, el
+ambiente debe mantenerse a una temperatura entre 20°C y 28°C (68°F
+82°F) con una
+humedad relativa ambiente comprendida entre 30% y 70%.
+El material de apoyo, deberá estar acondicionado según lo especificado para el test de caída,
+para poseer la consistencia adecuada para el ensayo. Antes de comenzar el test, la arcilla
+deberá ser premoldeada y emparejada a las dimensiones especificadas, y encontrarse dentro
+del intervalo de temperaturas exigido.
+
+17
+
+La pantalla de inicio del cronógrafo deberá ubicarse a una distancia mínima de 2 metros de la
+boca del cañón de prueba, y la pantalla de detención del mismo podrá ubicarse a una distancia
+de entre 0.50 m a 1.5 m. Hay que tener la precaución que las pantallas del cronógrafo, sean
+perpendiculares a la trayectoria del proyectil y medir la distancia entre pantallas, con una
+precisión adecuada al equipo en uso.
+Examen de la Etiqueta:
+Deberá cumplirse con los requerimientos del rotulado, en todos y cada uno de los
+componentes del chaleco.
+
+TESTS BALÍSTICOS
+TEST DE PENETRACION Y TRAUMA DE LOS NIVELES RB0, RB1 RB2 Y RB3.
+Se deberán utilizar los proyectiles de las características especificadas en la tabla N°1 de esta
+norma.
+Se comenzará el ensayo, utilizando el primer tipo de munición, identificado con el N°1. Es
+aconsejable efectuar el número suficiente de disparos, para tener una seguridad razonable,
+de que el primer tiro de ensayo disparado al chaleco, impacte en el chaleco a una velocidad
+que no exceda la mínima requerida en más de 15 m/s (50 pies/seg.). Asegurar el punto de
+impacto del proyectil, utilizando un designador láser u otro dispositivo alternativo.
+Retirar todos los insertos removibles. Acondicionar cada uno de los cuatro chalecos
+completos para el ensayo con panel húmedo, dos de talle menor y dos de talle mayor. Ubicar
+el lado correspondiente del chaleco de talle menor en contacto directo con el material de
+apoyo y asegurar el perfecto apoyo de la cara interior del chaleco, con cintas, bandas
+elásticas, u otros medios que dejen la cara de impacto del chaleco expuesta.
+Ubicar el tablero de ensayo, que contiene el material de apoyo, con el chaleco asegurado, a 5
+Mts. de la boca del cañón de prueba y de tal manera que su plano sea perpendicular a la
+trayectoria del proyectil (cero ángulo de incidencia). Esquematizar sobre el chaleco, el
+triángulo indicado en la figura N°3 (anexo J), para predeterminar los puntos de impacto y la
+secuencia de los disparos.
+Efectuar el primer disparo de prueba en la posición N°1 del esquema y utilizando el cronógrafo,
+determinar la velocidad del proyectil. Proceder a examinar el chaleco y el material de apoyo,
+para determinar si el proyectil impactó en una región válida del chaleco, y si el mismo resultó
+perforado por el proyectil.
+Si el chaleco no fue penetrado y el disparo es válido, se debe proceder a medir la profundidad
+del trauma sobre el material de apoyo. La profundidad de la depresión es la distancia desde la
+superficie inalterada del material de apoyo, al punto más bajo de la depresión. Si la
+profundidad del trauma verifica con lo especificado en la tabla N°1, el chaleco ensayado
+cumple los requerimientos de trauma limitado. Si la profundidad de la depresión es mayor que
+la permitida y la velocidad del proyectil supera la máxima admitida por la norma, deberá
+procederse a reacondicionar el material de apoyo del chaleco, comprimir las capas del
+material balístico del panel, y repetir el ensayo hasta lograr un tiro válido. Este segundo
+intento, deberá hacerse de tal manera, que la proyectil impacte dentro de la misma área del
+panel, pero guardando una distancia mínima de no menos de 50 mm respecto de la impronta
+del proyectil anterior, y de 76 mm de los bordes del chaleco.
+
+18
+
+Este proceso debe repetirse hasta obtener un disparo válido, y proceder a medir la
+profundidad del trauma, para determinar si verifica con los parámetros exigidos por la Norma
+(tabla N°1). Si el chaleco no ha sido perforado, se lo deberá reubicar sobre el material de
+apoyo en su posición original, sin reacondicionar el material de apoyo, sin acomodar las capas
+por compresión y sin retirar el primer proyectil de prueba, si este queda atrapado entre las
+capas balísticas del panel. Tener en cuenta que los disparos subsecuentes, deben tener
+velocidades indicadas por la tabla N°1.
+Continuar con los disparos de los restantes proyectiles de prueba, en la secuencia indicada en
+la figura N°3, inspeccionando después de cada uno de ellos, que el impacto se dio sobre la
+región permitida por esta Norma. De no ser así, proceder a efectuar otro disparo, hasta lograr
+un tiro válido antes de pasar al siguiente.
+Luego del primer disparo y medida la profundidad del trauma y obteniendo valores adecuados
+a los exigidos por la Norma (tabla N°1) en las condiciones indicadas en los párrafos
+precedentes, se debe reposicionar el chaleco sobre el material de apoyo, para que el segundo
+disparo impacte en la posición indicada con el N° 2. Sin modificar la ubicación relativa del
+chaleco respecto del material de apoyo, y sin retirar ningún proyectil atrapado en las capas del
+panel balístico, y sin acomodar las mismas por compresión, mover el tablero del material de
+apoyo unido al chaleco, para que el tercer disparo impacte en la posición indicada con el N°3.
+Sin modificar la posición relativa del chaleco respecto del tablero del material de apoyo,
+reposicionar el conjunto, de tal manera que el proyectil impacte en la posición indicada con el
+N°4 y girar el tablero, para que el ángulo de incidencia sea de 30°, de modo que el sentido de
+la bala sea hacia el centro del chaleco.
+Sin modificar la posición relativa del chaleco respecto del material de apoyo, reposicionar el
+tablero para que el proyectil impacte en la posición N°5, con un ángulo de incidencia de 45° y
+del tal forma que la bala se dirija hacia el centro del chaleco.
+Sin modificar la posición relativa del chaleco respecto del material de apoyo, reubicar el
+tablero de prueba, de tal manera que el proyectil impacte en la posición indicada con el N°6 y
+con un ángulo de incidencia de 0°. Proceder a examinar el chaleco y el material de apoyo, para
+verificar si han existido perforaciones.
+Para chalecos antibala de uso femenino, las tazas de los bustos deben ser rellenadas con
+material de apoyo acondicionado, al mismo tiempo que el utilizado para el chaleco completo y
+de la misma manera. Sin embargo, no se deberá efectuar el test de caída para determinar la
+consistencia. Adicionalmente, los impactos en las posiciones N°4 y/o N°5 del test deberán
+impactar (con un ángulo de incidencia de 30° y 45°) en las tazas de los bustos. Si estas tasas
+poseen costura, el disparo deberá efectuarse sobre la misma.
+Se procederá a reacondicionar el material de apoyo. Se repetirá la secuencia descripta,
+utilizando el otro panel del chaleco de talle menor invirtiendo el ángulo de incidencia de la
+secuencia de los disparos N° 4 (45°) y N° 5 (30°).
+Repetir el test con el segundo tipo de munición de ensayo del nivel (identificada con el N°2),
+utilizando ambos paneles del otro chaleco de talle menor de la muestra acondicionados para
+el ensayo de panel húmedo.
+Una vez finalizada las pruebas con los chalecos de menor talle, se procederá a realizarlos con
+los de talle mayor.
+De no haberse verificado ninguna falla (penetración o profundidad de trauma mayor al
+especificado en la tabla N°1), se deberá repetir el test descripto para ambos tipos de munición,
+utilizando ambos talles de los chalecos en condición seca.
+
+19
+
+TEST DE PENETRACIÓN Y TRAUMA DEL NIVEL RB4
+Se deberán utilizar los proyectiles, de las características especificadas en la tabla N°1 de esta
+norma. Comenzar el ensayo utilizando el primer tipo de munición, identificado con el N° 1. Es
+aconsejable efectuar el número suficiente de disparos, para tener una seguridad razonable,
+de que el primer tiro de ensayo disparado al chaleco, impacte en el panel balístico, a una
+velocidad que no exceda la mínima requerida, en más de 15 m/s (50 pies/seg.). Asegurarse el
+punto de impacto del proyectil, utilizando un designador laser u otro dispositivo alternativo.
+Acondicionar cuatro chalecos completos para el ensayo con panel húmedo, dos de talle menor
+y dos de talle mayor. Ubicar uno de los lados del chaleco de talle menor en contacto directo
+con el material de apoyo y asegurar el perfecto apoyo de la cara interior del chaleco, con
+cintas, bandas elásticas, u otros medios que dejen la cara de impacto del chaleco expuesta. Si
+el chaleco es rígido y presenta curvatura para adecuarse al torso, de tal forma que la superficie
+del panel no esté en contacto con la superficie del material de apoyo, adecuar la superficie
+frontal del material de apoyo agregando más material, para lograr el apoyo franco con la
+superficie posterior del chaleco. El material de apoyo utilizado a tal fin, debe ser
+acondicionado al mismo tiempo, que el que conforma el material de apoyo del tablero y de la
+misma manera. Sin embargo, la Norma no exige controlar la consistencia del material
+agregado, mediante el test de caída.
+Ubicar el tablero de ensayo que contiene el material de apoyo con el chaleco asegurado, a 15
+Mts. de la boca del cañón, de tal manera que su plano frontal sea perpendicular a la trayectoria
+del proyectil (cero ángulo de incidencia) y el área central del mismo esté alineada con ella.
+Efectuar el primer disparo de prueba y determinar la velocidad del proyectil mediante el
+cronógrafo. Proceder a examinar el chaleco y el material de apoyo, para determinar si la bala
+impactó en una región válida del chaleco y si el mismo resultó perforado por el proyectil, o por
+algún fragmento. Si el chaleco no ha sido perforado, se lo deberá reubicar sobre el material de
+apoyo en su posición original, sin reacondicionar el material de apoyo, sin acomodar las capas
+por compresión y sin retirar el primer proyectil de prueba, si este queda atrapado entre las
+capas balísticas del panel.; para que puedan efectuarse cinco disparos válidos adicionales,
+distribuidos uniformemente sobre su superficie, con un ángulo de incidencia de 0°.
+Es aconsejable ubicar los disparos sucesivos, lo más alejados posible del centro de cada panel
+del chaleco. Si hay costuras en el material balístico, efectuar los disparos de ensayo de tal
+manera, que por lo menos un proyectil impacte directamente sobre la costura. Si no se
+produjo ninguna perforación del chaleco, deberá medirse y registrarse la profundidad de la
+depresión producida sobre el material de apoyo, para los dos disparos de mayor velocidad de
+los seis válidos.
+La profundidad de la depresión, se determina entre la superficie original del material de apoyo
+inalterado y el punto mas bajo de la depresión. Los valores mensurados deben adecuarse a las
+exigencias de la Norma (tabla N°1).
+Para chalecos antibala de uso femenino, las tazas de los bustos deben ser rellenadas con
+material de apoyo acondicionado, al mismo tiempo que el utilizado para el chaleco completo y
+de la misma manera. Sin embargo, no se deberá efectuar el test de caída para determinar la
+consistencia. Adicionalmente, los impactos en las posiciones N°4 y/o N°5 del test deberán
+impactar (con un ángulo de incidencia de 30° y 45°) en las tazas de los bustos. Si estas tasas
+poseen costura, el disparo deberá efectuarse sobre la misma.
+
+20
+
+Se procederá a reacondicionar el material de apoyo. Se repetirá la secuencia descripta,
+utilizando el otro panel del chaleco de talle menor. En este segundo panel los impactos N° 4 y
+N° 5 de la secuencia, se realizaran con ángulo de incidencia de 30° y 45° respectivamente.
+Repetir el test con el segundo tipo de munición de ensayo del nivel (identificada con el N°2),
+utilizando ambos paneles del otro chaleco de talle menor de la muestra acondicionados para
+el ensayo de panel húmedo.
+Una vez finalizada las pruebas con los chalecos de menor talle, se procederá a realizarlos con
+lo de talle mayor en condición húmeda.
+De no haberse verificado ninguna falla (penetración o profundidad de trauma mayor al
+especificado en la tabla N°1), se deberá repetir el test descripto para ambos tipos de munición,
+utilizando los chalecos en condición seca.
+
+TEST DE PENETRACIÓN Y TRAUMA DEL NIVEL RB5
+Se deberá utilizar el proyectil de las características especificadas en la tabla N°1 de esta norma.
+Es aconsejable efectuar el número suficiente de disparos, para tener una seguridad razonable,
+de que el tiro de ensayo disparado al chaleco, impacte en el panel balístico, a una velocidad
+que no exceda la mínima requerida, en más de 15 m/s (50 pies/seg.). Asegurarse el punto de
+impacto del proyectil, utilizando un designador laser u otro dispositivo alternativo.
+Acondicionar un chaleco de talle menor completo para el ensayo con panel húmedo. Ubicar
+uno de los lados del chaleco, en contacto directo con el material de apoyo y asegurar el
+perfecto apoyo de la cara interior del chaleco con cintas, bandas elásticas u otros medios que
+dejen la cara de impacto del chaleco expuesta. Si el chaleco es rígido y presenta curvatura
+para adecuarse al torso, de tal forma que la superficie del panel no está en contacto con la
+superficie del material de apoyo, se adecuará la superficie frontal del material de apoyo,
+agregando más material para lograr el apoyo franco con la superficie posterior del chaleco. El
+material de apoyo utilizado a tal fin, debe ser acondicionado al mismo tiempo que el que
+conforma el material de apoyo del tablero y de la misma manera, sin embargo, la norma no
+exige controlar la consistencia del material agregado mediante el test de caída.
+Se ubicará el tablero de ensayo que contiene el material de apoyo, con el chaleco asegurado, a
+15 mts. de la boca del cañón de prueba, de tal manera que su plano frontal sea perpendicular a
+la trayectoria del proyectil (cero ángulo de incidencia) y el área central del mismo esté
+alineada con ella.
+Se efectuará el disparo de prueba y utilizando el cronógrafo, se determinará la velocidad del
+proyectil para confirmar que el disparo es válido. Proceder a examinar el chaleco y el material
+de apoyo, para determinar si la bala impactó en una región válida del chaleco, y si el mismo
+resultó perforado por el proyectil o por algún fragmento.
+Si no se produjo ninguna perforación del chaleco por un disparo válido, deberá medirse y
+registrar la profundidad de la depresión producida sobre el material de apoyo. La profundidad
+de la depresión, se determina entre la superficie original del material de apoyo inalterado y el
+punto más bajo de la depresión. Los valores mensurados deben adecuarse a las exigencias de
+la norma (tabla N°1). Una vez finalizada la prueba, se deberá repetir con el otro panel de talle
+menor en condición húmeda.
+
+21
+
+Una vez finalizada las pruebas con el chaleco de menor talle, se procederá a realizarlas con el
+chaleco de talle mayor en condición húmeda.
+De no haberse verificado ninguna falla (penetración o profundidad de trauma mayor al
+especificado en la tabla N°1), se deberá repetir el test descripto, utilizando los chalecos en
+condición seca.
+
+TEST DE PENETRACIÓN Y TRAUMA DEL NIVEL RBE
+El Nivel RBE de la norma RENAR MA.01-A1, es aquel que responde a requerimientos especiales
+y, por lo tanto su nivel de prestación, no se encuentra normalizado. No obstante, el ensayo se
+programará en forma semejante a lo estipulado y de acuerdo con las técnicas descriptas, pero
+teniendo en cuenta que la munición será determinada para cada caso, de acuerdo con las
+especificaciones del usuario. No obstante, todos los demás parámetros deberán adecuarse al
+indicado en la tabla N°1.
+
+PRUEBA DE DETERMINACIÓN
+DE LÍMITE BALÍSTICO
+Para la realización de esta prueba se utilizarán dos chalecos antibalas de talle menor que se
+someterán a disparos de los calibres especificados en la tabla 1 para el nivel determinado con
+ángulos de incidencia cero (0°) y cuarenta y cinco (45°) grados .
+Los paneles a probar deberán acondicionarse de la misma forma que en el test de penetración
+y trauma para ensayo en condición seca. Se comenzará la prueba con disparos sobre un panel
+del primer calibre de la tabla 1 con ángulo de incidencia cero (0°). El primer disparo que se
+efectúe deberá ser a las velocidades establecidas para el nivel correspondiente,
+incrementándose en aproximadamente 30 m/s la velocidad del disparo siguiente. En caso de
+no obtener una perforación completa se deberá realizar la cantidad de disparos necesarios
+incrementando en aproximadamente 30 m/s respecto del disparo anterior hasta alcanzar una
+perforación completa de la prenda. Una vez finalizada, se procederá a repetir la secuencia
+sobre el otro panel, con disparos con ángulo de incidencia cuarenta y cinco (45°). De la misma
+forma, se realizará la prueba sobre el otro chaleco con el segundo calibre especificado en la
+tabla 1 para el nivel determinado.
+Para el caso de chalecos antibalas de nivel RB5, la prueba se debe realizar sobre un solo
+chaleco, con ángulo de incidencia cero (0°) y cuarenta y cinco (45°).
+
+EXAMEN DE LA CALIDAD
+DE CONFECCIÓN DEL CHALECO
+Verificar que la manufactura del chaleco se adecue a los requerimientos exigidos en los
+acápites precedentes.
+
+22
+
+INFORME DE TEJIDOS
+Se realizará un informe de tejidos de cada uno de los componentes del chaleco antibalas, para
+lo cual se tomaran muestras de las telas de los portapaneles, fundas, material balístico,
+material antitrauma, etc. En el caso de que existan en la composición varias capas del mismo
+material, solo se tomará muestras de una sola capa.
+El informe de tejidos deberá determinar la composición, hilos y pasadas/cm., peso/m²,
+ligamento, resistencia a la tracción tira deshilada, resistencia al desgarre, solidez al frote,
+solidez a la limpieza en seco, solidez a la luz, resistencia a la presión hidrostática, exposición al
+envejecimiento acelerado, resistencia al mojado superficial. En el informe se deberán indicar
+los métodos de ensayo.
+
+OTRAS PROTECCIONES
+Protectores para la regiones, inguinal, coxial, cuello, brazos y piernas: Los paneles
+balísticos que cubren la región inguinal, coxial, cuello, brazos y piernas serán ensayados y
+certificados independientemente. Para ello se efectuarán dos disparos válidos con un ángulo
+de incidencia de cero grados (0°) y un disparo válido con ángulo de incidencia de treinta
+grados (30°), por lo que deberán tener las medidas mínimas para su ensayo. Se deberá realizar
+un ensayo de los materiales que componen estos protectores.
+Placas rígidas y/o semirígidas para incrementar el nivel balístico: Las placas rígidas y/o
+semirídas destinadas a incrementar el nivel de protección balístico de los chalecos, serán
+ensayadas con tres disparos válidos con un ángulo de incidencia de cero grados (0°) y un
+disparo válido con ángulo de incidencia de treinta grados (30°), por lo que deberán tener las
+medidas mínimas para su ensayo.
+La secuencia de disparos será en forma triangular (disparo en los tres vértices: N° 1 y N° 2 a 0°,
+disparo N° 3 a 30°), efectuándose el cuarto disparo en el centro del triángulo, con un ángulo
+de incidencia de 0°.
+La cantidad requerida será de 3 (tres) placas por calibre a testear, de las cuales dos se
+probarán en condición húmeda y seca respectivamente, siendo la restante utilizada para
+prueba de límite balístico con disparos con ángulo de incidencia cero (0°). En caso de utilizar
+un chaleco antibalas como soporte, el mismo se deberá acondicionar tanto para la condición
+húmeda como para la seca.
+Se deberá realizar un ensayo de materiales que componen la placa.
+Asimismo el fabricante o importador deberá indicar al momento de solicitar la
+correspondiente Certificación RENAR MA.01-A1, la forma, composición, medidas, curvatura,
+etc. de las mismas, las que no se podrá variar en las futuras producciones.
+Las tolerancias permitidas serán de +/- 5 mm. para las dimensiones perimetrales.
+Las placas rígidas y/o semirígidas que sean ensayadas y certificadas con un determinado
+modelo de chaleco antibalas como soporte, mantendrán la certificación obtenida sólo si son
+utilizadas sobre el chaleco antibalas de marca, modelo y nivel con el cual se ensayaron y
+certificaron.
+
+23
+
+GUARDA DE MUESTRAS TESTIGO
+Una vez finalizados los ensayos, quedarán depositados en guarda en la institución que los
+realice, dos de los chalecos utilizados en condición seca, uno de talle menor y otro de talle
+mayor, en carácter de muestras testigo del modelo ensayado. A fin de preservar el material en
+guarda, se deberá proceder al embalado, rotulado y precintado del mismo.
+Asimismo la institución que realice los ensayos, deberá reservar como testigo, muestras de los
+lotes de munición utilizada.
+
+RECOMENDACIÓN
+Esta Norma establece los requerimientos mínimos de prestación de los chalecos; el trauma
+estipulado en este reglamento es el MAYOR admisible en condiciones ideales de ensayo de
+acuerdo a parámetros internacionales.
+Se recomienda la utilización de PLACAS ANTITRAUMA incorporadas al panel balístico, para
+reducir un potencial trauma en condiciones reales de servicio a valores menores, con el
+propósito de incrementar la protección al usuario.
+
+24
+
+NORMA RENAR MA.01-A1
+Anexo A
+MODELO DE ETIQUETA DE PORTAPANELES PARA
+CHALECOS NIVELES RB0 A RB3
+
+25
+
+NORMA RENAR MA.01-A1
+Anexo B
+MODELO DE ETIQUETA DE PORTAPANELES PARA
+CHALECOS NIVELES RB4 Y RB5
+
+26
+
+NORMA RENAR MA.01-A1
+Anexo C
+MODELO DE ETIQUETA DE PANELES BALÍSTICOS
+NIVELES RB0 A RB3
+
+27
+
+NORMA RENAR MA.01-A1
+Anexo D
+MODELO DE ETIQUETA DE PANELES BALÍSTICOS
+NIVELES RB4 Y RB5
+
+28
+
+NORMA RENAR MA.01-A1
+Anexo E
+MODELO DE ETIQUETA DE PLACAS ANTITRAUMA
+
+29
+
+NORMA RENAR MA.01-A1
+Anexo F
+MODELO DE ETIQUETA
+DE PLACAS BALÍSTICAS O INSERTOS
+
+30
+
+NORMA RENAR MA.01-A1
+Anexo G
+TABLA N° 1 NIVELES DE RESISTENCIA BALÍSTICA
+
+NIVEL
+
+SERIE
+DE
+DISP.
+
+MASA
+gramos
+
+VEL.
+MINIMA
+M/S
+
+TRAUMA
+MÁXIMO
+MM.
+
+N°
+DISP.
+0°
+
+N°
+DISP.
+30°
+
+N°
+DISP.
+45°
+
+RB0
+
+1
+2
+
+.38 Spl RNL
+.22 LRHV SL
+
+10.2
+2.6
+
+259
+320
+
+44
+44
+
+4
+4
+
+1
+1
+
+1
+1
+
+RB1
+
+1
+2
+
+.40 S&W FMJ
+9 x 19 mm. FMJ
+
+11.7
+8.0
+
+343
+332
+
+44
+44
+
+4
+4
+
+1
+1
+
+1
+1
+
+RB2
+
+1
+2
+
+.357 S&W Mg JSP
+9 x 19 mm. FMJ
+
+10.2
+8.0
+
+425
+358
+
+44
+44
+
+4
+4
+
+1
+1
+
+1
+1
+
+RB3
+
+1
+2
+
+.44 Rem Mag SWC
+9 x 19 mm. FMJ
+
+15.55
+8.0
+
+426
+426
+
+44
+44
+
+4
+4
+
+1
+1
+
+1
+1
+
+RB4
+
+1
+2
+
+.223 Rem FMJ
+
+9.7
+3.57
+
+838
+991
+
+44
+44
+
+RB5
+
+1
+
+9.7
+
+838
+
+44
+
+1
+
+0
+
+0
+
+44
+
+4
+
+1
+
+1
+
+RBE
+
+MUNICION
+
+LAS EXIGENCIAS SERÁN PRESENTADAS POR EL
+USUARIO
+
+VER ESPECIFICACIONES EN
+TEST DE PENETRACIÓN Y
+TRAUMA RB4
+
+31
+
+NORMA RENAR MA.01-A1
+Anexo H
+ÁNGULO DE INCIDENCIA
+
+32
+
+NORMA RENAR MA.01-A1
+Anexo I
+EQUIPO DE ENSAYO BALÍSTICO
+
+33
+
+NORMA RENAR MA.01-A1
+Anexo J
+SECUENCIA Y UBICACIÓN APROXIMADA
+DE LOS DISPAROS
+
+
+
+## Metadata
+- Source file: junk_drawer/Argentina RB Standards.pdf
+- Extracted: 2026-05-18
+- Category: other

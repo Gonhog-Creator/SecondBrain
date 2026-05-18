@@ -1,0 +1,180 @@
+# Homework Set 01 (1).pdf
+
+Source: junk_drawer/Homework Set 01 (1).pdf
+
+Category: [[academic-homework]]
+
+## Summary
+CHE 435/525 – Process Systems Analysis and Control Spring 2025 Homework Set 1. Math Prerequisites, Dynamic Modeling, and Simulation (Due on Friday, January 17, 2025) 1. (20 pt) Calculation with complex numbers
+
+## Full Content
+CHE 435/525 – Process Systems Analysis and Control
+
+Spring 2025
+
+Homework Set 1. Math Prerequisites, Dynamic Modeling, and Simulation
+(Due on Friday, January 17, 2025)
+1.
+
+(20 pt) Calculation with complex numbers
+
+Message from the instructor: French mathematician Jacques Hadamard (1865—1963) once joked, “The shortest
+path between two truths in the real domain passes through the complex domain.” Complex numbers are necessary
+for understanding control. To prevent any surprise when you meet them later, let us start preparing
+ourselves from now, step by step, through some exercise problems in the first three homework sets. Please
+take this message – you will likely encounter new problems as you develop your future profession. Never
+be afraid or frown to learn new things, even if they are not within your “comfort zone”.
+(a) A complex number z ∈ ℂ can be written as z = x + yi, where x and y are real numbers, called the real
+part and imaginary part of 𝑧, respectively (x = Re z, y = Im z). A complex number can be plotted as a
+point on a two-dimensional plane, called the complex plane. Please draw a complex plane and label
+the number −1+√3 i on it.
+(b) The modulus (or the absolute value) of a complex number z = x + yi is the distance between the origin
+and point z on the complex plane: |z| = √x2 + y2 . The argument of z is the angle obtained by
+anticlockwise rotating the positive real axis to the vector z on the complex plane, denoted as ∡z.
+Report the modulus and argument of −1 + √3 i.
+(c) Euler’s formula states that for any θ ∈ ℝ, we have
+eiθ = cos θ + i sin θ .
+Please remember this formula, either by proving to yourself or looking for a proof somewhere.
+Based on this formula, show that |eiθ | = 1 always hold.
+(d) Label the number reiθ (r > 0 and θ are both real) on the complex plane and indicate r and θ.
+(e) Testify that you have grasped the above concepts by writing down “I understand the concepts of real
+part, imaginary part, modulus, and argument of complex numbers, and the expression of Euler’s formula.”
+2.
+
+(20 pt) Numerically solving ODE with MATLAB.
+
+Message from the instructor: You should have learned (in CHE 225) Matlab commands ode45 (ode23, ode15,
+or similar commands in other languages) to numerically solve ordinary differential equations. Let’s
+recapture in case you haven’t practiced them for a while. You may also refer to Appendix C.1 of Seborg.
+
+(a) [Single-dimensional problem.] Solve ODE for x = x(t):
+dx
+= √x2 + t2
+dt
+from initial condition x(0) = 0. Report the value of x at t = 3. Submit your codes too.
+
+(b) [Multi-dimensional problem.] Simulate the Lorenz system:
+dx
+dy
+dz
+= s(y − x),
+= x(r − z) − y,
+= xy − bz
+dt
+dt
+dt
+where s = 10, r = 28, b = 8/3, from initial condition x(0) = y(0) = z(0) = 1. Plot the trajectory of (x, y, z)
+in a three-dimensional curve plot. You may use MATLAB command plot3 for this purpose.
+
+1
+
+Remark: This system is a “chaotic” one that shows how complicated a nonlinear system behavior
+might be. See an animated result at: https://www.youtube.com/watch?v=oqDQwEvHGfE.
+
+(c) Testify that you are now able to do simulations of ODEs by writing “I understand the basic usage of
+Matlab commands to simulate ODEs and was able to generate the above results by my own coding.”
+3.
+
+(20 pt) Feedback and feedforward control schemes. [Seborg 1.7]
+
+The distillation column shown in the below figure is used to distill a binary mixture. Symbols x, y, and z
+denote mole fractions of the more volatile component, while B, D, R, and F represent molar flow rates. It is
+desired to control distillate composition y despite disturbances in feed flow rate F. All flow rates can be
+measured and manipulated with the exception of F, which can only be measured. A composition analyzer
+provides measurements of y.
+(a) Propose a feedback control method and sketch the schematic diagram.
+(b) Suggest a feedforward control method and sketch the schematic diagram.
+
+4.
+
+(15 pt) Tank system modeling. [Seborg 2.3]
+
+Two tanks are connected together in the following unusual way in the figure below.
+
+•
+
+The density of the incoming liquid, ρ, is constant.
+
+•
+
+The cross-sectional areas of the two tanks are A1 and A2.
+
+•
+
+w2 is positive for flow from Tank 1 to Tank 2.
+
+•
+
+The two valves are linear with resistances R2 and R3.
+
+(a) Develop a model for this system that can be used to find h1, h2, w2, and w3 as functions of time for
+any given variations in inputs.
+(b) Perform a degrees of freedom analysis. Identify all input and output variables.
+5.
+
+(25 pt) Reactor modeling. [Seborg 2.9]
+k1
+
+k2
+
+Irreversible consecutive reactions A → B → C occur in a jacketed, stirred-tank reactor, as shown in the figure
+below.
+
+2
+
+Derive a dynamic model based on the following assumptions:
+•
+
+The contents of the tank and cooling jacket are well mixed. The volumes of material in the jacket
+and in the tank do not vary with time.
+
+•
+
+The reaction rates are given by
+r1 = k1 exp(–E1/RT)cA [mol A/(h·L)], r2 = k2 exp(–E2/RT)cB [mol B/(h·L)]
+
+•
+
+The thermal capacitances of the tank contents and the jacket contents are significant relative to the
+thermal capacitances of the jacket and tank walls, which can be neglected.
+
+•
+
+Constant physical properties and heat transfer coefficients can be assumed.
+
+Note: All flow rates are volumetric flow rates in L/h. The concentrations have units of mol/L. The heats of
+reaction are ΔH1 and ΔH2.
+
+Message from the instructor: In each homework set, there are 2 bonus problems worth 20 bonus points relative
+to the 100 points of the main problems. The first bonus problem, labeled as “process control in practice”,
+aims to give you some basic domain knowledge about how control works in real-world applications. Some
+textbook chapters cover these topics, but we don’t cover all these in the lectures, because (i) not everyone
+is going to be a control engineer, and (ii) we should focus on the principles, not those petty details (that
+you will be trained on when you really have a job on it). If you have an interest, you are encouraged to read
+these chapters and do the problem. The second bonus problem, labeled as “process control in depth”,
+poses some more extensive problems that challenge your skills on coding, mathematical derivation, and
+theoretical reasoning. The aim is to give you a better idea of the scientific depth of control theory, and
+encourage you to develop computational and logical skills and understand things more profoundly.
+6.
+
+(Bonus: 10 pt) Process control in practice: Control system instrumentation.
+
+List the main categories of pressure-measuring devices and explain the differences among their
+mechanisms. How are different types of pressure sensors suitable for different applications? You may want
+to read Section 9.1 of Seborg and/or look for resources on the Internet. You should summarize your points, rather than
+copying a large volume of text.
+7.
+
+(Bonus: 10 pt) Process control in depth: Computer simulation of a dynamic response.
+
+Read Example 2.5 of Seborg, and reproduce the simulation results in Figure 2.7. Describe qualitatively the
+nonlinear behavior of the CSTR that you observed in the simulations. Submit your codes.
+
+3
+
+
+
+## Metadata
+- Source file: junk_drawer/Homework Set 01 (1).pdf
+- Extracted: 2026-05-18
+- Category: academic-homework

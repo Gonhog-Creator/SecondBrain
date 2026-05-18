@@ -1,0 +1,1382 @@
+# Lecture 6.pdf
+
+Source: junk_drawer/Lecture 6.pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+Lecture 6 ChE 467/596-012 Polymer Rheology Saad A Khan ChE 598K – Lecture ©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+## Full Content
+Lecture 6
+
+ChE 467/596-012
+Polymer Rheology
+Saad A Khan
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Recap- Possible experiments
+• Steady shear
+
+• Dynamic oscillatory shear
+• Start-up of steady shear – stress growth
+• Stress relaxation following steady shear
+
+• Step strain -stress relaxation following sudden strain
+• Creep and recovery
+
+.
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+.
+
+of
+
+Shear experiments
+• Which experiment do we do?
+• Can same or complementary information be obtained from two
+experiment?
+
+• What molecular information do each experiment provide?
+
+Correlation between Material functions
+Effects of molecular properties on Material functions
+.
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+.
+
+of
+
+Correlation Between Material Functions
+
+ (o)
+
+Cox-Merz Rule
+10
+
+2
+
+10
+
+1
+
+10
+
+0
+
+.
+
+
+10
+
+c
+
+-1
+
+10
+
+-3
+
+10
+
+-2
+
+10
+
+ *( )   ( )
+c   c ;
+ChE 598K – Lecture
+
+1
+
+c
+
+~
+
+1
+
+c
+
+=
+
+-1
+
+ or 
+.
+
+10
+
+0
+
+10
+
+1
+
+10
+
+2
+
+@  
+  longest relaxation time
+
+.
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+.
+
+of
+
+Dynamic vs Steady shear
+Complex (*) vs steady () vs dynamic (’) viscosity
+
+Already know from Cox-Merz
+
+’ only at low
+shear rates
+
+1
+
+10
+
+0
+
+@  
+Viscosity (), poise
+
+ * ( )   ( )
+
+10
+
+’
+10
+
+-1
+
+10
+
+-2
+
+10
+
+-3
+
+10
+
+-4
+
+10
+
+ChE 598K – Lecture
+
+
+
+-5
+
+10
+
+-3
+
+
+
+10
+
+-1
+
+10
+
+1
+
+10
+.
+-1
+
+Shear Rate
+,s
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+3
+
+10
+
+of
+
+5
+
+Start-up vs Steady shear
+Transient (+) vs steady ()
+
+1
+
+10
+
+0
+
+@   1/ t
+
+Gliessele’s Mirror Rule
+
++ is the limiting curve at
+
+Viscosity (), poise
+
++
+
+ ( )   (t )
+
+10
+
+10
+
+-1
+
+10
+
+-2
+
+10
+
+-3
+
+10
+
+-4
+
++
+
+
+low shear rates
+10
+
+ChE 598K – Lecture
+
+-5
+
+10
+
+-3
+
+10
+
+-1
+
+10
+
+1
+
+10
+.
+-1
+
+Shear Rate
+,s
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+3
+
+10
+
+of
+
+5
+
+Recall Stress Growth
+limiting curve at low shear rates
+
+Steady-state
+viscosity
+
+log +
+
+Increasing shear rate!
+
+0.01
+
+log t
+
+• Envelope corresponds to linear regime
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Gliessele’s Mirror rule
+Relates stress growth data to steady shear viscosity
+
+
+
+
++
+
+3
+
+3
+
+
+
+
+
+2
+
++
+2
+
+
+
+
+
+
+1
+
++
+
+
+
++
+1
+
+.
+
+t
+
+1
+
+t
+
+time
+
+2
+
+t
+
+3
+
+ + (t) =  ( )
+ChE 598K – Lecture
+
+3=1/t3 . =1/t
+2
+2
+
+.
+
+
+
+.
+
+1=1/t1
+
+@  =1/t
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Normal Stress versus Elastic Modulus
+• Normal stresses can
+have analogous
+behavior as G’:
+
+• Good overlap at low
+frequencies or shear
+rate
+
+• Deviation at high
+rates can be corrected
+using a modified eqn.
+(Laun, H.M.)
+
+(G'), or (N1/2)
+
+N1/2=G’
+
+10
+
+3
+
+N /2
+1
+
+10
+
+G'
+
+1
+
+10
+
+-1
+
+10
+
+-3
+
+10
+
+-5
+
+10
+
+-3
+
+10
+
+-2
+
+10
+
+-1
+
+. 10
+ or
+
+0
+
+10
+
+1
+
+10
+
+Note N1txxtyy
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+2
+
+Polymer Properties from Rheology
+Dilute Solutions
+
+   K ' M a
+
+
+
+
+
+a= Mark Houwink exponent
+has values between 0.5-0.8
+K related to polymer solvent interactions
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Polymer Properties from Rheology
+Molecular weight and Zero Shear Viscosity (Melt & Concn. Soln.)
+Polymer Melt
+
+log o
+
+3.4
+
+o  Mw
+o  Mw3.4
+
+M < Mc
+M > Mc
+
+1
+
+Mc
+
+log M
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Polymer Properties from Rheology
+Molecular weight and Zero Shear Viscosity (Melt & Concn. Soln.)
+Polymer Melt
+Behavior holds for all
+conventional polymers
+log o
+
+3.4
+
+o  Mw
+o  Mw3.4
+
+M < Mc
+M > Mc
+
+1
+
+Mc
+
+log M
+
+Mc Related to molecular weight between entanglements (Me); Mc=2-3 Me
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Critical and Entanglement Molecular Weights
+Mc=2-3 Me
+
+Mw
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Elastic and Viscous Moduli (G’, G”)
+
+Plateau Modulus GoN or Gp
+log G'
+log G"
+G"
+
+1
+2
+
+G'
+
+Me
+ChE 598K – Lecture
+
+1
+c (or  ) RT
+o =
+GN
+GoN
+
+log 
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Modulus, G`, G``
+
+Elastic and Viscous Moduli (G’, G”)
+
+terminal/
+viscous flow
+
+transition
+to flow
+
+elastic/
+rubbery
+plateau
+
+leathery/
+transition
+
+glassy
+
+G``
+
+G`
+Frequency
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Elastic Modulus (G’)
+Gp or GoN
+-related to entanglement mol. wt.
+
+log G'
+
+-independent of polymer Mw
+-gets broader with increasing Mw.
+- becomes less prominent with
+increased mol.wt. distribution
+Decreasing Mw
+
+Terminal regime
+-shifts right with decreasing
+log 
+
+Me
+
+1
+ RT
+=
+G oN
+G oN
+
+polymer Mw
+-slope gets smaller than 2 with
+increasing polydispersity
+
+GNo Plateau Modulus
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Elastic and Relaxation moduli
+
+Gp
+Mw=106
+
+log G'
+
+log G(t)
+
+Gp
+
+Lower Mw
+
+Decreasing Mw
+
+log time
+
+• Same Gp for both
+ChE 598K – Lecture
+
+log 
+
+• Similar trends in both
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Stress Relaxation (Step Strain)
+Glassy- response glassy;
+doesn’t affect
+flow;modulus ~1010
+
+Glassy
+10
+
+10
+
+Transition
+
+log G(t)
+
+Plateau
+Terminal
+
+Transition- short time
+local relaxation
+terminal- long chain
+relaxation; affects flow
+
+tc
+log time
+
+ChE 598K – Lecture
+
+plateau- separates short
+time relaxation from long
+time relaxation; elastic
+behavior dominates
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Correlation between experiments
+Glassy
+10
+
+10
+
+GNo
+log G'
+
+Transition
+Plateau
+log G(t)
+
+2
+Terminal
+
+c
+
+log 
+
+log time
+
+c 
+
+1
+= c
+tc
+
+log 
+
+tc
+
+.c
+
+.
+
+log 
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Dynamic moduli (revisit)
+Modulus, G`, G``
+
+Apply radial dist. function
+to yield V(h)
+Mol. wt. of entanglement strand
+M e   RT / G p
+
+Zero shear
+viscosity
+
+G     0
+
+G``
+G`
+
+Gp
+
+~ Gp
+t  1
+
+Transient networks
+
+0 ~ Gpt
+
+Longest relaxation time
+
+t max ~
+
+G'
+ G 
+
+Frequency
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Viscous or terminal region
+• Here G`` predominates and energy is dissipated in viscous flow ( 
+90°) and the stress has time to relax within the cycle of each
+oscillation.
+• For very solid-like materials, the terminal region is very difficult to
+observe (long experimental times required).
+• It is possible to estimate a value for the longest relaxation time of the
+system tmax from the value of G`/(G``).
+• In the terminal region the frequency dependence of G`` is linear (G`` ~
+) and the frequency dependence of G` is quadratic (G` ~ 2).
+•
+
+The zero shear viscosity, 0, can be obtained as a low frequencies G``
+is equal to 0
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Transition to flow region
+• This marks the end of the elastic dominated plateau region and is
+the region where G`` starts to become significant as the frequency
+is decreased ( increases).
+• The crossover frequency where G` = G`` ( = 45°) is important as
+its reciprocal gives another measure of a network relaxation time
+for the system.
+• In simple models of linear viscoelastic systems (e.g. Maxwell) this
+is the case.
+• Similarly, G`` passes through a maximum in this regime and the
+reciprocal of the frequency associated with G``max is taken by some
+workers as a network relaxation time.
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Elastic/Rubbery Plateau Region
+• Here elastic behaviour (energy storage) dominates and G` > G`` within a given cycle of oscillation stress is supported by elements of
+the microstructure.
+• G`` passes through a minimum and the frequency dependence of
+G` is weak.
+• The characteristic value of G` in this region is the plateau
+modulus - Gp.
+•
+
+Gp is a measure of the mechanical interaction density - e.g. from
+rubber elasticity theory Gp = eff kT - eff gives a measure of the
+number density of elastically active strands in the network. (later)
+
+• For colloidal systems Gp is dependent on the radial distribution
+function of the particles and the force between them. (later)
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Elastic/Rubbery Plateau Region
+• Making a suitable approximation for the radial distribution
+function, it is possible to estimate the interparticle force. (later)
+• Experimentally, Gp is estimated at the frequency at which G`` is
+minimum (G``/G` = tan also passes through a minimum).
+• Some workers measure Gp at the crossover frequency (G’ = G``) as
+this is easier to access experimentally for polymer solutions with
+short relaxation times.
+• For transient polymer networks - 0 ~ Gpt (later)
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Transition and Glassy Regions
+• At higher frequencies, viscous dissipation mechanisms
+again become more important and G`` > G`.
+• There is a second crossover where G` = G``
+• This region may be seen for polymer melts, but is seldom
+observed in the case of polymer solutions or aqueous
+complex fluids.
+• At even higher frequencies the response of the system
+becomes glassy.
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Extending available range of experimental frequencies
+• Frequency range of modern rotational instruments 102  10-3 rad s-1
+• For most materials only ~2 of the different characteristic “zones” of
+behaviour are seen in a given experiment (particularly if only 2 or 3
+decades of  are employed)
+•
+
+- e.g. terminal and transition to flow for a polymer solution (tmax ~
+1), plateau and transition for a polymer melt (tmax >> 1).
+
+• Methods of reduced variables may be used to extent  range.
+• Assumes all relaxation processes have similar dependence on T or c
+(time-conc. or time-temperature superposition).
+• Superpose data from experiments at different T or c to give extended
+range of experimental frequencies.
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Exercise
+
+log 
+
+Need to plot  versus stress (tyx)
+-1
+
+.
+
+c
+
+.
+
+at the -1 slope area
+
+ =constant *
+
+log 
+
+log 
+
+1
+
+t yx    constant
+log t
+
+yx
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+In-class problem
+
+log G (t)
+
+log G’, G’’
+
+• New mat’l send to 2 labs. Results shown from the 2 labs.
+• What information can you back out about the polymer?
+
+G’’
+
+G’
+
+0.8
+
+1.8
+0.001
+
+0.01
+
+101
+
+log 
+
+103
+
+log time
+
+Relaxation time~100 sec
+
+Entanglement Mol. Wt.- from Gp
+
+Viscosity – Cox Merz rule
+
+Normal stress: N1/2  G’ for
+some range
+
+Sample has polydispersity
+
+.
+
+ChE 598K – Lecture
+
+102
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+.
+
+of
+
+Last Class & Today- Shear experiments
+• Correlation between Material functions
+• Effects of molecular properties on Material functions
+Problem 1
+ 7
+
+T  5
+ 0
+
+
+5
+7
+0
+
+ 20
+
+T  5
+ 0
+
+
+5 0
+
+19 0 
+0 19 
+
+0
+
+0
+7 
+
+Given that we have a shear flow,
+comment on the nature of the fluid
+
+Given only the stress tensor info,
+Comment on flow type and fluid
+.
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+.
+
+of
+
+Uniaxial Elongational Flow
+y
+
+l
+
+lo
+lo
+
+1
+l
+
+x
+
+1
+l
+
+z
+
+lo
+
+txx -tyy = (),
+ is the extension rate
+
+v x = l
+v y =- 12 l
+
+Recall for Shear
+
+t = (),
+v = y ( v = v  0)
+yx
+x
+
+y
+
+z
+
+v z =- 12 l
+How does ηchange as function of ε ?
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Extensional vs Shear viscosity
+()
+
+3o
+
+log ()
+log ()
+
+o
+()
+
+log() or log()
+
+Trouton's rule at low  and ; ()  3()
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Transient extensional viscosity
+  0.1
+
+• Low strain rate
+corresponds to linear
+regime
+• Viscosity shows up
+turn with increasing
+strain rate
+• Upturn is called
+strain hardening
+• Strain hardening
+occurs at same Hencky
+strain
+ChE 598K – Lecture
+
+  0.01
+
+ 1
+
+  103
+
+log +
+
+0.01
+
+log t
+
+Hencky strain ε=ε t
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Transients: Shear vs Extension
+  0.1
+
+  0.01
+
+  103
+
+log +
+
+ 1
+log +
+
+Increasing shear rate!
+
+0.01
+
+log t
+
+0.01
+
+Shear
+
+log t
+
+Extension
+
+• Strain hardening (extension) vs softening (shear)
+• Envelope corresponds to linear regime
+How are + and + related at low strain rates?
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+Summary & Moving Forward
+•
+
+Materials are viscoelastic: Fading memory, elastic
+recoil, rod climbing, shear thinning
+
+•
+
+Examined material functions: Viscosity, Normal
+stress difference, G’, G’’, etc
+
+•
+
+Can we use models to predict shear thinning? Macosko, Ch 2
+
+•
+
+Can we use models to mimic viscoelasticity? Macosko, Ch 3
+
+•
+
+•
+ChE 598K – Lecture
+
+How do we measure material properties? Rheometry-Macosko Ch
+5-7
+
+Interesting materials & phenomena: gels, thixotropy, colloids,….
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+1
+
+10
+
+0
+
+Viscosity (), poise
+
+r
+
+10
+
+Reduced Viscosity ( )
+
+Time-Temperature Superposition
+T
+
+10
+
+-1
+
+1
+
+T >T
+2
+
+1
+
+T >T
+3
+
+10
+
+-2
+
+10
+
+-3
+
+10
+
+-4
+
+10
+
+-3
+
+2
+
+10
+
+-2
+
+10
+
+-1
+
+10
+
+0
+
+10
+
+Shear Rate
+
+1
+
+-1
+
+,s
+
+10
+
+2
+
+10
+
+3
+
+T
+
+10
+
+-3
+
+2
+
+10
+
+-2
+
+10
+
+-1
+
+10
+
+log a
+
+0
+
+T
+
+10
+
+1
+
+ (T
+
+aT  Shift factor
+
+r = ( ,T ) o (Tref)
+
+o (T )
+o (Tref )
+
+Tref
+=  ( ,T )
+TaT
+
+aT =
+
+ChE 598K – Lecture
+
+Tref
+T
+
+10
+
+2
+
+)
+
+o
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+10
+
+3
+
+Shift Factor
+How does aT changes with temperature?
+
+aT
+
+ H  1 1 
+ exp 
+
+
+
+R
+T
+T
+ref
+
+
+
+
+ H ~ Activation Energy of flow
+Typically for low Mw materials and polymer 100°K
+above Tg ( glass transition temperature)
+log a T 
+
+C1o (T  Tref )
+C + (T  Tref )
+o
+2
+
+WLF equation
+
+Valid when sample temperature is between Tg and Tg + 100
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+of
+
+
+
+## Metadata
+- Source file: junk_drawer/Lecture 6.pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

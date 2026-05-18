@@ -1,0 +1,21 @@
+# HW7-.pdf
+
+Source: junk_drawer/HW7-.pdf
+
+Category: [[academic-homework]]
+
+## Summary
+HW7 (Chapter 18) for MSE 201:002 Spring 2023 Textbook: W. D. Callister and D.G. Rethwisch, Materials Science and Engineering: An Introduction, 8th Edition Chapter 18
+
+## Full Content
+HW7 (Chapter 18) for MSE 201:002 Spring 2023
+Textbook:
+W. D. Callister and D.G. Rethwisch, Materials Science and Engineering: An Introduction, 8th Edition
+Chapter 18
+
+
+
+## Metadata
+- Source file: junk_drawer/HW7-.pdf
+- Extracted: 2026-05-18
+- Category: academic-homework

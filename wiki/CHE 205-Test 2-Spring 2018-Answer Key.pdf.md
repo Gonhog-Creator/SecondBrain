@@ -1,0 +1,285 @@
+# CHE 205-Test 2-Spring 2018-Answer Key.pdf
+
+Source: junk_drawer/CHE 205-Test 2-Spring 2018-Answer Key.pdf
+
+Category: [[academic-homework]]
+
+## Summary
+CHE 205 – Chemical Process Principles Spring 2018 Test #2 1. (55 pts total) a) (10 pts) Basis ṅ2 (mol NH3/s)
+
+## Full Content
+CHE 205 – Chemical Process Principles
+
+Spring 2018
+Test #2
+
+1. (55 pts total)
+a) (10 pts)
+
+Basis
+ṅ2 (mol NH3/s)
+
+224 L(STP/s)
+ṅ1 (mol/s)
+0.25 mol N2/mol
+0.75 mol H2/mol
+
+ṅ4A (mol N2/s)
+
+ṅ5A (mol N2/s)
+
+ṅ4B (mol H2/s)
+
+ṅ5B (mol H2/s)
+
+ṅ4C (mol NH3/s)
+
+ṅ5C (mol NH3/s)
+
+ṅ3 (mol/s)
+0.248
+mol N2/mol
+0.744
+mol H2/mol
+0.00827 mol NH3/mol
+
+b) (4 pts)
+
+0.25𝑛𝑛̇ 1 − 0
+× 100% = 100%
+0.25𝑛𝑛̇ 1
+𝑛𝑛̇ 4𝐴𝐴 − 𝑛𝑛̇ 5𝐴𝐴
+× 100%
+𝑋𝑋𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆−𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 =
+𝑛𝑛̇ 4𝐴𝐴
+
+𝑋𝑋𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂 =
+
+c) (4 pts)
+2 unknowns (ṅ1, ṅ2)
+-1 independent atomic balance (N or H)
+-1 ideal gas EOS
+0 DOF
+d) (3 pts)
+N and H are not independent
+H Balance= 3 × N Balance
+
+e) (4 pts)
+Ideal gas EOS : 𝑛𝑛̇ 1 =
+N Balance
+
+224 𝐿𝐿(𝑆𝑆𝑆𝑆𝑆𝑆)
+
+: �10.0
+
+𝑚𝑚𝑚𝑚𝑚𝑚
+𝑠𝑠
+
+𝑠𝑠
+
+×
+
+� �0.25
+
+1 𝑚𝑚𝑚𝑚𝑚𝑚
+
+22.4 𝐿𝐿(𝑆𝑆𝑆𝑆𝑆𝑆)
+
+𝑚𝑚𝑚𝑚𝑚𝑚 𝑁𝑁2
+𝑚𝑚𝑚𝑚𝑚𝑚
+
+= 10 𝑚𝑚𝑚𝑚𝑚𝑚/𝑠𝑠
+
+� = 𝑛𝑛̇ 2
+
+𝑚𝑚𝑚𝑚𝑚𝑚 𝑁𝑁𝐻𝐻3
+𝑠𝑠
+
+𝒏𝒏̇ 𝟐𝟐 = 𝟓𝟓. 𝟎𝟎𝟎𝟎 𝒎𝒎𝒎𝒎𝒎𝒎 𝑵𝑵𝑯𝑯𝟑𝟑 /𝒔𝒔
+1
+
+95.2% NH3 in the
+reactor product
+
+f) (15 pts)
+Mixing Point
+4 unknowns (ṅ3, ṅ4A, ṅ4B, ṅ4C)
+- 3 independent balances (N2, H2, NH3, and tot: 3 out of 4)
+1 DOF
+Reactor
+6 unknowns (ṅ4A, ṅ4B, ṅ4C, ṅ5A, ṅ5B, ṅ5C)
+- 2 independent atomic balance (N and H)
+4 DOF
+Separator
+4 unknowns (ṅ3, ṅ5A, ṅ5B, ṅ5C)
+- 3 independent balances (N2, H2, NH3, and tot: 3 out of 4)
+- 1 extra info (95.2%)
+0 DOF
+Strategy: Analyze the separator unit first, and then the mixing point.
+g) (8 pts)
+Separator:
+
+95.2% → 𝑛𝑛̇ 2 = 0.952𝑛𝑛̇ 5𝑐𝑐
+𝑁𝑁2 𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏: 𝑛𝑛̇ 5𝐴𝐴 = 0.248𝑛𝑛̇ 3
+𝐻𝐻
+⎨ 2 𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏: 𝑛𝑛̇ 5𝐵𝐵 = 0.744𝑛𝑛̇ 3
+⎩ 𝑁𝑁𝑁𝑁3 𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏: 𝑛𝑛̇ 5𝐶𝐶 = 𝑛𝑛̇ 2 + 0.008278𝑛𝑛̇ 3
+⎧
+
+(1)
+(2)
+(3)
+(4)
+
+h) (3 pts)
+A purge line needs to be added to the process to avoid build-up of Argon in the system.
+
+2
+
+2. (12 pts total)
+a) (3 pts)
+Standard Condition: Ts=273.15 K
+After Compressor:
+
+T1=136.55 K
+
+Ps=1 atm
+P1=10 atm
+
+Ideal Gas EOS:
+
+b) (7 pts)
+Tc,O2=154.4 K
+Tc,N2=126.2 K
+
+𝑃𝑃1 𝑉𝑉1̇
+(𝑃𝑃𝑠𝑠 /𝑃𝑃1 ) 𝑉𝑉̇𝑠𝑠
+𝑃𝑃𝑠𝑠 𝑉𝑉𝑠𝑠̇
+=
+→ 𝑉𝑉1̇ =
+= 𝟏𝟏𝟏𝟏 𝒎𝒎𝟑𝟑 /𝒎𝒎𝒎𝒎𝒎𝒎
+𝑇𝑇𝑠𝑠
+𝑇𝑇1
+𝑇𝑇𝑠𝑠 /𝑇𝑇1
+Pc,O2=49.7 atm
+Pc,N2=33.5 atm
+
+Kay’s Rule:
+𝑇𝑇 ′ 𝑐𝑐 = (0.21 × 154.6) + (0.79 × 126.2) = 132.64 𝐾𝐾
+𝑃𝑃′𝑐𝑐 = (0.21 × 49.7) + (0.79 × 33.5) = 36.9 𝑎𝑎𝑎𝑎𝑎𝑎
+
+𝑇𝑇1
+136.55
+=
+= 1.03
+′
+𝑇𝑇 𝑐𝑐 132.64
+𝑃𝑃1
+10
+= 0.27
+𝑃𝑃′ 𝑟𝑟 = ′ =
+𝑃𝑃 𝑐𝑐 36.9
+ Compressibility Factor, z=0.92
+(5.4-2)
+𝑇𝑇 ′ 𝑟𝑟 =
+
+c) (2 pts)
+
+𝑉𝑉1̇ =
+
+𝑧𝑧𝑧𝑧𝑧𝑧𝑇𝑇1
+𝑛𝑛𝑛𝑛𝑇𝑇1
+= 𝑧𝑧 ×
+= 0.92 × 10 𝑚𝑚3 /𝑚𝑚𝑚𝑚𝑚𝑚 = 𝟗𝟗. 𝟐𝟐 𝒎𝒎𝟑𝟑 /𝒎𝒎𝒎𝒎𝒎𝒎
+𝑃𝑃1
+𝑃𝑃1
+
+No, since the compressibility factor EOS gives 10% less flow.
+OR
+RT/P=1.1<5
+
+3
+
+3. (18 pts total)
+a) (4 pts)
+
+C3H8+5O23CO2+4H2O
+C3H8+7/2O23CO+4H2O
+
+b) (4 pts)
+6 unknowns (ṅ1, ṅ2, ṅ3, ṅ4, ṅ5, ṅ6)
+-3 independent atomic balance (C, H, O)
+-1 inert species balance (N2)
+-1 conversion of propane (90%)
+-1 ideal gas EOS (inlet feed  ṅ1)
+0 DOF
+c) (2 pts)
+Yes,
+
+𝑅𝑅𝑅𝑅
+𝑃𝑃
+
+d) (10 pts)
+
+=
+
+(0.08206 𝐿𝐿.𝑎𝑎𝑎𝑎𝑎𝑎/𝑚𝑚𝑚𝑚𝑚𝑚 𝐾𝐾) (200 ℃+273.15)𝐾𝐾
+1.5 𝑎𝑎𝑎𝑎𝑎𝑎
+
+= 𝟐𝟐𝟐𝟐. 𝟖𝟖𝟖𝟖 > 𝟐𝟐𝟐𝟐
+
+𝑉𝑉 (𝑆𝑆𝑆𝑆𝑆𝑆)
+⎧ 𝐼𝐼𝐼𝐼 𝐸𝐸𝐸𝐸𝐸𝐸: 𝑛𝑛̇ 1 =
+𝑜𝑜𝑜𝑜 𝑃𝑃𝑠𝑠 𝑉𝑉 (𝑆𝑆𝑆𝑆𝑆𝑆) = 𝑛𝑛̇ 1 𝑅𝑅𝑇𝑇𝑠𝑠
+𝑉𝑉�𝑠𝑠
+⎪
+⎪𝐶𝐶 𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏: 3𝑛𝑛̇ 1 = 3𝑛𝑛̇ 2 + 𝑛𝑛̇ 4 + 10
+𝐻𝐻 𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏: 8𝑛𝑛̇ 1 = 8𝑛𝑛̇ 2 + 2𝑛𝑛̇ 5
+⎨
+𝑂𝑂 𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏: 2(0.21)200 = 2𝑛𝑛̇ 3 + 2𝑛𝑛̇ 4 + 𝑛𝑛̇ 5 + 10
+⎪
+⎪ 𝑁𝑁2 𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏: 0.79(200) = 𝑛𝑛̇ 6
+⎩90% 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒: 𝑛𝑛̇ 2 = 0.1𝑛𝑛̇ 1
+
+(1)
+
+(2)
+(3)
+(4)
+(5)
+(6)
+
+4. (10 pts total)
+a) (5 pts)
+𝑛𝑛̇ =
+
+𝑉𝑉̇ (𝑆𝑆𝑆𝑆𝑆𝑆) 44.8 𝑚𝑚3 /ℎ𝑟𝑟 (𝑆𝑆𝑆𝑆𝑆𝑆) 1000 𝑚𝑚𝑚𝑚𝑚𝑚
+=
+×
+= 𝟐𝟐𝟐𝟐𝟐𝟐𝟐𝟐 𝒎𝒎𝒎𝒎𝒎𝒎/𝒉𝒉𝒉𝒉
+1 𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘
+22.4 𝑚𝑚3 /𝑘𝑘𝑘𝑘𝑘𝑘𝑘𝑘
+𝑉𝑉�𝑠𝑠
+
+b) (5 pts)
+
+C2H4+0.5O2  C2H4O
+0.5 𝑚𝑚𝑚𝑚𝑚𝑚 𝑂𝑂2
+50 𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙 𝐶𝐶2 𝐻𝐻4
+×
+= 25 𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙 𝑂𝑂2
+1
+1 𝑚𝑚𝑚𝑚𝑚𝑚 𝐶𝐶2 𝐻𝐻4
+So, O2 is provided in excess.
+50 𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙 𝑂𝑂2 − 25 𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙 𝑂𝑂2
+× 100% = 𝟏𝟏𝟏𝟏𝟏𝟏 % 𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆𝒆 𝑶𝑶𝟐𝟐
+25 𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙 𝑂𝑂2
+
+4
+
+
+
+## Metadata
+- Source file: junk_drawer/CHE 205-Test 2-Spring 2018-Answer Key.pdf
+- Extracted: 2026-05-18
+- Category: academic-homework

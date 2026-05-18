@@ -1,0 +1,658 @@
+Lecture 19
+
+ChE 467/596-012
+Polymer Rheology
+Saad A Khan
+
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Recap & Agenda
+
+• Last class: Multiphase systems—foams & emulsions
+• Today: Start on suspensions
+
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Multiphase Systems
+• Air in Liquid
+
+Foams
+
+• Liquid in Liquid
+
+Emulsion
+
+• Solid in Liquid
+
+Suspension & Filled systems
+
+Foams and emulsions exhibit similar characteristics
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Suspensions
+Spheres (solid) can generally show a range of steady shear behavior
+
+ty present
+-1
+
+log 
+
+log 
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Dilute Suspensions
+Einstein (1906-1911)
+  solvent 1  52  
+Assumptions:
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+*Creeping flow: no inertial effect
+Surrounding fluid is Newtonian
+*No particle settling
+*No particle migration
+*No wall effect
+Rigid spheres
+No slip between particle and fluid
+of
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Dilute Suspensions, cont’d
+  solvent 1  52  
+Assumption 1:
+
+Creeping flow: no inertial effects
+Re# has to be small (<<0.1)
+If Re# is not small
+
+  s 1  52   1.34 Re p2 
+ a 2
+Re p 
+3
+
+s
+
+Assumption 5:
+
+No Wall effect
+
+Gap has to be >> 10 particle diameter
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Dilute Suspensions, cont’d
+  solvent 1  52  
+Assumption 3:
+
+No particle settling
+
+ s  p ;
+If s  p
+
+Need to determine how long particles take to settle
+t0.1h 
+
+a= particle radius
+
+0.45s h
+
+    a g
+2
+
+p
+
+s
+
+h= gap or height (Couette)
+
+s=solvent viscosity
+
+t0.1h  time required to settle 10% of rheometer gap or Couette height
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Dilute Suspensions- cont’d
+  solvent 1  52  
+Assumption 4:
+
+No particle migration
+
+K
+
+ p v2a 4
+hkT
+
+v  1 2 vmax in Couette
+v  2 3 vmax in Poiselle flow
+
+If K < 0.1 Couette
+K < 0.01 Poiselle
+Then we can neglect migration of particles
+
+k Boltzman constant
+T Temperature
+of
+
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Generalized Einstein’s Equation
+Batchelor & Schowalter
+
+t
+
+ts
+Stress contribution
+from solvent
+
+tp
+
+
+
+Stress contribution
+from particles
+
+1
+t p   around the particle
+V
+t  2s 1  52   D;
+2 D  Rate of strain tensor
+
+  solvent 1  52  
+
+Einstein’s Equation
+
+As  increase, particle start to interact with each other
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Generalized Einstein’s Equation, cont’d
+  solvent 1  52  
+Takes into account interaction
+between particles
+
+  s 1  52   k 2  ..........
+
+  s 
+s 
+
+6.2
+
+  s 
+
+ 52  k
+
+s 
+
+
+Experimentally k=6.2
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Dilute Suspensions - cont’d
+Non interacting spheres:
+
+
+
+
+solvent viscosity
+
+1  52
+
+
+
+ Einstein Equation
+
+Volume fraction
+of filler
+
+Deviation:
+
+Spheres start interacting
+
+   1  52   6.2  2 
+Non-submicron spheres => no colloidal forces present
+
+As the sphere size 1mm, start having interaction between particles
+
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Definitions
+Relative or reduced viscosity:
+
+Specific Viscosity:
+
+Intrinsic Viscosity:
+
+
+r 
+s
+
+  s
+specific 
+s
+specific
+[ ]  lim
+ 0
+
+
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+In-class Problem
+Problem: Given samples of different volume fraction of 2micron diameter
+glass beads in oil. Solvent & sample viscosities known for different .
+How would you determine graphically if interactions between particles
+exist? What is the intrinsic viscosity of these suspensions?
+
+Plot
+
+   
+s
+
+s 
+
+Particle interaction
+
+versus 
+
+6.2
+
+  s 
+s 
+
+   
+s
+
+s 
+
+5
+
+ k
+2
+
+No interaction
+
+Intercept = 2.5
+
+  s 1    k  ..........
+5
+2
+
+
+
+2
+
+  s 
+s 
+
+ 52  k
+
+[]=2.5 for spherical suspensions (From Einstein Equation)
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+In-class Problem
+Problem: Given PS latex (1 micron diameter) in water ( = 1 cp);  =0.05;
+p = 1.05 s.
+(a) Obtain viscosity of suspension
+(b) Determine if inertia, migration or settling is important in couette
+system. L= 50 mm, Ri=25 mm; Ro=26 mm;  <100 rad/s
+
+ 
+
+(a)
+
+Ri
+Ro  Ri
+
+in couette
+
+  solvent 1  52  
+= 1.13 cp
+
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+In-class Problem
+Problem: Given PS latex in water ( = 1 cp);  =0.05; p = 1.05 s.
+(a) Obtain viscosity of suspension
+(b) Determine if inertia, migration or settling is important in
+couette system. L= 50 mm, Ri=25 mm; Ro=26 mm;  <100
+rad/s
+
+ 
+
+Re p 
+
+t0.1h 
+
+ p a
+
+2
+
+= 6.6x 10-6
+
+s
+
+0.45 s h
+
+    a g
+2
+
+p
+
+= 1.8 x 105 sec
+
+Ri
+Ro  Ri
+
+So, inertia not a problem
+
+Settling not a problem
+
+s
+
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+In-class Problem
+Problem: Given PS latex in water ( = 1 cp);  =0.05; p = 1.05 s.
+(a) Obtain viscosity of suspension
+(b) Deternine if inertia, migration or settling is important in
+couette system. L= 50 mm, Ri=25 mm; Ro=26 mm;  <100
+rad/s
+
+ 
+
+K
+
+ p v2a4
+hkT
+
+= 0.0025 2
+
+Ri
+Ro  Ri
+
+Migration negligible for <20
+h= length of couette
+avg. vel. = Ri
+
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Fibers - Dilute
+Need to consider time scale of orientation/rotation of fiber
+b
+a
+
+Aspect ratio, rp 
+
+a
+b
+
+Time scale of rotation / Brownian motion = 1/Dr
+(Dr is the rotary Brownian diffusion coefficient)
+
+Dr 
+Dr 
+
+kT
+8s a
+3kT (ln rp  1 2 )
+3
+
+8s a
+
+3
+
+For Spheres
+For Prolate sphere
+
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Fibers-cont’d
+1
+
+Time scale of motion from flow ~ 
+
+Define Peclet #
+
+Pe 
+
+
+
+#
+
+Pe#  0
+
+Brownian motion dominates
+
+Pe#  
+
+Convective motion dominates
+
+DR
+
+As Pe#  , fibers orient along the flow direction
+Pe# 
+
+Reality: Fibers do orient but also rotate very slowly
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Fibers-cont’d
+Fibers do orient but also rotate/tumble very slowly
+
+Slow Rotation: Time period for 1 oscillation
+2 
+1
+Tperiod 
+ rp  
+ 
+rp 
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Fibers-cont’d
+Orientation:
+tan   rp tan 
+
+ 0
+
+t
+rp  1
+
+
+rp
+
+ 90
+
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Fibers-cont’d
+Extension
+
+Ex: Squeezing flow between plates
+
+Viscosity may be lower with fillers
+than without
+
+Sample
+
+q
+
+•you are applying extensional flow macroscopically
+•have shear+extension at the micro level
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Recap & Approach
+A. Dilute Systems
+1. spheres (Einstein eqn., ….)
+2. fibers (brief)
+concept of rotation
+concept of Pe#
+
+B. Non-dilute Systems
+1. Interparticle forces & potential
+energy
+2. Interpret rheology
+
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Non-dilute Suspensions
+~1% can show complex non-dilute behavior
+
+Relative motion of neighboring particles
+
+ hydrodynamic interaction forces
+=> refers to interactions caused by flow
+
+(present in all systems)
+
+Lot of times, deal with small fillers (< 1 mm)
+Small fillers => additional interactions
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Approach
+B. Non-dilute Systems
+1. Interparticle forces &
+potential energy
+• Attractive forces (dispersion)
+-- van der Waals
+induced dipoles, possible in all
+systems
+
+• Repulsive forces
+-- electrostatic
+-- steric
+
+2. Interpret rheology
+(in terms of)
+• Hard spheres (Brownian)
+• Stable system
+• Flocculated system
+
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Non-dilute Suspensions-Brownian Motion
+• Tends to randomize things
+• Concerned with translational diffusion coefficient
+
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Non-dilute Suspensions-Interparticle forces
+• Several of these
+• Magnitude dependent on distance between particles
+• Attractive or repulsive
++ + +
++
++
++
++
++
+
++ + +
++
++
++
++
++
+
+As particles come close => repulsive forces in this case
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+Non-dilute Suspensions-Interparticle forces
+Interparticle forces (attractive or repulsive) are often
+
+looked from the stand point of potential energy
+
+Potential Energy
+
++
+
+Repulsion
++ ive potential energy
+
+Interparticle distance
+Attraction
+- ive potential energy
+
+of
+ChE 598K – Lecture
+
+©2002 Professor Saad A Khan, North Carolina State University, All Rights Reserved
+
+

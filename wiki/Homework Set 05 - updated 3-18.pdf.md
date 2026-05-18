@@ -1,0 +1,133 @@
+# Homework Set 05 - updated 3-18.pdf
+
+Source: junk_drawer/Homework Set 05 - updated 3-18.pdf
+
+Category: [[academic-homework]]
+
+## Summary
+CHE 435/525 – Process Systems Analysis and Control Spring 2025 Homework Set 5. Feedback Loop, Closed-Loop Stability and Performance (Due on Monday, March 17, 2025) 1. (20 pt) Closed-loop transfer functions. [Seborg 11.3] Consider proportional-only control of the stirred-tank heater control system in Fig. E11.13. The
+
+## Full Content
+CHE 435/525 – Process Systems Analysis and Control
+
+Spring 2025
+
+Homework Set 5. Feedback Loop, Closed-Loop Stability and Performance
+(Due on Monday, March 17, 2025)
+1.
+
+(20 pt) Closed-loop transfer functions. [Seborg 11.3]
+Consider proportional-only control of the stirred-tank heater control system in Fig. E11.13. The
+temperature transmitter is Km = 4 mA/50 °F. The controller has a gain of 5, while the gains for the control
+valve and current-to-pressure transducer are Kv = 1.2 (dimensionless) and KIP = 0.75 psi/mA,
+respectively. The time constant for the tank is τ = 5 min. After the set point is changed from 80 to 85 °F,
+the tank temperature eventually reaches a new steady-state value of 84.14 °F from 80 °F, which was
+measured with a highly accurate thermometer.
+
+(a) What is the offset (i.e., lim [y(t) − ysp (t)] under a unit step change in ysp(t))?
+t→∞
+
+(b) What is the process gain K2?
+(c) What is the pressure signal pt’ (in deviation form) to the control valve at the final steady state?
+2.
+
+(20 pt) Simple proportional controller design. [Dorf E5.7]
+Effective control of insulin injections can result in better lives for diabetic persons. Automatically
+controlled insulin injection by means of a pump and a sensor that measures blood sugar can be very
+effective. A pump and injection system has a feedback control as shown in the figure below. Here R(s)
+is the desired blood-sugar level (namely Ysp(s)) and Y(s) is the actual blood-sugar level.
+(a) Calculate the closed-loop transfer function Y(s)/R(s).
+(b) What is the offset?
+
+(c) What is the maximum K such that the response does not overshoot? (Hint: If analytical solution
+appears to be difficult, you may simulate the response under a range of K and calculate overshoot
+automatically from the step response.).
+
+3.
+
+(20 pt) Closed-loop poles and closed-loop stability by characteristic equation. [Dorf P6.11]
+
+1
+
+A feedback control system has a characteristic equation
+s3 + (1 + K) s2 + 3s + (1 + 7K) = 0.
+The parameter K must be positive.
+(a) What is the maximum value K can assume before the system becomes unstable?
+(b) When K is equal to the maximum value, the system oscillates. Determine the frequency of
+oscillation.
+(c) When K is 50% of the maximum value, determine the roots of the characteristic equation (namely
+the closed-loop poles – poles of the closed-loop transfer functions).
+4.
+
+(20 pt) Stabilization of an unstable process. [Dorf P6.19]
+The goal of vertical takeoff and landing (VTOL) aircraft is to achieve operation from relatively small
+airports and yet operate as a normal aircraft in level flight. An aircraft taking off in a form similar to a
+rocket is inherently unstable. A control system using adjustable jets can control the vehicle, as shown
+in the figure below.
+
+(a) Determine the range of controller gain for which the feedback control system is stable.
+(b) Determine the gain K for which the feedback control system is marginally stable, as well as the
+roots of the characteristic equation for this value.
+5.
+
+(20 pt) Controller tuning based on simulated performance. [Kravaris 16.10]
+Consider the system shown in the following figure. Suppose that τ1 = 3, τ2 = 2, τ3 = 1, and k = 1.
+
+(a) For τI = 3 and various values of kc, simulate the response of y(t) and u(t) to a unit step in ysp(t), and
+calculate the performance indices (ISE and ISC). Plot (ISE+ISC) as a function of controller gain kc.
+
+2
+
+(b) Vary τI and repeat part (a). Place all the curves along with the result of (a) on a single plot.
+(c) Determine the best PI controller with respect to the performance ISE+ISC.
+6.
+
+(Bonus: 10 pt) Process control in practice: Kicks in PID controllers and PID in digital versions.
+[Seborg 8.8]
+When there is a sudden change in the setpoint, the derivative mode in PID controllers may cause a
+“kick” in the controller output p(t). To see how this happens and how it can be desirably eliminated in
+practice, please read Section 8.3 of Seborg. Also, since controllers in the real world never receives
+feedback in continuous time, actual “digital controllers” must be considered in discretized “sampling
+times”. Please read Section 8.6 of Seborg. Then, answer the following questions.
+(a) Find an expression for the amount of derivative kick that will be applied to the process for the
+position form of the PID digital algorithm (Eq. 8-25) if a set-point change of magnitude Δysp is
+made between the k − 1 and k sampling instants.
+(b) Repeat for the proportional kick, that is, the sudden change caused by the proportional mode.
+(c) Sketch the sequence of controller output values at the k − 1, k,… sampling times for the case of a
+set-point change of Δysp magnitude made just after the k − 1 sampling time if the controller receives
+a constant measurement y̅m and the initial set point is y̅sp = ̅ym . Assume that the controller output
+initially is p̅.
+(d) How can Eq. 8-25 be modified to eliminate derivative kick?
+
+7.
+
+(Bonus: 10 pt) Process control in depth: Tuning controller parameters by rigorous optimization of
+controller performance. You may or may not need to use Matlab. [Kravaris 16.2]
+Consider a process to be controlled with a PI controller whose parameters are to be determined:
+−s + 4
+1
+Gp (s) = 2
+, Gc (s) = Kc (1 +
+) , Gv = Gm = 1.
+s + 3s + 2
+τI s
+(a) Calculate closed-loop transfer functions Y(s)/Ysp(s) and U(s)/Ysp(s). Determine the necessary and
+sufficient conditions for closed-loop stability, using Routh array.
+(b) Newton, Gould, and Kaiser (1957) provided the formulas to relate ISE to Y(s)/Ysp(s). See the table
+on the next page. For example, if Y(s)/Ysp(s) = (b0s + b1)/(s + a1), then ISE = (1/2)(φ02/a1) where φ0 =
+b1/a1 – b0. The same formulas can be used to relate ISC to U(s)/Ysp(s). For the system given, please
+determine the expressions of ISE and ISC in terms of Kc and τI.
+(c) Determine the two controller parameters by minimizing ISE + ISC (as functions of the two
+parameters as determined in part (b)), subject to the stability constraints (as determined in part
+(a)). You may need to know Matlab command fmincon.
+
+3
+
+4
+
+
+
+## Metadata
+- Source file: junk_drawer/Homework Set 05 - updated 3-18.pdf
+- Extracted: 2026-05-18
+- Category: academic-homework

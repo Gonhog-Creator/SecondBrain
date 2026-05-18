@@ -1,0 +1,67 @@
+# CH 9 Workshet KEY Combined.pdf
+
+Source: junk_drawer/CH 9 Workshet KEY Combined.pdf
+
+Category: [[other]]
+
+## Summary
+CH 221 KEY CH 9 Worksheet: Alkynes 1. Provide the IUPAC name for the following compounds, including stereochemistry where necessary. 2. Draw the following molecules. a. Acetylene: b. (S)-5-phenyloct-2-yne
+
+## Full Content
+CH 221
+KEY CH 9 Worksheet: Alkynes
+1. Provide the IUPAC name for the following compounds, including stereochemistry where
+necessary.
+
+2. Draw the following molecules.
+
+a. Acetylene:
+
+b. (S)-5-phenyloct-2-yne
+
+c. Hepta-3,6-dien-1-yne
+
+3. Provide the structure of the major organic product(s) for the following reactions.
+
+a.
+
+b.
+
+c.
+
+d.
+
+e.
+
+f.
+
+g.
+
+h.
+
+i.
+
+j.
+
+4. The following involve multistep synthesis. Propose a synthesis for the following:
+
+a.
+
+b. Prepare racemic 2,3-dibromobutane from propyne.
+
+c. Prepare hept-1-yne from hept-1-ene.
+
+d. Prepare butylbenzene from phentylacetylene.
+
+e. Prepare (Z)-pent-2-ene from propyne.
+
+f.
+
+Prepare (E)-2,3-dibromobut-2-ene from butan-2-ol.
+
+
+
+## Metadata
+- Source file: junk_drawer/CH 9 Workshet KEY Combined.pdf
+- Extracted: 2026-05-18
+- Category: other

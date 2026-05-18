@@ -1,0 +1,72 @@
+# Team Contract.pdf
+
+Source: junk_drawer/Team Contract.pdf
+
+Category: [[legal-document]]
+
+## Summary
+NORTH CAROLINA STATE UNIVERSITY College of Engineering Department of Chemical Engineering Team Contract CHE 450 (001), Liquid Rocketry Lab Advanced Projects (LRL AP) Lucas Nicol, Donovan Ngum, Trevor Larsen, Corey Thunes, Ellie Murray, Jose Barbeito, Rodrigo Dacosta
+
+## Full Content
+NORTH CAROLINA STATE UNIVERSITY
+College of Engineering
+Department of Chemical Engineering
+
+Team Contract
+CHE 450 (001), Liquid Rocketry Lab Advanced Projects (LRL AP)
+
+Lucas Nicol, Donovan Ngum, Trevor Larsen, Corey Thunes, Ellie Murray, Jose
+Barbeito, Rodrigo Dacosta
+
+Team Contract - LRL AP
+
+North Carolina State University
+CHE 450 (001)
+
+I. Guiding Principles
+This team’s code of conduct centers around four key pillars: commitment to excellence, clear and
+open communication, ethical and moral work practices, and a commitment to each other. As a team, we
+must commit to ensure our work is of the highest possible quality. We must ensure that no corners are being
+cut, that no one is shouldering too much of the work, and that everyone contributes equally. Communication
+must occur often to make sure everyone has a voice and is heard by the rest of the team, allowing for ideas
+to flow and ensure every team member is valued. In addition, working within strict ethical and moral
+guidelines ensures all work done is in a manner that encourages honesty, fairness, and integrity. Finally, in
+order to be a functioning team, every member must commit to each other. Only by helping each other and
+working hand in hand can the team succeed.
+
+II. Mission Statement
+The preliminary focus of this project is to build a power generator using a rotating detonation
+combustor, tackling problems and finding innovative solutions as a team.
+
+III. Meeting Management
+Regularly scheduled meetings will occur every Thursday from 11:30am to 1:00pm. Team members
+can participate online or in person. Outside of regularly scheduled meetings, a meeting can be scheduled by
+anyone in the team with a 5 hour notice, and while team members are highly encouraged to participate,
+attendance to these meetings is not required. Meetings with Dr. Braun or other NC State faculty or staff
+members will happen as needed and will be scheduled via email or messaging platform and be relayed out
+to the rest of the team. 1:1 meetings with Luke Nicol will be scheduled independently. Meetings with
+mentor (Dr. Braun) will be scheduled by Luke Nicol. During meetings, in the event that team members
+disagree on a particular subject, a vote will be taken in order to determine an acceptable resolution. In the
+event of a tie, Luke Nicol will decide.
+
+IV. Accountability Process
+The primary communication strategies for this team (internal and external) will include verbal, email,
+and online chat. When conflict arises, verbal communication between teammates is highly encouraged,
+particularly at meetings or afterwards. In the case of members missing meetings, not participating in meetings,
+spending too much time on their phones during meetings, or arriving late to meetings, participating and
+advising team members are encouraged to voice their opinions and thoughts about the circumstances in the
+hopes to assist the problematic person(s) actions. In the case that said problematic person(s) actions have a
+persistent and harmful effect on the team, actions will be taken by Luke Nicol and potentially Dr. Braun in
+order to resolve the issue by scheduling 1:1 meetings in response to problematic behaviors. In addition, in the
+case that team members are working late or in the case that team members are asked to assist another member
+with a part of the project, members should strive to rise to the occasion and collaborate as a group, while
+setting healthy personal boundaries for work balance. In the event a team member is not doing their share of
+the workload, 1:1 meetings with Luke Nicol will be scheduled in order to assist said member in issues with
+scheduling/workload/personal issues/etc.
+
+
+
+## Metadata
+- Source file: junk_drawer/Team Contract.pdf
+- Extracted: 2026-05-18
+- Category: legal-document

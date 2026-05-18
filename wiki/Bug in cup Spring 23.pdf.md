@@ -1,0 +1,79 @@
+# Bug in cup Spring 23.pdf
+
+Source: junk_drawer/Bug in cup Spring 23.pdf
+
+Category: [[other]]
+
+## Summary
+ENT 201 BUG-IN-CUP EXPERIMENT AND JOURNAL SPRING 2023 You will be given two small, covered petri dishes each containing two small bugs, some food (unsalted sunflower seeds), and tube of water with a cotton wick. The lid on each dish should be secured with a rubber band. Please follow the instructions below for our “bug-in-a-dish” experiment. 1. Carefully bring your bugs home. Don’t let the seeds or water tube roll over and kill the little critters! 2. Place both dishes in a location where you ca
+
+## Full Content
+ENT 201
+BUG-IN-CUP EXPERIMENT AND JOURNAL
+SPRING 2023
+You will be given two small, covered petri dishes each containing two small bugs, some food (unsalted
+sunflower seeds), and tube of water with a cotton wick. The lid on each dish should be secured with a rubber
+band. Please follow the instructions below for our “bug-in-a-dish” experiment.
+1. Carefully bring your bugs home. Don’t let the seeds or water tube roll over and kill the little critters!
+2. Place both dishes in a location where you can easily observe them every day and where they will not be
+crushed by your room mate, eaten by your dog, thrown out by your mother, etc. It is also important that the
+dishes get neither too hot or too cold; don’t set them where sunlight streaming through a window will hit them
+directly, or you’ll cook your bugs. A good place might be your desk or the area where you study. Keep the lids
+secured by the rubber bands at all times except as indicated below.
+3. The water in the tubes will be consumed by the bugs and will also evaporate. Thus, it is necessary to refill the
+tubes every few days. Don’t let the tubes go dry!
+4. One of the dishes will be your untreated “control” for your experiment. For this treatment, refill the water tube
+as needed (see below) with plain water for the duration of the experiment.
+5. The other dish will represent your “experimental” treatment in this experiment. The experimental variable we
+are going to manipulate is the liquid the bugs have available to drink. Our hypothesis is that giving these insects
+some liquid other than water will have an effect of some kind on their growth and development. In this dish, when
+the water in the tube runs out the first time, you will replenish the tube with the liquid of your choice, and in this
+dish, you will use the same liquid every time the tube needs to be refilled. Be sure to set aside a small quantity of
+your experimental liquid, keep it in a capped container, and keep it refrigerated to prevent the growth of mold.
+Don’t use orange juice- it molds too quickly. If you choose a carbonated beverage, open the container
+and let it stand a few days (in the refrigerator) to “debubble” it before you use it. Begin using your
+experimental liquid with the first dish where the water runs out. Mark this dish “Experimental” and the other
+“control” at this time. Remember, the “control” dish only gets water for the duration of the experiment.
+Use this procedure to establish and maintain your experimental and control treatments:
+a. Remove the rubber band and carefully remove the tube so that bugs are not injured or allowed to
+escape. Should they escape, simply allow them to crawl on to a small piece of paper and then tap
+them gently back into the dish.
+b. You will notice a small piece of plasticine clay on the side of the tube. This was used to help keep the
+tube from rolling around in the dish. When you replace the tube after filling, make sure the clay
+side goes on the bottom of the dish
+c. Pull the wick from the tube with a tweezers or pin. If it is moldy, wash it with water.
+d. Fill the tube with the appropriate liquid and replace the wick so that the top of the wick is flush with the
+top of the tube. Dry off any excess fluid on the outside of the tube!
+e. Return the tube to the dish, being careful not to crush or injure its inhabitants. Put the rubber band back
+on the dish.
+The web address of a video demonstration of this process will be provided to you when the bugs go out.
+6. Make daily (more or less) observations of the CONTROL and EXPERIMENT bugs/cups and record your
+observations in a journal or diary format. These should be your handwritten “lab notes” which should not be typed
+or reworked before you hand them in. However, please write legibly! Pretend you are Aristotle, the first
+person to ever see this critter. Your notes should allow anyone reading them to get a very good picture
+of your insect and its growth and behavior.
+7. If your control insects die, see the TA’s responsible for this assignment, Tay and Rachel, and they’ll give you
+new control insects. It is unusual for the control insects to die, so if yours do, inspect the area you’re keeping them
+in to be sure it is not to hot or cold! If your experimental insects die, see the TA’s for replacements and try the
+experimental liquid again; however, you may want to dilute your experimental liquid when you retry it. Make sure
+that you enter these experiences in your journal should they occur.
+
+8. Your experiment is complete when your control insects have reached adulthood and you have waited about
+two weeks to see if your experimental insects complete development, in those cases when your treatment slowed
+development. At this time, you should record some conclusions about the experiment based on your
+observations. You should also identify your insects with the aid of the books we bring to class for that purpose.
+9. When the insects have reached adulthood, you should use the books made available before and after class to
+help you identify your bugs. You will also be given further instructions on how to care for your adults.
+10. When everyone’s experiment is complete you will be asked to turn in your journal. Your grade (50 points or
+5% of your grade) will be based on the thoroughness of your observations, the correct identification of your
+critters, and the conclusions you draw from your observations.
+11. If you have any questions during the experiment, contact the grad TA’s!
+12. Finally, you should read the article that follows about Francesco Redi’s experiments on spontaneous
+generation of insects as a good example of the scientific method.
+
+
+
+## Metadata
+- Source file: junk_drawer/Bug in cup Spring 23.pdf
+- Extracted: 2026-05-18
+- Category: other

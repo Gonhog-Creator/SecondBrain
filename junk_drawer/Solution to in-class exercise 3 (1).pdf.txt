@@ -1,0 +1,17 @@
+In-class exercise 3 (solution)
+Consider a monoclinic lattice:
+Reciprocal lattice parameters {a*, b*, c*, 90o, *, 90o}
+Real space lattice parameters {a, b, c, 90o, , 90o}
+c
+
+a
+
+a=90o
+b
+=90o
+
+{a, b, c, α, , }
+
+Topic 5 - 29
+
+

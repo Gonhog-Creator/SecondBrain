@@ -1,0 +1,606 @@
+# SolutionsHW2.pdf
+
+Source: junk_drawer/SolutionsHW2.pdf
+
+Category: [[academic-homework]]
+
+## Summary
+HW 2 Problem 4.2 a. To Find: Number of vacancies per cubic meter at a given temperature. b. Given: T = 850 degrees C = 1123 K Qv = 1.08 eV/atom Density of Fe ( ρ Fe ) = 7.65 g/cc Atomic weight of iron ( AFe ) = 7.65 g/mol c. Assumptions:
+
+## Full Content
+HW 2
+Problem 4.2
+a. To Find:
+Number of vacancies per cubic meter at a given temperature.
+b. Given:
+T = 850 degrees C = 1123 K
+Qv = 1.08 eV/atom
+Density of Fe ( ρ Fe ) = 7.65 g/cc
+Atomic weight of iron ( AFe ) = 7.65 g/mol
+c. Assumptions:
+(i) The question asks for the equilibrium number of vacancies.
+(ii) The system is always in equilibrium with its surroundings during the process of attaining the
+said temperature of 1123 K. (Consider a material ‘quenched’, i.e., rapidly cooled from a ‘high’
+temperature of say, 1163K to 1123 K. Since the system has no time to attain thermal
+equilibrium, it will retain the vacancies that it had at 1163 K at 1123 K!)
+d. Solution:
+
+ Q 
+ v =  exp  − v 
+ kT 
+
+…(1)
+
+Step 1: Calculate N using one of two equivalent methods.
+Method 1
+From density data: 7.65 g ≡ 1cc
+ 1g ≡ (1/7.65) cc
+
+…(2)
+
+From atomic weight data: 55.85 g ≡ 1 mol
+23
+
+ 55.85 g ≡ 6.023 * 10 atoms
+ 1g ≡
+
+1/(6.023 * 10
+
+23)
+
+atoms
+
+…(3)
+
+23
+
+Hence, from (2) and (3), 6.023 * 10 /55.85 atoms ≡ (1/7.65) cc
+23
+
+Or, there are 7.65 * 6.023 * 10 /55.85 atoms /cc .
+Method 2
+Alternately, the following formula may be used to directly calculate  =
+
+ A ρ Fe
+AFe
+
+And,
+
+v =
+
+ A ρ Fe
+ Q 
+exp  − v 
+AFe
+ kT 
+
+Step 2: Substitute values in equation (1).
+v =
+
+(6.022 × 10 23 atoms / mol)(7.65 g / cm 3) exp −
+
+
+
+55.85 g / mol
+
+
+1.08 eV / atom
+
+(8.62 × 10−5 eV / atom − K) (850°C + 273 K) 
+
+v = 1.18 × 1018 cm-3
+OR
+v = 1.18 × 1024 m-3
+
+Problem 4.9
+a. To Find:
+The weight percentages of the constituents of an alloy, given the weights of these individual
+constituents.
+b. Given:
+Mass of titainium, mTi = 218 kg
+Mass of aluminum, mAl = 14.6 kg
+Mass of vanadium, mV = 9.7 kg
+c. Assumptions:
+The alloy contains no other alloying agents – the presence of other elements will modify the
+values of the weight percentages.
+d. Solution:
+For this alloy, the concentration of titanium (CTi) :
+C Ti =
+
+=
+
+mTi
+× 100
+mTi + mAl + mV
+
+218 kg
+× 100 = 89.97 wt%
+218 kg + 14.6 kg + 9.7 kg
+
+Similarly, for the concentration of aluminum (CAl) :
+C Al =
+
+14.6 kg
+× 100 = 6.03 wt%
+218 kg + 14.6 kg + 9.7 kg
+
+For the concentration of vanadium (CV) :
+CV =
+
+9.7 kg
+× 100 = 4.00 wt%
+218 kg + 14.6 kg + 9.7 kg
+
+CTi = 89.97 wt% ; CAl = 6.03 wt%; CV = 4 wt%
+
+Problem 4.11
+a. To Find:
+To find the composition, in atom percent, of an alloy, given the weights of the individual
+constituents of the alloy.
+b. Given:
+Mass of copper, mCu = 99.7 lb
+Mass of zinc, mZn = 102 lb
+Mass of lead, mPb = 2.1 lb
+c. Assumptions:
+The alloy contains no other alloying agents – the presence of other elements will modify the
+composition.
+d. Solution:
+Step 1: Convert the masses from lb to g.
+mCu = (99.7 lb m )(453.6 g/lb m ) = 45,224 g
+m Zn = (102 lb m )(453.6 g/lb m ) = 46,267 g
+m Pb = (2.1 lb m )(453.6 g/lb m ) = 953 g
+
+Step 2: For each element, convert its individual mass to corresponding number of moles.
+
+nm =
+
+mCu
+45,224 g
+= 711.6 mol
+=
+ACu 63.55 g / mol
+
+nm =
+
+m Zn
+46,267 g
+= 707.3 mol
+=
+AZn 65.41 g / mol
+
+Cu
+
+Zn
+
+nm
+
+Pb
+
+=
+
+m Pb
+953 g
+= 4.6 mol
+=
+APb 207.2 g / mol
+
+Note : Atom percent is the same as mole percent. It is possible to convert all the above values
+23
+from moles to atoms by multiplying 711.6, 707.3 and 4.6 by 6.023 * 10 . It is also possible to
+23
+use these values in moles directly, since the factor of 6.023 * 10 in the numerator and
+denominator will cancel out in the final step, Step 3.
+
+Step 3: Calculation of atom % from number of moles of individual constituents
+Atom % of a constituent = (Number of moles of a constituent / Total number of moles ) * 100
+= (Number of atoms of a constituent / Total number of atoms ) * 100
+Atom % of Cu
+
+CCu’ =
+=
+
+nmCu
+nmCu + nmZn + nmPb
+
+× 100
+
+711.6 mol
+× 100 = 50.0 at%
+711.6 mol + 707.3 mol + 4.6 mol
+
+Atom % of Zn
+Similarly, C '
+
+Zn =
+
+707.3 mol
+× 100 = 49.7 at%
+711.6 mol + 707.3 mol + 4.6 mol
+
+Atom % of Pb
+Also, C '
+
+Pb =
+
+4.6 mol
+× 100 = 0.3 at%
+711.6 mol + 707.3 mol + 4.6 mol
+
+Cu: 50 at%; Zn: 49.7 at%, Pb: 0.3 at%
+
+Problem 4.18
+a. To Find:
+Determine the crystal structure of the given hypothetical alloy / Determine ‘n’ for the given
+hypothetical alloy.
+
+b. Given:
+(i)
+
+Cubic unit cell/ cubic system/ crystal structure is one of the following : simple cubic,
+face-centered cubic, body-centered cubic
+
+(ii)
+
+Composition of alloy : CA = 12.5 wt% A, CB = 87.5 wt% B
+
+(iii)
+
+Density of A (rA)= 4.27 g/cc, Density of B(rB)= 6.35 g/cc
+
+(iv)
+
+Atomic weight of A (AA) = 61.4 g/mol , Atomic weight of B (BB) = 125.7 g/mol
+
+(v)
+
+Lattice parameter / edge length (a) = 0.395 nm.
+
+c. Assumptions:
+(i)
+
+The study is conducted at constant temperature ( the same temperature at which the
+lattice parameter is measured.) If the temperature changes, the lattice parameter/ edge
+length of the unit cell may change.
+
+(ii)
+
+The hypothetical alloy is assumed to have no vacancies (or self-interstitials), line
+defects or grain-boundaries. To allow us to approximate the equilibrium number of
+vacancies as zero, the temperature at which the study is conducted must be very low.
+
+(iii)
+
+Density values given correspond to those for perfect crystals.
+
+(iv)
+
+If the calculated value of ‘n’ is not exactly a whole number, this will be assumed to
+arise from minor inaccuracies in the input data used to calculate ‘n’.
+
+(v)
+
+Hard sphere model of atom.
+
+d. Solution:
+Equation 3.5 is modified in order to reflect average values for density and atomic weight.
+
+ρave =
+
+nAave
+
+(1)
+
+VC  A
+
+Step 1:
+VC = a3
+
+…(2)
+
+
+
+n =
+
+ρave a 3  A
+Aave
+
+…(3)
+
+Step 2:
+ρave may be calculated using two methods.
+Method 1
+Direct substitution of values in Equation 4.10a –
+
+
+
+
+
+100 
+
+ρave =
+ C A CB 
+ρ +ρ 
+ A
+B 
+
+…(4)
+
+Method 2
+Let total mass be 100g. Then, mass of A = CA = 12.5g and mass of B =CB = 87.5g.
+Total Volume = Volume of A + Volume of B = (Mass of A/Density of A) + (Mass of B/Density
+of B)
+ρave = Total Mass / Total Volume.
+This yields equation (4).
+This method allows us to derive equation 4.10a !
+
+Step 3:
+Aave may be calculated using two methods.
+Method 1
+
+Direct substitution of values in Equation 4.11a
+
+
+
+100 
+
+Aave =
+ C A CB 
+A +A 
+B 
+ A
+
+…(5)
+
+Method 2
+Again, let the total mass be 100g. Then, mass of A = CA = 12.5g and mass of B =CB = 87.5g.
+Number of moles of A (NA ) = CA/AA
+Number of moles of B (NB ) = CB/AB
+Mole fraction of A (XA ) = NA / (NA + NB )
+Mole fraction of B (XB ) = NB / (NA + NB )
+Then, Aave = (XA * AA ) + (XB * AB )
+This yields equation (5).
+This method allows us to derive equation 4.11a !
+
+Step 4: Solving for n
+
+
+
+
+ 100 a 3 
+A
+ C A CB 
++
+
+
+ρ A ρB 
+
+n=
+
+
+
+
+ 100 
+ C A CB 
++
+
+
+ AA AB 
+
+
+
+
+
+100
+
+(3.95 × 10-8 nm)3 (6.022 × 1023 atoms/mol)
+12.5
+wt%
+87.5
+wt%
+
+
++
+
+3
+3 
+4.27
+g/cm
+6.35
+g/cm
+
+
+n =
+
+
+
+
+
+100
+
+
+87.5
+wt%
+12.5
+wt%
+
+
++
+
+
+125.7 g/mol 
+ 61.4 g/mol
+
+ n≈2
+
+n=2
+ Crystal Structure : BCC
+
+Problem 4.D2
+a. To Find:
+Weight % of V in solid solution with Fe, given the lattice parameter/unit cell edge length.
+
+b. Given:
+(i)
+
+V forms a substitutional solid solution with Fe. The maximum solid solubility of V in
+Fe at room temperature (i.e., the maximum amount of V that can dissolve in Fe at
+room temperature) is 20 wt %. Hence, our answer should be ≤ 20 wt %.
+
+(ii)
+
+The lattice parameter/ unit cell edge length of this alloy is 0.289 nm.
+
+(iii)
+
+This alloy has a bcc crystal structure. Hence, n=2.
+
+c. Assumptions:
+(i)
+
+Hard sphere model of atom.
+
+(ii)
+
+The alloy is assumed to have no vacancies (or self-interstitials), line defects or grainboundaries.
+
+(iii)
+
+The study is being conducted at room-temperature. The alloy is allowed to reach
+room-temperature slowly, post-processing, such that this solid-solution is the
+equilibrium phase. Alternately,the (bcc) crystal structure that this alloy has, is
+associated with the lowest free energy at room temperature and will not transform to a
+different structure.
+
+(iv)
+
+No other alloying agent is added.
+
+d. Solution:
+Equation 3.5 is modified in order to reflect average values for density and atomic weight.
+
+VC =
+
+nAave
+ρave  A
+
+…(1)
+
+Step 1: Calculation of volume of unit cell.
+
+VC = a 3 = (0.289 nm) 3 = (2.89 × 10−8 cm) 3 = 2.414 × 10−23 cm3
+
+Step 2: Calculation of Aave
+Method 1 (equation 4.11a)
+
+Aave =
+
+100
+100
+=
+CV
+(100 − CV )
+CV
+(100 − CV )
++
++
+AV
+AFe
+50.94g / mol
+55.85 g / mol
+
+…(2)
+
+Method 2
+Let the total weight of the alloy be 100g. If the weight of V is ‘CV’ g, the weight of y must be
+‘100-CV’ g.
+Number of moles of V, NV = x/50.94
+Number of moles of Fe, NFe = (100-x)/55.84
+Mole fraction of V, XV = NV/NV+NFe
+Mole fraction of V, XFe = NFe/NV+NFe
+Aave = (XV * AV) + (XFe * AFe )
+This allows us to arrive at equation (2). In essence, we have derived equation 4.11a.
+
+Step 3: Calculation of ρave
+Method 1 (equation 4.10a)
+
+ρ ave =
+
+100
+100
+CV
+(100 − CV ) =
+CV
+(100 − CV )
++
++
+3
+ρV
+ρFe
+6.10 g / cm
+7.87 g / cm 3
+
+…(3)
+
+Method 2
+Let the total weight of the alloy be 100g. If the weight of V is ‘CV’ g, the weight of y must be
+‘100-CV’ g.
+
+Total Volume = Volume of V + Volume of Fe = (Mass of V/Density of V) + (Mass of
+Fe/Density of Fe)
+ρave= Total mass / Total Volume
+Thus, this method allows us to arrive at expression (3) by deriving 4.10a!
+
+Step 4: Solving for CV
+From (1), (2) and (3),
+
+
+
+
+100
+
+(2 atoms / unit cell) 
+CV
+(100 − CV ) 
+
++
+55.85 g / mol 
+ 50.94 g / mol
+=
+-23
+3
+
+
+2.414 × 10
+cm
+
+
+100
+
+ (6.022 × 10 23 atoms / mol)
+C
+(
+100
+−
+C
+)
+
+V
+V 
++
+ 6.10 g / cm 3
+7.87 g / cm3 
+
+Composition of V, CV = 12.9 wt%
+
+ote 1: In the above problems , the terms ‘ mass’ and ‘weight’ have both been used. Both are
+used to indicate ‘mass’.
+ote 2: If Method 2 has been employed to evaluate Aave and ρave in Problems 4.18 and 4.D2, it
+is possible that the expression obtained in Step 4 in these two problems may differ in appearance
+from that given in the solution. If the final answer is correct, it’s probably all correct.
+
+
+
+## Metadata
+- Source file: junk_drawer/SolutionsHW2.pdf
+- Extracted: 2026-05-18
+- Category: academic-homework

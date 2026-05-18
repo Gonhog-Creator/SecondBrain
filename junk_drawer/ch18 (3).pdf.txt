@@ -1,0 +1,874 @@
+Chapter 18: Electrical Properties
+ISSUES TO ADDRESS...
+• How are electrical conductance and resistance
+characterized?
+• What are the physical phenomena that distinguish
+conductors, semiconductors, and insulators?
+• For metals, how is conductivity affected by
+imperfections, temperature, and deformation?
+
+• For semiconductors, how is conductivity affected
+by impurities (doping) and temperature?
+
+1
+
+View of an Integrated Circuit
+• Scanning electron micrographs of an IC:
+Al
+
+Si
+(doped)
+
+(d)
+
+(d)
+
+(a)
+
+45 mm
+
+0.5 mm
+
+• A dot map showing location of Si (a semiconductor):
+-- Si shows up as light regions.
+
+(b)
+
+• A dot map showing location of Al (a conductor):
+-- Al shows up as light regions.
+
+Fig. (d) from Fig. 12.27(a), Callister & Rethwisch 3e.
+(Fig. 12.27 is courtesy Nick Gonzales, National
+Semiconductor Corp., West Jordan, UT.)
+
+(c)
+
+Figs. (a), (b), (c) from Fig. 18.27, Callister
+& Rethwisch 8e.
+2
+
+Example – MOSFET
+• MOSFET
+• Metal-Oxide-Semiconductor
+• Field-effect transistor
+• A simple switch
+• ~ 12 billion FET in each state-of-theart transistor
+• Electron mobility
+
+TEM image of a single transistor
+from Intel’s 45nm technology
+
+Adapted from:
+https://volga.eng.yale.edu/teachingresources/semiconductors
+
+3
+
+Example – MOSFET
+Moore’s Law/Observation
+
+• MOSFET
+• Metal-Oxide-Semiconductor
+• Field-effect transistor
+• A simple swith
+• ~ 6 billion FET in each state-of-theart transistor
+• Electron mobility
+Adapted from:
+https://www.semanticscholar.org/paper/M
+oore's-Law-Past-32nm%3A-FutureChallenges-in-DeviceKuhn/177319f349b78259b79c3e76dc3085
+02544cffc5
+
+4
+
+Electrical Conduction
+• Ohm's Law:
+
+V=IR
+
+voltage drop (volts = J/C)
+resistance (Ohms)
+current (amps = C/s)
+C = Coulomb
+
+• Resistivity, :
+-- a material property that is independent of sample size and
+geometry
+
+RA
+=
+l
+
+• Conductivity, 
+
+
+
+
+=
+
+surface area
+of current flow
+
+current flow
+path length
+
+1
+
+
+
+5
+
+Electrical Properties
+• Which will have the greater resistance?
+2
+
+R1 =
+
+D
+
+
+
+2D
+
+
+
+2
+8
+=
+ D 2 D2
+ 
+ 2
+
+
+
+
+
+
+R1
+R2 =
+=
+=
+2
+2
+8
+D
+ 2D 
+ 
+ 2 
+
+• Analogous to flow of water in a pipe
+• Resistance depends on sample 
+geometry and size.
+
+6
+
+Definitions
+Further definitions
+J=
+
+<= another way to state Ohm’s law
+
+J  current density
+
+current
+I
+=
+=
+surface area A
+  electric field potential = V/
+
+like a flux
+
+J =  (V/ )
+Electron flux
+
+conductivity
+
+voltage gradient
+
+7
+
+Conductivity: Comparison
+• Room temperature values (Ohm-m)-1 = ( - m)-1
+METALS
+CERAMICS
+conductors
+-10
+Silver
+6.8 x 10 7
+Soda-lime glass 10 -10-11
+Copper
+6.0 x 10 7
+Concrete
+10 -9
+Iron
+1.0 x 10 7
+Aluminum oxide <10-13
+
+SEMICONDUCTORS
+POLYMERS
+Polystyrene
+Silicon
+4 x 10 -4
+Polyethylene
+Germanium 2 x 10 0
+GaAs
+10 -6
+semiconductors
+
+-14
+
+<10
+10 -15-10-17
+
+insulators
+
+Selected values from Tables 18.1, 18.3, and 18.4, Callister & Rethwisch 8e.
+
+8
+
+Example: Conductivity Problem
+What is the minimum diameter (D) of the wire so that V < 1.5 V?
+= 100 m
+I = 2.5 A
+
+Cu wire -
+
+V
+
+
+
+100 m
+
+D 2
+4
+Solve to get
+
++
+
+R=
+
+< 1.5 V
+
+V
+=
+A I
+
+2.5 A
+6.07 x 107 (Ohm-m)-1
+
+D > 1.87 mm
+9
+
+Electron Energy Band Structures
+
+Adapted from Fig. 18.2, Callister & Rethwisch 8e.
+
+10
+
+Band Structure Representation
+
+Adapted from Fig. 18.3,
+Callister & Rethwisch 8e.
+
+11
+
+Conduction & Electron Transport
+• Metals (Conductors):
+
+partly
+filled
+band
+
+filled
+band
+
+filled states
+
+- partially filled band
+- empty band that
+overlaps filled band
+
+filled states
+
+-- for metals empty energy states are adjacent to filled states.
+-- thermal energy
+Partially filled band
+Overlapping bands
+excites electrons
+Energy
+Energy
+into empty higher
+empty
+energy states.
+band
+empty
+-- two types of band
+GAP
+band
+structures for metals
+filled
+band
+
+filled
+band
+13
+
+Energy Band Structures: Insulators &
+Semiconductors
+• Insulators:
+
+• Semiconductors:
+
+-- wide band gap (> 2 eV)
+-- narrow band gap (< 2 eV)
+-- few electrons excited
+-- more electrons excited
+across band gap
+across band gap
+empty
+Energy
+Energy
+empty
+conduction
+conduction
+band
+band
+
+filled
+valence
+band
+filled
+band
+
+?
+
+GAP
+
+filled states
+
+filled states
+
+GAP
+
+filled
+valence
+band
+filled
+band
+14
+
+Metals: Influence of Temperature and Impurities on Resistivity
+• Presence of imperfections increases resistivity
+
+(10 -8 Ohm-m)
+
+Resistivity, 
+
+-- grain boundaries
+-- dislocations
+-- impurity atoms
+-- vacancies
+6
+
+These act to scatter
+electrons so that they
+take a less direct path.
+
+• Resistivity
+
+5
+
+increases with:
+
+4
+3
+
+d
+
+2
+
+i
+
+1
+
+0
+
+-- temperature
+-- wt% impurity
+-- %CW
+
+t
+
+-200
+
+-100
+
+0
+
+T (ºC)
+
+Adapted from Fig. 18.8, Callister & Rethwisch 8e. (Fig. 18.8
+adapted from J.O. Linde, Ann. Physik 5, p. 219 (1932); and C.A.
+Wert and R.M. Thomson, Physics of Solids, 2nd ed., McGraw-Hill
+Book Company, New York, 1970.)
+
+ = thermal
++ impurity
++ deformation
+15
+
+Estimating Conductivity
+• Question:
+
+180
+160
+140
+125
+120
+100
+21 wt% Ni
+80
+60
+0 10 20 30 40 50
+
+Resistivity, 
+(10 -8 Ohm-m)
+
+Yield strength (MPa)
+
+-- Estimate the electrical conductivity  of a Cu-Ni alloy
+that has a yield strength of 125 MPa.
+
+wt% Ni, (Concentration C)
+Adapted from Fig. 7.16(b), Callister & Rethwisch 8e.
+
+From step 1:
+CNi = 21 wt% Ni
+
+Adapted from Fig.
+18.9, Callister &
+Rethwisch 8e.
+
+50
+40
+30
+20
+10
+0
+0 10 20 30 40 50
+wt% Ni, (Concentration C)
+−8
+
+ = 30 x 10 Ohm − m
+1
+ = = 3.3 x 106(Ohm − m)−1
+
+16
+
+Charge Carriers in Insulators and
+Semiconductors
+Adapted from Fig. 18.6(b),
+Callister & Rethwisch 8e.
+
+Two types of electronic charge carriers:
+
+Free Electron
+– negative charge
+– in conduction band
+Hole
+– positive charge
+– vacant electron state in
+the valence band
+
+Move at different speeds - drift velocities
+17
+
+Intrinsic Semiconductors
+• Pure material semiconductors: e.g., silicon & germanium
+• Group IVA materials
+• Compound semiconductors
+– III-V compounds
+• Ex: GaAs & InSb
+
+– II-VI compounds
+• Ex: CdS & ZnTe
+
+– The wider the electronegativity difference between
+the elements the wider the energy gap.
+
+18
+
+Drude Model
+
+Intrinsic Semiconduction in Terms of Electron and Hole
+Migration
+• Concept of electrons and holes:
+valence
+electron
+
+electron
+hole
+pair creation
+
+Si atom
+
+electron
+hole
+pair migration
+
++ -
+
+-
+
++
+
+no applied
+
+applied
+
+applied
+
+electric field
+
+electric field
+
+electric field
+
+• Electrical Conductivity given by:
+
+Adapted from Fig. 18.11,
+Callister & Rethwisch 8e.
+
+# holes/m3
+
+ = n e me + p e m h
+# electrons/m3
+
+hole mobility
+
+electron mobility
+21
+
+Number of Charge Carriers
+Intrinsic Conductivity
+ = n e me + p e m h
+
+• for intrinsic semiconductor n = p = ni
+ = ni|e|(me + mh)
+
+• Ex: GaAs
+
+
+10−6 (  m) −1
+ni =
+=
+e (me + mh ) (1.6x10−19 C)(0.85 + 0.45 m2 /V  s)
+For GaAs
+For Si
+
+ni = 7 x 1012 m-3
+ni = 1.3 x 1016 m-3
+22
+
+Intrinsic Semiconductors:
+Conductivity vs T
+• Data for Pure Silicon:
+--  increases with T
+-- opposite to metals
+
+ = ni e (me + mh )
+−E gap / kT
+
+
+
+
+
+ni  e
+material
+Si
+Ge
+GaP
+CdS
+
+band gap (eV)
+1.11
+0.67
+2.25
+2.40
+
+Selected values from Table 18.3,
+Callister & Rethwisch 8e.
+
+Adapted from Fig. 18.16,
+Callister & Rethwisch 8e.
+
+23
+
+Intrinsic vs Extrinsic Conduction
+• Intrinsic:
+-- case for pure Si
+-- # electrons = # holes (n = p)
+
+• Extrinsic:
+-- electrical behavior is determined by presence of impurities
+that introduce excess electrons or holes
+-- n ≠ p
+
+• n-type Extrinsic: (n >> p)
+
+• p-type Extrinsic: (p >> n)
+
+Phosphorus atom
+
+hole
+conduction
+electron
+
+4+ 4+ 4+ 4+
+
+4+ 4+ 4+ 4+
+
+valence
+electron
+
+4+ 4+ 4+ 4+
+
+no applied
+
+Si atom
+
+4+ 4+ 4+ 4+
+
+  n e me
+
+Boron atom
+
+4+ 5+ 4+ 4+
+
+Adapted from Figs. 18.12(a)
+electric field
+& 18.14(a), Callister &
+Rethwisch 8e.
+
+4+ 3+ 4+ 4+
+
+no applied
+electric field
+
+  p e mh
+
+24
+
+• n-type Extrinsic: (n >> p)
+Phosphorus atom
+4+ 4+ 4+ 4+
+
+4+ 5+ 4+ 4+
+4+ 4+ 4+ 4+
+no applied
+electric field
+
+conduction
+electron
+valence
+electron
+Si atom
+
+Extrinsic Semiconductors: Conductivity vs. Temperature
+doped
+
+• Data for Doped Silicon:
+
+undoped
+
+--  increases doping
+-- reason: imperfection sites
+
+extrinsic conduction...
+-- extrinsic doping level:
+1021/m3 of a n-type donor
+impurity (such as P).
+-- for T < 100 K: "freeze-out“,
+thermal energy insufficient to
+excite electrons.
+-- for 150 K < T < 450 K: "extrinsic"
+-- for T >> 450 K: "intrinsic"
+
+extrinsic
+
+1
+
+intrinsic
+
+2
+
+freeze-out
+
+concentration (1021/m3)
+
+• Comparison: intrinsic vs
+
+Conduction electron
+
+lower the activation energy to
+produce mobile electrons.
+
+3
+
+0
+0
+
+200
+
+400
+
+600
+
+T (K)
+
+Adapted from Fig. 18.17, Callister & Rethwisch 8e. (Fig.
+18.17 from S.M. Sze, Semiconductor Devices, Physics,
+and Technology, Bell Telephone Laboratories, Inc., 1985.)
+
+26
+
+p-n Rectifying Junction
+• Allows flow of electrons in one direction only (e.g., useful
+to convert alternating current to direct current).
+
+• Processing: diffuse P into one side of a B-doped crystal.
+
++ p-type
++ +
++ +
+
+-- No applied potential:
+no net current flow.
+-- Forward bias: carriers
+flow through p-type and
+n-type regions; holes and
+electrons recombine at
+p-n junction; current flows.
+
+-- Reverse bias: carriers
+flow away from p-n junction;
+junction region depleted of
+carriers; little current flow.
+
+n-type
+
+-
+
+-
+
+-
+
+Adapted from
+Fig. 18.21
+Callister &
+Rethwisch
+8e.
+
+-
+
+p-type
+
++
+
+-
+
++ - n-type
++
+++- - + -
+
++ p-type
++ +
++ +
+
+n-type
+
+-
+
+-
+
+-
+
+-
+
++
+
+30
+
+Properties of Rectifying Junction
+
+Fig. 18.22, Callister & Rethwisch 8e.
+
+Fig. 18.23, Callister & Rethwisch 8e.
+
+31
+
+MOSFET Transistor
+Integrated Circuit Device
+
+Fig. 18.26, Callister &
+Rethwisch 8e.
+
+• MOSFET (metal oxide semiconductor field effect transistor)
+• Integrated circuits - state of the art ca. 50 nm line width
+• ~ 1,000,000,000 components on chip
+• chips formed one layer at a time
+
+32
+
+Ferroelectric Ceramics
+• Experience spontaneous polarization
+BaTiO3 -- ferroelectric below
+its Curie temperature (120ºC)
+
+Fig. 18.35, Callister &
+Rethwisch 8e.
+
+33
+
+Piezoelectric Materials
+Piezoelectricity
+– application of stress induces voltage
+– application of voltage induces dimensional change
+
+stress-free
+
+with applied
+stress
+
+Adapted from Fig. 18.36, Callister & Rethwisch 8e. (Fig. 18.36 from Van Vlack, Lawrence H., Elements of
+Materials Science and Engineering, 1989, p.482, Adapted by permission of Pearson Education, Inc., Upper
+Saddle River, New Jersey.)
+
+34
+
+Summary
+• Electrical conductivity and resistivity are:
+-- material parameters
+-- geometry independent
+
+• Conductors, semiconductors, and insulators...
+-- differ in range of conductivity values
+-- differ in availability of electron excitation states
+
+• For metals, resistivity is increased by
+-- increasing temperature
+-- addition of imperfections
+-- plastic deformation
+
+• For pure semiconductors, conductivity is increased by
+-- increasing temperature
+-- doping [e.g., adding B to Si (p-type) or P to Si (n-type)]
+
+• Other electrical characteristics
+-- ferroelectricity
+-- piezoelectricity
+
+35
+
+36
+
+

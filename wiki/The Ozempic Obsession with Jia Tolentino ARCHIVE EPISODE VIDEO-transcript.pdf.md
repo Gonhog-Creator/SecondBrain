@@ -1,0 +1,991 @@
+# The Ozempic Obsession with Jia Tolentino (ARCHIVE EPISODE) [VIDEO]-transcript.pdf
+
+Source: junk_drawer/The Ozempic Obsession with Jia Tolentino (ARCHIVE EPISODE) [VIDEO]-transcript.pdf
+
+Category: [[media-transcript]]
+
+## Summary
+0 (0s): Hey, what's going on? What Now? Listeners, Happy New Year to you and yours From everyone here at the What Now Team, I hope the new year is already looking up for you. We've got so many great episodes planned for you in 2025, but today, because the team is taking some time off, some much deserved time off, we decided to bring you an episode that we loved, probably one of our favorite episodes from the season, the episode about Ozempic, You Know, weight loss, our culture's obsession with d
+
+## Full Content
+0 (0s):
+Hey, what's going on? What Now? Listeners, Happy New Year to you and yours From everyone here at the
+What Now Team, I hope the new year is already looking up for you. We've got so many great episodes
+planned for you in 2025, but today, because the team is taking some time off, some much deserved time off,
+we decided to bring you an episode that we loved, probably one of our favorite episodes from the season,
+the episode about Ozempic, You Know, weight loss, our culture's obsession with diets and physical
+appearance. I Mean, we got as much feedback about This episode as any episode we've done so far. And
+so for now, take a listen. And once again, Happy New Year. I am not a scientist, and none of this is actual
+advice.
+
+0 (42s):
+Please take everything. Imagine I'm an idiot who has stumbled into your village. Now you can listen to me.
+This is What Now with Trevor Noah
+
+Apple (58s):
+Apple Card is the perfect card for your holiday shopping. You can apply on your iPhone in minutes and start
+using it right away. You'll earn up to 3% daily cashback on every purchase, including products at Apple, like a
+new iPhone 16 or Apple Watch Ultra. Start holiday shopping for your friends and family today with Apple
+Card, subject to credit approval. Apple Card issued by Goldman Sachs Bank, USA, salt Lake City branch
+terms, and more at Apple Card dot com.
+
+0 (1m 36s):
+Christiana, nice to see you in person. Good to see you much. This is so much fun, friend. Haven't seen you
+in so like, like this.
+
+2 (1m 42s):
+I know. In the flesh, we used to do this every day. Yeah. Remember? Yeah. Best we was to, we make the
+show
+
+0 (1m 46s):
+Every day. That was every single day of our lives. That, that was, I was like, I loved it.
+
+2 (1m 50s):
+You liked it so much, you quit and left us.
+
+0 (1m 56s):
+Oh, man. I'm excited to have this conversation today because I, I Mean, I'm, I'm excited for all
+conversations, but like this conversation is, is one that I don't even think we'll be able to complete today,
+which I think all good conversations are strangely enough. And this one in particular intrigues me because
+everybody's talking about Ozempic, right? And we're not talking about Ozempic the product today. I think
+
+that's, that's gonna be important for everyone to understand. We're just gonna use that as a name for, You
+Know, these weight loss drugs. Yeah. It's Ozempic, Manjaro, Zep Bound V, you name it. Yeah. You Know,
+the, the point is we're talking about inject lose weight, apparently feel great.
+
+0 (2m 41s):
+This is the, that's my catchphrase, by the way, if they want to buy it from me. I'm, I'm available. Eli Lilly, I'm
+available. And Novo, do I never know how to say their name. Yeah. I can't
+
+2 (2m 51s):
+Say it either,
+
+0 (2m 52s):
+But yeah, it's, I feel like we were at an interesting inflection point in society where there was a point when
+this would've just been, would, would've been shunned completely. Yeah. Do You Know what I Mean? Of
+course. People would be like, this is trash.
+
+2 (3m 3s):
+You're cheating. Yeah.
+
+0 (3m 5s):
+And then now it's slowly, we're like, You Know? Yeah. It's like Republican Democrat. It's like 50 50 now.
+
+2 (3m 13s):
+It's basically, I was like,
+
+0 (3m 15s):
+Yeah, where Do you, where Do you stand on this?
+
+2 (3m 17s):
+Oh my God, Trevor, you can't ask me that at the beginning of the thing. That's exactly where
+
+0 (3m 21s):
+I, that's exactly where you start at the beginning.
+
+2 (3m 23s):
+I am pro-choice when it comes to Zen Pick. Oh, I
+
+0 (3m 27s):
+Like this. Well played.
+
+2 (3m 27s):
+I'm pro-choice. I'm pro-choice. That's, that's what I am. Yeah.
+
+0 (3m 31s):
+So you have no moral judgment or opinion on it?
+
+2 (3m 37s):
+No, I, I have, I've seen friends and family members Yeah. On the drug and see how it seen, how it's changed
+their life.
+
+0 (3m 44s):
+Okay. And so, this is what I'd love to know, changed their lives In what way?
+
+2 (3m 49s):
+Beyond the weight. They seem more comfortable in their bodies. Some of them had like back and knee
+issues, You Know, some of, some people, it was just like, yeah, they were struggling. Some people, it was
+like, it's kind of regulated their appetite, they're drinking less. So when you see it from that perspective, it's
+been like, oh, wow. So I'm pro the choice, but I'm not pro the societal pressure that I think some people feel
+to take
+
+0 (4m 13s):
+A bit. Okay. Okay. Okay. Well, let's, let's bring in our special guest today. I wanted to bring in a writer, a
+cultural critic, and somebody who I think has some of the most informed and then fantastic personal opinions
+on this topic, because she has written about it. You Know, her work probably from the New Yorker. If you
+read, If you don't read, then maybe you don't know her. And this will be your introduction to her. Gia
+Tolentino, welcome. Welcome to the podcast.
+
+4 (4m 37s):
+Thank you for having me. Are you
+
+0 (4m 39s):
+Kidding me? Thank you for joining us. I'm gonna apologize in advance for all the ignorance I'm gonna bring
+to this conversation, but I feel like it's my purpose, as my mother used to say when I was young, be of
+service. Mm. Be of service. So if I'm surrounded by two brilliant, smart people, I have to now ba balance the
+conversation the other way around. I think you, you, you heard the question I asked Christiana. So let's, let's
+start from your personal, just like purely personal, no scientific, no nothing point of view. Where, where Do
+you stand when it comes to these Ozempic type drugs?
+
+4 (5m 11s):
+I think I think about Ozempic, the way I think about a lot of cultural phenomena, which is I have a lot of
+thoughts about it at a sort of macro level, and then in terms of anyone's individual use or not use of it, right?
+Other than I have a group chat where my friends sometimes send pictures of celebrities and like, to make
+fun of the fact that I never know who it is because everyone looks so different. But yeah, I Mean, I'm pro I'm
+I'm pro-choice too, You Know? Like it's, yeah. It's none of my damn business. What, what anyone's doing
+with their own body. You
+
+0 (5m 40s):
+Know? It's, it's interesting you bring up the thing about celebrities, because like I've noticed now there's a,
+there's a, You Know, we talk about the shame game. Yeah. And the blame. There's like this, there's this
+game now where people see someone and they're like, oh, that's Ozempic. Oh, that's Oz. I've noticed with
+me, depending on like how someone takes a picture of me, someone will be like, you are Ozempic. Like,
+I've, I've never lost weight. But then sometimes I go do like it. It seems like it's become in, in a way, it's
+almost become a bit of a, like a slur or like a, an insult. It's like, oh, I see you are on Ozempic. Ah, you one of
+them. Yeah. Trump is the only one that you really need because the Republican party doesn't,
+
+2 (6m 14s):
+He's on Ozempic, everyone calling him Oz. Wait, saying Ozempic Trump. They're calling him Ozempic
+Trump.
+
+0 (6m 19s):
+Donald Trump on Ozempic
+
+2 (6m 21s):
+A allegedly. Please Mag, don't come from me, please. Allegedly. Wow. He looks different. I I believe it.
+
+0 (6m 28s):
+Damn. I can see him now. Oh, oh, oh, oh, Ozempic.
+
+4 (6m 35s):
+Well, I, You know, this, I do have thoughts on, You Know, I think that one of the things that our whole
+fascination with Ozempic is based on is, and it's interesting, You Know, Christiana, I wonder If you have
+thoughts with little kids, right? Part of beauty is thinness as, as it's taught to you from a really early age, like
+fatness, queerness, darkness, all of these things are like coded as signs of deviance. I like you, you learn as
+a really young child in Disney movies, in anything like beauty is really coded as morality. Right? Right. And
+there's this Protestant work ethic thing, right? It's something that you should achieve through hard and
+punitive work and discipline, right? Yeah. And when people use Ozempic, it's like, Hmm, you cheated.
+
+4 (7m 16s):
+Yeah. You skipped the hard work part, You Know? Yeah. And so you, you got the thing we demanded of you,
+but now we find this a vaguely immoral thinness. Like
+
+0 (7m 24s):
+You worked hard to achieve the right thing. Okay. I, I hear, I hear what you're saying. It's funny because I, I
+don't know how it was for you growing up, but, so I have, I've had an interesting journey with weight and how
+I perceive it, and fatness, et cetera, because I grew up in South Africa, genuinely growing up. This is such a
+weird thing to try and explain to people in South Africa, you did not get made as much fun of If you were fat.
+Like, so like a fat person, you'd just be like, I Mean, I don't even remember if we had that many names, but I
+remember all the ones for skinny people were sticks, manza. It was, that was my favorite one. Sticks Manza,
+skinny Mani.
+
+0 (8m 4s):
+It was like, there were all these names where it was just like, you, you, you are a twig. You're thin. You, and it
+was a sign there of, of a lack of having, yeah. If you got married and you didn't gain weight, people would
+say that your marriage is not going well. Literally, they'd be like, is is your wife not treating you well? I man,
+no, man, look at you. If I would come home from the States, and like many times I would, I'd come back from
+America and I gain weight. And so whenever I go home, people would be like, ah, you're looking good, man.
+You're looking good. America's treating you well. You're looking Trevor Noman, you're looking good. Look at
+your cheeks, you're looking good. And then, and, and, and so where I grew up, fatness was considered like
+sort of a choice.
+
+0 (8m 45s):
+And then being skinny was like, whoa, your life is not going well, and you're not making the right choices. For
+sure. So it's interesting how it, it flips, You Know? And I'm sure it's time as well, but
+
+4 (8m 54s):
+In both cases it's about wealth, right? I Mean
+
+0 (8m 57s):
+Oh,
+
+4 (8m 57s):
+Yeah. In both cases for sure. Like the, the thing that is valued is always the thing that's correlated with
+wealth. And it's, I feel like that's been the case. You look through art history, right? The, the fuller figures are
+valued at a time when it's, You Know, right?
+
+0 (9m 10s):
+
+Yeah. Yeah. The wealthy
+
+4 (9m 11s):
+Signifying plenty. And now it's signifying, You Know, I got a trainer, I gotta cook. I gotta, You Know,
+
+2 (9m 18s):
+I Mean, it's funny that you mention the childhood stuff that it brings up, because recently it was approved for
+children. Oh, it was, yeah. Right. And there are parents who are making the decision to get, Ooh,
+
+0 (9m 29s):
+I don know about that.
+
+2 (9m 30s):
+I Mean, Trevor, that's your instance. It's like very visceral. You're like giving it to kids. But like, look,
+
+0 (9m 35s):
+I'll, I'll tell you why. I'll tell you why. I do not think that these types of drugs should be approved for children. I
+personally believe that there are still a whole host of things that you can do to get that child. Like, if, If you
+are giving them this drug, I'm assuming it's because their weight is really detrimental to their health.
+Otherwise, it's, it's weird. Like you're just trying to make like a sexy kid or something. I mean,
+
+2 (9m 56s):
+That's weird. I Mean, it's so crazy. But I meet mothers, a lot of older girls who are like preteens and
+teenagers, and they'll show you pictures of their daughter and be like, oh, but this one needs to lose weight.
+You Know, like what mothers, it's so encoded in our culture that there are mothers out there and fathers out
+there who are just like, you need to lose weight. I Mean, most people's relationship with food don't come
+from themselves. They often come from their parents and their families.
+
+4 (10m 22s):
+It's, it's so interesting that all of this concern about what creates health for kids always comes down to food
+and weight. Yeah. Right. And it's like, there's so much other stuff. It's like, it's housing policy, it's like, it's, it's
+food stamp policy, right? It's all of these things. Yeah. And it's like funding for recess and, You Know, and,
+and for like, physical activities. Yeah. And for, and for all these things. 'cause You Know, there are, there are
+levers you can pull to change your body, certainly during childhood. And that, You Know, like it's, it's not to
+say that lifestyle and the what you eat doesn't affect it. But, You Know, there, I talk to doctors that are, You
+Know, their, the patients are, their kids are in food deserts and Yeah. They have nobody that can take them
+outside.
+
+4 (11m 3s):
+
+It's not safe to be outside where there are they, they are just kind of sitting in a room, You Know, all day
+'cause of, You Know, this myriad of structural factors. And so the, the only lever to pull for these complicating
+conditions is a drug like this.
+
+0 (11m 16s):
+And this is everywhere in the world, but America in particular is very, very good at treating the symptoms and
+not the cause. Yeah. Like very, very, very, very good. You Know what I mean? Like, like America will find you
+make more money that way. Yeah. America will find a lot of money to like imprison homeless people, but
+then won't find ways to stop people from becoming homeless. Yeah, for sure. You Know what I Mean?
+America will find like, how
+
+4 (11m 36s):
+Often Do you enrich the private prison? Exactly.
+
+0 (11m 38s):
+Yeah. You Know what I mean? How else would we, so this feels like one of those situations again where it's
+like, we are going to now approve a drug for children, but not ask ourselves why these children would need
+that drug in the first place. 'cause I don't know, was Nigeria the same? How, how, what's what, what was
+weight like in Nigeria? Like how
+
+2 (11m 56s):
+Does, it's really interesting. There is this cultural, the body that's idealized is quite hard to get. So it's like,
+yes, big hips, tiny waist and big boobs and a big bum, which is pretty impossible to get right. Most people
+don't have it naturally. And you're not probably gonna have that after you have kids. I was always considered
+a bit too skinny. Like my grandma was like, I remember she saying to me once she was crying, and my mom
+was like, why are you crying? She was just like, like, she calls me her name, Emma. She was just like, who's
+gonna marry Emma? She's got bones. You Know, You Know, If you actually go to West Africa in particular,
+you see a lot of body diversity. Yeah. So you see like really tall women, really muscular women. And like in
+Nigeria, I think the most, the biggest indicator about how bodies naturally are is that does your tribe have a
+fattening room, which is like, before a woman gets married, she has to go to a room.
+
+2 (12m 46s):
+She
+
+0 (12m 46s):
+Said a fattening room. They
+
+2 (12m 47s):
+Call it a fattening room where you have to become fat because the girls are just naturally quite muscular.
+
+Especially like in the southeast, quite muscular and live. Okay. You Know what I Mean? So You Know what
+that means. Fatness is supposed to be good a sign of fertility. But then again, wait,
+
+0 (13m 2s):
+How long Do you stay in the room
+
+2 (13m 3s):
+Till you get fat? I love this. Yeah. Oh, I don't know. I don't know about that. Oh, I Mean,
+
+0 (13m 7s):
+Kind of, it depends on how they're making you fat. Is it like, it like
+
+2 (13m 10s):
+Farrah, they're giving you yams and thick, thick food that carbohydrates basically. Yes. And lots of meat to
+make you bigger.
+
+0 (13m 16s):
+They're not like force feeding you, you're just eating.
+
+2 (13m 18s):
+I Mean, the girls didn't wanna get fat or get married. So it's kind like,
+
+0 (13m 21s):
+All right. Like, once again, a fun Christiana story. I'm
+
+2 (13m 25s):
+Sorry, guys gets always gets dark. It always gets dark. Ah,
+
+0 (13m 28s):
+Well, I wanna know though, Jay, like when did you, when and why did you start writing about Ozempic?
+Because you were one of the first people writing about this, You Know, before it became the wave. Before it
+became the trend. Yeah. I remember there was a moment pre Ozempic, it just wasn't a thing. And then there
+were whispers. Yeah. And then all of a sudden you heard Elon Musk was on it, and you're like, wait, what's
+happening here? Yeah.
+
+4 (13m 51s):
+Well, I think of, I kind of think of the Kardashians as, You Know, the sort of weather vein for what the winds of
+sort of capital.
+
+0 (13m 59s):
+Hilarious.
+
+4 (13m 60s):
+And, You Know, like deeply punitive, technologically based beauty standards, You Know, that you can
+literally see written upon their bodies what women all across the country are going to then do, You Know, in
+this really kind of amazing, terrifying way. And so, You Know, I I think I, it was, it was like that no one had
+ever heard of it. And then, You Know, I started to hear about there was this shot that was intended for
+treating Diabetes chronic conditions caused by type two diabetes that women in h like, You Know, some
+women in Hollywood were taking, and their bodies were suddenly visibly changing. And it was interesting to
+me to begin with because You Know, like I, I grew up in, You Know, the nineties, the early two thousands in,
+in sort of very conservative Houston, Texas, like deep within this hegemonic, like white dominated the age of
+sort of the only people that are beautiful are like Paris Hilton, You Know, and Britney Spears.
+
+4 (14m 57s):
+And that was the body prescribed. And then we had this sort of Obama era, You Know, grand
+democratization of culture, which included, You Know, people started to have open dialogue about how you
+could be healthy at every size, which you can. Right. And that all sorts of bodies are beautiful. And I always
+felt a little skeptical of the sort of dove add body positivity thing for reasons we can get into later. But I
+thought, okay, finally, like we have reached a new era. Yeah. Maybe it will unlock the sort of hold that white
+diet culture has had on America since the twenties, basically. And then this happened and it was like, oh, oh
+no, we back. Oh no, we're swinging. Yeah. I Mean, that was my initial interest. I was like, I thought we had
+already changed that we were gonna stay on this train of, of, You Know, openness and, I don't know.
+
+4 (15m 44s):
+And, and, and the sharp swing back and what that meant for the way people talked and thought about
+beauty, I thought was extremely interesting. And then, so I just started tracking it. So
+
+0 (15m 57s):
+Here's the thing. I, I wonder though, Do you, Do you think that utopia can ever exist? And You Know,
+because I, I Mean like, I don't know, sometimes I'm a little simple in this thinking in that I go, we're still
+animals and animals also judge each other based on some physical aspect or, and, and we are no different.
+I just think what happens to us that's particularly different is there are taste makers that exist in different
+spheres who sort of like pull the levers Yeah. To decide like how we define where the, the, You Know, the
+Overton window of beauty actually exists. Yeah. And where the one of health is. Do you think that our
+conversations these days lie in beauty or do they lie in health? Or is it people using health to masquerade
+their views on what they think beautiful is?
+
+0 (16m 41s):
+
+Yeah,
+
+2 (16m 41s):
+I think it's like the latter. Right? And I think even If we were in this utopia where we accepted everyone's
+bodies, like I think the Economist did a piece about talking about the fact that like women's salaries are
+pegged to what they weigh. Yes. And that If you learn, If you lose a certain amount of weight, you salary
+goes up. Yeah. So it's just like the market forces, for whatever reason, we know the reasons reward being
+skinny.
+
+0 (17m 7s):
+And by the way, did you see the opposite is true for men?
+
+2 (17m 10s):
+Interesting.
+
+0 (17m 11s):
+The more a woman gains in weight, the more her salary goes down. And with men, the bigger they get, like
+the rounder, I guess it's like, because you look like King Richard or those vibes, he like the Henry, Henry
+eight Henry. Yeah. Yeah. It's like those vibes, like to all my subjects. Yeah. The more like bulbous you
+become the, your money actually. Like people don't penalize you at all. They're just like, yeah, this dude
+knows what he's talking about. He ate a pig that had an apple in. Look at that.
+
+2 (17m 36s):
+Yeah. And I think for women it's always gonna be, you are judged that connection between morality. Yes. And
+beauty and health. I think people just collapse it into one. They don't see them as different things. Even If
+they use a language like, don't you wanna be healthy? Right. You Know, when they're, but they're saying to
+someone, don't you wanna lose weight? And I think it's gonna be harder for women to escape that,
+unfortunately.
+
+0 (17m 57s):
+So, okay. Let, let me ask this question now. Is there a moral way for people to engage in conversations
+about weight, weight loss, health, and how it pertains to people like Gia? You Know, you've done a lot of
+research in this, Christiana, I know you've talked about this for, for years, but like, where Do you think we
+find the, the, where Do you think we find the sweet spots?
+
+4 (18m 21s):
+I think it exists, and I think probably the people that are the best at it are fat people. You Know, I think that
+there are a lot of people that have been, that have spent, You Know, that have, that's been like the, this
+cultural discursive work in the last 15 years to establish a whole vocabulary for how we could be talking
+
+about these things. Right. And, and it's incredibly difficult in reporting this piece even. And in talking to
+people, like, I think that the fear of fat and the bias against it is it would come out quite casually. I'm sure it's
+built into me in some way, You Know, in the way that I think about it. But I think that there is a way to get
+some basic facts on the table, right? That BMI is based on, You Know, like BMI is like a racist, you, you kind
+of eugenic standard and, and like, and, and there can be serious conditions that correlate with obesity, but
+that doesn't mean that, You Know, obesity or, or excess weight is in itself.
+
+4 (19m 15s):
+Right. Harmful, You Know, and so much of this is really arguably down to physician bias as well, right? Like,
+there, there are OBGYNs that won't treat women over a certain BMI, there's so many, so many, like
+statistically doctors self-report, You Know, beliefs about patients that are quote unquote overweight or obese.
+And, You Know, they, they, they treat them differently. They under diagnose. They undertreat they attribute all
+health problems to Yeah. Yeah. You need to lose weight in ways that are never sort of suspected about
+people of different sizes. And You Know, there's like,
+
+0 (19m 49s):
+Yeah, I think there was a, there was a story I read, I, it might have been one of your stories actually, where
+there was a woman who was struggling to breathe Yeah. And
+
+4 (19m 57s):
+Yeah. Blood.
+
+0 (19m 58s):
+Yeah. That, that, that was, you're
+
+4 (19m 60s):
+Like, oh, you're like, your lungs are simply fat, You Know? Yeah. And she's just dying, You Know,
+
+0 (20m 4s):
+Happens. Yeah. And, and she actually had, did she have lung cancer? Blood clots?
+
+4 (20m 7s):
+She had blood.
+
+0 (20m 7s):
+Oh, she had blood clots, I think. Yeah. Yeah.
+
+4 (20m 9s):
+But I think, You Know, you, you mostly find the healthy way of talking about it in people who have had to like,
+
+advocate for themselves against all of these things for a long time. I also think fundamentally probably the
+healthiest way to talk about health is to kind of set weight aside altogether, right? Yeah. And talk about other
+metrics like
+
+0 (20m 28s):
+Vo VO two max and
+
+4 (20m 30s):
+I, yeah. I dunno what that means, but No,
+
+0 (20m 32s):
+No, no. Really, I, no, I hear VO two max is the gold standard. That's actually, they say VO two. When is that?
+So VO two max is your body's ability to withdraw or to extract oxygen from every breath. There you go.
+There you go. I love that. Apparently that's it. Yeah.
+
+4 (20m 46s):
+There's so many other metrics to talk about health that have nothing to do with weight. And, and probably
+that would be the healthiest way of talking about weight, is having it be just sort of a incidental byproduct of
+all these other lifestyle factors.
+
+0 (20m 60s):
+We're gonna continue this conversation right after this short break. Let's, let's talk a little bit about the drugs
+themselves. Like the actual way that the drugs work. I, I was lucky. I I, I had a conversation with the CEO of
+Eli, Lillian and some of the scientists who work there because I wanted to understand, yeah. What is this
+thing? So I'll, I'll break it down. And gi I know you're the expert, so please jump in. A few decades ago, there
+was a scientist who discovered that there was a, essentially a hormone that was released into your body,
+that told your body you were full. Right? And they wanted to study what this, this, this thing was GLP one,
+they called it.
+
+0 (21m 42s):
+'cause they never called it easy things like Patrick, which they should. 'cause then it would help us if
+scientists were just like, we're gonna call this Patrick, then we all know what Patrick is. But anyway,
+scientists found GLP one. This is something that makes your body feel full, makes you feel satisfied, I think
+is a, is a more important word. And they wanted to study it, but they couldn't. They're like, all right, how do
+we figure it out? They found a lizard. They always find a lizard and they're like, we can reproduce this. You
+fast forward, they realize that this drug can help people who have diabetes. Then they're like, okay, this is for
+diabetes. This is for diabetes. But then someone goes, wait a minute. It's not just diabetes. People are losing
+weight. Yeah. And they're like, huh. And then like all drug companies, the same way they did with Viagra,
+they were like, we're trying to help people with their blood pressure.
+
+0 (22m 26s):
+And they're like, Have you noticed that all these people are getting erections? And they're like, everyone
+stop. We don't give a shit about blood pressure. We've just struck gold. But what I found most fascinating
+about this is to what you said, Christiana, when we started the conversation, if we have the conversation
+about weight loss, I feel like we are missing something bigger that we're discovering right now. And these
+drugs are helping us understand something about self-control. Yeah. And how it has been robbed from us.
+Because people take Ozempic, zepa, whatever, right? The first thing they do is they don't eat as much. We
+knew that would happen. Yeah. Okay, fine. It's working. But then people go, oh, I don't drink alcohol the
+same way anymore.
+
+0 (23m 8s):
+Yeah. I don't watch as much tv. I don't use social media. I'm not even on my phone as much. I don't gamble
+as much. And you're just like, wait, wait, wait, wait. What is
+
+2 (23m 19s):
+Happen? Compulsive shopping. Yeah. I read about that. Someone has stopped
+
+0 (23m 22s):
+Them compulsive shopping. And so, You Know, I almost wonder if in discovering this solution, have we now
+exposed all of the poisonous problems that society has unleashed upon itself? Yeah. Does it, does this make
+sense?
+
+2 (23m 35s):
+Yeah. We don't judge gambling or drinking or online shopping in the same way that we do weight. Yes. So
+that was what the person was fixated on. I got on Ozempic to lose weight, but they discovered all these
+other parts of themselves or that they were awakened to like, I actually spend too much money. Like a
+woman said she was going through Target and she wasn't putting things in her car. Yes. This is what I Mean,
+in the same way. And I found that so interesting. We don't see like, excessive shopping. Yes. The same way
+we see excessive eating. And I, I think that's the most interesting part of the drug.
+
+4 (24m 7s):
+Well this is, this is taking it in a slightly different direction, but what, what this part of the conversation makes
+me think of and what I think this thing that was in the back of my head when I was writing and thinking about
+it, was that like, one of the reasons that I, I, You know, on a macro level, find it really sad when people who
+are extremely thin take it to be, take this to become much thinner. Right. Is that like what it is to be human?
+Like we're made up of our appetites. Right. Like that, that's one of the defining Mm.
+
+2 (24m 34s):
+
+I like
+
+4 (24m 35s):
+That things of what we seek and what we literally physically hunger for and You Know, the like our, our
+desire for pleasure and relief and, and excitement. Right. These things are important and they, they make us
+human. And back to the conversation about kids, it's like so much of the rise of obesity in children seems
+directly related to the fact that people are so afraid of fat children in the first place. Right. Like that, that
+children are taught to fear their appetites and fear the snack drawer. Hmm. Like the idea of just kind of
+natural pleasure in our appetite seems to be the thing that might possibly lead to the healthiest relationship
+with them in all cases.
+
+4 (25m 16s):
+Right. To not need to, to like indulge and have guilty pleasures and sort of secret little things. Right. That,
+that, if that, if these appetites, if we could sort of have a treat them normally in all respects and like, it seems
+like American consumers culture just blows all of these kind of compulsions sky high because of this fear we
+have of appetite. Right.
+
+2 (25m 38s):
+Well, well, I I think my slight pushback to that is like being a Bri America is that Yes. Is actually very hard to
+have a regulated relationship with the pleasure of food. Yes. When there are very few pleasures. So food is
+like a very easy, oh, this is interesting. Treat pleasure. Like it's, I think that's okay if you're like in a country
+where it's like there's a park down the road, I can play tennis for free. Like, it's just like you get pleasure and
+that it is one of, it is everywhere. It is one of the dopamines. But in this country, I feel like food and alcohol
+are the only cheap accessible pleasures. Yeah. But like, if, if we were in a more balanced, I guess, culture,
+then I'd be like, sure, enjoy the pleasure of food because then you can regulate that pleasure.
+
+2 (26m 19s):
+'cause you're getting pleasure everywhere, but people don't get touched. That's a really interesting idea.
+They don't have community, they don't have any other
+
+4 (26m 25s):
+Pleasures. But that's what I Mean. Right. If we could, if we could like honor our need like, like what we were
+saying outside time and safety. Yeah, yeah, yeah. And like the whole labor market being organized differently
+so that it's not like you have to squeeze all your pleasure into like two minute micro installments, like, You
+Know, six times a day. Right. Yeah. Like, I think we would have a very different relationship to compulsion
+and appetite and pleasure and relief if, You Know, if American society were set up in such a way that would
+like, honor people as like beings that need these things.
+
+2 (26m 53s):
+
+Right. Also, this isn't unique to America. I don't wanna, 'cause like England, like of course
+
+4 (26m 57s):
+Pretty tough
+
+2 (26m 57s):
+Right now. Of course. So we have seen similar things compared to
+
+0 (26m 60s):
+Also I think something we, we, we also have to consider is this, one of my biggest beefs is, is that
+corporations have found ways to create messaging that tricks people into making the corporation's problem
+their problem. Yeah. In the same way oil companies scammed us into thinking that recycling was our job.
+Right. And they make it about individuals. Right. Yeah. You need to recycle. Yeah. No, no, no, no. Let me tell
+you something. Recycling is not our job. Mm. The job is to not make the thing in the first place. We take for
+granted how many times and we ignore how many times we get tricked into believing that it's us.
+
+0 (27m 43s):
+And I think the same thing has happened with food and indulgence in America and in the rest of the world.
+Yeah. Is where, You Know, to your point, GIA is like, people have been made to feel guilty about their
+appetites and about their indulgence and about their, and then we create this world where we now fight with
+each other. Why are you letting your kid eat so much? Well, I can't. Well it's my child, it's their appetite.
+Yeah. I don't wanna stop. I don't wanna make them guilty. And no one seems to be asked, not no one, but
+like, I think sometimes we forget to ask the question. Like, wait, why is it impossible for your child, your child
+to stop eating those chips? If we live in a society where we blame people for the addiction, catching them,
+but don't ask who's imposing the addiction upon them, then I feel like we're playing a game of whack-a-mole
+telling everybody in society that they need to be better.
+
+0 (28m 26s):
+When in fact we're ignoring the fact that, You Know, yeah,
+
+2 (28m 28s):
+For sure
+
+0 (28m 29s):
+These Ozempic type drugs, as much as we are focusing on them as the conversation, I feel like they've
+exposed this underbelly of addiction that we've all allowed.
+
+2 (28m 40s):
+Yeah. I think Trevor, what you're getting at is that we've always thought all of these things are just a question
+
+of willpower. Yes. And it's not about and and responsibility. And I think your piece touches on that as well. It's
+not, it's no, it's not willpower. Like the system is basically working against all of us. And some of us are able
+to resist better than others and
+
+0 (28m 59s):
+Resist some of it, by
+
+2 (28m 59s):
+The way, and some of it. But I think it's, it's caught all of us in a way.
+
+4 (29m 4s):
+Yeah. I feel like that's the whole story of, of the entire conversation around weight. Right. Like it's who is
+making the money off of them and who's making the money off of the cure also. Yes. Follow the money also
+is like the
+
+0 (29m 13s):
+Go always follow the money.
+
+2 (29m 14s):
+Yeah.
+
+0 (29m 14s):
+Yeah. Yeah. So let's, so let's talk a little bit about, about, You Know, if we move beyond appetites per se, and,
+and we, we, we come back to the, the world of these drugs, what they're doing and, and how people are, are
+using them. Have we now entered a new world? You Know, jia to what you're saying, where this will become
+another instance of the haves being able to escape another ill in society. There's, there's a, it's almost like
+we've put a price on people being able to evade this thing, this net of addiction that has been cost upon
+everybody.
+
+2 (29m 53s):
+Also, I think Gia just to hop in, it's like we're talking about Ozempic so much because people lose weight.
+Yeah. And we think losing weight is the better thing to do and now it means that there'll be a class of people
+that can do that. Yes. And not have to go through the cruelty of fatphobia. And it's gonna be the people with
+money that can perhaps escape that everyday cruelty and then the people that don't can't do that. Well,
+
+4 (30m 15s):
+Yeah. I think one of the things that does seem maybe meaningfully new about this is that the beauty
+standards of the last decade seem to me to be this really kind of insidious arms race between like digital
+enhancement and then technological alteration to match digital enhancement. And then you digitally
+
+enhance more and then use technology to further sort of shape, inject discipline, whatever. Like, the thing
+that really scares me is the idea that an unaltered body or face is aberrant or deviant and sort of
+unacceptable. That, like, that's the thing that I find really like existentially terrifying.
+
+0 (30m 56s):
+Damn. Yeah. It's almost like in those, You Know, when you watch those cyberpunk future movies Yeah.
+Where like, people are judged because they don't have cybernetics now, You Know? Yeah. So everyone has
+Yeah. And that's, that's an interesting way you've just put it, now it becomes judgment because like, well why
+aren't you making yourself better? Yeah.
+
+4 (31m 13s):
+And I think plenty of people who are fat and healthy and perfectly happy in their lives are, are, are now hit
+with this sort of unbearable wave of like, well, why don't you just get the little jab? You Know? Mm.
+
+0 (31m 23s):
+Because now it seems like you're actively making a choice to not be healthy or to
+
+4 (31m 28s):
+Like, why, why wouldn't you? Why wouldn't you conform? Right. Like, it's so
+
+0 (31m 31s):
+Here, here's a question I do have. I'm gonna throw a few things at you and everybody go for it. Trigger
+warnings, everybody. Safe space trigger warning, every geo trigger warning. And feel free to plead the fifth.
+No one needs to speak. Okay. I don't wish to bring anybody down with me. Alright. I'm the pilot who will tell
+you to jump out of the plane before I take it on this dive. So let's, let's, let's get, let's get messy with a few of
+these, of these moments and these conversations. Sometimes it feels, and I'm speaking for people and
+'cause I generally don't think I'd struggle with this as much myself, but I do know that there's a little
+inconsistency or, or what people perceive as a, as a flipping of a narrative when a celebrity, let's just deal
+with celebrities. Celebrities will come out. They go, I love my body, my body's great.
+
+0 (32m 11s):
+They build fans based on that body. And that body being great fans are like, we love your body, your body's
+great. We're all with you. And then the celebrity pops out like after six months they've just disappeared.
+Yeah. And they come back and they've got a completely new body. And then they're like, Hey, I've got a new
+body. Yeah. And then people are like, yo, what the, wait, what, what, what just happened here? And they're
+like, no, I love this body because actually I wasn't healthy and I wasn't happy and my knees were hurting me,
+whatever it might be. And then they get a, a level of backlash from the people that were body positive who
+are now sort of anti-body positive because now their body's gone a different way.
+
+0 (32m 52s):
+Do, does this make sense? And almost feels like in the same way everything else in society has become like
+a, a cult. It's like, it sometimes feels like we are not working towards a place where people can be the way
+they wish to be. We are working to a place where people can be the way we wish them to be. And then if
+they deviate from that, we kick them out. Do you get what I'm saying? Like, look at how many people were
+angry at Adele for losing weight. Yeah. Angry at her. Jennifer Hudson angry at her For sure. Do You Know
+what I Mean?
+
+2 (33m 22s):
+I, I've, I, You know, not to speak on behalf of fat people or fat women at all, but I think there's so, so little
+imagery of women that had perhaps Adele's old body or Jennifer Hudson's old body. There was something
+very comforting for people to see a fat woman who's thriving and have this incredible career. Right. And
+there's like this disappointment or resentment when that celebrity then changes their body. I, I speculate
+some of that. Right.
+
+4 (33m 51s):
+I, I Mean I, I mentioned earlier like the, the whole dove every You Know, everyone is beautiful. Like the big,
+the the beginning of the sort of corporatized body po positivity movement. It, it seemed dangerous to me
+immediately. 'cause it seemed like no, like actually beauty is this sort of arbitrary assignation based on
+people's conformity to market forces. Yeah. It's not like, it's not like a spiritual moral good. Like it was this
+whole thing that was really important to say that everyone was beautiful as if to say everyone is good. And it
+was like, no, no, no. Everyone is good and worthy, but perhaps that has nothing to do with beauty.
+
+0 (34m 25s):
+Oh wow. That's fascinating. Yeah. And
+
+4 (34m 27s):
+It seemed to me like perhaps it is just much more important to say like, everyone is worthy and beauty is not
+as important as we ever thought it was at all. Like, it's just this thing Right.
+
+0 (34m 36s):
+To to dumb that down in a way. It's, it's almost like what you're saying is
+
+4 (34m 40s):
+It's body neutrality. Yeah.
+
+0 (34m 42s):
+I like that as a, that's, I never, I never thought of that actually.
+
+4 (34m 44s):
+Yeah. And it just, it just seemed like, oh, this is a thing that people are gonna make a lot of money off of.
+Yeah. For
+
+0 (34m 48s):
+Sure. Now we are trying to get to Yeah. We're still trying to get to beauty.
+
+4 (34m 51s):
+Okay, hold on. There's this click hole article from 2016. Yeah. That the headline is this plus size model was
+inspiring, but then she lost a hundred pounds, which was also inspiring even though she was already perfect
+before, but she's also perfect now. You Know, and it was like, like it's, it's like this very like, ugh. Like, and
+and it's like this is the sort of circular hamstring Yes. Wheel that you get into when it's like everyone's
+beautiful, but also health is good, but also we love you no matter what you do. Yes. But also some choices
+are socially weighted and, and it's just so, so
+
+0 (35m 20s):
+So here convoluted.
+
+2 (35m 22s):
+I I just wanted to throw tres in. Oh, definitely. Re McMillan Cotton Brilliant sociologist. She talks about
+structural ugliness, right? Yeah. This the, the thing about like how beauty is like this structural concept,
+concept and like, even though you can feel beautiful on an individual level, structurally, If you are dark skin
+fat Right. And ideas, ideas, you are seen as ugly. And I think what Ozempic is getting at is just like, it's this
+cure to that structural ugliness of weight. That's interesting. And that's what a lot of thinkers are trying to
+resist that. Like, why have we made being bigger structurally ugly?
+
+0 (35m 55s):
+So, You Know, I, so there's two things. Okay. First of all, I think we shouldn't forget, and this is why it's hard
+to have these conversations in society, I believe because people weaponize certain parts of conversations
+Yeah. And use it as a cudgel against others. Let's take it to like athletes. LeBron James had to lose a lot of
+weight or he decided rather Yeah. LeBron James decided to lose a lot of weight. LeBron said, if I want my
+knees to take the pounding that they're gonna take me, jumping me. It is easier if I carry less weight. It is
+easier for me to run across a court if I carry less weight. I think the thing we shouldn't take for granted is, is
+like, I almost wish there was a world where we could, we could all go into good, good faith conversation land.
+
+0 (36m 38s):
+Yeah. You Know, where we can talk about health but it not be used against somebody else in like a shitty
+way. Yeah. A doctor can say, Hey, you do want to try and, and work out as much as possible 'cause good for
+your heart, but then someone's not gonna point to someone and go like, you see you piece of trash. Yeah.
+
+But it is important for people to know, like the lifting of weights, just like, just like resistance training has been
+shown to be one of the most important factors in longevity. I'm not, I'm not saying living long, I'm saying living
+as a functional person for as long as possible. So that's, that's like one side. Okay.
+
+2 (37m 7s):
+So I agree with you, but I think Gia you probably understand what I say here as a woman in those spaces,
+sometimes it is so hard to dis disconnect the pursuit of longevity and health for the pursuit of a body that,
+especially in a city like la New York or London. I'm with you completely. That people won't disapprove of trust
+
+0 (37m 25s):
+Me with, with men. It's not exactly the same. Yeah. But we also, and I I I'm not sure it's exactly the same
+'cause we don't get judged the same. But I know as guys there's also a diff there's also a difficulty you're
+standing in the gym and you're going, I'm here to look healthy. But also man, I'm so far from Marvel body
+Yeah. A Marvel body. So I'm far from it. You
+
+2 (37m 44s):
+Know, I don't know, like Chris Evans, I'm so far from Captain
+
+4 (37m 46s):
+America. I think back to the LeBron thing though, it's like, You Know, he has very specific needs for physical
+performance for his body. Yes. But that, that, that many of, that all of us do not. But I think it's an interesting
+thing to bring up because the question is how does he need to live in and or change his body to do the
+things that he wants to do with it. Yes. Right. Even that as a way that people would talk, even that would be
+just a really nice way for it
+
+0 (38m 12s):
+Would be amazing. Right? Yeah. People talk about
+
+4 (38m 13s):
+Yeah. Like, it's like for people, like it's, if if weight was incidental to that, it was like, can you do the things in
+your life love that you wanna do? Love that. Yeah. You Know, Do you feel good?
+
+0 (38m 21s):
+I love that. I actually love that.
+
+4 (38m 23s):
+And it's like, that is probably the foundation that, You Know, that that could be
+
+0 (38m 27s):
+
+The start of That's amazing. Whatever we, we need to healthier conversation. Right. We need to get that
+somewhere. Yeah. Because I feel like that could make a meaningful difference. Yeah. It's, it's like, hey, can
+you do, can you lift your overhead luggage in the plane comfortably? Can you lift your child comfortably?
+Yeah. Can you move a couch? If, but it's only the things you do. Can you live your life the way you would like
+to? Yeah.
+
+4 (38m 47s):
+Yeah. And like, Do you feel good? Do you feel good in your body? Right. I think that's what I was thinking
+about the like appetite and pleasure thing. Right? Like if that was valued. Right. Like people just feeling good
+in the
+
+0 (38m 56s):
+Way. Oh man, I really love that idea.
+
+4 (38m 59s):
+Like it seems extremely health conducive, right? Yes. Sure.
+
+0 (39m 2s):
+We need to get, we need to get DeAngelo to come back and do a remix. Exactly. And this one will be like,
+how Do you feel? That's what it'll be. Don't go anywhere. 'cause we got more What Now after this? You
+Know what I, You know what I also realize as we are speaking about this, whether we like to admit it or not,
+humans are generally judgmental. Right? We hold and cast judgments upon other people because it either
+makes us feel like we are doing well. Yeah. Or it makes us, whatever it is, there's reasons we do it.
+
+0 (39m 42s):
+Right. I think we shouldn't ever take for granted the fact that fatness is one of the few things that somebody
+can see on you that tells them something about you in some way, shape, or form it. You don't know what it's
+telling you, but you can see it. Yeah. But like, think of it this way. If somebody has a, has a gambling problem
+or likes gambling or whichever way you wanna put it, that person, you can't tell if somebody drinks a lot of
+alcohol, is addicted to alcohol or likes alcohol, drinks an occasion, you can't tell. Do you get what I'm saying?
+Yeah. And I think what's what's strange about fatness is it is one of the few things where people from far can
+just assume many things about you because they can like sort of see it from the outside and
+
+2 (40m 26s):
+Not just make judgments, but express those judgments. Yes. But I think with fat people, we're very
+
+0 (40m 32s):
+Prescriptive. We
+
+2 (40m 33s):
+Are like, and sometimes it's the well,
+
+4 (40m 35s):
+And we see that body as like, this is a sign
+
+2 (40m 37s):
+Of a problem. Yeah. I'm like, are you sure you want to eat? That is a thing said to people who are fat or like,
+I, I saw a TikTok, a woman was like being fat and exercising as people on the street going go, you, I'm so
+proud of you. And she's like, I'm just on a ride. Like, why Do you feel this need to like encourage me? The
+people trying to be nice, but like what's under that is like, you're someone that should be pitied and needs
+my encouragement in a way that's kind of infantilizing you. And I think that's the thing about fat phobia. We
+just feel like we can say anything to people who are fat, You Know? Yeah. And it's often really cruel.
+
+0 (41m 10s):
+That's actually a really good point.
+
+4 (41m 11s):
+Well, there was a, there was a thing, there's like, Harvard does this implicit bias study, and I think I
+mentioned it in that piece that I think it was, I'm gonna get the dates wildly wrong, but it was maybe sort of
+from a point in the mid two thousands to a point in recent years, they analyzed sort of 10 vectors of bias
+about age, about skin color, about like gender, about, You Know, like these various things. Every single
+implicit and explicit expression of bias went down in that sort of like Obama era period except for bias
+against weight. And that went, went up, I believe both implicit and explicit.
+
+0 (41m 50s):
+So, so everything went down. I was
+
+4 (41m 52s):
+Quite surprised by that. Yeah. Everything went huh, in, in everything went down of the 10 things tested in this
+particular Harvard study. Yeah. It's interesting.
+
+0 (41m 58s):
+Well, that's, that's, that's really fascinating. Yeah. Yeah. I look, I, I think, I think, You Know, as, as we said in
+the beginning of this conversation, this feels like a, an inflection point and a moment where the
+conversations we have going forward are going to continuously evolve because now there's been a new
+agent that's been introduced. Yeah. I feel like we're at, we're at that point now with these Ozempic Yeah.
+Type drugs is they're now making us ask questions that go far beyond the questions that we've sort of been
+comfortable living in for a while. And those questions are, what is health? Are we trying to promote health or
+
+are we trying to promote our moral superiority upon other human beings?
+
+0 (42m 42s):
+Yeah. Are we trying to, You Know, run around shaming people because it makes us feel better. Why do we
+even feel, as you said, Christiana, that we have the rights to do these things and then with children, what
+does it mean for the future? Because again, the big thing I think we also have to include in this is we don't
+know what the very long-term effects of these drugs are. Yeah. Because they're so new. I Mean, If you think
+about mass adoption for a long period of time, for people who haven't had insulin issues, for people who
+don't have diabetes, we don't know. And I think that's something people always have to be careful of, is
+realizing that we don't know. What we do know is how we can treat people today.
+
+0 (43m 25s):
+And so Gia What Now, from your perspective, I'll break it down in two parts. What, what Do you think we're
+going to see now and then what would you hope we would see now that that, that maybe we wouldn't, and
+maybe we will,
+
+4 (43m 38s):
+What I thought originally about the best case sort of culture, cultural effect of this, You Know, the fact that
+this technology exists could be, is that we could kind of remove the moral vales from every part of this
+conversation possible, right. That we could understand that metabolism and the hormonal preset that leads
+your body to be a certain weight. And the, that all of it is much more sort of arbitrary and, and, and kind of
+morally neutral and, and like you said, Christiana like a, a sign of just all of the other things environmentally
+that you're swimming in. Like I think that is the best thing that something like Ozempic can do is just, is lead
+people to the understanding that If you can radically change people's relationship to fullness by, by one
+injection, then maybe it wasn't something that everyone should have been judging people.
+
+4 (44m 30s):
+You Know, then very clearly it's not something that damn, damn that, that deserved decades of moral
+century, like a full century of, of moral condemnation by like the entire beauty industry. Right? Yeah, of
+course. It doesn't seem to have led there at all. And I think, I mean, I have no real predictions other than the
+fact that, You Know, one thing about GLP one drugs is you, in the vast majority of cases, as soon as you
+stop taking them, your the, your body reverts to how it was before. Yeah. So the, the weight loss lasts as
+long as you take them basically,
+
+0 (45m 1s):
+And, and you gain and you gain more fat and you,
+
+4 (45m 4s):
+You gain it back. Yeah. So this is,
+
+0 (45m 6s):
+'cause it's something we've learned about bodies, I think from the starvation experiments back in the day, the
+only ones we really have on like weight is Right.
+
+4 (45m 14s):
+Dieting slows your metabolism. Yeah. And that's one of the reasons that fat phobia leads to obesity very
+directly. Right. And, and so, You Know, I I think, I think we have yet to see the wave of what happens when
+people come off of this and reckon with the sort of exit plan if there is one or the sort of lifetime use for the,
+for the, for the sort of like beauty use case, You Know? Yeah. Yeah. And I don't know what that'll look like. I
+don't know how people will talk about it or how open it'll be. It still doesn't seem like this is something that
+people talk about frankly, when it comes to their own use of it. And I don't know, it'll be interesting to see if
+and when and how people ever do
+
+0 (45m 51s):
+Yeah. That's, that's, that's a really, I think a very honest way to look at all, like all, all the potential outcomes
+for what it could or might or should be as we move forward. I, I will throw in like a random prediction. Okay. I
+think, and this is a crazy thing to say, okay, I think at some point the American government is gonna shut
+these drugs down because these drugs, if they get to like a point where they are extremely effective, 'cause
+right now they don't work for some people. Yeah. But when they get to the point where like these drugs are
+just nailing it and I Mean just nailing it, I think they might get shut down.
+
+0 (46m 31s):
+Interesting. Because what is America, if people are not addicted to social media, people are not addicted to
+fast food. People are not addicted to junk food. A lot of America has been built on corporations getting
+people addicted, not giving them something, but getting them addicted to things. And I wonder if, and I know
+it's like almost conspiracy theory level, but I go, like, I wonder if at some point these corporations and these
+CEOs are gonna phone people in Congress and go like, Hey, this one drug interesting is shutting down a lot
+of how American companies make their money. You need to shut it down. And I don't think that that's
+impossible, to be honest with you.
+
+2 (47m 13s):
+I agree with you. I have a working theory. I think that like, as there is this kind of like anti wokeness thing
+happening and people are swinging to the right, I think the obsession with thinness is also an expression of
+that. And as long as we're kind of in this kind of right wing ish, populist conservative era, people are gonna
+long to be thin. Because I think that when people talk about, interesting, when people like use woke as a
+slur, they'll mention people, they'll mention movements, they'll ll interesting mention DEI, they'll mention body
+positivity, they'll mention transness. All of these things that for a brief moment, for about two to seven years
+were coming into mainstream almost acceptance.
+
+2 (48m 1s):
+They weren't quite acceptance. They were coming into it. And I think that this thin, white, blonde, ideal
+Barbie movie, guys, it's not a coincidence. It's not a coincidence that like Patel made an ad and we were like,
+oh, we should get an Oscar. But it's just like all of that being ascendant and like the Kardashians, If you say
+rejecting like the curvy body, as long as that's the case, people are gonna wanna be thin. Damn. And I think
+and the Kardashians remembering their weight and remember, and, and being white and even dating white
+men, something's happening. And then like, until it swings and people are like, we don't mind Kirby bodies,
+we don't mind brown skin and full lips. And people, the, the politics feel different. I think the thinness and the
+pic is here to stay
+
+0 (48m 42s):
+Well as they say at the end of every great epic movie. That's about to begin, really. End of part one. Gia,
+thank you very much for taking the time. Thank you for joining us and I hope we see you again.
+
+2 (48m 54s):
+Thank you, GIA. Thank you so much.
+
+0 (49m 2s):
+What Now with Trevor Noah is produced by Spotify Studios in partnership with Day Zero Productions. The
+show is executive produced by Trevor Noah, son Yin and Jody Agan, our senior producer is Jess Hackle,
+marina Hanky and Claire Slaughter are our producers. Music mixing and mastering by Hannahs Brown.
+Thank you so much for listening. Join me next Thursday for another episode of What Now?
+
+
+
+## Metadata
+- Source file: junk_drawer/The Ozempic Obsession with Jia Tolentino (ARCHIVE EPISODE) [VIDEO]-transcript.pdf
+- Extracted: 2026-05-18
+- Category: media-transcript

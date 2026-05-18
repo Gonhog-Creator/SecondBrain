@@ -12,3 +12,6 @@ __pycache__/
 AI/Scratchpad/temp/
 
 *.log
+
+# Syncthing conflict files
+*.sync-conflict*

@@ -1,0 +1,44 @@
+# CHE 450 - Homework 8 (2023).pdf
+
+Source: junk_drawer/CHE 450 - Homework 8 (2023).pdf
+
+Category: [[academic-homework]]
+
+## Summary
+DEPARTMENT OF CHEMICAL & BIOMOLECULAR ENGINEERING NORTH CAROLINA STATE UNIVERSITY CHE 450 Homework Set 8 Problem 1 (30%) You need to borrow $1000 for an emergency. You have two alternatives. One is to borrow from a bank. The other is to borrow from your childhood friend Sully, who is in the “private” financing business. Because you and Sully go way back, she will give you her preferred rate of $5/week until you pay back the entire loan. (a, 15%) What is Sully’s effective annual interest rate? (b
+
+## Full Content
+DEPARTMENT OF CHEMICAL & BIOMOLECULAR ENGINEERING
+NORTH CAROLINA STATE UNIVERSITY
+CHE 450
+Homework Set 8
+Problem 1 (30%) You need to borrow $1000 for an emergency. You have two alternatives.
+One is to borrow from a bank. The other is to borrow from your childhood friend Sully, who is
+in the “private” financing business. Because you and Sully go way back, she will give you her
+preferred rate of $5/week until you pay back the entire loan.
+(a, 15%) What is Sully’s effective annual interest rate?
+(b, 15%) Your alternative option is to borrow from a bank, where the interest is compounded
+monthly. What nominal interest rate would make you choose the bank over Sully?
+Problem 2 (25%) Consider the following three investment schemes:
+1) 9.5% p.a. (nominal rate) compounded daily
+2) 10.0% p.a. (nominal rate) compounded monthly
+3) 10.5% p.a. (nominal rate) compounded quarterly
+(a, 15%) Which investment scheme is the most profitable, assuming that the initial investment
+is the same for each case? Show calculations supporting your answer.
+(b, 5%) What is the effective annual interest rate of the best scheme?
+(c, 5%) What is the effective interest rate of the best scheme when compounded continuously?
+Problem 3 (30%) What would be the final value of investing $15,000 in an account where it
+earns 9% p.a. for 15 years when compounded (a, 6%) yearly, (b, 6%) quarterly, (c, 6%)
+monthly, (d, 6%) daily, and (e, 6%) continuously?
+Problem 4 (15%) Suppose you begin investing in the stock market at age 25 and want to have
+$1,000,000 in stocks when you retire at age 65 (in other words, you will invest for 40 years).
+You plan to make the same annual investment each year. Assuming an effective interest rate of
+8% p.a., how much money would you need to invest each year to achieve your $1 million
+goal?
+
+
+
+## Metadata
+- Source file: junk_drawer/CHE 450 - Homework 8 (2023).pdf
+- Extracted: 2026-05-18
+- Category: academic-homework

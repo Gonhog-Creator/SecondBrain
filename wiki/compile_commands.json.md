@@ -1,0 +1,41 @@
+# compile_commands.json
+
+Source: junk_drawer/github/EvolutionSimSite/src/public/build_wasm/compile_commands.json.txt
+
+Category: [[github-code]]
+
+## Summary
+[ { "directory": "/Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/build_wasm", "command": "/Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/emsdk/upstream/emscripten/em++ -c /Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/engine/core/Application.cpp  @CMakeFiles/EvolutionSimLib.dir/includes_CXX.rsp  -Wall -Wextra -Werror -O3 -g0 -fno-exceptions -fno-rtti -s DISABLE_EXCEPTION_CATCHING=1 -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/EvolutionSimLib.dir/engine/core/Appl
+
+## Full Content
+[
+{
+  "directory": "/Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/build_wasm",
+  "command": "/Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/emsdk/upstream/emscripten/em++ -c /Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/engine/core/Application.cpp  @CMakeFiles/EvolutionSimLib.dir/includes_CXX.rsp  -Wall -Wextra -Werror -O3 -g0 -fno-exceptions -fno-rtti -s DISABLE_EXCEPTION_CATCHING=1 -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/EvolutionSimLib.dir/engine/core/Application.cpp.o -fPIC",
+  "file": "/Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/engine/core/Application.cpp",
+  "output": "CMakeFiles/EvolutionSimLib.dir/engine/core/Application.cpp.o"
+},
+{
+  "directory": "/Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/build_wasm",
+  "command": "/Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/emsdk/upstream/emscripten/em++ -c /Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/engine/Logging.cpp  @CMakeFiles/EvolutionSimLib.dir/includes_CXX.rsp  -Wall -Wextra -Werror -O3 -g0 -fno-exceptions -fno-rtti -s DISABLE_EXCEPTION_CATCHING=1 -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/EvolutionSimLib.dir/engine/Logging.cpp.o -fPIC",
+  "file": "/Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/engine/Logging.cpp",
+  "output": "CMakeFiles/EvolutionSimLib.dir/engine/Logging.cpp.o"
+},
+{
+  "directory": "/Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/build_wasm",
+  "command": "/Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/emsdk/upstream/emscripten/em++ -c /Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/platform/web/wasm_app.cpp  @CMakeFiles/EvolutionSimLib.dir/includes_CXX.rsp  -Wall -Wextra -Werror -O3 -g0 -fno-exceptions -fno-rtti -s DISABLE_EXCEPTION_CATCHING=1 -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/EvolutionSimLib.dir/platform/web/wasm_app.cpp.o -fPIC",
+  "file": "/Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/platform/web/wasm_app.cpp",
+  "output": "CMakeFiles/EvolutionSimLib.dir/platform/web/wasm_app.cpp.o"
+},
+{
+  "directory": "/Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/build_wasm",
+  "command": "/Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/emsdk/upstream/emscripten/em++ -c /Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/platform/web/wasm_app.cpp  @CMakeFiles/EvolutionSim.dir/includes_CXX.rsp  -Wall -Wextra -Werror -O3 -g0 -fno-exceptions -fno-rtti -s DISABLE_EXCEPTION_CATCHING=1 -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/EvolutionSim.dir/platform/web/wasm_app.cpp.o -fPIC",
+  "file": "/Users/josemariabarbeito/PycharmProjects/EvolutionSimSite/platform/web/wasm_app.cpp",
+  "output": "CMakeFiles/EvolutionSim.dir/platform/web/wasm_app.cpp.o"
+}
+]
+
+## Metadata
+- Source file: junk_drawer/github/EvolutionSimSite/src/public/build_wasm/compile_commands.json.txt
+- Extracted: 2026-05-18
+- Category: github-code

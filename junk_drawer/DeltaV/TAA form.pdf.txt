@@ -1,0 +1,128 @@
+DETERMINATIONS & FINDINGS
+FORM
+FOR EXPORT LICENSE AND AGREEMENT APPLICATIONS
+1. Instructions
+Based on the initial information you have provided to NTS Technical Systems during the
+RFQ process, we have determined that our testing services for you, our customer, will
+require a license from the U.S. Government before we can perform the test and issue a test
+report to you. This is a data-gathering form that we will need you to complete in order to
+apply for the export authorization from the US Government. Please provide accurate and
+detailed information to avoid having our license application rejected.
+Please note that that both the testing services that NTS provides to you, and the
+information contained in our test report to you are both export-controlled and require a
+license or an agreement before your company can receive them. Also, discussions of test
+results in emails or by phone or video conference cannot occur until the license or
+agreement has been approved. Once we have an export authorization in place, we can
+conduct the testing and transfer the test results to your company via our secure file-sharing
+program, LabInsight. https://labinsight.nts.com/labinsight
+Test items controlled by the U.S. International Trafficking in Arms Regulations (“ITAR”)
+will require a Technical Assistance Agreement (“TAA”) from the U.S. Department of
+State’s Directorate of Defense Trade Controls (“DDTC”) before testing can begin. Test
+items controlled by the U.S. Export Administration Regulations (“EAR”) require a license
+from the U.S. Department of Commerce’s Bureau of Industry and Security (“BIS”) before
+the test report can be sent and the test item return to you.
+Please provide the information requested, below, which NTS will use this information in
+filing our license application with the government. Please note that license applications
+rejected by the government for incomplete or insufficient information may cause weeks of
+delay in the planned testing schedule.
+2. Who needs to be on this license?
+Please list your company’s full business name and headquarters address, as you want
+it to appear on the license:
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+Please provide the name and contact information for an officer or a senior manager of
+your company who can sign the export agreement on behalf of your company:
+COR 6.5 rev 1
+
+1 of 3
+
+•
+•
+•
+•
+
+Name: _________________________________________________
+Title: _________________________________________________
+Phone number: _________________________________________
+Email address: _________________________________________
+
+Will you share test data and information with your customers? Yes
+No
+If yes, then please provide the names and addresses of your customers (including the
+country in which they operate) along with the name and email of your contact person:
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+Do any of your employees have citizenship in a country other than yours?
+Yes
+No
+If yes, then please list these countries: _____________________________________
+Do any of your employees have dual citizenship in your country and another country?
+Yes
+No
+If yes, then please list these other countries: ________________________________
+Do these employees with other nationalities have valid security clearances from your
+government? Yes
+No
+If yes, then please state the type of security clearance: _______________________
+3. Please confirm what the test item is: ________________________________
+__________________________________________________________________
+We have included the information that you have provided to us on the item you want
+us to test. Please provide more detailed information about your test item here. If you
+have a model number, or descriptive literature, please include. Please note that the US
+Government will reject license applications with incomplete descriptions of hardware:
+a. Name of test item: _____________________________________________
+b. Part number or other identification: _____________________________
+c. Who is the manufacturer of the item: _____________________________
+d. What is the master assembly that this item is designed for:
+_____________________________________________________________
+
+COR 6.5 rev 1
+
+2 of 3
+
+e. Type of testing you are requesting: _______________________________
+f. Do you want NTS to return the test item to you after testing is complete?
+Yes
+No
+g. In the future, will you need NTS to test products that are different from
+the ones you describe? Yes
+No
+If so, please list them: __________________________________________
+4. Information on the export license process:
+Licenses or Technical Assistance Agreements from the U.S. State Department will take
+from 60 to 90 days to be approved. Once a Technical Assistance Agreement has been
+approved, each party to the Agreement must sign the document confirming that they
+understand what is permitted under the agreement. Once the Agreement is signed,
+NTS will upload the Agreement to the State Department’s database, and we can begin
+the testing. If your business name changes, or if we need to add additional customers
+to the Agreement, please inform NTS Export immediately so that we can update the
+Agreement.
+Licenses from the U.S. Department of Commerce usually take 30 to 60 days for the
+government to approve. No signatures are necessary once the license is approved.
+For questions concerning this form or the export licensing process, please contact:
+Carolina Turner
+Manager, Import/Export Compliance
+(757) 992-4509
+carolina.turner@nts.com
+
+CERTIFICATION:
+I have read and understand this form, and I confirm that the information provided
+herein is accurate and complete to the best of my knowledge:
+Name: _________________________________
+
+Date: ___________________________
+
+Title: __________________________________
+
+Signature: _______________________
+
+Company: ______________________________
+
+COR 6.5 rev 1
+
+3 of 3
+
+

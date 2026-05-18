@@ -1,0 +1,347 @@
+# 23 Reagan, Bush, End of Cold War S20 posted.pdf
+
+Source: junk_drawer/23 Reagan, Bush, End of Cold War S20 posted.pdf
+
+Category: [[other]]
+
+## Summary
+Ronald Reagan • Gap Rhetoric/reality • Economics • Use of Force • Iran-Contra • Relations with USSR • Phase 1: Evil Empire • Phase 2: Let’s Talk • The 1988 Election
+
+## Full Content
+Ronald Reagan
+• Gap Rhetoric/reality
+• Economics
+• Use of Force
+• Iran-Contra
+• Relations with USSR
+• Phase 1: Evil Empire
+• Phase 2: Let’s Talk
+• The 1988 Election
+
+George H. W. Bush
+• The Collapse of the USSR
+• The End of the Cold War
+
+Reagan wins in landslide
+
+And, on Inauguration Day,
+the hostages are released.
+
+RR said he was a fiscal conservative,
+but he was a big spender
+
+US federal deficit, 1981 = $79 billion;
+1988 = $221 billion
+
+In1982, whenthis cartoon wasdrawn, thebudget forecasta $91.5 billiondeficit
+(in2017=$779billion;estimatefor2019=$1trillion)
+
+In 2019, it
+was 105.4%
+
+Unemployment rose sharply in 1st term,
+peaking at 10.5%; and fell in 2nd
+
+The “Misery Index” stayed high.
+
+RR talked about using military force,
+but his actions were timid.
+He sent US Marines to Lebanon.
+Their barracks were bombed in 1983.
+
+Oct. 23: 241 Americans were killed.
+
+RR said he would “stand tall,” but he withdrew
+the Marines from Lebanon in 1984
+
+The
+Iran-Contra
+Scandal
+
+US hostages are
+seized in
+Lebanon.
+RR believes Iran
+can get their
+release.
+He illegally sells
+weapons to
+Iran.
+
+PROBLEM:
+how to launder the money
+from the profits of the sale?
+
+Reagan called the leftist government in
+Nicaragua a threat to American security.
+
+He supported guerillas opposing the
+regime. They were called “Contras.”
+
+This was the litmus test of a true Reaganite.
+
+Congress balked.
+
+It refused to keep funding the Contras
+
+The solution:
+transfer
+the money
+from the
+illegal arms deal
+with Iran
+to the Contras.
+
+RR and the Soviet Union: Two Phases
+(1) 1981-1983 – The “Evil Empire”
+RR will leave it “on the ash-heap of history”
+
+Reagan & his aides talked about
+waging nuclear war – and winning.
+"Yes, there
+could be a
+limited
+nuclear war
+in Europe."
+Reagan,
+1981
+
+"The human race is
+very resilient. Some
+estimates predict
+that in a limited
+nuclear war as many
+as 10 million people
+might perish on one
+side and 100 million
+on the other ….
+
+Arms Control Agency
+head Eugene Rostow
+(1981)
+
+… but that is not the whole of the
+population."
+
+People were scared – in US and in Europe.
+The Nuclear Freeze Movement
+
+By 1983, RR’s approval ratings were falling
+& he was facing the ‘84 campaign.
+Nancy Reagan
+convinced
+him to
+tone down his
+rhetoric.
+
+The Cold War was getting more
+and more complicated.
+
+http://www.youtube.com/watch?v=NpwdcmjBgNA
+
+RR beat Mondale in ‘84
+
+But he had trouble opening talks with USSR.
+Problem: USSR leaders kept dying.
+Andropov died Feb. 1984
+Brezhnev died, Nov. 1982
+
+It was the end of the WW2
+generation in Soviet leadership.
+Chernenko died March 1985
+
+• Brezhnev, born 1906
+• Andropov, born 1914
+• Chernenko, born 1911
+
+A new generation in USSR:
+Mikhail Gorbachev
+Born 1931.
+Recognized need to
+revitalize Soviet
+economy.
+Introduced
+“perestroika”
+(restructuring) and
+“glasnost”
+(opening).
+
+Reagan and
+“Gorby”
+held a series of
+summits.
+
+Gorbachev set off a process of liberalization in
+the USSR that he could not control
+
+The foundations
+began to crack.
+
+Soviets withdraw from Afghanistan, 1988
+
+US Election of 1988
+
+Vice
+President
+Bush
+defeats
+Dukakis.
+
+US Election of 1988
+
+Vice
+President
+Bush
+defeats
+Dukakis.
+
+The George H. W. Bush Presidency
+
+“41”
+(not “43”)
+The End of the Cold War
+
+The First Gulf War
+
+Remember the Berlin Wall,
+begun in the JFK years?
+
+Nov. 10, 1989: Morning at the Brandenburg Gate.
+Thousands climb the Wall from the Western side.
+The East Germany army stands guard.
+
+And the wall came tumbling down.
+
+Tears of Emotion
+An East Berlin woman enters the western part of Berlin.
+November 11th 1989
+
+1991: The Soviet Union is dissolved.
+
+The “Soviet Socialist Republics” break away
+
+Commonwealth of Independent States
+
+The Cold War (1) Cost the US lives in Korea,
+Vietnam, and other interventions
+
+(2) Cost approximately $18.5 trillion
+
+(3) Cost
+many million
+lives of
+Vietnamese,
+Koreans,
+Angolans,
+Nicaraguans,
+Soviets,
+Chinese, etc.
+etc.
+
+(4) Led to the nuclearization of the world.
+
+Why did the Cold War end?
+• All theories are
+tentative.
+• Much of the
+evidence from
+USSR & US
+archives is still
+classified.
+
+Remember: Levels of Analysis:
+man – state – system
+The MAN level:
+The evidence
+indicates that
+Gorbachev
+– not Reagan –
+is primarily
+responsible for the
+collapse of the
+USSR.
+The Soviet Union collapsed from within.
+
+Now consider the STATE level:
+The Soviet economic system didn’t work as
+well as the US system.
+
+• Soviet standard of living, 1980s = ⅓ that of USA.
+• Chronic consumer shortages in USSR.
+
+Now consider
+the INTERNATIONAL SYSTEM
+
+Increasing TV & travel between
+East & West Europe
+fueled discontent in East Europe.
+
+Prague, 1989
+
+Idea of Human Rights spread through USSR
+
+Solidarity Movement
+in Poland, 1980s
+Pope John Paul II
+in Poland, 1979
+
+USSR Army bogged down in unpopular
+war in Afghanistan
+
+Finally, remember George Kennan
+and containment?
+
+Deputy Chief of Mission, US Embassy, Moscow
+
+Remember: He predicted that US could
+defeat USSR without war
+Kremlin is like a wind-up
+toy. If US contains USSR
+so it cannot expand,
+Soviet leaders will lose
+legitimacy. Soviet system
+will run out of steam &
+collapse in about 10 years.
+
+Lippmann’s alternative in 1947
+• The problem is in Europe – not the periphery
+• US MUST try to negotiate with Soviets
+
+Walter Lippmann
+Prominent US journalist
+
+Lippmann’s alternative:
+Must settle the German Question
+
+Was Kennan right?
+Or was Lippmann?
+
+Walter Lippmann
+Prominent US journalist
+
+Some say Kennan:
+US practiced
+CONTAINMENT &
+USSR ran out of
+steam
+
+But: what IMAGE comes to mind
+when I say
+“end of the Cold War”?
+
+The Cold War
+ended
+when Germany
+was reunited.
+Was Lippmann
+right?
+
+Could the Cold War have
+been avoided?
+
+
+
+## Metadata
+- Source file: junk_drawer/23 Reagan, Bush, End of Cold War S20 posted.pdf
+- Extracted: 2026-05-18
+- Category: other

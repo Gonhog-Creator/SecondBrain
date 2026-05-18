@@ -1,0 +1,504 @@
+# Review2Sol.pdf
+
+Source: junk_drawer/Review2Sol.pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+MA341 Applied ODE’s Review 2 1. Find |A|, A−1 , and eigenvalues and eigenvectors of the following matrices   5 1 
+
+## Full Content
+MA341
+Applied ODE’s
+Review 2
+1.
+
+Find |A|, A−1 , and eigenvalues and eigenvectors of the following matrices
+
+
+5 1
+
+a. 
+2 4
+
+Solution: det A = 18
+
+
+4
+1
+
+A−1 =
+18 −2
+
+−1
+5
+
+
+
+
+Eigenvalues: det(A − λI) = λ2 − 9λ + 18 = (λ − 3)(λ − 6). Hence λ1 = 3, λ2 = 6.
+ 
+ 
+1
+1
+Eigenvectors: v1 =  , v2 =  .
+−2
+1
+
+
+
+2
+
+
+
+b.  1
+
+−1
+
+2
+3
+−2
+
+−1
+
+
+
+
+
+−1
+
+2
+
+Solution:
+det A = 5
+
+4
+− 25
+ 5
+
+3
+A−1 = − 15
+5
+
+1
+5
+
+2
+5
+
+
+
+1
+5
+1
+
+5
+4
+5
+
+Eigenvalues:
+det(A − λI) = −λ3 + 7λ2 − 11λ + 5 = −(λ − 5)(λ − 1)2
+Hence λ1,2 = 1, λ3 = 5.
+ 
+ 
+ 
+1
+−2
+−1
+ 
+ 
+ 
+ 
+ 
+ 
+Eigenvectors v1 = 0 , v2 =  1  , v3 = −1
+ 
+ 
+ 
+1
+0
+1
+
+
+−1
+
+
+c. −3
+
+0
+
+
+1
+
+
+4 1
+
+0 2
+0
+
+Solution:
+det A = −8
+
+−1 0
+
+ 3 1
+−1
+A = − 4 4
+
+0
+0
+
+
+
+1
+2
+1
+
+4
+1
+2
+
+Eigenvalues:
+det(A − λI) = −λ3 + 5λ2 − 2λ − 8 = −(λ + 1)(λ − 2)(λ − 4)
+Hence λ1 = −1, λ2 = 2, λ3 = 4.
+ 
+ 
+ 
+0
+2
+−5
+ 
+ 
+ 
+ 
+ 
+ 
+Eigenvectors v1 =  3  , v2 = 0 , v3 = 1
+ 
+ 
+ 
+0
+6
+0
+
+
+
+2.
+
+Solve the following homogeneous problem x0 (t) = 
+
+Solution:
+
+
+
+cos 2t
+
+3
+
+−2
+
+4
+
+−1
+
+
+
+
+ x(t)
+
+
+
+sin 2t
+
+
+
+ + c2 e t 
+
+x(t) = c1 et 
+cos 2t + sin 2t
+sin 2t − cos 2t
+
+3.
+
+Solve the following systems of ODEs subject to given initial conditions.
+
+
+ 
+ 
+t
+2
+−1
+e
+1
+ x(t) +  , x(0) =  
+a. x0 (t) = 
+3 −2
+t
+2
+Solution: General solution
+ 
+
+
+ 
+1 t
+1
+t
++
+e
+(6t
+−
+1)
+1
+4
+
+x(t) = c1   e−t + c2   et + 
+1
+t
+1
+(3e
++
+4)
+(2t
+−
+1)
+3
+4
+Use IC
+ 
+  
+
+ 
+ 
+   
+1
+1
+1
+(−1)
+1
+1
+1
+1
+1
+4
+ = c1   + c2   −   =  
+x(0) = c1   + c2   + 
+1
+4 7
+3
+1
+3
+1
+2
+4 (3 + 4) (−1)
+to find c1 = 54 , c2 = 0. Thus,
+ 
+
+
+1 t
+1
+t
++
+e
+(6t
+−
+1)
+5
+4
+
+x(t) =   e−t + 
+1
+t
+4 3
+(3e + 4) (2t − 1)
+4
+
+Page 2
+
+
+
+5
+
+b. x0 (t) = 
+−6
+
+ 
+ 
+1
+1
+ x(t) +  , x(0) =  
+0
+−4
+et
+3
+
+
+
+Solution: General solution
+ 
+ 
+
+
+3et
+−1
+−1
+−
+−
+2
+
+x(t) = c1   e2t + c2   e−t +  2
+1
+2
+2et + 3
+Use IC
+
+ 
+  
+  
+−1
+−1
+− 23 − 2
+1
+= 
+x(0) = c1   + c2   + 
+1
+2
+2+3
+2
+
+to find c1 = −4, c2 = − 12 . Thus,
+ 
+
+
+ 
+3et
+−1
+−
+−
+2
+−1
+1
+
+x(t) = −4   e2t −   e−t +  2
+2
+2
+2et + 3
+1
+
+
+2
+c. x0 (t) = 
+5
+
+
+ 
+
+
+0
+cos t
+−1
+, x(0) =  
+ x(t) + 
+1
+sin t
+−2
+
+Solution: General solution
+
+
+
+
+ 
+
+
+9
+2 cos t − sin t
+2 sin t + cos t
+t − 15 sin t + t + 10
+cos t
+
+ + c2 
++
+x(t) = c1 
+1
+(6t
+−
+1)
+sin
+t
++
+(t
++
+2)
+cos
+t
+5 cos t
+5 sin t
+2
+Use IC
+
+ 
+     
+9
+2
+1
+0
+x(0) = c1   + c2   +  10  =  
+5
+0
+2
+1
+
+to solve for c1 = − 15 , c2 = − 12 . Thus,
+
+
+
+
+ 
+
+
+1
+9
+2
+cos
+t
+−
+sin
+t
+2
+sin
+t
++
+cos
+t
+t
+−
+sin
+t
++
+t
++
+cos
+t
+1
+5
+10
+
+− 1
++
+x(t) = − 
+1
+5
+2
+(6t − 1) sin t + (t + 2) cos t
+5 cos t
+5 sin t
+2
+
+Page 3
+
+
+
+## Metadata
+- Source file: junk_drawer/Review2Sol.pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

@@ -1,0 +1,2373 @@
+# Wringing in the New Year [VIDEO]-transcript.pdf
+
+Source: junk_drawer/Wringing in the New Year [VIDEO]-transcript.pdf
+
+Category: [[media-transcript]]
+
+## Summary
+0 (0s): Welcome to What Now? Another episode of the podcast. Where this time I'm in South Africa. And if you've listened to enough of the podcast, you'll know that when I'm in South Africa, that means I'm with my people. And when I'm with my people, we create different episodes on One of the first ones I did, I did for my 40th birthday was Anem Doda, a good friend of mine. She's a broadcaster, she is an executive producer, an all around media mogul, and most importantly a Supermom. And my other 
+
+## Full Content
+0 (0s):
+Welcome to What Now? Another episode of the podcast. Where this time I'm in South Africa. And if you've
+listened to enough of the podcast, you'll know that when I'm in South Africa, that means I'm with my people.
+And when I'm with my people, we create different episodes on One of the first ones I did, I did for my 40th
+birthday was Anem Doda, a good friend of mine. She's a broadcaster, she is an executive producer, an all
+around media mogul, and most importantly a Supermom. And my other friend, CSWE Gomo, he's a TV
+presenter, a radio host, a business person, and economics. I think he has a degree in some, he studies a lot,
+whatever the point is, he's a friend. And we're gonna be chatting together.
+
+0 (41s):
+Disclaimer, for everyone who listens, these are South Africans. I'm including myself. So we are gonna talk
+like South Africans. And yeah, whatever happens, happens. Because when my friends and I do a podcast,
+we try and make it as informal as possible. So if you're looking for like the dictionary definition of like a
+simple podcast, you came to the wrong place, scroll to the next one in your feed now and, and enjoy that.
+But if you're looking for like an honest get together of three human beings who love, respect, and fight with
+each other, then you've come to the right place. Welcome to What Now. This is What Now with Trevor Noah.
+
+Ultra Running (1m 24s):
+This episode is brought to you by ultra running ultra mix performance running shoes that are insanely
+comfortable with a roomy toe box and zero to low drop. This helps keep your feet in a more natural position
+so you can move how you were designed to perfect for the road trail or gym. You could wear them for miles
+and forget that they're there. Stay out there with Ultra. Try Ultra for yourself with a free 30 day trial and free
+shipping@ultrarunning.com.
+
+Apple (1m 51s):
+If you love iPhone, you'll love Apple Card. It comes with the privacy and security you expect from Apple. Plus
+you earn up to 3% daily cash back on every purchase, which can automatically earn interest when you open
+a high yield savings account through Apple Card. Apply for Apple Card in the wallet app, subject to credit
+approval. Savings is available to Apple Card owners, subject to eligibility Apple Card and savings by
+Goldman Sachs, bank usa, salt Lake City, branch member, FDIC terms and more at Apple Card dot com.
+
+3 (2m 35s):
+1, 2, 3, 4. I declare a thumb war 1, 2, 3, 1. No, that sounds great. That I
+
+0 (2m 41s):
+That this sounds great. We hearing nothing
+
+3 (2m 44s):
+Even put something is Yeah, you, your face went, bitch. What Do you think I hear? Oh man, you look at me
+like, yeah, this, this is who I is.
+
+0 (2m 59s):
+Oh, that is so funny.
+
+3 (3m 2s):
+Which
+
+4 (3m 2s):
+Do you think? I'm
+
+3 (3m 3s):
+Like,
+
+0 (3m 4s):
+It's so welcome guys. Happy New Year. Happy New Year. Can you still say Happy New Year?
+
+4 (3m 7s):
+Yeah, dude, of course. Until you,
+
+0 (3m 9s):
+What Do you mean? Until, okay, what's your time? What's your cutoff?
+
+4 (3m 12s):
+I mean, You
+
+3 (3m 12s):
+Know, Valentine's Day, it depends how well
+
+4 (3m 14s):
+I know you. It also, it depends how well I know you. Yeah. Okay. So with you guys, it's like, okay, you're
+pushing it now, but
+
+0 (3m 19s):
+We so we are at the cusp. Yeah. All
+
+3 (3m 21s):
+People you close to you should have said happened. You on the first of Jan. Otherwise not close.
+
+0 (3m 25s):
+
+I've never thought of like a, a scale, like a gradient for when you
+
+4 (3m 29s):
+Can say everything is say on the spectrum, bro. Yeah. You, you,
+
+0 (3m 31s):
+You're the, you truly a math guy for everything. See, there's got like a graph for everything. The X axis is
+friendship time. Then the Y axis is,
+
+3 (3m 39s):
+But remember, CZU didn't have friends. He's got cousins. We, we are the first friends. That's Lily's. Please.
+Let's
+
+0 (3m 45s):
+Remember. So happy, happy New Year guys. Happy New Year.
+
+4 (3m 49s):
+That's funny. Happy year to you too.
+
+0 (3m 52s):
+Yeah, man.
+
+4 (3m 53s):
+Stranger.
+
+0 (3m 54s):
+What Do you mean, stranger?
+
+4 (3m 55s):
+I can see we said If you are a friend, you should have said heaven. Yeah. Wow.
+
+0 (3m 59s):
+Oh, wow. Okay. Oh,
+
+3 (3m 60s):
+You came back with that one,
+
+0 (4m 1s):
+Don't you? Okay. All right. All right. At least you are on form. We, we are in the mix. I think differently about
+
+the conversations we are gonna have, because I enjoy delving into your minds as friends, but also as
+problem solvers. And then I find sometimes when we have these conversations, like the, the last one we did
+on the podcast, people were just like, oh yeah, that was an interesting conversation. And you guys, your
+friendship. And what I realize is friendship is almost the, the cooking apparatus that we use to figure things
+out. Does that make sense? I get you. Because everyone can have a conversation. But I find when you have
+a conversation with your people, there are extra ingredients and extra tools that you have, namely your
+friendship that define some of the conversation that you can't get through with a stranger.
+
+3 (4m 43s):
+I think it's good to have a conversation with your friends, because we can say, ah-ha, don't say that one in
+public.
+
+4 (4m 50s):
+Keep
+
+3 (4m 51s):
+That one here.
+
+0 (4m 52s):
+Wait, Do you think that's still a thing? Yes. You guys, to us.
+
+3 (4m 55s):
+Oh, no,
+
+0 (4m 55s):
+No. Wait, wait. All time. No, no, no. But I, and this is an honest question. Yeah. In fact, this is a great
+question to, to kick us off. 'cause 'cause the, the, the, the conversation I wanted to have with you was what
+are you worried about going into the new year? Moving forward, right? Because a lot of people have like a
+positive outlook. Yeah. But I'll start with that. Funny enough. Do you think canceling is still a thing? I think it's
+finished.
+
+3 (5m 19s):
+I think the attempt to cancel is still there. And the fact that there could be an attempt to cancel you means
+that you could still be canceled because you could be ducking and diving and catch one stray that does
+cancel you. So canceling is still a thing. This is why it is important to ask your friends first. They call them
+WhatsApp conversations. You Know, sometimes, sometimes you'll tweet something or put it on X or you'll
+put it on Instagram and someone will be like, yeah, yeah, yeah. First start with your friends with that one.
+Test that
+
+0 (5m 41s):
+Out to then yeah,
+
+3 (5m 42s):
+It's, I think it's definitely still a thing.
+
+0 (5m 45s):
+I don't know. Course God,
+
+3 (5m 46s):
+If you, If you lose 10% of your income, it's still 10% of your income that you've lost. Oh. Do You Know what
+I'm saying? You so
+
+0 (5m 52s):
+You, you're looking at even like micro cancellations. Yes. You're looking at like, yeah. Erosion, cancellations.
+
+3 (5m 58s):
+Yes. Like, You Know. Oh,
+
+0 (5m 59s):
+I was just talking about like, you are canceled. It feels like it's finished. Ooh. Like it feels like we're at a peak.
+
+4 (6m 7s):
+So here's the thing. If I'm using analyst departure points right? Then I don't necessarily wanna take it to
+cancellation and loss of income. I would just look at it as just how humans interact. And the first thing is,
+some people don't know who they are. That's the first thing.
+
+0 (6m 26s):
+Okay. Then
+
+4 (6m 28s):
+Other people know who they are, but they're uncomfortable with who they are.
+
+0 (6m 32s):
+Okay. Oh, damn.
+
+4 (6m 33s):
+So now when you have a conversation, there are certain things that they wanna hold back specifically when
+they're with strangers. 'cause they don't want the strangers to gain insights to the part that they're
+
+uncomfortable with.
+
+0 (6m 44s):
+Like their racism or xenophobia, all of that. Yeah. Okay. And
+
+4 (6m 47s):
+It could be anything. Maybe you're a freak and you're just like too much.
+
+0 (6m 50s):
+Okay. Now when, so your friends, you're
+
+4 (6m 53s):
+A freak now. Your friends already know like
+
+3 (6m 55s):
+At least one of your friends. Dude,
+
+4 (6m 57s):
+There's nothing, there's nothing here. There's nothing here that I can say that can shock you guys,
+
+3 (7m 1s):
+Right? Yeah. At least one of your friends in, in the event that you die in a dodgy place. Yeah. One of us must
+be like, yeah, well,
+
+4 (7m 7s):
+Yeah. So
+
+0 (7m 7s):
+Now I knew they went there.
+
+3 (7m 8s):
+Exactly. I
+
+0 (7m 9s):
+Knew he frequented. You see a freak.
+
+4 (7m 13s):
+So now we have those conversations and you go, okay, okay, okay. Turn it back a little bit. And again, it's not
+because you fear being canceled, it's just, again, there are certain things that are just appropriate and others
+
+that are inappropriate. That's all. It is.
+
+3 (7m 25s):
+Things that are appropriate to aim public and things that are inappropriate. Yes.
+
+4 (7m 28s):
+You get like inner thoughts and outer thoughts. Yes, I agree
+
+0 (7m 31s):
+With that. Okay. I like how you said this, like you studied it in a textbook.
+
+4 (7m 34s):
+It most, like you did come from a textbook. You,
+
+0 (7m 35s):
+You're so robotic in your sociology textbook. Yeah, no, that's what I mean. But you're so robotic in your
+thinking that it really sounds like literally the way you said that there are inner thoughts and there are outer
+thoughts. Humans only do inner thoughts inside.
+
+3 (7m 47s):
+You've been ai. No,
+
+0 (7m 48s):
+You've been AI the whole time. You've been ai, you really have. Alright, so why don't we go around? Well,
+first I want the high level of what you, what you're worried about for the year. You Know, as we go into the
+future. And by the way, it's not even just for the year. It's rather what you're most concerned about at the
+beginning of the year that you think may be a thi 'cause You Know, like every year has a different feeling.
+Yeah. Yeah. Right.
+
+3 (8m 9s):
+So I have two. Do you want me to give you the two now or is it one round? Round and then one? No,
+
+0 (8m 13s):
+Give give give us the two now. Okay. So, and then I wanna hear Caesars and then we'll, I'll give you mine
+and then we'll, we'll see where we kick
+
+3 (8m 17s):
+It off. The first one is, my son's turning 10 this year. Okay. And he's reaching the part of his life where he no
+longer looks inside the home for role models and who to mimic himself. And he's going to look externally.
+
+And this wasn't something that was, You Know, on, You Know, top of my mind until we went on holiday. And
+he made a friend, a friend with a discipline problem. Problem. Oh. That by the end of the holiday I had to say
+to him, gimme a phone. Did you add this, this boy's number? I said, delete him, block him. We are not gonna
+be friends with him type of thing. And then it had me thinking that, You Know, we at a point now where I just
+have to make sure that his self-esteem is so high. Wow. And his confidence is so unshakeable that things
+like that don't impress him.
+
+3 (8m 60s):
+He has to remember how he was raised at all.
+
+0 (9m 2s):
+I love this. Don't, don't say mourn. Okay. Don't say mourn. Okay. So the problem, we got the problem. Okay.
+That's, this is all the worry. Yes. The worry. All right. What's your second worry?
+
+3 (9m 10s):
+Last year we had a Christmas party, right? And everybody had to stand up and say what they're grateful for.
+Yes. Obviously people are grateful for, You Know, work and, You Know, good relationships and You Know,
+being financially sound. Yeah. Somebody stood up and said that he is grateful for Hal. He out of 60 people.
+He's the only one who said that. And it got a lot of us thinking that, You Know, we are at a place where
+anything could be something. Like, right now I have an issue with my shoulder and I'm so scared to go and
+check it out because I'm so scared they're gonna say it's something like, oh, you've got six months. I'm like,
+no, I've got things to do.
+
+3 (9m 51s):
+I can't have six months. And I promise you my health is something that is just starting to appear in my list of
+things that I worry about. Which you actually think about a lot more than it did. Because sooner or later, You
+Know, you have to come to terms that you're not imal, you're not going to be around here for long. You
+Know,
+
+0 (10m 7s):
+Damn, these are very, okay, these are existential worries in different ways. C what are you worried about?
+
+4 (10m 14s):
+So this year, per se, not too much last year, I was worried about maybe the possibility of World War iii. I
+don't think that's gonna happen. Oh, so
+
+0 (10m 22s):
+Now it's ended
+
+4 (10m 22s):
+For you. Yeah. It's not gonna happen now. Wow. They, these guys fumbled, they fu bought the back. What?
+They
+
+0 (10m 27s):
+Fumbled the World War
+
+4 (10m 27s):
+Iii. They fumbled the opportunity to, to start world
+
+0 (10m 30s):
+Wari.
+
+3 (10m 30s):
+Is this Ukrainian Russia?
+
+4 (10m 31s):
+You heard somebody say it like that?
+
+0 (10m 32s):
+No, all of
+
+4 (10m 33s):
+Them. This guy just Israel,
+
+0 (10m 35s):
+They
+
+4 (10m 35s):
+Fumbled us the opportunity to start World War ii. They fu bought the bank. Damn. So, okay. I'm happy that,
+so you're no longer worried about World War
+
+0 (10m 42s):
+Every night. I Mean, that's a great way to start.
+
+4 (10m 43s):
+But in the short to midterm, I am worried about the type of world that my kids will grow up in. You've
+
+0 (10m 52s):
+
+Got kids
+
+4 (10m 53s):
+In theory.
+
+0 (10m 54s):
+Okay. All right. Yes. You never guys, you never know. Your friends can now like announce
+
+4 (10m 59s):
+Things. Yeah. So, so, and it's more to what Anil was talking about as well. Right. Because you can do
+everything in your power to protect your, your children and those that you love within the ambit of your circle.
+But then they need to exist within a community, right? Yeah. And when they go out, Hey man, anything I'm
+seeing that we just getting too liberal right now and some of those things are gonna come back to bite us.
+
+0 (11m 20s):
+Okay. I like this. All right, great. So Anez worry is your son is now at an age where he's looking externally for
+all models. Second thing you're worried about is you're at an age where anything is anything internal.
+
+3 (11m 33s):
+Yeah. Is something, is
+
+0 (11m 34s):
+Something, yeah. Okay. Sees where no longer worried about World War III Hugh, but worried about the
+world that his children will live in. 'cause now there'll be a world. So now you've got different problems. Okay,
+cool. The thing I'm worried about, maybe it touches a little bit on what you're saying, but I worry that the, I
+worry that the global experiment has failed or is failing.
+
+3 (11m 54s):
+What's the global experiment?
+
+0 (11m 56s):
+So I think for a long time we were seduced by this idea that the whole world could come together as one.
+And I think a lot of it was, a lot of it was sold through the lens of trade.
+
+3 (12m 12s):
+Okay. Do You
+
+0 (12m 12s):
+Know what I Mean? We've always traded, don't get me wrong. Yeah, yeah. We've always traded. But a lot of
+
+it was sold through the lens of trade. So like the Euro Union, You Know, it's like, ah. And then bricks, Bri,
+Brazil, Russia, India, China, South Africa. It's like, ah, these blocks that have all come together. And so
+Europe at some point was like, we don't have a border. You Know, If you have European, you can go
+everywhere in Europe. Yeah. Yeah. I think that that is starting to fail because Yeah. I, I don't think we thought
+far ahead enough or I don't know if we, You Know, crossed all the t's and dots. 'cause we also never did it.
+
+3 (12m 42s):
+Did you always believe in it?
+
+0 (12m 44s):
+I was just told that I was too young to like, believe or not believe
+
+4 (12m 46s):
+I believed in it. Oh,
+
+0 (12m 48s):
+You did believe in it.
+
+4 (12m 49s):
+But I'll tell you, I don't think this is anything new. If anything, I just think we need more perspective because If
+you go into history and just look at how each civilization has a lifespan, it usually ends like this. Yeah.
+
+0 (13m 9s):
+But that's what I'm, you are just now talking about my worry.
+
+4 (13m 11s):
+Yes.
+
+0 (13m 12s):
+And you just, you don't have to worry. Yeah.
+
+4 (13m 14s):
+You don't. No, because listen, so here's, it's
+
+0 (13m 16s):
+Not about me. You just said to me
+
+4 (13m 18s):
+All,
+
+0 (13m 19s):
+Lemme tell you individual, lemme just tell you what you just did. Right Now this is what C did. I was on a
+plane and I said, I'm a little bit worried that this plane feels like it's gonna go down. And Cesar said, well If
+you look statistically, most planes crash around this age. So you're right. But you don't have to worry.
+
+4 (13m 35s):
+Yes. You literally said, so lemme explain. Lemme
+
+0 (13m 36s):
+Finish. Okay. All
+
+4 (13m 37s):
+Right. Go. You're a hundred percent correct. So all civilizations do come to an end, but it has to be that way
+so that a new civilization may begin. Yes. Right. You just have the kind of perspective now at your age, are
+you 40, 41, where you've seen things go from where they were to where they are. Okay. Right. But it's not to
+say the world's gonna end tomorrow.
+
+0 (13m 58s):
+No, I'm not. I don't even think that.
+
+4 (13m 59s):
+Right. But you're a hundred percent correct. Things are deteriorating at a rapid race.
+
+0 (14m 3s):
+All right. So which one do we start with? Which, which worry do we want to handle for? I'll actually, I actually
+would love to start with your son.
+
+4 (14m 9s):
+This one.
+
+0 (14m 10s):
+I like it. No. Okay. Because
+
+4 (14m 11s):
+We've been there. Yes. So that one I
+
+0 (14m 13s):
+Can give you. Okay. What works. So before I say anything on it, take me through a little bit about how you
+
+feel like as a mom of a son, 10 years old. Like I understand you saying you worried that he's now gonna get
+external influences. But why is that a warrior not like necessarily a joy?
+
+3 (14m 31s):
+Oh, because I, they already have been external influences. Right. Just even you two as an example to the,
+to relationship that you guys have with I like it is bordering on, on, on uncle, on father figure and all of that.
+Right. And so I, I think it's that the older people, 'cause I get to choose them, you must remember that. Oh,
+for a very, very long time I get to choose who is around him.
+
+0 (14m 53s):
+I'm honored that you chose me then. And I thought I was just like, defaulted in. But I'm glad you chose
+
+3 (14m 58s):
+Me. Thank you. Yeah. And now with that is that he, You Know, also, he can't con he, he can't control who
+he's going, who he's going to meet type of thing. Yeah. So granted, yes, somebody may spark his, his
+interest and it, it'll be in a good way, but along the line it's gonna be in a bad way. And I just want that he's to
+know that he's able to decipher and dec decide for himself that, ooh, You Know, this one is, this one is not
+the one.
+
+0 (15m 19s):
+So tell us the story about him meeting this kid. Where did he meet the kid and how did You Know the kid was
+bad? And why Do you think Akah was unable to discern between the good and the bad of the kid?
+
+3 (15m 29s):
+I prefer a kid who was outright rude. Then I'm like, oh, is that it?
+
+5 (15m 34s):
+You Know,
+
+3 (15m 36s):
+I'm like, okay kid, let's square up. But this one, it was just like slight discipline issues where if we say, if guys,
+let's all go. We are going now. Yeah. He'll stay in the pool. Almost like looking at me to see, are you gonna
+come in the pool type of thing. Sizing you up. Yeah. Sizing. Yeah. Constantly sizing me up. But, and I
+suppose that's the relationship that he has with his parents, You Know, where he's constantly pushing the
+boundaries, You Know, the boundaries in the
+
+5 (15m 59s):
+Envelope. Can I was, how old was
+
+3 (15m 60s):
+He? Same age. Like they're actually seven days apart. Wow. They discovered this. Oh, we best friends, You
+Know. Oh, we're seven days apart. I'm born this stay born that day. So I'm like, oh, okay.
+
+0 (16m 10s):
+So wait, you said get out of the pool?
+
+3 (16m 12s):
+Yeah. Guy.
+
+0 (16m 13s):
+So he then looked at you?
+
+3 (16m 14s):
+Yeah. Like
+
+0 (16m 15s):
+And then what did you say? I
+
+3 (16m 16s):
+Said Buddhi. I said, get out of the pool. You Know, and he, he, he kind of like waddled around a little bit as
+well. Yeah.
+
+0 (16m 23s):
+'cause I'm trying to picture, it's, it's pretty gangster for somebody to be waiting
+
+3 (16m 27s):
+And challenging you and you looking, you in the eyes.
+
+0 (16m 30s):
+So he doesn't respond.
+
+3 (16m 31s):
+No, he doesn't respond. Maintaining
+
+5 (16m 32s):
+Eye contact. That's a g. That's a G right there.
+
+3 (16m 36s):
+
+But you see, this is what I'm saying is that come out and say we're fighting. So I know which arsenal to, to,
+You Know, to activate type thing. So now when you're doing this,
+
+5 (16m 46s):
+That's funny. Oh boy, that's funny.
+
+3 (16m 52s):
+And then, so now, now I take like a few, 'cause I was also in the pool, so, oh, were you in the pool? No, I
+was swimming with it. Oh, You were in the pool. And then I got out.
+
+0 (16m 60s):
+Okay, got it, got it. So it's
+
+3 (17m 1s):
+Also a case of kid. Please understand I'm not too lazy to jump back in here. I I'll come and fet you type of
+thing. Right. And now, now I'm looking at alike and he's almost like, he's, he's, he's at the step of the pool.
+His, his friend is inside the water and his mother's outside. So it was, it was a moment where he was
+deciding. I was like, it
+
+5 (17m 19s):
+The psychological tug of war.
+
+3 (17m 21s):
+Yes. You Know, what,
+
+0 (17m 23s):
+Does he wanna be good or does he wanna be cool?
+
+3 (17m 25s):
+Exactly. You Know, so now, so that's why I was like, okay. So it was a few of those things. Maybe we are in
+the room, we're like, okay, we're going for dinner now. Everybody's ready. This kid, I'm like, hey, let's go. You
+Know, 10 minutes now we're standing outside. Even my partner's like, wait, wait. But now our child is
+standing with us. Now we're waiting for a stranger's child. You Know, because we just met you.
+
+0 (17m 46s):
+If I may ask, so what heritage is this child? Is this a
+
+3 (17m 50s):
+Same as I like it? Everything guys. When I say everything was, oh wow. So this interesting. Yeah.
+
+0 (17m 53s):
+So you didn't even have like a little African swag you could pull out just a little? No. A little something. No.
+No.
+
+3 (17m 58s):
+Not at all. Wow. Not at all. This
+
+0 (18m 0s):
+Is actually more dynamic and interesting. White, I was picturing a white kid and I was like, no, this sounds
+normal
+
+3 (18m 4s):
+Kid. This is a black kid. Oh wow. Yeah.
+
+4 (18m 7s):
+When you think about it, an fear, your fear and my fear are the same fear.
+
+3 (18m 13s):
+Run me through that.
+
+4 (18m 15s):
+So to kind of like break it down in a nutshell, you just gotta ask yourself, are you comfortable with the world
+raising your child? If you were to set your child up into the wild and the wilderness, which
+
+0 (18m 28s):
+Is the world.
+
+4 (18m 29s):
+Yeah. Are you comfortable with the sort of person that come back as
+
+3 (18m 34s):
+You see? That's why I was, which which
+
+4 (18m 35s):
+Speaks your question. Yeah. And kind of speaks to my fear as
+
+3 (18m 38s):
+Well. That's why I was saying that, You Know, the job now is to make him so confident and have high
+
+self-esteem and understand who he is. That he doesn't have to be taken by those things. But the truth of the
+matter is at that age, 'cause remember we pre-teen, now we're going into take Yeah, yeah. At that age you
+are, you, you, you, you are questioning a lot of things. Yes. You Know what you were taught. But there are
+other lessons coming from the outside and they're not always gonna be good. So
+
+0 (19m 2s):
+I, I don't, I don't, I'll probably butcher some of it. I'm bad with remembering numbers, but there was a child
+psychologist who once told me, for boys and girls, it's slightly different, but I believe from like zero to two or
+three. Yeah. It's all mom. It's just all mom. Right. And then I think from like three to like seven 10 and it
+changes for boys and girls, it's mom and dad in terms of like, just like parental household vibe. But then to
+your point, they say for boys specifically, once they hit like 10, 11, 12, somewhere there, it's all about uncle
+as they call it. Mm. They say it's all about other men or male figures outside the household. Could
+
+3 (19m 37s):
+Be a coach. Yeah,
+
+0 (19m 38s):
+Yeah, yeah.
+
+3 (19m 38s):
+Could be a head boy.
+
+0 (19m 39s):
+You Know, who just like, they're the ones who now
+
+3 (19m 41s):
+Captain of the football team.
+
+0 (19m 42s):
+Yeah, exactly.
+
+3 (19m 43s):
+Exactly. The numbers are actually zero to seven is mom, seven to 14 is is dad or uncle. And then 14 to 21 is
+external. But because, but
+
+0 (19m 52s):
+Who's external? You gave us such specific ones for the first two.
+
+3 (19m 54s):
+
+No, but you must remember that because kids are growing up at a rapid pace as well. Yeah. For me, and
+this is not psycho this, this is not scientific. Whatever. Yeah. I I just think that at 10 now, oh we are
+
+0 (20m 6s):
+Already, oh, it's happening. It's, we're already external. Yeah,
+
+3 (20m 8s):
+That's possible. 'cause also he is going out a lot more than a, a normal child would've gone out as a
+10-year-old 20, 30 years ago.
+
+0 (20m 14s):
+Is there a part of you that wonders If you mom tai chi has been enough?
+
+3 (20m 19s):
+Yeah, there is, there is the fact that he questions it, because you must remember some people just will go
+along with it immediately. Yeah, yeah. Hey, let's do this. We go, I can see the thought process and I like's
+mind when he goes. And then like, You Know, I can, I can see it. I can see it. But also, You Know, I've been
+very careful in, 'cause I don't want my child to be scared of me. Right. At all. I I don't want that. I want
+
+5 (20m 47s):
+Too late.
+
+4 (20m 47s):
+Ha ha. No, I'm joking.
+
+5 (20m 53s):
+That's amazing. Oh wow. Yes. Carry
+
+3 (20m 57s):
+On. I'm so glad that entertained you, both of you.
+
+5 (21m 0s):
+It's a very funny, you're such a mom, You Know, just such a funny line.
+
+3 (21m 7s):
+I don't want my child to be scared of me, but I do want him to, to know that this, this is the line and this is the
+line. Right? Yes. And to, to respect and, You Know, to respect me and just to respect other people and also
+to respect somebody's decision that they're not gonna go like, You Know what, I respect that you wanna do
+this, but I am not gonna do that. And that's frankly really all, all all I want.
+
+4 (21m 28s):
+So now did you explain to Alaki, we'll call this anonymous kid X Mm. Why X's behavior is not acceptable in
+this household? Yes.
+
+5 (21m 37s):
+Yes. Okay. Did he pick it up though?
+
+3 (21m 38s):
+Yes, he did. Oh, so
+
+5 (21m 39s):
+He saw this happening.
+
+3 (21m 40s):
+Yes. And as we're walking back to our room, he was walking so far ahead because he knew, he knew that
+we want to have, You Know, the chat with him. But then I did the most gangster thing. Right. I didn't say
+anything because I could see he was like, it was stewing him. It was, I didn't say anything and I just asked
+and I said, your your guys' behavior at the restaurant was really not what, what we like about you and what
+we've taught you. He's like, no, I understand. And then he quickly named exactly what he'd done. What this
+
+5 (22m 11s):
+Is
+
+3 (22m 11s):
+Child X? No, this is, I like, oh, this is, I like, yeah, okay, okay. And he quickly like, but but then, 'cause we're
+asking him, 'cause there were a point where they weren't within us what they were doing. Yeah. But then
+they came back and they just like disheveled and wet like they were playing with water somewhere type of
+thing, man. Yeah. But he, so he explains what happened. I'm not buying the story, but he explains that what
+happened to my partner, my partner's buying this, I don dunno if he was buying it, whatever guy to guy as
+well. They had like a little man or man. I was like, actually you handle it, leave me out of it. Fine. Go to bed.
+Three in the morning, I wake up 'cause I want him to tell me the story again as he's just woke up. Go into, go
+to his room,
+
+5 (22m 48s):
+Go into his
+
+3 (22m 48s):
+Room, and, and I,
+
+5 (22m 50s):
+He's on a holiday, bro.
+
+3 (22m 53s):
+Put the lights on. Everything. The lights on. I know, but he doesn't wake up 'cause the lights are on. But I just
+want that when I do wake him up, the lights are on. Yeah. The lights are on. So I can see his immediate
+reaction. I ask him, just gimme that story again. Run it by me again. 'cause I didn't quite catch it. I
+
+5 (23m 7s):
+Just want to rewind to the point when you said, I don't want my son to be scared of you bru. We at a resort.
+We at a resort. And his drill sergeant instead him on the lights are three to interrogate you, bro. To
+interrogate you
+
+3 (23m 20s):
+Switch on the lights. And then I get into bed with him and then I nudge him. I'm like, Hey papa, wake up. If
+you wake up. He's like, Ooh, it's it time for us to go ready. I'm like, no, no. Just quickly. I didn't quite hear that
+story. Wow.
+
+5 (23m 32s):
+I Mean, wow.
+
+3 (23m 33s):
+Run it by me again. What? And then he ran, he said it and I was comfortable with the answer. And then I
+was like, but you do understand that this is not behavior that we are accustomed. He's like, no, I get it. And I
+know that it was wrong and this is why I, I was apologizing. And I'm like, okay, cool. I just wanted to know
+that the story was the story and there wasn't anything else that I need to address. And I said to him, because
+You Know that some kids don't come, kids don't come from the same backgrounds and from the same
+homes type
+
+0 (23m 59s):
+Of thing. Yes. In other houses, they leave the lights off and they let you sleep until the morning. That's how
+other houses do it. Words.
+
+3 (24m 6s):
+But in this house.
+
+0 (24m 7s):
+Wow.
+
+3 (24m 8s):
+You Know? So yeah, you, but also when I did that, 'cause then I got back and then my partner's like, oh, is
+everything fine? I'm like, yeah, yeah, it's fine. And then like, then when I woke up in the morning and I told
+you, he was like, no, no worries. And I'm like, yeah. And I said to him, You Know what, I've never been a
+mother to a 10-year-old before, so I'm also winging it type of thing. Yeah, that's true. Yeah. I'm also winging it
+much like he's never been a 10-year-old before. And with all these, these emotions and everything that's
+going on with him. So we are just going to have to figure each other out.
+
+0 (24m 38s):
+And I have to like negotiate with a 10-year-old terrorist essentially. Yes. And just hope that their logic
+coincides with yours. You Know, I, I don dunno if I ever told you the story, so Isaac, my youngest brother,
+right? Him and, and the middle brother was staying with me in LA and they'd come to visit me and it was this
+whole thing. And we are there for like Christmas. And they've now gotten to an age where they're big enough
+that I have to negotiate with them. But they're still young enough that they do crazy shit. Right. So one day
+we're all having, we're having dinner together. We, we, we order food and then we, but we plate it. I was like,
+'cause I want them to feel civilized, You Know what I mean? Because I was like, I'm also the person who
+eats out the box. But I want, let's do like a family thing.
+
+0 (25m 19s):
+Let's put, take the food out of the, out of the box and put it on a plate. Like we cooked it. Cool. So we all eat,
+we all, we put things together, everything's great, we're done. And when we are done, it's time to clean up.
+And I say, guys, help me. Let's take everything to the kitchen. And I take like one bowl, one glass, my
+brothers stack everything. They stack, stack, stack, stack, stack everything. I'm, I'm like, what are you guys
+doing? They're like, we're taking it to the, to the kitchen. I was like, guys, guys, guys, tick one thing at a time.
+You
+
+3 (25m 49s):
+Can come back. Eh,
+
+0 (25m 50s):
+My other brother's like, he's like, oh, but I can do this. I got this. I was like, Hey, whoa, whoa, whoa. It's not
+about whether you've got this tick one thing at a time. You're stacking like everything. You Know what I
+Mean? He's like, yeah, but I, I'll be fine. I was like, no, no, no, no. You think you'll be fine until you're not fine.
+Please just take one thing at a time. He's like, oh, okay. So I go to the kitchen with the one thing, And now
+you know, we're doing that thing where we're crossing. So one person goes to the table, other person goes,
+one person goes to the table. As I'm at the table with the youngest Isaac, we are chatting. I hear a smash on
+the other side of the house, glass shattering. And You Know, You Know what, it's not even like, I'm like, oh, is
+there a break in? I know exactly what glass that was. So go to the kitchen. I'm like, yo, bro, what happened?
+
+0 (26m 31s):
+Oh yeah, the glass dropped. I'm like, the glass didn't just drop the glass dropped because you took more
+things than I told you to. Then he is like, oh yeah, my bad. Then I'm like, no, not your bad. Not your bad. I
+told you the thing. So now we are having this like, You Know, and he's not even fighting. He's being like very
+polite and everything. And so now the youngest is like running with the stuff. So he's doing one and one, but
+he's sprinting back and forth. Oh. So I'm like, okay, no running so many rules, Trevor, this is what he says.
+He's like, geez bro. He's like, so many rules. I'm like, yes. These are the rules for how you make sure that
+the stuff in your kitchen stays around. Right. And also you don't hurt yourself, you see. So he's running guys
+at, at some point I go, yo, I said, walk slowly, take the things one by one. Don't. He's like, yeah, but I run all
+the time.
+
+0 (27m 12s):
+I'll be good. I was like, yo, just take the things one. He's like, bud, why do I have to do it? Yo. And I'll never
+forget this in that moment he's like, why do I have? And I was like, because I said so. And You Know, when
+like every parent flashed in front, I was like, ha, I have become deaf. He became Raven. But did he accept
+that? No, he didn't. But I've always said my, my, my youngest brother's probably the, the smartest person
+we've ever had in our family. And the most emotionally intelligent. He sat with it. He did what I said. And he
+came back maybe like 10 minutes later, You Know, now there was like a weird feeling in the house. But he
+came back to me and he said, he said, Hey Trev. He said, I just wanted to apologize for what happened.
+
+0 (27m 53s):
+I, I didn't mean to offend you. I was like, yeah, I get it. I'm sorry too. You Know. And he says, but here's the
+thing. He's like, the reason I keep asking you why, when you tell me to do things, it's not because I want to
+undermine who you are as a person. He's like, it's because I don't understand why you're doing things the
+way you do them. So if I just do them the way you do them, I never really believe in it. I'm just doing it
+because I've learned it as a rot identity. He's like, but if I actually learn why you do it the way you do, then
+maybe I can adopt it as my own. And then if I'm challenged by somebody or something one day, I'll know
+why I do it. So the reason I ask you why is not because I'm challenging you as my big brother, it's just
+because I really wanna understand why you actually do it. 'cause I don't wanna be a robot. I wanna be a
+human being who believes in my actions. So, You Know, You Know what it made me realize is like I realized
+that every parent and every adult figure in a child's life will have that frustration.
+
+0 (28m 44s):
+You are, you are bound to be frustrated because you are proposing every idea through the lens of logic and
+experience. But your kids rightfully, I think in many ways also here to test what those boundaries are. If every
+child, even us, think of us, the three of us sitting here, and everyone who's listening, If you did everything the
+way your parents did it, half the time you wouldn't be where you are. You wouldn't have discovered a new
+way to work. A new type of job, a new career, a new country, a new language, a a new sport, a new religion,
+
+a new style of dressing, a new relationship. Yeah. Like you literally have to break what they've taught you to
+make something new.
+
+0 (29m 26s):
+And the difficulty, as you say, is we're all winging it. We don't, we don't know we will or won't work. It's just in
+these moments where you go look, when we say get out of the pool, get out of the pool. But it's a, it's, it's a
+tough one. 'cause it's like, Do you have a, 'cause I've never had a friend who's a mom. Do you get what I'm
+saying? Like a friend. Friend,
+
+3 (29m 45s):
+Thanks Drift.
+
+0 (29m 46s):
+No, what? I'm also like, that's a ways to break up with a friend. No, what I'm saying is that's what we're No,
+what I'm saying is, so, so what I, what I'm saying is, I, I've never been in the position where I can say this to
+you and, and ask you honestly, like, Do you have a, it's not like you can have a fixed number, but Do you
+have a number of how much you are willing to tolerate his boundary pushing because you think it might be
+what creates something bigger and more beautiful than you've ever considered?
+
+3 (30m 13s):
+Definitely. But the thing that we parents are doing now is you, you we, we very willing to question the school
+that he's at because there's too much writing and the kids aren't writing anymore. Let's take him to a school
+that just does robotics and everything is computerized. Yeah, yeah, yeah. It's, it's all, or, or sporting, right?
+Oh, my child is so good at this. Maybe I should take him out of the school because he's gonna play for the
+spring box. So he's gonna play for the pro and all of that. But I think when it comes to, You Know, just
+discipline and emotion and all of that, as parents, we are very much holding onto, You Know, what you
+believe. Yeah. At that, at that moment in time, it's very difficult. And I tried very hard with, with my son, where
+I'm like, okay, level with me. Let, let talk to me. You Know, explain to me what was your thinking when you
+were doing that?
+
+3 (30m 54s):
+Yeah, yeah, yeah. Right. So that I can understand, because like you said, I'm 40 and he's 10. And we really,
+we,
+
+0 (30m 60s):
+We,
+
+3 (31m 0s):
+We different times Right. You Know, d different times, different ways of parenting as well. And I didn't have
+
+that with my mom or my dad. It was what they say. Sure. You Know, that's
+
+0 (31m 10s):
+The rule.
+
+3 (31m 10s):
+That was the rule. It's also because it's like, I'm paying for the house, I'm paying for this. So, You Know, as
+long as you live under this household, hey, under this roof, you're under this roof, you are going to, You
+Know, type of thing. And I don't want that with the house. You Know, simple things as well. Like, people ask
+me, why Do you knock when you go into your son's room? You Know it's your house. I'm like, yes, but it's his
+room.
+
+0 (31m 29s):
+Did you knock at 3:00 AM You didn't That was a, he was, that was a
+
+3 (31m 32s):
+Surprise. And also that's a hotel. That's
+
+0 (31m 34s):
+A Oh, okay. Oh, nice. Nice. I see. Like, You Know, when law enforcement finds all these loopholes, oh, we
+didn't need a search warrant. 'cause it wasn't your home.
+
+3 (31m 44s):
+You Know what I'm saying? You
+
+0 (31m 45s):
+Know, offense, the visitor was sanctioned by the minister of tourism. Right. You keys to the city.
+
+3 (31m 52s):
+So, so like, why Do you knock? And I'm like, because I want him to knock when he is coming into my room.
+Right?
+
+0 (31m 58s):
+Yeah. Yeah. You want to, you wanna model the
+
+3 (31m 60s):
+Behaviors. Yes. And here's the thing is that I want to show you that I respect your privacy because
+everybody else in the world must also respect your privacy type of thing. Oh, damn. Because if I, how can I
+say, I am allowed to, not to respect your privacy, but everybody else must respect your privacy type of thing.
+
+Okay. Yeah. So I, I basically treat him the way I want the world to treat him so that he can know. He's like,
+no, back at home, this is how I'm treated. And you are not treating me the way that I'm treated at home
+where I'm love. So this is not gonna fly. And actually that's all you want your kids to be about.
+
+0 (32m 31s):
+We're gonna continue this conversation right after this short break.
+
+Ultra Running (32m 38s):
+This episode is brought to You by, by ultra running ultra mixed performance running shoes that are insanely
+comfortable with a roomi toe box and zero to low drop. This helps keep your feet in a more natural position
+so you can move how you were designed to perfect for the road trail or gym. You could wear them for miles
+and forget that they're there. Stay out there with ultra, try ultra for yourself with a free 30 day trial and free
+shipping@ultrarunning.com.
+
+0 (33m 9s):
+Did you ever have a bad influence as, because I know you weren't the bad influence.
+
+4 (33m 13s):
+Yeah. So bad influences are everywhere.
+
+0 (33m 15s):
+No, but I'm saying as a kid, like did you have, did you have a friend where they were like, your bad inf
+because I was the bad influence in many ways, yes. I will say, but I also think I had many friends. I think we
+were renegades together, to be honest. Not
+
+4 (33m 33s):
+In my formative years. No, no,
+
+0 (33m 34s):
+You didn't. No.
+
+4 (33m 36s):
+Wow. Because majority of the people that were around me were handpicked by my parents. Oh.
+
+0 (33m 40s):
+Even my friends. We come back to the cousins. Exactly.
+
+4 (33m 42s):
+Even my friends, it was really because my parents are friends with these people and then they'd be like,
+
+we're going to so-and-so's house. And then hey, okay, do we, so my friend, I didn't like, it's not like I sought
+out do we to be my friend. It didn't work like that. But here's my thinking and the approach and I obviously, I
+think you're doing it well. I think all you can do, look at it like coding. You just introduce the fundamentals
+right. To your child and then tell talking about
+
+0 (34m 9s):
+Computer code coding. Yes.
+
+4 (34m 10s):
+Okay. But even with human beings. Yeah. Because essentially is a system anyway. Because
+
+0 (34m 15s):
+We are robots, because we ai, we AI aren't we all aren't we all, aren't we? Aren't we all?
+
+4 (34m 19s):
+Did you see fundamentals
+
+0 (34m 20s):
+Programing? I was agree with you. Sorry,
+
+4 (34m 22s):
+This program is tripping. I'll delete. Right. So once you've got the fundamentals in place and they understand
+them, and obviously you guys are in agreements where the fundamentals are, then you can go to like
+intermediate programming and tell 'em, okay, well now with these fundamentals that you fully understand
+Yeah. What Do you think the right thing to do in this situation is? And then he will tell you. And then you go,
+well actually that is the wrong thing to do, aka. Because If you do that, For example, Isaac, I know you used
+to running, but there's a possibility you may sleep and you can't get a glos and you'll get impaled by this
+gloss. That's why it's rather safer for you to just walk right by running.
+
+4 (35m 3s):
+Yeah. You save a little bit of time, but we no rush. Then it's like, okay, cool. You
+
+0 (35m 8s):
+Are are very logical.
+
+4 (35m 9s):
+But that's how life is. What else? No,
+
+0 (35m 11s):
+
+I'm not. You you, you sound like you've never been a child.
+
+4 (35m 13s):
+No, but listen to me guys, guys I
+
+0 (35m 15s):
+Knew. Lemme tell you something. Yeah. When I was opening the TV in the living room. Yes. I was. And I
+opening it like see what inside? Yeah. When unscrewing the whole thing. Yes. Okay. Logically I knew
+everything.
+
+4 (35m 26s):
+I unscrewed the CV too, but I had logic for it.
+
+0 (35m 28s):
+Okay.
+
+4 (35m 29s):
+I wanted to see how the TV works.
+
+0 (35m 31s):
+Oh, same with
+
+4 (35m 31s):
+Me. And as a result, I was able to fix things at home. I was a guy like, dude, maybe buy like eight. I was a
+handyman at home and I, my dad understood I couldn't have been the handyman unless I broke my toy. But
+I'll tell you what, when things were wrong and I fixed it without him paying a sense, boy was he glad I broke
+that toy. Okay. You see? So that
+
+3 (35m 54s):
+Immediate Yeah. You
+
+4 (35m 55s):
+See what, you see what, here's the thing
+
+0 (35m 56s):
+Now that's, it's funny. It comes, it comes back around to like, is there a reward on the
+
+4 (35m 60s):
+Other side? There's always a reward. I'm told I was a highly inquisitive child. Ah, I guess I still am. Even as
+
+an adult, right? Yeah. You're, and the thing with questions is you just gathering data points. That's all you Do.
+You, okay? You gathering data points and you are gonna later use those data points as you've collected and
+go, oh, okay, well, when I asked Auntie Anelli this, she told me this, this and that, so maybe I should go this
+way. There's a lot of things I never got to experience and still have no inkling. I don't even want to experience
+them. But I've learned major lessons from other people and their experience of those things. So when you
+now withhold those answers, and you just because
+
+3 (36m 38s):
+I say so you
+
+4 (36m 38s):
+Nipple in the butt by saying Yes, because I said so you are starving Isaac of the data points he needs. Yeah.
+Not for him to be able to come up with the decision, which will then obviously make sense to him. Yeah. The
+
+0 (36m 48s):
+Wrong or the rights. All right. Well If you need, You Know, outside models, real role models, you let us know.
+No,
+
+3 (36m 55s):
+No, I'm, I'm
+
+0 (36m 56s):
+Covered. You must, you must let us know. I mean, but Mina, I'm I'm probably gonna say even at this age, I
+will bring a little bit of bad influence, but always respectful. Mm. One thing my teachers always said, Trevor's
+very respectful,
+
+4 (37m 9s):
+But he's very troublesome. He's very
+
+0 (37m 11s):
+Disruptive in class, but very respectful and oftentimes does not apply himself. But very respectful. There was
+no disrespect in what I was doing. Mm. Do You Know what I mean? No, no. I Mean, yes ma'am. No ma'am.
+Yes ma'am. I was the one who put the firecracker in the toilet. Ma'am. Yes ma'am. That is correct ma'am.
+
+4 (37m 32s):
+Why Trevor? Why?
+
+0 (37m 34s):
+Because we wanted to see what happens.
+
+3 (37m 36s):
+The thing about being a child being inquisitive as well is that it could be on the bad side of things. Yes.
+Because that's, that's what I see your worry as as well. Yeah. Because people always treat like being
+inquisitive, like, oh, such a wonderful thing. It's a great trait. He's so inquisitive. But if he's inquisitive as to
+what's going to happen if at age nine he takes the car. Yes. Right. That's not a good thing.
+
+0 (37m 54s):
+I did that. Yeah.
+
+4 (37m 55s):
+Oh, I thought about that.
+
+3 (37m 57s):
+About what? Taking
+
+4 (37m 58s):
+The car.
+
+0 (37m 58s):
+Why didn't you do it?
+
+4 (37m 59s):
+You So our driveway was like a bit of an incline. So when I was leaving I would've been fine. But then when I
+was driving back, the car obviously would've had like harmed a little bit. Then I thought, what if my dad
+thinks the car's getting stolen and then he shoots me? Then I was like, Hmm, I would rather not take this car.
+The sentence would end like that.
+
+3 (38m 23s):
+Me too.
+
+4 (38m 24s):
+I didn't think the sentence would end like that. Yeah. Wow.
+
+3 (38m 27s):
+Okay. I thought grounded. Like grounded or get a I didn't
+
+4 (38m 30s):
+Say anything. No, I thought, I thought, I thought, You Know, my dad would shoot, what's the worst thing that
+
+could happen? He could think the car's getting stolen and shoot me.
+
+3 (38m 36s):
+Okay. But now we mustn't stick on this one. 'cause everybody's got a worry. Now we're gonna spend the
+next hour discussing only my worries.
+
+4 (38m 42s):
+But our worry is all the same. We you this is, this is ing.
+
+0 (38m 45s):
+Okay. So okay, then let's, let's, but
+
+4 (38m 46s):
+Wait, she raised a very good point. We just glossed over it. It actually is the answer what she spoke about
+his self-confidence, right. And belief in himself. Okay. That actually is the answer to everything. And if, if For
+
+0 (39m 3s):
+Example, I don't think it is, but finish, finish what
+
+4 (39m 4s):
+You're saying. Okay. It's answer to most things, to everything going. If his self-confidence is strong enough,
+right? Peer pressure will never be an issue. And we know For example, that Alec is very smart already. He's
+super smart. So he knows what right and wrong is. What usually sways people from wrong is the external
+influence. If he's strong enough and believes in himself, he can say, Hey dude, I hear what you're saying, but
+that's not how I was raised. That's not how we roll. And so already he's kind of insulated from the external
+influences of the world. It's not to say he'll never like go wrong, but he's unlikely to go as wrong as other
+people who are just amoebas. And they go with the flow. A lot of people end up in trouble. They're like, yo,
+dude, I don't even wanna be here.
+
+4 (39m 46s):
+I told you guys, let's not go there. Now
+
+3 (39m 47s):
+You're sharing a cell.
+
+4 (39m 49s):
+You see?
+
+0 (39m 49s):
+
+So I hear what you're saying. One caveat I'd like to throw into this, and one counter argument is if we live in
+a world where everyone completely believes in themselves, I think we have a little less social cohesion. We
+should never take for granted how powerful peer pressure is in society. Yeah. So when you're on the road
+and you see that you could drive in the emergency lane and just get ahead of everyone, peer pressure is the
+only thing keeping you back. Yeah. You might be like, oh, the police. No, no, no. But beyond that, there's an
+element of knowing that every other road user is in some way, shape or form going to be against you. And
+you're like, I'm not gonna do it. When you're standing in a line at an airport or anywhere else and you see
+that you could cut and you could get ahead peer pressure's the only thing like stopping you from doing,
+you're not gonna get arrested.
+
+0 (40m 36s):
+Do you? Do you get what I'm saying? I think there's a, there's a weird balance and we don't know what the
+knobs perfectly are,
+
+4 (40m 42s):
+But the world knows. But the
+
+3 (40m 43s):
+Way you, you look,
+
+4 (40m 43s):
+It's, it's interesting that you say that. Yeah. No. Can I say we don't know what the balance is, but the world
+always fine tunes you. Right?
+
+0 (40m 48s):
+So, okay. My argument is this. Yeah. And this may sound a little anarchist, but it's not. But like, I don't believe
+we know, and I don't think there is a right, because I think every piece needs to exist. So like on the one
+hand, you need like a renegade to be like a Steve Jobs, let's say, where he goes, no, we are gonna do this.
+And people are like, you can't do it. And he's like, we're gonna do it. And then he does it. And then now
+everyone's like, oh yeah, this is how it should have been. But then there's also some renegades who are
+like, Jeffrey dma. Jeffrey Dama didn't suffer from peer pressure, I'm assuming. I don't think he was like,
+Hmm, what are my friends gonna say? He did his thing, he did these
+
+4 (41m 19s):
+Thing my friends. So No, no, no, no. So,
+
+0 (41m 21s):
+So here's the thing. So all I'm saying is all I'm saying is I, I believe that there isn't one fixed way or not way. I
+think a, a system will always like find entropy. It'll always find a place where it exists for the best of what it is
+
+trying to do. But I, I think you can create a child or you think you, you can try your best to create a child who
+does not care about what anyone else says. And I think those types of people of assholes in the world as
+well, because they don't care about what anyone else says. And then there are some people who care too
+much about what everyone else says and then they are at the whims of, of the crowd.
+
+4 (41m 56s):
+So Joe Biden's got a line, right? Joe
+
+0 (41m 58s):
+Biden.
+
+4 (41m 59s):
+Joe Biden. Oh, the rapper. I was like very
+
+0 (42m 1s):
+Different. That's you. Wow. This guy's about to quote Joe Biden. Yeah. Okay. I was like, damn, I don't think
+I've ever heard anyone quote Joe
+
+4 (42m 7s):
+Biden. This is a rapper line also long before he did podcast. And he speaks about, mama raised me proper,
+the streets just molded me. The streets coded me, made me a better pedigree. Then he goes on to say
+things are complicated like ever Levi said itd be, but that's besides the point. Okay. Basically, when you go
+out into the world, the world will either affirm you or it'll challenge you. Cool. Right? So with your fortitude,
+you'll go there and then they'll be like, no, my friend. That's not how this works. And very quickly, if you're a
+smart person, you'll then learn, oh damn, I'm wrong about this. However,
+
+0 (42m 40s):
+Yes,
+
+4 (42m 40s):
+If you are correct about your ways, it'll affirm you. The world will affirm you. And then you'll see it's okay, this
+actually works. And that's how people end up rising to a certain point.
+
+0 (42m 50s):
+So, okay. It's actually funny you you say that 'cause I think that's, that's a perfect segue to my worry. I agree
+that the world will affirm you or challenge you. Right. But I don't think that that is based in absolute truths. So
+sometimes you will be affirmed or challenged based on the circumstance of the situation. True.
+
+4 (43m 15s):
+
+Or
+
+3 (43m 16s):
+What people can benefit from affirming you or
+
+0 (43m 18s):
+Challenging you. Exactly. Exactly. So, so now let's go to my worry. The reason I say I think the global slash
+liberal slash whatever experiment has failed is because there was a time when many politicians around the
+world started to believe, and I'm sure there was another time when this happened with trading in general. But
+they said, You Know what, we could be connecting the world in interesting and different ways. You Know,
+you could, you could make something in China or you could make it in any country where it's developing
+really, and that means the country where they're selling it to, they can focus on different types of labor. They
+can be more specialized, they can work in offices, they can do this. So they'll actually be selling a different
+product to the world. Their product might be a service, it might be something digital.
+
+0 (43m 60s):
+And then the people who are using that, they might buy something else and they might, but we're all
+connected and it's gonna be a chain of wonderful things. Yeah. And, and we're all, and it's, it's the circle of
+life. You Know what I mean? It's like this beautiful world where money's flowing from one place to the next.
+And now, and Cesar you, you're the economics guy. So I'm sure you, you, you can speak to deeper than I
+can, but like, I feel like what happened was, first and foremost, the money damned up in a way that no one
+really predicted. So the money didn't move around the world. It didn't stay in Bangladesh and Vietnam and
+all these places where the workers are making it, it very quickly left those places. Yes. And went into bank
+accounts in certain parts of the world. Right. The people working even at these companies in those parts of
+the world, it doesn't matter how big these corporations are, but one of the things I find particularly interesting
+is how, like we, we've accepted this as normal and maybe we won't for a while, where companies can hire
+people to help them make profits once they've achieved that profit, they can fire all of those people
+
+3 (45m 2s):
+And hire people for the next to
+
+0 (45m 3s):
+Help them make more profits. Yeah. Right. So, so this is the, this is the second part of it. Why? I think it's
+why I think it's failing. I think we were never fully prepared to communicate with everyone everywhere all the
+time without understanding the nuances and the complexities that come with everybody's understanding of
+the world in the, You Know, in the same way that we are worried about like what we say to aliens
+
+3 (45m 26s):
+When they arrive.
+
+0 (45m 27s):
+Not even when they arrive. You've seen, we've sent, we've sent like things to space. Okay.
+
+3 (45m 31s):
+Signals like, yeah, yeah.
+
+0 (45m 32s):
+We've sent capsules. Yeah. Okay. And then they'll choose, they go, we've put some Mozart, some
+Beethoven we've sent. But there's also like crazy shit we've sent, we've sent like a random like rock and roll
+song that could sound like a war anthem. I don't know. Or maybe Mozart sounds like war to an alien. I don't
+know. Right. You, you really don't know you.
+
+3 (45m 49s):
+And you said we sent very sophisticated s thing that came into my mind wasn't, wasn't that, I was like, oh
+
+0 (45m 55s):
+No. But we've also sent like plants and seeds and we, we've tried to, we've tried to send what we think
+encapsulates the human race is what we've done. Ooh.
+
+3 (46m 5s):
+That is a very, very risky thing. Exactly. Exactly. Because what does encapsulate the human race?
+
+0 (46m 11s):
+That's exactly my point. Yeah. And so maybe each
+
+3 (46m 13s):
+Country should send something
+
+0 (46m 15s):
+Even then. And so now I'm saying social media as a whole, the, the, the whole connected idea of it. Forget
+like actual social media. Yeah. I just don't think we ever prepared for it. We never prepared for a message to
+cross borders and cultures in the way that it does. It may connect us in moments, but I think it's, it's ripping
+us apart at the seams in more places than we ever thought. But Do you, and so I think that's why I think the
+whole thing is falling apart. I think in South Africa, where we are at right now, I think we are going to see only
+more xenophobia. Yes. We're going to see more people not wanting immigrants to come into the country.
+And in many people's defense, by the way, not just in South Africa, in the us, in Europe, et cetera, if we use
+the binary, we can be very quick to say these people are hateful.
+
+0 (47m 1s):
+It's very easy to do that. Right. But the underlying issue is true in many places. But
+
+3 (47m 8s):
+I think you've got a global view because you are a global person. Right. We can scale this down and realize
+that it's always been like that. It's just that now we are aware that it's happening everywhere else as well. Let
+me take it back to South Africa. Yeah. A person who was raised in the hood and a person who was raised in
+the rural areas, they're aliens to each other.
+
+0 (47m 26s):
+Okay. So the hood versus the village essentially. Yes. V
+
+3 (47m 28s):
+Versus the village. Yeah. There we go. But then even in America, somebody was raised in the south. I'm a
+southern Baal. Yeah. Do You Know what I'm saying? As opposed to somebody who was raised in New York,
+those people are also quite alien
+
+0 (47m 38s):
+To each other. Okay. Yes. Right.
+
+3 (47m 40s):
+And that's now, that is a country. I just feel that because you've been everywhere in the world, it is a lot more
+heightened for you. That you think that
+
+0 (47m 47s):
+No, no, no. So this, but this is what I mean. I Mean that the experiment was, it felt like it was working for a
+moment.
+
+4 (47m 53s):
+So here's the thing. I Mean, I can't speak to the second part of your thought process. 'cause that's more
+sociology. But the first one, which is economics. That makes sense. And even If you look at any economic
+textbook, it really just, it dictates that things will be that way because capital, by its very nature, is
+monopolistic. Right? Right. There are four factors of production. We are told, we're told it's capital, labor,
+entrepreneurship, and then I suppose land. But really when you think about it, there's only one factor of
+production. It's capital. Because in capital you can buy the other three. Right. That's why the effect has been,
+that money has always pulled back
+
+3 (48m 33s):
+Through to money.
+
+4 (48m 34s):
+Yes. Because once you've made the money, you realize, okay, I no longer need the labor. Now I can build ai
+and that will substitutes the need for labor. Yes. Right. Okay. I no longer need entrepreneurship. I can go to
+India and hire a CEO. Okay. I no longer need, For example, land. Right? Yes, exactly. These are all the
+things. Capital will always supersede everything in a capitalistic society. So it's called capitalistic. Right? I
+don't call it legalistic
+
+3 (48m 59s):
+Land.
+
+0 (49m 1s):
+I wanna live in a istic country. No, but, but so I agree with you. And what I'm saying though is this was an
+experiment. Remember, we are always conducting an experiment, like you said, with your son. You're
+winging it. We are also winging it. I think this is something we should always acknowledge as people. And I
+think not enough politicians do and not enough leaders do. They make it seem like we know. So I've seen
+people who talk about like socialism, they know people talk about communism. They know people talk about
+capitalism. They know. But I'm like, guys, you don't know. We are all winging it with as much information as
+we have, we're gathering data points, as you say. Right. So there was no communism until there was, there
+was no socialism until there was, there was no capitalism until there was. Right. What I'm saying is this
+experiment that we're conducting now, I worry that it's failing, but I worry that it's failing because the reason I
+worry about it failing is because of the ramifications on the other side.
+
+0 (49m 53s):
+So, but
+
+4 (49m 54s):
+That's how revolutions come.
+
+0 (49m 55s):
+This is my point. That's
+
+4 (49m 56s):
+The reset. You see, everything has a reset.
+
+0 (49m 58s):
+You see, this is my point. I don't like your tone. When you say these things zu, you say very, it
+
+3 (50m 2s):
+
+All happen.
+
+0 (50m 3s):
+No, but he says it in a very, your tone is positive, but the message you're giving is like, you're like, yes. Well
+that's a revolution, because that's
+
+4 (50m 11s):
+What happens. That's reset. That's a matter of fact.
+
+0 (50m 12s):
+And everyone's gonna die. Yes. But your tone, you must deliver in like, well, that's a research. You
+
+4 (50m 17s):
+Are worried that you are living on the cusp.
+
+0 (50m 19s):
+Yes. Completely. Yes.
+
+3 (50m 20s):
+You must to miss the
+
+4 (50m 21s):
+Revolution. We, but we not me. Yes. All of us are.
+
+3 (50m 24s):
+Do you wanna miss the revolution? No. Do you wanna be here for it?
+
+4 (50m 26s):
+No,
+
+0 (50m 27s):
+I don't wanna be here for
+
+4 (50m 28s):
+It. Trevor, Trevor doesn't wanna be, Do you
+
+0 (50m 29s):
+Wanna be here for revolution?
+
+3 (50m 30s):
+I Mean, I, I think in many parts, we, you
+
+0 (50m 33s):
+Want to be here for the
+
+3 (50m 34s):
+Revolution, You Know? No, I don't want to be here for revolution.
+
+0 (50m 36s):
+Lemme tell you something about revolution.
+
+4 (50m 37s):
+Yeah. It's, it's disruptive, first
+
+0 (50m 38s):
+Of all, and no. And nobody knows what comes out on the other side. Yes. You, you think I have power. A
+revolution completely disrupts power. Mm. You think, oh, but I'm of the people, revolutions also squash the
+people. And the outcome of a revolution is not predictable. Right. And then
+
+3 (50m 51s):
+Wasn't covid a revolution? Oh, it was
+
+4 (50m 53s):
+Evolution. But Trevor's right in that it's obviously, it depends what sort of person you are. Right. It's better to
+be living in very calm times. Yes. And steady times. Yes. But you learn a lot If you are living on the cusp,
+because that's a majority of change takes place.
+
+0 (51m 8s):
+I Mean, this is true. Yeah. But one of,
+
+4 (51m 9s):
+If you look at us, we've gone through, we literally went from unlocked to digital. That alone will blow many
+people's minds. Yes. Crazy. The things that we've seen, we went from ga recorders to CDs to cassette tapes
+to vhs. Yes. To see your
+
+3 (51m 25s):
+Bro. When I said that, You Know, maybe I think we've lived the revolutions. I think you guys think I, I'm, I'm
+assuming like the violent ones, You Know. No,
+
+0 (51m 33s):
+No, no, no, no. I, I just mean, you
+
+4 (51m 35s):
+Mean a reset.
+
+3 (51m 37s):
+Okay. So you're saying, I'm talking about a reset and not a revolution. Yes. You're gonna have to then gimme
+the difference between those
+
+4 (51m 43s):
+A revolution. You'll know blood
+
+3 (51m 45s):
+Will be spilled,
+
+4 (51m 46s):
+Not necessarily blood will spilled. But you wouldn't be sitting here talking about covid as a revolution. You'd
+know for a fact.
+
+3 (51m 51s):
+Then gimme an example of a revolution. Cuban
+
+4 (51m 53s):
+Revolution. Arab Spring. Yes. Well, Arab Spring somewhat, but regimes change. Yes. Presidents. Okay.
+
+3 (51m 59s):
+Violent then. Not
+
+0 (52m 0s):
+Necessarily, not necessarily. They can be peaceful.
+
+4 (52m 2s):
+Like in 1994, South Africa had a revolution, but a peaceful revolution. More or less. More or less.
+
+0 (52m 9s):
+No. Okay. This is so this is what I Mean. I'll, I'll just throw them out at you and, and, and I'll maybe you'll
+understand the picture that I'm seeing, let's say in America. Right. It was interesting to see how even
+
+amongst themselves, the Trump mega crowd is experiencing like a fraying connection between the people.
+Yeah. In a, in a microcosm, you look at the Trump party, and I don't call it the Republican party, the Trump
+party, you would think within that world, everyone would just be like, yeah, we know what we're doing. We're
+doing it. Right. Look at the thing that happened with Elon Musk and the H one B one visas.
+
+0 (52m 51s):
+Elon Musk is rolling with Donald Trump. They're like, Hey, we know what we're doing. We're planning this
+new world order. Elon's like, Hey man, I have a new best friend. I paid two $50 million for him, so I want to
+hang out with him all the time. Trump is like,
+
+3 (53m 2s):
+Trump needs his mom to come to me three in the morning.
+
+0 (53m 5s):
+Trump is like, you're a bit of a loser. I wanted your money. Go away. That's 'cause you can see Trump knows
+cool and not cool. Yeah, yeah. Like you saw when Trump was sitting with Obama. Ooh, say what you want.
+But Trump was like, he love that Trump was like, this guy's cool. Yes.
+
+3 (53m 16s):
+You
+
+0 (53m 17s):
+Could see he was like, he all those fancy things of this,
+
+3 (53m 19s):
+He was trying to make him laugh. He's like, yeah.
+
+0 (53m 20s):
+And he was making him laugh. Yeah. Trump was like, this guy's cool. Mm.
+
+3 (53m 24s):
+I need this
+
+0 (53m 24s):
+Guy's approval. That exactly. 'cause Trump knows. Cool. Say what you want about him. I like say what what
+you want about is funny.
+
+4 (53m 31s):
+Say what you want about him. So
+
+0 (53m 34s):
+When, when I look at the Elon Musk thing, it's amazing to see how quickly what I'm talking about is affecting
+everyone. Because Elon Musk and his people go, all right, now we know what we're doing. Trump fans and
+supporters are like, actually no. Like Steve Bannon goes, no, no, no. Hey, I actually don't like this agenda.
+Why are we hiring these people from India and from these places to come and work on these companies?
+Elon was like, 'cause we need them. Then Steve Bannon's like, no, we don't need them. We need them
+because we haven't created a world where Americans are the ones that are needed. Then the tech guys say,
+yes, but like Vivek Rams Swami and Elon Musk, they say, yeah, but Americans are not trained enough and
+they're not smart enough. Then these guys are like, oh, you're saying Americans are stupid. They're stupid.
+Is that what you're saying? They're like, no. And then other guy's like, yes, I am saying that.
+
+0 (54m 15s):
+Then he's like, why don't we train Americans? Then he is like, no, because it's, it's, it's not supposed to work
+like that. And then even within that little confine, you see the thing falling apart, the promise hasn't been
+delivered. Right. Because white Americans were told, stop your factory things. We got this, don't worry. So
+what's gonna happen is you are gonna just move forward. Right. And your company, you're gonna wear a
+suit and tie and you're gonna have a different job and you're gonna get great money worked for a moment
+than companies. As you say, capital does. What capital does, companies were like, we could actually make
+more money with less. And why are we paying American workers when we could be paying people from
+India or Bangladesh less.
+
+0 (54m 55s):
+And even If they come into the country, we can force them to work a ton of hours because what are they
+gonna say? No.
+
+4 (55m 1s):
+And they'll be a lot more appreciative of the
+
+0 (55m 3s):
+Dollar. Exactly. Because they have a visa utilitarianism. Exactly. And now even within that tiny world, you see
+the experiment failing. And now there Steve Bannon comes and says, Elon Musk is a white South African
+who's racist and born from apartheid. We cannot allow him into the White House. Now people watching this
+are like, wait, wait. Steve Bannon is saying, this guy's racist. One knows what to do and you be racist. No
+
+4 (55m 25s):
+One knows what to do with it.
+
+0 (55m 25s):
+
+Yeah. No one knows what, but that's just one example. Then you look at South Africa and how South
+Africans are now going like, actually, actually no, no, no. We're not trying to help Africa and no, no, we're just
+trying to do our own thing. Then you look at Europe, Europe's like, no, no, no, no, no. Close close here.
+Germany. They're like, Hey man, this whole immigrant thing, actually no, no, no, no, no. We, we are not.
+We're not. Then you look at like banking, you look at hiring, look at AI itself. We are on a fast track to people
+turning around and saying, wait a minute, if AI is doing every job, who's doing a job? And if nobody's doing a
+job, who's buying things? And if nobody's buying things, what are we doing? And
+
+4 (56m 1s):
+This is why it's so interesting because all of it actually just boils down to economics and living conditions.
+Everything you've just highlighted is not a problem. If people are comfortable.
+
+0 (56m 12s):
+Yeah, completely.
+
+4 (56m 13s):
+If you all comfortable, I love ai 'cause who wants to work? Yes. Let AI work. If you are comfortable and you
+telling me you are gonna bring in some Indian guy, Hey, by all means buddy. Do the thing there. I'll suggest
+you my time. Yeah, that's
+
+3 (56m 23s):
+True. But you okay? That's
+
+4 (56m 24s):
+The problem is yeah. Now when we starving they're like, Hey man, these foreigners are taking our jobs.
+Yeah. That's the problem.
+
+0 (56m 31s):
+That is the
+
+4 (56m 32s):
+Problem. Whereas if we were comfortable, we'd be like, Hey buddy, hey, I got something here for you. You
+wanna do this 'cause I don't want to do it. That's essentially the issue.
+
+0 (56m 40s):
+And that's what I'm saying is failed. Yeah. I'm saying the thing that was sold to people was prosperity for all
+that has not happened. Whether it's South Africa, whether it's the United States, whether it's parts of Europe.
+And
+
+4 (56m 51s):
+It can never happen.
+
+0 (56m 51s):
+Wait, you think it can't happen Never
+
+4 (56m 53s):
+Prosperity for all? It can. No it cannot. No,
+
+0 (56m 55s):
+But it can
+
+3 (56m 55s):
+Because this is what, what I was can't happen say this. That even when we are, like you saying the Trump
+party not s even we were, when we're all for one thing and we have one ideal, we're still going to disagree
+within that. Right.
+
+0 (57m 8s):
+But not fundamentally.
+
+3 (57m 10s):
+I think so.
+
+0 (57m 11s):
+No. They argue people are now disagreeing fun. I hear you look
+
+3 (57m 14s):
+At, look at South Africa. Look at the A and C. Yes. Where
+
+0 (57m 17s):
+We were all
+
+3 (57m 18s):
+About one thing. So annel is right. Even when we get along, guys, even in a group of friends. No, You Know
+that WhatsApp group where there was nine of you and the Ne next thing in that nine six of you slipped to the
+side. Do You Know what I'm saying? It's that is human nature.
+
+4 (57m 30s):
+So annel is right. Yes. There'll always be disagreements. What I'm saying is when things are okay, the
+
+disagreements are inconsequential. Yes,
+
+3 (57m 37s):
+Exactly.
+
+4 (57m 38s):
+So they can never be prosperity for all because in order for people to prosper, there needs to be productivity
+and the productivity needs to come from somewhere. Now what happens is you do get certain instances
+where there are more resources than there are those that defeat the resources. What it means is the model
+seems like it's working for a lot longer. Yeah. But it's really not. The model's always deteriorating. That's just
+the nature of the model. You could be living in the Garden of Eden, but the more you procreate, the more
+you're gonna run out of fruit in that garden.
+
+0 (58m 12s):
+Don't go anywhere. 'cause we got more What Now after this? This is where I disagree. I think a lot of the
+scarcity that we think is real in the world isn't real. That's the first thing. And I think a lot of it is created by
+institutions and companies that need you to consume. So For instance, a simple example is your phone,
+right? Everyone has the new iPhone until Apple releases the next iPhone. It is literally even the day before
+launch, you have the latest iPhone and then one day later you now have an old iPhone. Right? No. So
+
+4 (58m 50s):
+You're right. The issue is not scarcity, it's about the distribution of resources.
+
+0 (58m 55s):
+That's, but that's why I'm, and that's what the problem is. So what I'm saying is I I agree completely. I'm
+saying we are and we have been. And look, there may not be a perfect world for this, but I think there's also
+a lot of artificial scarcity and a lot of artificial I agree with you. Distribution that has now
+
+4 (59m 13s):
+And it's at an all time high. Yeah. Guys,
+
+3 (59m 14s):
+I agree with you.
+
+0 (59m 15s):
+The perfect example is water. Guys, I don't understand how we live in a world.
+
+3 (59m 18s):
+It's where
+
+0 (59m 19s):
+Water is owned by companies and we are all gonna have to buy water from corporations, guys, everywhere
+in the world. You are,
+
+3 (59m 26s):
+I read that about LA that a couple owns water in la
+
+0 (59m 28s):
+It's a farming, farming family. They own like water. You
+
+3 (59m 31s):
+Are like, how Do you water? Who did you buy it from? But that's
+
+0 (59m 34s):
+My point. Who,
+
+3 (59m 34s):
+Who owned it before you? But
+
+0 (59m 35s):
+That's my point. 'cause the water goes under my house as well. How come I can't stop the water and Do you
+see what I'm saying? Yeah. So now see I get what you're saying economically, but I'm saying that's why all of
+these things, I worry that we are going to hit too many at the same time.
+
+3 (59m 50s):
+Okay.
+
+0 (59m 50s):
+And that thing is going to be okay. It'll be, it'll be, I don't know if it will be a revolution, but I think we are, we
+are on track. Unless there's some sort of correction somewhere. We are only on track for a, like a mass
+ending correction type thing, revolution, whatever you wanna call it. I cannot see another way.
+
+4 (1h 0m 13s):
+Well luckily all of this has been thought of even the thing you just mentioned now about water going under
+your house. Yes. So For example, the Romans, 'cause they came out with land ownership, they kind of, they
+basically had a definition of what land ownership is. Right. It'll be I guess a square meters or whatever the
+measurements will be. Yeah. And then it'll be everything on and above the ground belongs to you. Everything
+below the ground that belongs to the state. Okay. It's For example, what our mining laws are based on here
+
+in South Africa. Right. So if the water is flowing on top of your ground, that's your water. But the underground
+water is not yours.
+
+0 (1h 0m 52s):
+Yes. But the problem is the state.
+
+4 (1h 0m 53s):
+Now, is it fair, it's obviously not fair, but I hear you.
+
+0 (1h 0m 56s):
+Yes. But, and what is a state? A state is a collection of people. It's an, it's a, it's an, it's a fiction that we've all
+agreed to. So now the problem is when the states sell it to private people, where do we end up in revolution?
+So see, by the way, Cesar is not helping me at all. 'cause he's affirming everything I'm saying. Yeah. Imagine
+if we were doing that with
+
+3 (1h 1m 13s):
+Saying,
+
+0 (1h 1m 13s):
+Imagine we were doing that
+
+3 (1h 1m 14s):
+With saying it was supposed to happen that way. But you guys also did that with me. That it's supposed to
+happen.
+
+0 (1h 1m 18s):
+No, no,
+
+4 (1h 1m 18s):
+No, no. It's like now's a second album. It was written.
+
+0 (1h 1m 23s):
+Yes.
+
+3 (1h 1m 24s):
+Thank you Joe Biden.
+
+0 (1h 1m 25s):
+But here's what, remember what my original statement was? Yes. I'm worried that the experiment is failing.
+
+Because remember, what we are also doing as humans is we are constantly trying to undermine the natural
+order of things. We do it with our health. Right. So back in the day, your shoulder, you would be gone. Now
+you may not be gone. Yeah. Right. And I think this is something that's important to understand is that one of
+the main things that makes humans, humans is that we've challenged the very fundamental order and nature
+of life and the world.
+
+3 (1h 1m 58s):
+And we fight it under progression.
+
+0 (1h 2m 0s):
+Yeah. But, but we fight it. So we go, actually maybe you shouldn't die of an infection. Yeah. And then you go,
+actually maybe you
+
+3 (1h 2m 6s):
+Shouldn't die at all. Remember the guy you interviewed?
+
+0 (1h 2m 8s):
+Yes, exactly. Himself. Yeah. Yeah.
+
+3 (1h 2m 10s):
+Or maybe he shouldn't die at all. Yeah.
+
+0 (1h 2m 11s):
+Right. So, so the reason I say I'm wor I'm, I'm sad and I'm worried that the experiment is failing is because it
+was an experiment. People thought that If you put goods and services, or If you say that things are gonna be
+manufactured in poor countries, it's gonna bring them up. And then that'll free up the developed countries to
+do different types of jobs and it'll bring them up and then they will sell their ideas and it'll bring them up and
+they'll this beautiful loop, this beautiful loop, this beautiful loop. And we will all raise, what is that? Rising
+tides raise all boats. That's what we thought. What we didn't know was some people have boats that have
+water pumps and they're taking a lot more water and the tides are not rising everything.
+
+0 (1h 2m 51s):
+So now that's what I was saying is my worry. When my good friend was kind enough to to say pun scheme,
+you see
+
+4 (1h 2m 56s):
+This was a good episode. Yeah. And I like the fact that there's no solution. We just threw a bomb on it. We're
+like, bye here. Your worries, nigga. Bye this guy that, that's on you.
+
+0 (1h 3m 11s):
+I actually see a very hopeful future for your story with your son. Of course. That's what I Mean. So I go like,
+oh, you just have a problem or a worry about a potential problem. But I feel like there's many solves for the
+thing leaving the
+
+4 (1h 3m 25s):
+House. That's funny.
+
+0 (1h 3m 30s):
+So that's, that's as a friend, that's, and then my friend has said to me, no, no, don't worry. All your worries are
+correct and it's gonna end. That's what he just did to me. Because you must never be a doctor, by the way.
+Cesar
+
+4 (1h 3m 43s):
+Actually, he needs to be a doctor.
+
+0 (1h 3m 44s):
+No, no. He would be the person who just walks in and says to you, you are out. Statistically speaking, you
+are gonna die anyway. So, I Mean, I don't even know why you wanna do the surgery,
+
+4 (1h 3m 54s):
+Save your money, spend time with your family. You see, that's what he would be saying to you. Okay. No,
+you should not
+
+0 (1h 3m 58s):
+Be a doctor. Be the shortest episodes
+
+4 (1h 3m 60s):
+Of house ever, ever.
+
+0 (1h 4m 1s):
+Just walk in. So, okay, let's do Caesar's. So your concern is you worry that,
+
+4 (1h 4m 6s):
+So Generally speaking, as you correctly point out, the world is continually deteriorating. Yeah. Right. And I
+feel like, wait,
+
+0 (1h 4m 17s):
+Wait, wait, wait, wait. I'm not saying continually. Let me be on record of saying that. Well, I'm, I'm, I think
+
+we're in like cycles and I'm saying now No, we
+
+4 (1h 4m 23s):
+Are in cycles, but obviously in the cycle it's continuing to, okay. Okay. We haven't hit drop bottom
+
+0 (1h 4m 27s):
+Yet. Okay, great. It's only
+
+4 (1h 4m 28s):
+Gonna stop deteriorating gonna hit drop bottom, then we're gonna need to rebuild. Okay, cool. Now I worry
+that in the short term, because life is relatively short, right. To raise a kid in that environment is gonna be
+very tumultuous. And the tools that personally I had to navigate the world, I see those tools becoming more
+and more useless every day.
+
+0 (1h 4m 47s):
+Can you give us an example of those tools?
+
+4 (1h 4m 50s):
+I Mean just general things like, For example, bullying. A very simple example. Yeah. Right. There used to be
+a safe haven for bullying. These days there isn't bullying. Bullying,
+
+0 (1h 5m 2s):
+Yo, sorry. Sorry. I'm, I feel like I'm mishearing you safe haven for people being bullied.
+
+4 (1h 5m 7s):
+From being bullied. Yes.
+
+0 (1h 5m 9s):
+Oh, okay. I thought you were saying there was a safe haven for bullying.
+
+4 (1h 5m 13s):
+No, really, dude, you're also like a weird thinker.
+
+0 (1h 5m 16s):
+You could, you could be the kind of person who says that back
+
+4 (1h 5m 18s):
+In my day, protect all bullies. Yeah. You were like, back in my day, all bullies could find a place. Dude,
+
+0 (1h 5m 23s):
+You're the kind of person who could say that.
+
+4 (1h 5m 26s):
+Look, bullies do bully character. Okay. But I don't think we need,
+
+0 (1h 5m 29s):
+Okay, okay, sorry. So you're saying, so
+
+4 (1h 5m 31s):
+You could get bullied.
+
+3 (1h 5m 32s):
+Bullied would the safe haven so
+
+4 (1h 5m 33s):
+You could get bullied and then at two 30 the bell will ring. You'd be like, whew, that's so great. It mom, I'm
+going home
+
+3 (1h 5m 39s):
+Now. It follows you
+
+4 (1h 5m 40s):
+Home then, then you'd be in your mom's car and then be like, mom, you never believe it. Hey, these guys
+are gonna beat me up. And then you pissed up right in time and now the guys are beating you up in your
+mom's car and your mom's like, Jesus, why you in your, and you, You Know what I Mean? So that's just one
+simple example. Okay, got it. And again, it speaks to the thing of yours, the interconnectedness. Because we
+never Yeah.
+
+0 (1h 6m 0s):
+We didn't prepare for all this.
+
+4 (1h 6m 1s):
+A hundred percent. A hundred percent. And when you are a kid, you really don't have the broadened vision
+to know it. Actually what I can do, just turn off my phone. Yeah.
+
+0 (1h 6m 10s):
+I think as adults, we also don't necessarily have that. It took me, I'm trying to think of when this changed,
+maybe somewhere pandemic ish, somewhere. It took me a long time to realize, eh, if it, if I don't know it, it's,
+
+if I don't even acknowledge it's not even happening. I know it sounds like a weird thing. People are like, no,
+but, but people are saying things about me online. And I'm like, yeah, it's not really happening unless, You
+Know, because I
+
+4 (1h 6m 35s):
+Don you feel like our youth kind of primed us for this though. In what way? Specifically? Like our youth in
+showbiz. Dude, we came at it in a time where I guess the review would've been a, the ratings, the show
+socks or whatever.
+
+0 (1h 6m 48s):
+Okay. Okay.
+
+4 (1h 6m 48s):
+That's why when I see the kids that grew up now in the social media age. Yeah. Right. And I see how
+seriously they take social media
+
+3 (1h 6m 56s):
+And how they crumble when someone does say
+
+4 (1h 6m 58s):
+Something, I can understand it because for them they were made by social media. Yeah. And If you were
+made by social media, you feel like you can be destroyed by social media.
+
+0 (1h 7m 5s):
+Okay. To channel my very wise younger brother, he would argue that we, and the, the youngest of our
+generation is experiencing that. He says they're not, he's like, you guys like Bain. He's almost like, ah, you
+Amelia dropped
+
+4 (1h 7m 18s):
+Ba you Amelia dropped in social media. I was forged in social media. Like he
+
+0 (1h 7m 23s):
+Goes, no, no, no, no. You and your youngest think that he says, our generation, we are so robust because
+we're built by that. He's like, we don't, we actually don't care. He says, we don't really care about the thing
+and we don't. He even showed me like aesthetically I disagree with you. No, but I'm saying he showed me
+like aesthetically go look at like Gen Z and, and lower. Look at their Instagram, their TikTok. It's not aesthetic
+like millennials and above. It's not, they're not trying to show you a perfect picture of avocado toast. No.
+They just wanna show you a vibe. They might even show you the crumbs. That's their picture. And his
+argument is that we think of it as being something that is infinitely harder to tackle. But he's like, it is only the
+
+reality that they have.
+
+0 (1h 8m 5s):
+Right. So he goes, I think your situation was worse. He's like, because when
+
+3 (1h 8m 10s):
+We entered striving for perfection, because we didn't know how this thing
+
+0 (1h 8m 13s):
+Works. No. But not even like he argues, he goes, yeah, you get, we get bullied online. But he's like, but you
+guys got bullied, like physically and there wasn't really stuff you guys could do about it when it was
+happening physically. And then he goes, I can make friends online, I can look at a video on TikTok about
+how to be a boxer. But he argues that their reality is different to ours. But it comes with its own pros and
+cons and they're fine with it. Yeah.
+
+4 (1h 8m 36s):
+I think it's correct. In fact, in that analogy, I would think I'm somebody like Tony Hawk. I'm like the geriatric in
+a skate park.
+
+0 (1h 8m 45s):
+Oh yeah. That's how you are on social media. Yeah.
+
+6 (1h 8m 48s):
+Because I'm with the kids throwing the mud. Heavy, heavy, heavy, heavy.
+
+3 (1h 8m 54s):
+'cause you were,
+
+0 (1h 8m 54s):
+Man,
+
+3 (1h 8m 55s):
+You were literally throwing the mud on the playground. Yeah.
+
+0 (1h 8m 59s):
+Okay.
+
+3 (1h 8m 59s):
+I I think your brother's right. But I think there's very few of them that are like that. The rest of them. And If
+
+you, if If you had to look at the stats around, You Know, mental wellness and anxiety and all of that, a lot of
+them are not thinking like that. So for me, your brother is the hippie.
+
+0 (1h 9m 17s):
+One thing I will throw into that, we, yeah. We'll, we'll wrap, we'll wrap one thing.
+
+4 (1h 9m 20s):
+I'm reading late, this nigga's even calling me.
+
+0 (1h 9m 21s):
+All right. So one thing I will say to that is, I think it's the same guys, one bully at my school terrorized three
+standards. Like three grades. Yeah. One bully. Do you understand what reach that is? Yeah. One guys, one
+bully would come to the tuck shop the cafeteria for those in America and would take anything and everything
+and do whatever they, so I understand what you're saying, but I go, I feel like we were also that generation. I
+watched people get terrorized by one bully and a whole school could have done something and didn't do
+anything. And we're all just like, that's them. You Know, you're just like, pray to God, they don't come your
+way.
+
+0 (1h 10m 2s):
+Yeah. And so what I'm arguing is I don't necessarily think that they are softer or like, I just think that because
+it's so foreign to us, we see it as being more that way. But I don't necessarily think it's, and and
+
+4 (1h 10m 16s):
+It's the same problems, just a different iteration. Yes. Okay. But that's how generations are.
+
+0 (1h 10m 21s):
+Yes. That's what I think. And then I actually think the mental health thing, I think it is more important to look
+at our communities, like our real communities versus our social ones. I think we take for granted, forget the
+bully, forget the social media, forget all of that. We take for granted what a physical touch was. Yes. Yes. I got
+bullied, but at least my bully touched me.
+
+3 (1h 10m 41s):
+Okay.
+
+0 (1h 10m 42s):
+Do You Know what I'm saying? At least my
+
+3 (1h 10m 44s):
+Bully. At least I felt my skin. Like, like the
+
+0 (1h 10m 47s):
+We'll come we'll, we'll we'll continue this. We'll go catch your flights. Bye-bye.
+
+3 (1h 10m 51s):
+Get outta here. Thank
+
+4 (1h 10m 52s):
+You. I love you guys. We love
+
+3 (1h 10m 53s):
+You so
+
+0 (1h 10m 53s):
+Much. Alright. Go catch your flights.
+
+4 (1h 10m 55s):
+Don't get bullied. Whatever.
+
+0 (1h 10m 57s):
+Or If you do, make sure they touch you.
+
+3 (1h 10m 59s):
+The thing around touching is so that I can assess your strength. Because when you, when when you are
+bullying me and, and you touch me, I can assess, okay, maybe I can fight you one day. Yeah. But digitally, I
+don't know what your strength
+
+0 (1h 11m 12s):
+Is. Yeah. That, that is one thing I think is worse.
+
+3 (1h 11m 14s):
+So think that that's the only reason I I'll agree with you with the bully touching you. Okay.
+
+0 (1h 11m 16s):
+I'll throw you another one that you might agree with. And I Mean this genuinely, every kid who bullied me
+
+3 (1h 11m 23s):
+Made you a better person.
+
+0 (1h 11m 24s):
+No. Saw me as a human being. And I saw them as a human being because they didn't perpetually bully me.
+Mm. And they were not perpetually bullies. They were kids who played sports, who ate food, who caught the
+bus. Who, and then they were the same way. Like, your job doesn't define you hopefully in life. They were
+like, no, I work as a bully, but I'm also still a human being. They laughed. They, I remember walking into
+school and the bully would be there and be like, Trevor, you. And I'd be like, ah, bro, come on and be like,
+again. Yeah. And then he'd be like, okay, but tomorrow that for me, I don't see anyone doing online because I
+know this sounds like a crazy thing to say, but even though that bully was a bully, because we shared the
+same space, because we breathed the same air, because we looked into each other's real eyes.
+
+0 (1h 12m 10s):
+I knew who that bully was. I knew their name, I knew where they lived. I, they were a human being. But
+
+3 (1h 12m 15s):
+That's because with, with, with digital, everything is just fleeting and passing. Yeah.
+
+0 (1h 12m 19s):
+And fake.
+
+3 (1h 12m 19s):
+But Yeah. But I'll raise you that people that I have like squared up with on digital, there are people that have
+become my friends because every day we're gonna ever go to each other really. And Yes. And then after a
+while you're like, You Know, you're not half bad. 'cause you must remember something. Somebody who's
+wrong can't be wrong all the time. And somebody who's right can't be right all the time. Oh, I like that. Right.
+So even with people that I've disagreed with, You Know, like aggressively on, on eggs sooner or later
+because you still get retreated by other people. I'm like, You Know, I usually speak nonsense. But today I
+can agree with what you're saying. Right. So we are agreeing with each other. It's just that with digital,
+there's this thing of, I've said it, it's done. My phone is off, I'm gone. Right. But now with your bully, they were
+coming back to you every day. You could, you, there was a chance of you seeing them again and again and
+again.
+
+3 (1h 13m 1s):
+So back to what you were saying about community, think of the first days on Twitter. That was a community.
+
+0 (1h 13m 7s):
+Yeah. It
+
+3 (1h 13m 7s):
+Was. And I think right now it's just that you are dealing with the, you wouldn't allow anyone to just touch you
+
+like that. Even in your physical sense when you're a child because you're like, I don't know you. Yeah. I have
+a
+
+0 (1h 13m 19s):
+Who are you?
+
+3 (1h 13m 20s):
+Who are you? Right. And I think that what you, you going back to is that wherever you are, be it at work
+within your family. Yeah, yeah. At whatever, just find your sense of community.
+
+0 (1h 13m 31s):
+It's, it's funny, you, you, You Know, you say yeah, there's, there's something you stumbled on. I feel like in,
+in, in one part that's really special. And that is we've lost that. Even, even fighting, at least you're, you are
+connecting with another person. I know it sounds crazy, but even having a back and forth, at some point you
+will see each other as people.
+
+3 (1h 13m 58s):
+You Know, when c almost quoted President Joe Biden. Yeah. Joe
+
+0 (1h 14m 2s):
+Biden.
+
+3 (1h 14m 2s):
+Let me quote President Obama at his first inauguration where he said, I'll listen to you. Especially when we
+disagree.
+
+0 (1h 14m 8s):
+Huh? Huh.
+
+3 (1h 14m 10s):
+You must listen to people that you disagree with. And that's the problem with, I would say the Trump party is
+that there's just a notion that I don't have to listen to you because I disagree with you. Yeah. But what if in the
+two minutes of me talking, you agree with 30 seconds of what I'm saying. Yeah. Now you're doing yourself
+an injustice of just totally disregarding me because I'm not a Trump party. Yeah.
+
+0 (1h 14m 29s):
+But I, I think both ways actually, and I think that's, I've always said America's biggest struggle for me in its
+politics is that it is binary. So Americans think and have been taught that it is this or that. But now I realize,
+and I realize every time I come home to South Africa, I'm like, wow, we have such a complex, perfect
+
+example is the, I'm an A NC bitch. The woman on the flight ff flight, this is a black woman who gets drunk on
+a flight, starts berating the, like the the flight attendants. Yeah. Throws things at other passengers fight. And
+now passengers black and white arelike team up against her to restrain her was wrong. Yeah. But even then
+the commentary of it, the pro a NC people there against her, and then black people at large are against her
+and white people.
+
+0 (1h 15m 18s):
+And I was like, oh yeah, I don't really see many of those types of things happen in America. I
+
+3 (1h 15m 21s):
+Saw a white guy coming up for her and he wrote a thread about what could have gone wrong and we must
+understand. I was just like, okay. Yeah, but we have rich mul.
+
+0 (1h 15m 29s):
+But, but what exactly, so what I mean is like, when you are told that there is one of two solutions, you will
+then think that there's one or two solutions. And so you will be forced to pick between one of two solutions
+and you, You
+
+3 (1h 15m 42s):
+Know what I Mean? And you believe that if I pick one, I can't like certain elements of the other one.
+
+0 (1h 15m 47s):
+Yes. Because you've been told whereas, whereas when you come from a place where they go, no, no, no,
+no, no. As you said earlier with the A NC, even the a NC was multiple coalitions in one thing.
+
+3 (1h 15m 57s):
+Right. And that's what made it work. Because You Know what you find then you find accountability and, and,
+and me constantly having to behave in a way that proves that my theory is the one that we should go with
+right now. When, when we are all thinking the same. Right. When we are all thinking the same. Isn't that a
+dictatorship?
+
+0 (1h 16m 17s):
+Yeah. No, this is, this is not actually, You Know what's funny? You actually made me worry less.
+
+3 (1h 16m 23s):
+Oh
+
+0 (1h 16m 23s):
+Really? Yeah. Okay. No, really. Because I think to myself, even in the moment, this is gonna sound like a
+
+crazy thing even for me to say to myself, but like the one upside of revolutions is that they bring people
+together Or like one of the upsides maybe depending on where the revolution's going. But it is like it, You
+Know, the people come together like the, You Know, you think of like the, the Berlin wall coming down. You
+think of like the Soviet Union collapsing. You think of Cuba, you think it, yeah. It's like it brings people
+together and maybe that's what's, maybe that's what we're living in. Maybe life is a constant yo-yo of
+humans being pulled apart and then being pulled back together.
+
+0 (1h 17m 7s):
+And maybe we create things that pull us apart, walls at our houses, You Know, tinted windows in our cars,
+things that isolate us, and then something comes along. Everything from an earthquake to a fire to,
+
+3 (1h 17m 20s):
+And then you need that person that's not
+
+0 (1h 17m 21s):
+All of a sudden out, all of sudden. Yeah. All of a sudden we are now back together. And it's, it's interesting to
+think of like us always being forced to come back together whether we like it or not.
+
+3 (1h 17m 33s):
+Yeah. Because
+
+0 (1h 17m 34s):
+Like, literally, whether we like it or not, whether
+
+3 (1h 17m 36s):
+You like it or not,
+
+0 (1h 17m 36s):
+Humans are gonna get forced
+
+3 (1h 17m 37s):
+Be gonna, we're gonna be back here together. Yeah.
+
+0 (1h 17m 39s):
+And we don't know what it'll be. Yeah. Huh. I like that. See one sees we left my worry left as well.
+
+3 (1h 17m 48s):
+No, but you need the grim, the Grinch, the
+
+0 (1h 17m 51s):
+Funny thing is he's not even Grinchy. If he was a Grinch, it would be better. He's an AI is
+
+3 (1h 17m 55s):
+His delivery on it.
+
+0 (1h 17m 56s):
+You Know, like, You Know, like when you watch those movies where like, where like the robot just says like
+straight up, they just go like, humankind needs to be eliminated. Then you're like, excuse me. It appears to
+me that being human is suboptimal. Yeah. But I'm asking you what's a better way to do my garden? The best
+way is to not have a garden.
+
+3 (1h 18m 12s):
+It's gonna die anyway. It's
+
+0 (1h 18m 13s):
+Gonna die anyway. The same way you will die. If I end you, then you do not have to worry about the garden.
+Yo, yo, yo. Cwe cwe. I'm looking for a solution. Yes. And I presented the ultimate solution to you. Whoa,
+whoa, whoa, whoa.
+
+3 (1h 18m 25s):
+Solution is death.
+
+0 (1h 18m 26s):
+Yes. This is why you're a mom. And he isn't
+
+3 (1h 18m 29s):
+As a parent, you just have to be the eternal optimist. Oh. And and, and that's true. And, and, and, but then
+it's so difficult to be the eternal optimist, but then finding hard the places to be hard inside of that. 'cause you
+have to be hard at times because discipline has to happen. Damn. You Know? So you, you, You Know what
+it is. It's a yo-yo. Yeah, we, we separate, but we're gonna come together 'cause somebody has to drive you
+to school.
+
+0 (1h 18m 54s):
+I love that. Thank you. An thanks for joining me. Thank you. And thank you Cwe in your absence.
+
+7 (1h 19m 5s):
+What Now with Trevor Noah is produced by Spotify Studios in partnership
+
+0 (1h 19m 9s):
+With Day Zero Productions. The
+
+7 (1h 19m 11s):
+Show is executive produced
+
+0 (1h 19m 12s):
+By Trevor Noah, son Yame and Jody Agan. Our senior
+
+7 (1h 19m 16s):
+Producer is Jess Hackle.
+
+0 (1h 19m 18s):
+Claire Slaughter is our producer. Music mixing and
+
+7 (1h 19m 22s):
+Mastering by Hannah Brown. Thank you so much for listening. Join me next Thursday for another episode
+
+0 (1h 19m 27s):
+Of What Now?
+
+
+
+## Metadata
+- Source file: junk_drawer/Wringing in the New Year [VIDEO]-transcript.pdf
+- Extracted: 2026-05-18
+- Category: media-transcript

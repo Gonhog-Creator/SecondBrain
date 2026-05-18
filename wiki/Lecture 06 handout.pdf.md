@@ -1,0 +1,356 @@
+# Lecture 06 handout.pdf
+
+Source: junk_drawer/Lecture 06 handout.pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+CHE 435/525 Process Systems Analysis and Control Lecture 6: Transfer Function and Local Linearization Wentao Tang Assistant Professor, Chemical & Biomolecular Engineering North Carolina State University
+
+## Full Content
+CHE 435/525
+
+Process Systems Analysis and Control
+
+Lecture 6: Transfer Function and Local Linearization
+
+Wentao Tang
+Assistant Professor, Chemical & Biomolecular Engineering
+North Carolina State University
+
+January 23, 2025
+
+Wentao Tang (NCSU)
+
+Transfer Function
+
+January 23, 2025
+
+0 / 11
+
+Discuss & Recapture
+
+What is the inverse L.T. of Y (s) = 1/(s − r)k ?
+
+How to analyze the qualitative behavior of a signal based on its L.T.?
+▶
+
+For example,
+Y (s) =
+
+(s − 1)(s + 4)
+?
+((s + 1)2 + 2)(s + 3)
+
+What is a transfer function G(s)?
+
+Wentao Tang (NCSU)
+
+Transfer Function
+
+January 23, 2025
+
+1 / 11
+
+Learning objectives of this lecture
+
+1
+
+Explain the meaning of transfer function and its additive and
+multiplicative properties
+
+2
+
+Obtain the transfer function model from ODE using deviation
+variables around a steady state
+
+3
+
+Perform local linearization on nonlinear models around a steady state
+
+Wentao Tang (NCSU)
+
+Transfer Function
+
+January 23, 2025
+
+2 / 11
+
+Transfer function
+
+Definition
+For a linear SISO system with input u(t) and output y(t), the transfer
+function is
+G(s) = Y (s)/U(s).
+(1)
+
+An equivalent representation of the process dynamics
+A differential equation “disguised” as an algebraic equation
+
+Wentao Tang (NCSU)
+
+Transfer Function
+
+January 23, 2025
+
+3 / 11
+
+Transfer function: Example
+
+Liquid storage tank with linear out-flow resistance
+dh
+1
+= qi − h.
+dt
+R
+Think of qi (inlet flow rate) as the input, h as the output.
+A
+
+By doing L.T.: AsH(s) + (1/R)H(s) = Qi (s)
+H(s)
+1
+G(s) =
+.
+=
+Qi (s)
+As + 1/R
+Exercise: If qi (t) = M = const (step input), then how will h(t)
+respond?
+
+Wentao Tang (NCSU)
+
+Transfer Function
+
+January 23, 2025
+
+4 / 11
+
+Additive and multiplicative properties
+If y is affected by multiple inputs (say, u1 and u2 ) with respective
+transfer functions (G1 (s) and G2 (s)), then
+Y (s) = G1 (s)U1 (s) + G2 (s)U2 (s) ⇒ G(s) = G1 (s) + G2 (s)
+For a linear system, the effect of inputs can be superposed.
+
+If y2 is affected by input y1 , which is the output of a precedent model
+G1 (s) with input u. Then
+Y2 (s) = G2 (s)Y1 (s) = G2 (s)G1 (s)U(s) ⇒ G(s) = G2 (s)G1 (s)
+
+Wentao Tang (NCSU)
+
+Transfer Function
+
+January 23, 2025
+
+5 / 11
+
+Static gain (steady-state gain, or gain)
+Under u(t) = S(t) (unit step input), if limt→∞ y(t) = K exists, then
+K is called the static gain.
+▶
+
+If u(t) = aS(t), then limt→∞ y(t) = aK
+
+Formula of static gain
+If static gain K exists, then
+K = G(0).
+Proof: According to the final value theorem, K = lims→0 sY (s), where
+Y (s) = G(s)U(s), U(s) = 1/s. Hence K = G(0).
+Question: What is the static gain of G(s) = 1/(s + 3)? What about
+G(s) = 1/(s − 3)?
+Question: What should be the static gain of a thermometer (input =
+object temperature, output = reading)?
+Wentao Tang (NCSU)
+
+Transfer Function
+
+January 23, 2025
+
+6 / 11
+
+Steady state and deviation variables
+
+A steady state refers to a status where the process variables remain at
+constant values
+Assume model dy
+dt = f (y, u), the steady state is (ȳ, ū) such that
+f (ȳ, ū) = 0
+▶ Usually, linear dynamic models are only valid near a steady state
+▶ Think about a thermometer – only designed to measure near 36.5◦ C
+▶
+
+We should consider the deviation from the steady-state values as the
+inputs and outputs, not their “physical values”
+Deviation variables: y′ = y − ȳ, u′ = u − ū
+▶ In other words, we study the response of y′ to u′
+▶
+
+Wentao Tang (NCSU)
+
+Transfer Function
+
+January 23, 2025
+
+7 / 11
+
+Local linearization for dy/dt = f (y, u)
+R.H.S.: Near the steady state (ȳ, ū)
+∂f
+∂f
+(y − ȳ) +
+(u − ū)
+f (y, u) ≈f (ȳ, ū) +
+∂y (ȳ,ū)
+∂u (ȳ,ū)
+=0 +
+
+∂f
+∂f
+y′ +
+u′
+∂y (ȳ,ū)
+∂u (ȳ,ū)
+
+L.H.S.: dy/dt = d(ȳ + y′ )/dt = dy′ /dt.
+Denote
+a=
+
+∂f
+∂f
+, b=
+,
+∂y (ȳ,ū)
+∂u (ȳ,ū)
+
+we have
+dy′
+= ay′ + bu′
+dt
+
+Wentao Tang (NCSU)
+
+⇒
+
+G(s) =
+
+Transfer Function
+
+Y ′ (s)
+b
+=
+.
+′
+U (s)
+s−a
+
+January 23, 2025
+
+8 / 11
+
+Local linearization for dy/dt = f (y, u): Example
+Tank with weir [Seborg Ex.4.8]
+A surge tank is designed with a slotted weir so that the outlet flow rate
+w = Rh1.5 . Find the transfer function G(s) = H ′ (s)/Wi′ (s).
+
+ρA
+
+dh
+= wi − Rh1.5 .
+dt
+
+Assume the steady state: (h̄, w̄i ) satisfying w̄i − Rh̄1.5 = 0.
+′
+
+1
+′
+0.5 ′
+Linearize: ρA dh
+dt = wi − 1.5Rh̄ h . Hence, G(s) = ρAs+1.5Rh̄0.5 .
+Wentao Tang (NCSU)
+
+Transfer Function
+
+January 23, 2025
+
+9 / 11
+
+Local linearization: Multi-input-multi-output case
+CSTR [Seborg Ex.4.10]
+A CSTR with first-order reaction A→B using cooling water:
+dcA
+V
+= q(cAi − cA ) − k0 e−E/RT cA V
+dt
+dT
+ρVCp
+= ρqCp (Ti − T ) + k0 e−E/RT cA V (−∆HR ) + UA(Tc − T )
+dt
+Assume cAi = const. Find the transfer function CA′ (s)/Tc′ (s).
+Assume the steady state: (c̄A , T̄ ) under T̄c , making R.H.S. both zero.
+dcA′
+′ dT ′
+′
+′
+′
+′
+dt = a11 cA + a12 T , dt = a21 cA + a22 T + bTc .
+L.T.: (s − a11 )CA′ (s) = a12 T ′ (s), (s − a22 )T ′ (s) = a21 CA′ (s) + bTc′ (s).
+
+Linearize:
+
+Eliminate T :
+CA′ (s)
+a12 b
+= 2
+.
+′
+Tc (s)
+s − (a11 + a22 )s + (a11 a22 − a12 a21 )
+Wentao Tang (NCSU)
+
+Transfer Function
+
+January 23, 2025
+
+10 / 11
+
+Summary: Laplace transform and transfer function
+L.T.: signal in time, f (t) → signal in “s”, F(s)
+▶
+
+Later, the “physical” meaning of s shall become clearer.
+
+Input-output model: differential in t → algebraic in s
+G(s) = Y (s)/U(s)
+▶
+
+If nonlinear, then locally linearize near a steady state
+
+Calculating output response:
+L.T.
+
+T.F.
+
+P.F.E.
+
+u(t) −→ U(s) −→ Y (s) −→ y(t)
+Qualitative analysis possible! Examine the roots on the denominator
+– real part (growth/decay) and imaginary part (oscillations)
+▶
+
+Next few lectures: Apply such analysis to systems with different
+“features”
+
+Wentao Tang (NCSU)
+
+Transfer Function
+
+January 23, 2025
+
+11 / 11
+
+
+
+## Metadata
+- Source file: junk_drawer/Lecture 06 handout.pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

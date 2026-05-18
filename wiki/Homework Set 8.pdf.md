@@ -1,0 +1,317 @@
+# Homework Set 8.pdf
+
+Source: junk_drawer/Homework Set 8.pdf
+
+Category: [[academic-homework]]
+
+## Summary
+CHE-205 Chemical Process Principles Fall 2022 Homework Set 8 Due November 7, 2022 @ 8:30am in Gradescope and WileyPlus (no late submissions for Gradescope given the extended due date) This assignment is to be completed in your homework groups. Be sure to include the group number as well as first and last names of all contributing group members in addition to the assignment number and instructor name on the group cover sheet (see template in Moodle). Gradescope will ask you to associate
+
+## Full Content
+CHE-205 Chemical Process Principles
+
+Fall 2022
+
+Homework Set 8
+Due November 7, 2022 @ 8:30am in Gradescope and WileyPlus
+(no late submissions for Gradescope given the extended due date)
+This assignment is to be completed in your homework groups. Be sure to include the group number as well
+as first and last names of all contributing group members in addition to the assignment number and
+instructor name on the group cover sheet (see template in Moodle). Gradescope will ask you to associate
+the names of all group members when you submit the assignment. The entire (Gradescope) assignment
+must be in one person’s handwriting. If you use an equation solving tool (calculator, APEx, Solver,
+MATLAB), write out the equation(s) and note the tool that you used; otherwise, show all hand calculations
+in equation solving.
+1. (15 points) A vapor mixture of n-butane (B) and n-hexane (H) contains 50.0 mole% butane at 120°C
+and 1.0 atm. A stream of this mixture flowing at a rate of 150.0 L/s is cooled and compressed, causing
+some but not all of the vapor to condense. (Treat this process as a single-unit operation.) Liquid and
+vapor product streams emerge from the process in equilibrium at T (°C) and 1100 mm Hg. The vapor
+product contains 60.0 mole% butane.
+(a) Draw and label a flowchart. Perform a degree-of-freedom analysis to show that you have
+enough information to determine the required final temperature T, the composition of the
+liquid product (component mole fractions), and the molar flow rates of the liquid and vapor
+products from the given information and Antoine expressions for the vapor pressures pB*(T)
+and pH*(T). Just identify the equations—for example, mole balance on butane or Raoult’s law
+for hexane—but don’t write them yet.
+(b) Write in order the equations you would use to determine the quantities listed in Part (a) and
+also the fractional condensation of hexane (mol H condensed/mol H fed). In each equation,
+circle the variable for which you would solve. Do no algebra or calculations.
+(c) Complete the calculations either manually or with an equation-solving program.
+(d) State three assumptions you made that could lead to errors in the calculated quantities.
+2. (15 points) Vapor–liquid equilibrium calculations can sometimes be simplified through the use of a
+quantity called the relative volatility, which may be defined in terms of the following depiction of
+vapor and liquid phases in equilibrium:
+
+The relative volatility of species i to species j is
+𝑦𝑖 ⁄𝑥𝑖 𝑦𝑖 ⁄𝑦𝑗
+𝛼𝑖𝑗 =
+=
+.
+𝑦𝑗 ⁄𝑥𝑗 𝑥𝑖 ⁄𝑥𝑗
+If αij is much greater than 1, species i is much more volatile than species j (i.e., it has a much greater
+tendency to vaporize at the system temperature and pressure); conversely, if αij is much less than 1,
+species i is much less volatile than species j. The closer αij is to 1, the more difficult it is to separate
+species i from species j by a process such as distillation or partial condensation of a vapor mixture.
+(a) Show that the relative volatility of species A to species B, αAB, equals the ratio of vapor
+pressures at the system temperature, pA*/pB*, if both species obey Raoult’s law and follow
+ideal-gas behavior.
+(b) Determine the relative volatility of styrene to ethylbenzene at 85°C and the relative volatility
+of benzene to ethylbenzene at the same temperature. Which pair would you classify as more
+difficult to separate by distillation?
+(c) Show that for a binary mixture of i and j,
+
+𝑦𝑖 =
+
+𝛼𝑖𝑗 𝑥𝑖
+
+.
+1 + (𝛼𝑖𝑗 − 1)𝑥𝑖
+(d) Apply the equation from Part (c) to a benzene–ethylbenzene system at 85°C, using it to
+estimate the mole fractions of benzene in the vapor phase in equilibrium with liquids having
+benzene mole fractions of 0.0, 0.2, 0.4, 0.6, 0.8, and 1.0. Then calculate the total system
+pressure for each of these six conditions.
+3. (15 points) A methanol–water feed stream is introduced to a vaporizer in which a molar fraction f of
+the feed is vaporized. The feed has a methanol mole fraction of xF = 0.4, and the vaporizer operates at
+a pressure of 1 atm absolute and 80°C. Vapor and liquid leaving the device are in equilibrium at the
+temperature and pressure of the system and have methanol mole fractions of y and x, respectively. A
+Txy diagram for methanol–water mixtures at 1 atm absolute is shown below. The feed to the
+vaporizer and the liquid and vapor product streams are shown as points B, A, and C, respectively.
+
+(a) Prove that f can be determined from the equation
+moles of vapor xF – x
+f=
+=
+moles of liquid y – xF
+Use this result to determine f for the specific conditions cited above (xF = 0.4, T = 80°C).
+(b) Use the Txy diagram to estimate the minimum and maximum temperatures at which the
+given feed stream could be separated into vapor and liquid fractions at 1 atm. In each
+case, what fraction of the feed would be vaporized?
+(c) The vapor at C is sent to a condenser operated at constant pressure (1 atm). The liquid
+and vapor product streams leaving the condenser are in equilibrium and in a ratio of 1
+mol vapor/1 mol liquid. Estimate the temperature and compositions of the two streams
+leaving the condenser.
+4. (25 points) In this problem you will use a spreadsheet to create a Txy diagram for the benzenechloroform system at 1 atm. Once the spreadsheet has been created, it can be used as a template for
+vapor–liquid equilibrium calculations for other species. The calculations will be based on Raoult’s
+law (i.e., yiP = xipi*), although we recognize that this relationship may not produce accurate results
+for benzene-chloroform mixtures.
+(a) Begin by establishing bounds on the system behavior. Look up the normal boiling points of
+chloroform and benzene and, without performing any calculations, sketch the expected shape
+of a Txy diagram for these two species at 1 atm.
+(b) Using APEx or Table B.4, estimate the normal boiling points of the two species and compare
+them to the results in Part (a).
+(c) Prepare a spreadsheet that has a title row “Txy Diagram for Ideal Binary Solution of
+Chloroform and Benzene.” In the first cell of Row 2, place the label “P (mm Hg) =” and in
+
+the adjacent cell enter the system pressure, which for this case is 760. In Row 3 place
+headings for columns: xC, xB, T, pC*, pB*, P, yC, yB, and yC + yB. Not all of these columns are
+essential, but when filled they will give a complete picture of the system and a final check of
+the calculations. Carry out the following procedures in each subsequent row:
+ Enter values for the mole fraction of chloroform (the first entry should be 1.000 and
+the last should be 0.000).
+ Calculate the mole fraction of benzene by subtracting the value in the previous cell
+from 1.000.
+ Enter an estimate of the equilibrium temperature that is between the two purecomponent boiling points.
+ Use APEx or Table B.4 to estimate pC* and pB* from the estimated temperature.
+ Calculate pC and pB from Raoult’s law.
+ Calculate pC and apply the Goal Seek tool to adjust the value of T until P = 760
+mmHg.
+ Calculate yC and yB from the partial pressures and P.
+ Sum yC and yB to be sure they equal 1.000.
+ Once you have completed a row for the first value of xC, you should be able to copy
+formulas into subsequent rows. When the calculation has been completed for all rows
+(i.e., xC = 0.0, 0.2, 0.4, 0.5, 0.6, 0.8, 1.0), draw the Txy diagram.
+(d) The following vapor–liquid equilibrium data have been obtained for mixtures of chloroform
+(C) and benzene (B) at 1 atm.
+T (°C)
+xC
+yC
+
+80.6
+0.00
+0.00
+
+79.8
+0.08
+0.10
+
+79.0
+0.15
+0.20
+
+77.3
+0.29
+0.40
+
+75.3
+0.44
+0.60
+
+71.9
+0.66
+0.80
+
+68.9
+0.79
+0.90
+
+61.4
+1.00
+1.00
+
+Plot these data on the graph generated in Part (c). Estimate the percentage errors in the
+Raoult’s law values of the bubble-point temperature and vapor mole fraction for xC =
+0.44, taking the tabulated values to be correct.
+(30 points) The remainder of the assignment (4 problems) will be completed individually online using
+WileyPLUS. Each person will complete and submit their own WileyPLUS problems. You can work with
+your team members to solve these problems, although note that each person may have unique values for
+some variables. You do not have to turn in any paperwork with this portion of the assignment. The due date
+for the WileyPLUS completion is the same as for the homework assignment. Note that the WileyPLUS
+assignment cannot be submitted late.
+
+Honors Contract Problem
+The following diagram shows a staged absorption column in which n-hexane (H) is absorbed from a gas
+into a heavy oil.
+
+A gas feed stream containing 5.0 mole% hexane vapor and the balance nitrogen enters at the bottom of an
+absorption column at a basis rate of 100 mol/s, and a nonvolatile oil enters the top of the column in a ratio
+2 mol oil fed/mol gas fed. The absorber consists of a series of ideal stages (see Problem 6.66), arranged so
+that gas flows upward and liquid flows downward. The liquid and gas streams leaving each stage are in
+equilibrium with each other (by the definition of an ideal stage), with compositions related by Raoult’s law.
+The absorber operates at an approximately constant temperature T (°C) and 760 mm Hg. Of the hexane
+entering the column, 99.5% is absorbed and leaves in the liquid column effluent. At the given conditions it
+may be assumed that N2 is insoluble in the oil and that none of the oil vaporizes.
+(a) Calculate the molar flow rates and mole fractions of hexane in the gas and liquid streams leaving
+the column. Then calculate the average values of the liquid and gas molar flow rates in the column,
+ṅ L (mol/s) and ṅ G (mol/s). For simplicity, in subsequent calculations use the average values for
+liquid and gas molar flow rates within the column, but the actual values for the corresponding flow
+rates entering and leaving the column.
+(b) Considering the bottom stage to be ideal, estimate the mole fractions of hexane in the gas leaving
+that stage (yN ) and in the liquid entering it (xN-1) if the column temperature is 50°C.
+(c) Suppose that xi and yi are the mole fractions of hexane in the liquid and gas streams leaving stage
+i. Derive the following equations from an equilibrium relationship and a mass balance around a
+section of the column encompassing stage i and the bottom of the column:
+𝑥𝑖 𝑝𝑖∗ (𝑇)
+𝑃
+𝑥𝑁 𝑛̇ L,𝑁 + 𝑦𝑖 𝑛̇ G − 𝑦𝑁+1 𝑛̇ G,𝑁+1
+𝑥𝑖−1 =
+𝑛̇ L
+𝑦𝑖 =
+
+(1)
+(2)
+
+Verify that these equations yield the answers you calculated in Part (b).
+(d) Examine the effect of operating temperature on the column by estimating the number of ideal stages
+necessary to achieve the desired separation. In the calculations, which will be done using a
+
+spreadsheet, take the pressure in the column to be constant at 760 torr, but consider three different
+operating temperatures: 30°C, 50°C, and 70°C. The calculations will follow a stage-to-stage
+strategy beginning at the bottom of the column and repeatedly applying (Equations 1) and (2) until
+the mole fraction of hexane in the vapor leaving the column is less than or equal to that calculated
+in Part (a). You may use APEx or the Antoine equation and Table B.4 to estimate the hexane vapor
+pressure. The calculations for the case of T = 30°C illustrate how to proceed; for this case, yN – 1 <
+y1 = 0.00263 after only two stages.
+Hexane Absorption
+P (torr)
+
+760
+
+yN+1
+
+0.05
+
+x0
+
+Fraction
+removal
+
+0.95
+
+y1
+
+0.00263
+
+xN
+
+0
+
+nG,N+1(mol/s)
+
+100
+
+nL,0(mol/s)
+
+200
+
+nG(mol/s)
+nL(mol/s)
+T(degC)
+
+30
+
+T(degC)
+
+p*(torr)
+
+187.1
+
+p*(torr)
+
+i
+
+xi*10^3
+
+N + 1
+
+yi*10^3
+50.00
+
+N
+
+24.27
+
+5.976
+
+N – 1
+
+2.754
+
+0.678
+
+i
+
+50
+
+T (degC)
+
+70
+
+p* (torr)
+
+xi*10^3
+
+yi*10^3
+50.00
+
+i
+
+xi*10^3
+
+yi*10^3
+50.00
+
+When you set up your spreadsheet, you should be able to accomplish many of your calculations
+simply by copying cells from one location to another. In any case, do not go beyond 25 stages for
+any temperature, whether or not you achieve the required separation.
+(e) You can see that the number of stages required increases as the column temperature increases. In
+fact, there is a maximum temperature beyond which the required separation cannot be achieved. At
+that temperature, the entering gas and leaving liquid are approximately in equilibrium, so that
+𝑥𝑁 𝑝∗ (𝑇) = 𝑦𝑁+1 𝑃. Use either APEx or the Antoine equation to estimate the maximum temperature
+at which the separation can be achieved.
+
+
+
+## Metadata
+- Source file: junk_drawer/Homework Set 8.pdf
+- Extracted: 2026-05-18
+- Category: academic-homework

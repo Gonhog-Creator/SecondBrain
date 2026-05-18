@@ -1,0 +1,284 @@
+DEPARTMENT OF CHEMICAL & BIOMOLECULAR ENGINEERING
+NORTH CAROLINA STATE UNIVERSITY
+CHE 450
+Homework Set 10
+Problem 1 (50%) Use the algorithm provided in the lecture to complete the following Pinch
+Analysis for a heat exchanger network design. Assume a minimum approach temperature of 10°C.
+(a, 30%) Determine the pinch point (in °C) for the process streams shown in the table below.
+(b, 20%) Determine the hot and cold utility requirements in kW (remember, 1 kW = 1 kJ/s).
+
+Below is a blank temperature interval diagram for use with this problem:
+
+Problem 2 (50%) Examine the following network of three heat exchangers which is being used to
+heat the unobtanium (UN) feedstock using a combination of LPS, obtanium (OB, a recycle stream)
+and HPS. A stream table and equipment summary table appear on the following page. Your
+manager, Karen, is interested in saving energy. Assume that energy costs $4/million BTU (million
+BTU is referred to as MMBTU). The fact that unobtanium and obtanium have the exact same
+physical properties as water remains a mystery to the entire corporation.
+Your helpful, and familiar-seeming, coworker Cooper leans in and reminds you:
+In case you forgot, Q = U*A*LMTD, where A is the heat transfer area and LMTD is the log-mean
+temperature difference. Also recall that Q = ṁ*CP*ΔT.
+
+(a, 15%) Which heat exchanger has the highest U-value in BTU/(oF*ft2)? What does this imply?
+(b, 15%) Which heat exchanger has the lowest U-value in BTU/(oF*ft2)? What does this imply?
+(c, 5%) Which heat exchanger would you recommend cleaning? Why?
+(d, 10%) Assume E-103 has now been cleaned and it has a U-value of 200 BTU/(oF*ft2). What is
+the clean duty (Qclean), assuming the same LMTD?
+(e, 5%) It costs $30,000 to clean one heat exchanger. What is the benefit-to-cost ratio (BCR) for
+cleaning E-103? Assume a one-year timeframe for the benefits.
+
+Table 1. Stream table accompanying Problem 2.
+Units
+Stream
+Number
+
+1
+
+From
+
+2
+
+3
+
+E-101 E-102
+
+4
+
+5
+
+E-103
+
+E-101
+
+Phase
+
+Liquid Liquid Liquid Liquid Liquid Liquid
+Phase Phase Phase Phase Phase Phase
+
+Pressure
+
+psia
+
+7
+
+E-101
+
+To
+
+Temperatur
+e
+F
+
+E-102 E-103
+
+6
+
+E-101
+
+8
+
+9
+
+E-102
+
+E-103
+
+E-102
+Vapor
+Phase
+
+10
+
+E-103
+Vapor
+Phase
+
+Vapor
+Phase
+
+Vapor
+Phase
+
+65.0
+
+126.2
+
+348.8
+
+568.5
+
+212.0
+
+151.2
+
+475.0
+
+373.8
+
+700.0
+
+593.5
+
+1450.4
+
+1450.4
+
+1450.4
+
+1450.4
+
+1450.4
+
+1450.4
+
+145.0
+
+145.0
+
+652.7
+
+652.7
+
+Mass Flows lb/hr
+
+440924.5 440924.5
+
+440924.5 440924.5 440924.5
+
+440924.5 2204622.6 2204622.6 2204622.6 2204622.6
+
+WATER
+
+440924.5 440924.5
+
+440924.5 440924.5 440924.5
+
+440924.5 2204622.6 2204622.6 2204622.6 2204622.6
+
+lb/hr
+
+Mass
+Fractions
+WATER
+
+1.0
+
+1.0
+
+1.0
+
+1.0
+
+1.0
+
+1.0
+
+1.0
+
+1.0
+
+1.0
+
+1.0
+
+Table 2. Equipment summary table accompanying Problem 2.
+Name
+
+E-101
+
+E-102
+
+E-103
+
+Minimum temperature approach [F]
+
+25.0
+
+25.0
+
+25.0
+
+Inlet hot stream temperature [F]
+
+212.0
+
+475.0
+
+700.0
+
+Inlet hot stream vapor fraction
+
+0.0
+
+1.0
+
+1.0
+
+Outlet hot stream temperature [F]
+
+151.2
+
+373.8
+
+593.5
+
+Outlet hot stream vapor fraction
+
+0.0
+
+1.0
+
+1.0
+
+Inlet cold stream temperature [F]
+
+65.0
+
+126.2
+
+348.8
+
+Inlet cold stream vapor fraction
+
+0.0
+
+0.0
+
+0.0
+
+Outlet cold stream temperature [F]
+
+126.2
+
+348.8
+
+568.5
+
+Outlet cold stream vapor fraction
+
+0.0
+
+0.0
+
+0.0
+
+29095991.7
+
+108747171.0
+
+129810342.0
+
+2255.4
+
+5031.4
+
+7122.5
+
+Heat duty [Btu/hr]
+Actual exchanger area [sqft]
+Average U (Dirty) [Btu/hr-sqft-R]
+Average U (Clean)
+
+200.0
+
+

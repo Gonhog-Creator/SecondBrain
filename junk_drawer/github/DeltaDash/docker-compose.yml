@@ -1,0 +1,33 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: ballistic_user
+      POSTGRES_PASSWORD: ballistic_pass
+      POSTGRES_DB: ballistic
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgresql+psycopg://ballistic_user:ballistic_pass@postgres:5432/ballistic
+      SECRET_KEY: ${SECRET_KEY:-local_dev_secret_change_in_production}
+      CORS_ORIGINS: http://localhost:5173,http://localhost:80
+      APP_ENV: development
+    depends_on:
+      - postgres
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+
+volumes:
+  postgres_data:

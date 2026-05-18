@@ -1,0 +1,794 @@
+North Carolina State University
+CH 223, Spring 2023
+Organic Chemistry II
+Mon-Wed-Fri, 11:45am-12:35pm, in-person lecture at 222 Dabney Hall
+Course Description: Second half of two-semester sequence in the fundamentals of modern
+organic chemistry. Structure and bonding, stereochemistry, reactivity and synthesis of organic
+compounds. Detailed coverage of aromatic hydrocarbons, conjugated systems and condensation
+reactions. (Tentative course schedule is available in page 8.)
+Learning Outcomes: By the end of the course, students will be able to:
+1. Draw structures and name organic compounds including benzene derivatives, carbonyl
+compounds and nitrogen containing compounds.
+2. Describe the attributes that make a molecule aromatic.
+3. Describe the bonding, polarity, and the boiling point and solubility trends in the compounds
+listed in #1.
+4. Compare the relative stability and reactivity of various carbonyl compounds.
+5. Draw the mechanisms, including transition states and intermediates, and predict the
+products of electrophilic and nucleophilic aromatic substitution reactions, carbonyl
+addition/substitution and reduction reactions, carbonyl alpha-C reactions, alcohol oxidation
+reactions, condensation reactions and saponification.
+6. Correlate the results of various organic reactions with predictions from molecular orbital
+theory.
+7. Show the synthetic use of various reagents in functional group transformations.
+8. Devise synthetic schemes for preparing various organic compounds.
+9. Predict the products for the reactions of various functional groups.
+10. Describe the functional groups and reactions of major importance in biochemistry
+Instructor: Jun Ohata, Ph.D. (johata@ncsu.edu), 527A Dabney
+Teaching assistant: This course does not have a teaching assistant. If you have questions,
+please talk to Dr. Ohata. If your questions are not personal, please consider using Student Help
+Forum in the Moodle page to post your question, so that other students with the same question
+can also know the answer.
+Prerequisites: CH 221 (with a grade of B or better) or CH 225 and CH 222 or CH226.
+Corequisite: CH 228
+Laboratory: CH 224 is the laboratory course which should be taken concurrently with CH223 and
+is administered separately. Refer all inquiries about CH228 Laboratory to Dr. Maria GallardoWilliams (mtgallar@ncsu.edu) 252 Fox Hall, 515-2539.
+Course Materials:
+1. Textbook: Carey, Giuliano, Organic Chemistry, 11th ed. Edition ($40-$160).
+Older/newer editions can be used (make sure to have matching sets of text
+and solutions manual). Students are welcome to use additional organic
+chemistry textbooks and online materials. (Lecture slides are based on
+Loudon, Parise organic chemistry which is very similar to Carey/Giuliano
+textbook.)
+2. Achieve (~40$, required) See the last page of the syllabus for the
+instructions. https://achieve.macmillanlearning.com/courses/arr83h
+3. Chemistry Coach (https://chemistry.coach/). Free online chemistry website.
+4. Molecular model kits (optional).
+
+Attendance: Students are expected to attend all in-person lectures. Missing lecture(s) will put
+any students at a serious disadvantage with respect to learning course material. It is
+unnecessary to report the absence for the lectures to the instructor, but if a student wishes to
+keep the record of the absence, please submit Google Form instead of email the instructor
+(https://docs.google.com/forms/d/e/1FAIpQLScn9NiD0n8pBa4UK4hf72QaDOtNLvz4EN2YHcCYLBwqvXZIw/viewform?usp=sf_link).
+Course Grading:
+Exam I:
+200 pts., 20% (02/08/2023, 11:45am-12:35pm)
+Exam II:
+200 pts., 20% (03/10/2023, 11:45am-12:35pm)
+Exam III:
+200 pts., 20% (04/12/2023, 11:45am-12:35pm)
+Final exam: 250 pts., 25% (5/1/2023, 12:00pm-2:30pm, Dabney 222)
+Homework assignments (Achieve): 150 pts., 15% (8 assignments, about 2% each)
+This course uses standard NC State letter grading:
+Points
+
+Grade
+
+Points
+
+Grade
+
+970 +
+
+A+
+
+730 – 769
+
+C
+
+930 – 969
+
+A
+
+700 – 729
+
+C-
+
+900 – 929
+
+A-
+
+670 – 699
+
+D+
+
+870 – 899
+
+B+
+
+630 – 669
+
+D
+
+830 – 869
+
+B
+
+600 – 629
+
+D-
+
+800 – 829
+
+B-
+
+0 – 599
+
+F
+
+770 – 799
+
+C+
+
+Extra credit/Curves: If extra credit is given for any assignment, the maximum score possible for
+that assignment will be a 100. Any “excess” extra credit points will not be applied to other
+assignments. There will be no curve applied to any homework assignment.
+Re-Grade Policy: We are happy to re-grade any question you feel has been improperly graded.
+However, before turning in your test for a re-grade, please be aware of the following:
+1) You have seven days from the time the test is returned to request a re-grade. After that time
+frame has expired, we will no longer entertain re-grade requests.
+2) To protect the integrity of the class, tests are randomly photocopied and placed on file prior to
+being returned. If you return an exam for a re-grade in which the answer to the question you want
+re-graded has been changed in an effort to get additional points, you will be immediately turned
+over to the office of student conduct for disciplinary action.
+3) Only exams written in pen can be regraded. Pen copied over in pencil will not be accepted.
+Missed Exam and Homework Policy:
+Excuses for unanticipated absences must be reported to Dr. Ohata as soon as possible. If you
+are incapable of taking an exam, a university-approved absence can be used for ONE exam
+(e.g. doctor’s note). You must fill out and submit the absence verification form at the bottom of
+this page: https://dasa.ncsu.edu/support-and-advocacy/find-help/absence-verification/. If your
+absence is verified and approved, you will be given a make-up exam exactly one week after the
+missed in-class exam during class time. If you miss an exam and do not have a University-
+
+approved excuse, you will be given zero for that exam. Excuses for anticipated absences must
+be cleared with Dr. Ohata before the absence. Exams can be taken at an alternate date if 2-week
+advance notice is provided. Missing more than one in-class exam will result in an incomplete (IN)
+for this class.
+University-excused absence information: https://policies.ncsu.edu/regulation/reg-02-20-03attendance-regulations/
+Course Status:
+Audits: To obtain a grade of AU in the course, the student must take ALL exams. Information
+about and requirements for auditing a course can be found at:
+http://policies.ncsu.edu/regulation/reg-02-20-04.
+Credit Only: In order to receive a grade of S, students are required to take all exams and
+quizzes, complete all assignments, and earn a grade of C- or better. Conversion from letter
+grading to credit only (S/U) grading is subject to university deadlines. Refer to the Registration
+and Records calendar for deadlines related to grading. For more details refer to:
+http://policies.ncsu.edu/regulation/reg-02-20-15.
+Changing your Status (or dropping):
+January
+13
+Friday
+Last day to add a course without permission
+January
+23
+Monday
+Census Date/Official Enrollment Date
+March
+6
+Monday
+Drop/Revision Deadline
+A full description of the College of Sciences course policy can be found at the following websites:
+https://sciences.ncsu.edu/academics/academic-policies-and-procedures/
+and
+https://studentservices.ncsu.edu/your-classes/withdrawal/process/. Dropping specific courses
+(or changing to CR or AU) after this deadline is considered only for unforeseen and unavoidable
+extenuating personal situations (not poor performance).
+Incomplete Grades: If an extended deadline is not authorized by the instructor or department,
+an unfinished incomplete grade will automatically change to an F after either (a) the end of the
+next regular semester in which the student is enrolled (not including summer sessions), or (b) the
+end of 12 months if the student is not enrolled, whichever is shorter. Incompletes that change to
+F will count as an attempted course on transcripts. The burden of fulfilling an incomplete grade is
+the responsibility of the student. The university policy on incomplete grades is located at
+http://policies.ncsu.edu/regulation/reg-02-50-03.
+Academic Integrity: Students are required to comply with the university policy on academic
+integrity found in the Code of Student Conduct found at http://policies.ncsu.edu/policy/pol-11-3501. Cheating or plagiarism will result in failure of this course.
+Students with Disabilities: Reasonable accommodations will be made for students with
+verifiable disabilities. In order to take advantage of available accommodations, student must
+register with the Disability Resource Office (https://dro.dasa.ncsu.edu), 919-515-7653. For more
+information on NC State's policy on working with students with disabilities, please see the
+Academic
+Accommodations
+for
+Students
+with
+Disabilities
+Regulation
+at:
+http://policies.ncsu.edu/regulation/reg-02-20-01.
+Non-Discrimination Statement: NC State University provides equality of opportunity in
+education and employment for all students and employees. Accordingly, NC State affirms its
+commitment to maintain a work environment for all employees and an academic environment for
+
+all students that is free from all forms of discrimination. Discrimination based on race, color,
+religion, creed, sex, national origin, age, disability, veteran status, or sexual orientation is a
+violation of state and federal law and/or NC State University policy and will not be tolerated.
+Harassment of any person (either in the form of quid pro quo or creation of a hostile environment)
+based on race, color, religion, creed, sex, national origin, age, disability, veteran status, or sexual
+orientation also is a violation of state and federal law and/or NC State University policy and will
+not be tolerated. Retaliation against any person who complains about discrimination is also
+prohibited. NC State's policies and regulations covering discrimination, harassment, and
+retaliation
+may
+be
+accessed
+at
+http://policies.ncsu.edu/policy/pol-04-25-05
+and
+https://oied.ncsu.edu/divweb. Any person who feels that he or she has been the subject of
+prohibited discrimination, harassment, or retaliation should contact the Office for Equal
+Opportunity (OEO) at 919-515-3148.
+Supporting Fellow Students in Distress: As members of the NC State Wolfpack community,
+we each share a personal responsibility to express concern for one another and to ensure that
+the classroom and the campus as a whole remains a safe environment for learning. Occasionally,
+you may come across a fellow classmate whose personal behavior concerns or worries you. If
+this is the case, you are encouraged to report this behavior to the NC State Cares website:
+https://ncstatecares.dasa.ncsu.edu/. Although you can report anonymously, it is preferred that
+you share your contact information so they can follow-up with you personally.
+Course Evaluations: Online class evaluations will be available for students to complete during
+the last two weeks of class. Students will receive an email message directing them to a website
+where they can login using their Unity ID and complete evaluations. All evaluations are
+confidential; instructors will never know how any one student responded to any question, and
+students will never know the ratings for any particular instructors.
+Evaluation website: https://oirp.ncsu.edu/classeval/
+
+COVID-related policy
+Due to the COVID-19 pandemic, public health measures continue to be implemented across
+campus. Students should stay current with these practices and expectations through the
+Protect the Pack website (https://www.ncsu.edu/coronavirus/). The sections below provide
+expectations and conduct related to COVID-19 issues.
+Health and Participation in Class
+We are most concerned about your health and the health of your classmates and
+instructors/TAs.
+
+
+
+
+
+
+
+If you test positive for COVID-19, or are told by a healthcare provider that you are
+presumed positive for the virus, you should not attend any face-to-face (F2F) classes or
+face-to-face component of a hybrid class. Work with your instructor on any adjustments
+necessary; also follow other university guidelines, including self reporting (Coronavirus
+Self Reporting): Self-reporting is not only to help provide support to you, but also to
+assist in contact tracing for containing the spread of the virus.
+If you feel unwell, even if you have not been knowingly exposed to COVID-19, please do
+not come to a F2F class or activity.
+If you are in quarantine, have been notified that you may have been exposed to COVID19, or have a personal or family situation related to COVID-19 that prevents you from
+attending this course in person (or synchronously), please connect with your instructor to
+make alternative plans, as necessary.
+If you need to make a request for an academic consideration related to COVID-19, such
+as a discussion about possible options for remote learning, please talk with your
+instructor.
+
+Health and Well-Being Resources
+These are difficult times, and academic and personal stress are natural results. Everyone is
+encouraged to take care of themselves and their peers. If you need additional support, there are
+many resources on campus to help you:
+
+
+
+
+
+
+Counseling Center (NCSU Counseling Center)
+Student Health Services (Health Services | Student)
+If the personal behavior of a classmate concerns or worries you, either for the
+classmate’s well-being or yours, we encourage you to report this behavior to the NC
+State CARES team: (Share a Concern).
+If you or someone you know are experiencing food, housing or financial insecurity,
+please see the Pack Essentials Program (Pack Essentials).
+
+Community Standards related to COVID-19
+We are all responsible for protecting ourselves and our community. Please see the community
+standards and Rule 04.21.01 regarding Personal Safety Requirements Related to COVID19 RUL 04.21.01 – Personal Safety Requirements Related to COVID-19 – Policies,
+Regulations & Rules
+Course Expectations Related to COVID-19:
+
+
+Face Coverings: All members of the NC State academic community are expected to
+follow all university policies and guidelines, including the Personal Safety Rule and
+community standards, for the use of face coverings.
+
+
+
+
+
+Course Attendance: NC State attendance policies can be found at: REG 02.20.03 –
+Attendance Regulations – Policies, Regulations & Rules. Please refer to the course’s
+attendance, absence, and deadline policies for additional details. If you are quarantined
+or otherwise need to miss class because you have been advised that you may have
+been exposed to COVID-19, you should not be penalized regarding attendance or class
+participation. However, you will be expected to develop a plan to keep up with your
+coursework during any such absences. If you become ill with COVID-19, you should
+follow the steps outlined in the health and participation section above.
+Technology Requirements: This course may require particular technologies to
+complete coursework. Be sure to review the syllabus for these expectations, and see
+the syllabus technical requirements for your course. If you need access to additional
+technological support, please contact the Libraries’ Technology Lending
+Service: (Technology Lending).
+
+Course Delivery Changes Related to COVID-19
+Please be aware that the situation regarding COVID-19 is frequently changing, and the delivery
+mode of this course could change accordingly, including from in-person to remote. Regardless
+of the delivery method, we will strive to provide a high-quality learning experience.
+NO LONGER AVAILABLE - Grading/Scheduling Changing Options Related to COVID-19
+Two policies, enhanced S/U Grading Option and Late Drop, put in place at the beginning of the
+COVID-19 pandemic have been discontinued.
+In some cases, an option may be to request an “incomplete” in the course. If you are
+experiencing difficult or extenuating circumstances, you should discuss possible options with
+your instructor and your academic advisor.
+Need Help?
+If you find yourself in a place where you need help, academically or otherwise, please review
+these Step-by-Step Help Topics. (Insert information or links for college or departmental level
+support programs, if available.)
+Other Important Resources
+
+
+
+
+
+
+
+
+
+Keep Learning: Keep Learning
+Protect the Pack FAQs: Frequently Asked Questions | Protect the Pack
+NC State Protect the Pack Resources for Students: Resources for Students | Protect
+the Pack
+Academic Success Center (tutoring, drop in advising, career and wellness advising):
+Academic Success Center.
+NC State Keep Learning, tips for students opting to take courses remotely:
+Keep Learning Tips for Remote Learning
+Introduction to Zoom for students:
+https://youtu.be/5LbPzzPbYEw
+Learning with Moodle, a student’s guide to using Moodle:
+https://moodle-projects.wolfware.ncsu.edu/course/view.php?id=226
+NC State Libraries Technology Lending Program
+
+--------------------------------Some other thoughts to consider for your syllabus or course website:
+
+
+
+
+
+
+
+
+
+
+Note the syllabus regulation has information about digitally-hosted components, which
+includes the use of zoom and also classroom recordings. Please also refer to the
+‘student privacy’ section of the Keep Teaching FAQ: https://provost.ncsu.edu/facultyresources/keep-teaching/faqs/.
+For remote exams: be very clear about what is allowed and not allowed. See, for
+example, the ST 311 situation where many students used
+Chegg. http://www.technicianonline.com/news/article_308a42f6-caf0-11ea-bc0e2332ae88e82a.html
+If you plan to use exam proctoring: “This course may require proctored/ monitored
+exams. A request for in-person exam proctoring on campus has been submitted to
+DELTA Testing Services. This information will be updated with further instructions once
+the availability of in-person exam proctoring on campus has been confirmed. This
+update may take place after the start of the semester.”
+If gloves are recommended for use (such as in a computer lab): how to properly remove
+your gloves: https://www.youtube.com/watch?v=xTYioOo__6U
+Hand hygiene: Wash your hands frequently with soap and water for at least 20 seconds.
+o Follow proper hand-washing techniques, here is one example:
+https://www.youtube.com/watch?v=bQCP7waTRWU
+o If soap and water are not immediately available, use an alcohol-based handsanitizer containing ≥60% alcohol.
+
+Course Schedule (Subject to Change):
+lecture
+1
+
+date
+Jan
+
+topic
+
+chapter
+
+Loudon
+
+9
+
+Mon
+
+introduction
+
+-
+
+-
+
+2
+
+11
+
+Wed
+
+Dienes, Resonance, and Aromaticity
+
+11
+
+15
+
+3
+
+13
+
+Fri
+
+16
+
+Mon
+
+4
+
+18
+
+Wed
+
+5
+
+20
+
+Fri
+
+6
+
+23
+
+Mon
+
+7
+
+25
+
+Wed
+
+8
+
+27
+
+Fri
+
+9
+
+30
+
+Mon
+
+1
+
+Wed
+
+10
+
+Feb
+
+no class, MLK
+
+-
+
+-
+
+11
+
+15
+
+The Chemistry of Benzene and Its Derivatives
+
+12
+
+16
+
+Allylic and Benzylic Reactivity
+
+12
+
+17
+
+11
+
+3
+
+Fri
+
+12
+
+6
+
+Mon
+
+8
+
+Wed
+
+exam-1
+
+11-12
+
+15-17
+
+Aryl Halides, Vinylic Halides, and Phenols. Metal Catalysis
+
+13,15
+
+18
+
+Aldehydes and Ketones. Carbonyl-Addition Reactions
+
+18
+
+19
+
+The Chemistry of Carboxylic Acids
+
+19a
+
+20a
+
+13,15,18,19a
+
+18-20a
+
+13
+
+10
+
+Fri
+
+14
+
+13
+
+Mon
+
+15
+
+15
+
+Wed
+
+16
+
+17
+
+Fri
+
+17
+
+20
+
+Mon
+
+18
+
+22
+
+Wed
+
+19
+
+24
+
+Fri
+
+20
+
+27
+
+Mon
+
+21
+
+1
+
+Wed
+
+22
+
+Mar
+
+3
+
+Mon
+
+23
+
+8
+
+Wed
+
+24
+
+8
+
+Wed
+
+10
+
+Fri
+
+exam-2
+
+13
+
+Mon
+
+no class, Spring break
+
+15
+
+Wed
+
+no class, Spring break
+
+17
+
+Fri
+
+no class, Spring break
+
+25
+
+20
+
+Mon
+
+26
+
+22
+
+Wed
+
+27
+
+24
+
+Fri
+
+28
+
+27
+
+Mon
+
+29
+
+29
+
+Wed
+
+30
+
+31
+
+Fri
+
+31
+
+Apr
+
+19b
+
+20b
+
+The Chemistry of Carboxylic Acid Derivatives
+
+20
+
+21
+
+Enolate Ions, Enols, and a,b-Unsaturated Carbonyl
+
+21
+
+22
+
+3
+
+Mon
+
+32
+
+5
+
+Wed
+
+33
+
+7
+
+Fri
+
+34
+
+10
+
+Mon
+
+12
+
+Wed
+
+exam-3
+
+19b-22
+
+20-22
+
+35
+
+14
+
+Fri
+
+The Chemistry of Amines
+
+22
+
+23
+
+36
+
+17
+
+Mon
+
+37
+
+19
+
+Wed
+
+38
+
+21
+
+Fri
+
+39
+
+24
+
+Mon
+
+Course recap
+
+-
+
+-
+
+1
+
+Mon
+
+Final exam (12:00pm-2:30pm, Dabney 222)
+
+May
+
+Note: “chapter” is for the Carey/Giuliano textbook. “Loudon” is for chapters for the Loudon/Parise
+textbook which the course slides are based on.
+
+Achieve eLearning for homework and other assignments: Achieve chemistry questions
+(provided by MacMillan Learning) are delivered in a web browser to provide real-time grading,
+response-specific coaching, improvement of problem-solving skills, and detailed answer
+explanations. Dynamic answer modules enable one to interact with 3D models and figures, utilize
+drag-and-drop synthetic routes, and draw chemical structures – including stereochemistry and
+curved arrows.
+Enrollment/registration/purchase information (Use your NC State email address)
+1. Check if you received the invitation email from MacMillan Learning about the course. If
+you didn’t get the invitation email, start from this link (the course ID is arr83h):
+https://achieve.macmillanlearning.com/courses/arr83h
+2. After Step 1, follow the instruction of the link below for the purchase option. It should be
+~$40.
+https://macmillan.force.com/macmillanlearning/s/article/Achieve-Join-a-course
+
+Once you have registered and enrolled, you can log in at any time to complete or review your
+homework assignments. During sign up – and throughout the term – if you have any technical
+problems or grading issues, use the chat system with the customer support
+(https://macmillan.force.com/macmillanlearning/s/chat-with-us). The Achieve support team is
+almost always more able (and faster) to resolve issues than your instructor.
+Also please consider using the help link (https://macmillan.force.com/macmillanlearning/s/)
+To optimize your Achieve experience, please keep your internet browser up to date and minimize
+the use of RAM-intensive programs/websites while using Achieve.
+
+

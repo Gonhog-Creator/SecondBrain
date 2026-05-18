@@ -1,0 +1,59 @@
+# Aramid UD 245 MSS.pdf
+
+Source: junk_drawer/DeltaV/Raw Materials Information/Fabrics/Aramid UD 245 MSS.pdf
+
+Category: [[technical-safety]]
+
+## Summary
+AT245 ANTI-TRAUMA Material Aramid Uni-Directional Material for Anti-Trauma in Soft Armor Applications This material is part of a new generation of UD materials capable of delivering anti-trauma system in addition to it's ballistic protection properties. This new and revolutionary material combines uni-directional aramid fibers in a tension free matrix capable of absorbing more energy than similar woven products. UD 245 is provided in rolls of product. Applications  Concealable and Tactical body
+
+## Full Content
+AT245
+ANTI-TRAUMA Material
+Aramid Uni-Directional Material for Anti-Trauma in Soft Armor Applications
+This material is part of a new generation of UD materials capable of delivering anti-trauma
+system in addition to it's ballistic protection properties. This new and revolutionary material
+combines uni-directional aramid fibers in a tension free matrix capable of absorbing more
+energy than similar woven products.
+UD 245 is provided in rolls of product.
+Applications
+ Concealable and Tactical body armor for Police, Military and VIPs.
+ Trauma reduction in soft armor applications.
+Product Characteristics
+ Extreme reduction of blunt trauma – the injury caused by an impacting bullet.
+ Excellent stopping power with multi-hit and angle shot benefits.
+Characteristics
+Width
+
+[cm]
+Test method
+
+160
+ASTM D3774-96
+
+Length
+
+[m]
+
+150
+
+Thickness
+
+[mm]
+
+0.2
+
+Areal Density
+
+[gm/m2]
+Test method
+
+245 +/- 10
+ASTM D3776
+
+
+
+## Metadata
+- Source file: junk_drawer/DeltaV/Raw Materials Information/Fabrics/Aramid UD 245 MSS.pdf
+- Extracted: 2026-05-18
+- Category: technical-safety

@@ -1,0 +1,157 @@
+# Barbeito, Jose Maria, Fannie Lou Hame Essay Final.pdf
+
+Source: junk_drawer/Barbeito, Jose Maria, Fannie Lou Hame Essay Final.pdf
+
+Category: [[academic-paper]]
+
+## Summary
+José Barbeito HI 254 11/11/24 The Might of One Woman Many people today seldom believe they have the power or ability to cause real change in the world around them. We are but one human in a society of millions, each with their own distinct and often opposing values. When wading through the vast ether of overlapping human wills, it is easy to believe that you as an individual cannot cause much change, for changing the minds of hundreds, of thousands, is akin to emptying the ocean one teacup at a 
+
+## Full Content
+José Barbeito
+HI 254
+11/11/24
+The Might of One Woman
+Many people today seldom believe they have the power or ability to cause real
+change in the world around them. We are but one human in a society of millions, each
+with their own distinct and often opposing values. When wading through the vast ether
+of overlapping human wills, it is easy to believe that you as an individual cannot cause
+much change, for changing the minds of hundreds, of thousands, is akin to emptying
+the ocean one teacup at a time. Yet looking back into history, one can see that people
+have the power to cause profound change around them, shown exquisitely through the
+story of Fannie Lou Hamer, a black woman born in Montgomery, Mississippi in 1917.
+Though she came from impoverished beginnings, Fanniel Lou Hamer fought her way
+through the chains of oppression to advocate for the rights of African Americans to vote,
+her message echoing louder and louder until it reached the ears of the entire
+democratic party of the south, including President Lyndon Johnson.
+Fannie Lou Hamer was born in Montgomery, Mississippi in 1917, to Lou Ella and
+James Townsend. 1 She was their 20th child, and grew up in extreme poverty. At the
+age of six, she joined the family in the cotton fields, picking cotton for a plantation
+owned by D.W. Marlow. At the age of 27, she married Perry Hamer and the two
+continued to work on the plantation until 1962. This background gave her the first hand
+knowledge of what it was like to be a plantation worker in the early-mid twentieth
+century, and gave her voice credibility and strength when it came to talking about the
+hardships endured by her people across the south.
+After being subjected to a forced hysterectomy without her consent while
+undergoing another surgery, Hamer joined the civil rights group known as the Student
+Nonviolent Coordinating Committee, or SNCC. Throughout the early 1960s, SNCC
+
+1
+
+Debra Michals, ed., “Fannie Lou Hamer: 1917-1977,” National Women’s History Museum, 2017,
+https://www.womenshistory.org/education-resources/biographies/fannie-lou-hamer
+
+organized sit-ins, freedom rides, and voter registration drives, all aimed at
+desegregating public spaces and giving more power to black individuals. The SNCC
+played a crucial role in major campaigns like the Freedom Summer in Mississippi in
+1964, where they partnered with the Mississippi Freedom Democratic Party (MFDP) to
+challenge the all-white delegation from Mississippi at the Democratic National
+Convention.
+The MFDP was where Fannie Lou Hamer began her career in activism and
+public speaking. “Open to all without regard to race, it was a parallel political party
+designed to simultaneously encourage Black political participation while challenging the
+validity of Mississippi’s lily-white Democratic Party.” 2 The largest issue being tackled by
+the MFDP was the representation of black voters in the south, primarily in regards to
+voter suppression through violence and illegitimate literacy tests. It was during this time
+that Hamer began hosting voter registration workshops, helping local blacks to register
+to vote. After one of these registration workshops, Hamer and other black voters were
+arrested by the highway patrolmen of Mississipii. The night of the arrest, Hamer found
+herself in a jail cell with several other activists, who were all being beaten by the
+patrolmen and other prisoners (acting on orders from the patrolmen). It was that night
+that Hamer was beaten by two black prisoners and the highway patrolman, suffering
+severe injuries and causing permanent damage to her side and liver. 3 Hamer recounted
+these experiences in Atlantic City at the Credentials Committee of the Democratic
+Convention in 1964, her emotions and raw anguish at her memories giving her voice the
+required power to reach the ears of those around the country. Her closing lines were the
+most chilling, with her calling out “And if the Freedom Democratic Party is not seated
+now, I question America. Is this America, the land of the free and the home of the brave,
+where we have to sleep with our telephones off of the hooks because our lives be
+threatened daily, because we want to live as decent human beings, in America?” 4
+
+2
+
+Mississippi Freedom Democratic Party, Digital SNCC Gateway, https://snccdigital.org/inside-sncc/
+alliances-relationships/mfdp/
+3
+Joy Davenport, director, "Fannie Lou Hamer's America," America Reframed 10:1, 2022,
+https://www.fannielouhamersamerica.com/
+4
+Fannie Lou Hamer, “Testimony Before the Credentials Committee, Democratic National Convention,”
+August 22, 1964, American Rhetoric Online Speech Bank, https://www.americanrhetoric.com/speeches/
+fannielouhamercredentialscommittee.htm
+
+This convention was televised and broadcast throughout the nation, yet the night
+of the convention the only souls who heard Hamer’s speech were those sitting in the
+seats beside her. Due to fears about the unity of the Democratic party, president Lyndon
+B. Johnson had an impromptu press conference in order to overwrite the convention’s
+broadcast. Diving into the historical context, it becomes apparent that President
+Johnson’s actions were made from a place of cautiousness and fear. After some time,
+the recorded speech was re-aired across the country, drawing national attention and
+sympathy from blacks and whites across the nation. The speech, in the midst of the
+blooming civil rights movement led by MLK, continued the unceasing showcase of the
+struggles of the black community and highlighted the violence and brutality endured by
+African Americans for trying to vote. As a “compromise,” the convention gave two seats
+to the MFDP, though these seats were more symbolic than anything, chosen without
+input from the MFDP. This was a spit in the face for the party, who rejected the seats.
+This was a danger to the democratic party, in more ways than one.
+In 1964, at the time of the convention, the democratic party in the southern states
+was dominated by white voters. The Civil Rights Act of 1964, passed just one month
+before Hamer’s speech, had already put strain on the democratic party. Though
+supported heavily by the northern democrats, the act was opposed by southern
+democrats. This split caused tension, and Lyndon B. Johnson foresaw the danger in a
+split democratic party as the country headed into an election in just a couple of months.
+If he pushed back against Hamer and the MDFP, then he risked not having the support
+of southern blacks. If he agreed to a compromise with the MDFP, then he feared the
+white southern democrats would see him as a weak leader, causing voters to swing to
+Goldwater, the republican opposition. In a phone call with George Reedy, President
+Johnson talks about his doubts, emphasizing his inability to lead the country and unify
+the northern and southern democratic parties. In this phone call, he said “I am
+absolutely positive that I cannot lead the South and the North .... And I don't want to
+lead the nation without my own state and without my own section. I am very convinced
+that the Negroes will not listen to me. They're not going to follow a white southerner.”
+Johnson’s fear of division within was not the only reason for this cautiousness
+when dealing with the MDFP and Fannie Lou Hamer. His fears were amplified by the
+
+surrounding context of the Cold War. Not only did Jonhson need to maintain a unified
+front towards the outside world, a tumultuous core due to race relations within the
+country would weaken its international standing at a time when the Soviet Union and
+other countries were criticizing American democracy. After all, how could America
+promise an idealized nation of freedom and democracy when its own citizens were
+pulled into jail and beaten to death for simply wanting to vote? In addition to his
+sensitivity to the global view of America, Johnson was hyper aware of the media’s
+portrayal of him, leading him to believe no one believed in him or his mission of civil
+rights, racial equality, and democratic freedom. In his call with George Reedy, he talks
+extensively about the papers, saying “the press doesn't really have an affection for
+me-or an understanding. And I'm unable to give it to 'em. I try, but I just look in that
+Philadelphia Inquirer this morning. Our friend Henry Brandon,' whom I do not know, buta textbook caricature of a fast-dealing politician .... He has not aroused any excitement
+as a person or any emotion or enthusiasm as a human being." 5 Johnson viewed the
+media's portrayal as a key factor in swaying the public’s opinion, using it as a direct way
+of measuring the support for his actions.
+In the end, President Johnson won the 1964 election with 486 electoral votes,
+winning 42.8 million votes compared to Goldwater’s 27 million. 6 His vision of the “Great
+Society”, including democracy, economy, and most importantly, civil rights, gave him the
+needed support to make sweeping changes for the betterment of the United States. His
+goal can be best described in his own words. “I have a desire to unite people. People, I
+think have mistaken judgment. They think I want great power. And what I want is great
+solace-and a little love. That's all I want.” 7 Johnson had the mission to unite the
+democratic party of the south and the north, working under the unrelenting pressure put
+on by one woman: Fannie Lou Hamer. It was through her passion and ceaseless voice
+that the civil rights movement took another significant step towards racial equality in
+America.
+5
+
+Michael Beschloss. Taking Charge: The Johnson White House Tapes, 1963-1964. New York, NY: Simon
+& Schuster, 1997, pg 530.
+6
+“Presidential Election of 1964 - 270toWin.” 270toWin.com. Accessed November 10, 2024.
+https://www.270towin.com/1964_Election
+7
+Michael Beschloss. Taking Charge: The Johnson White House Tapes, 1963-1964. New York, NY: Simon
+& Schuster, 1997, pg 530-531.
+
+
+
+## Metadata
+- Source file: junk_drawer/Barbeito, Jose Maria, Fannie Lou Hame Essay Final.pdf
+- Extracted: 2026-05-18
+- Category: academic-paper

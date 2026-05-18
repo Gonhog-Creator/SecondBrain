@@ -2,5 +2,13 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/temp_github_clone/BudgetTool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/temp_github_clone/DeltaDash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/temp_github_clone/DeltaVision" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/temp_github_clone/EvolutionSimSite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/temp_github_clone/PersonalWebsite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/temp_github_clone/RoADashboard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/temp_github_clone/SeeStar-AstroStat-2.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/temp_github_clone/TheAncientWorld" vcs="Git" />
   </component>
 </project>

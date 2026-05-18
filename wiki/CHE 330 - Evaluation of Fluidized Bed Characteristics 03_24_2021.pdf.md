@@ -1,0 +1,291 @@
+# CHE 330 - Evaluation of Fluidized Bed Characteristics (03_24_2021).pdf
+
+Source: junk_drawer/CHE 330 - Evaluation of Fluidized Bed Characteristics (03_24_2021).pdf
+
+Category: [[other]]
+
+## Summary
+Department of Chemical and Biomolecular Engineering North Carolina State University CHE 330 Evaluation of Fluidized Bed Characteristics 1. Introduction A fluidized bed is a mass of solid particles suspended by the upward movement of a fluid (often a gas). The suspended fluidized particles collectively behave as a liquid, significantly changing the transport phenomena and thermodynamic properties of the material. Mass and heat transfer
+
+## Full Content
+Department of Chemical and Biomolecular Engineering
+North Carolina State University
+CHE 330
+
+Evaluation of Fluidized Bed Characteristics
+
+1. Introduction
+A fluidized bed is a mass of solid particles suspended by the upward movement of a fluid (often
+a gas). The suspended fluidized particles collectively behave as a liquid, significantly changing
+the transport phenomena and thermodynamic properties of the material. Mass and heat transfer
+are rapid due to the vigorous mixing of particles, allowing for nearly uniform temperature and
+concentration distributions throughout the bed. These characteristics make fluidized beds ideal
+for use in many areas of engineering, including petroleum refining, chemical synthesis and
+combustion.
+2. Objective
+The objective of this experiment is to determine fluidization characteristics and heat transfer
+properties for a fluidized bed of Al2O3 particles.
+3. Theory
+An overview of a fluidized bed is shown in Figure 1. The solid particles in the bed are pulled
+toward the ground by the force of gravity. The terminal velocity (ut), i.e. the maximum velocity
+able to be achieved by a solid particle due to gravity, is given by
+ut =
+
+(ρ − ρ )gd
+s
+
+g
+
+p
+
+2
+
+18µ
+
+Figure 1. Overview of fluidized bed operation (adapted from [1]).
+* M. Cooper and K. Dickey, Department of Chemical and Biomolecular Engineering, North
+Carolina State University, Raleigh, NC 27695, revised January 8, 2018.
+
+(1)
+
+where ρs is bulk solid density, ρg is gas density, g is the gravitational acceleration constant (9.8
+m/s2), dp is particle diameter and μ is gas viscosity.
+In contrast to the force of gravity, gas flow entering from the bottom of the bed imparts an
+upward force to the particles. Once the upward pressure force of the gas flow on the particles is
+greater than the downward pull of gravity, the particles will begin to rise and float. This force
+balance is described by [2]
+∆P = (ρ s − ρ g )(1 − ε )gL
+
+(2)
+
+where ΔP is pressure drop across the particle bed, ε is the void fraction of the particle bed, and L
+is the height of the bed.
+Pressure drop across a packed bed can be estimated by the Ergun equation [2]:
+1.75 ρ g (1 − ε ) 2
+∆P 150 µ (1 − ε )
+u0
+u0 −
+=
+2
+3
+dp
+L
+ε
+ε3
+dp
+2
+
+(3)
+
+The gas velocity (typically referred to as superficial gas velocity, u0) where upward force on the
+particles overcomes downward force is known as the minimum fluidization velocity (umf) which
+can be calculated theoretically by combining Equations 2 and 3:
+
+g (ρ s − ρ g ) =
+
+150 µ (1 − ε mf )
+2
+
+d p ε mf
+
+3
+
+u mf +
+
+1.75 ρ g
+d p ε mf
+
+3
+
+u mf
+
+2
+
+(4)
+
+where εmf, the void fraction of the particle bed at minimum fluidization, is given by [3]
+
+ε mf = 1 −
+
+ρs
+ρp
+
+(5)
+
+where ρp is the particle density. Note that for most solid particles ρp is larger than ρs since ρs
+measures the bulk density of the solid (solid + voids) while ρp is the density of only the particle
+itself.
+The value of umf for a bed of particles can also be determined empirically by examining pressure
+drop behavior of the bed as a function of u0; this plot of u0 vs. ΔP is known as a “fluidization
+curve.” Fluidization curves tend to have the shape found in Figure 2. The u0 value where
+pressure drop becomes fairly constant is the empirical umf. Empirical umf values often vary
+significantly from theoretical values due to non-ideal mixing, especially for small laboratoryscale fluidized beds.
+At superficial gas velocities above umf, the particle bed becomes fluidized and the gas-solid
+mixture begins to behave like a liquid. As u0 increases, the behavior of the fluidized bed changes,
+
+Figure 2. Typical fluidization curve indicating an approximate umf of 0.025 – 0.035 m/s. The
+solid line indicates data taken with increasing fluid speed, while the dashed line indicates
+data taken with decreasing fluid speed [3].
+proceeding through different fluidization regimes as indicated in Figure 1. A brief description of
+each regime is given in order of increasing u0:
+1) Packed bed regime (u0 below umf) – no particle fluidization
+2) Smooth regime – small bubbles are seen exiting the surface of the bed, but in general the
+particles are not vigorously mixed. Operation in the smooth regime is ideal for powdercoating applications [4].
+3) Bubbling regime – numerous bubbles of significant size can be seen emerging from the
+bed and the suspended particles are vigorously mixed. Mass and heat transfer rates within
+the bed are higher than for the smooth regime. Operation in the bubbling regime is typical
+for many high-temperature exothermic reactions using heterogeneous catalysts.
+4) Slugging regime – very large bubbles causing significant voids within the bed begin to
+emerge from the surface.
+5) Pneumatic transport – one very large bubble is formed which displaces the entire bed of
+particles and conveys the bed downstream.
+Fluidization characteristics for a given bed of particles also vary depending on bulk properties of
+the particle, which plays a crucial role in determining the feasibility of application of fluidized
+beds in industry. Particles are classified into four different groups (known as “Geldart groups”),
+as described in Figure 3 [4]:
+•
+
+Group A – Non-agglomerating low-density particles between 30 and 100 μm. Particles
+readily aerate and fluidize easily (example: FCC catalyst).
+
+Figure 3. Geldart classification of particles in ambient air [4]. Region A’ is a
+range of properties for well-behaved Fluidized Catalytic Cracking (FCC) catalyst. [4]
+•
+•
+•
+
+Group B – Rigid particles between 100 and 1000 μm. Ideal for fluidization, bubbles form
+quickly to produce vigorous bubbling under proper conditions (example: sand).
+Group C – Cohesive low-density particles between 0 and 30 μm. Interparticle forces
+exceed that from gravity or rising gas, producing clumping during fluidization (example:
+flour).
+Group D – Dense particles above 1000 μm which “spout” rather than achieving ideal
+fluidization (example: coffee beans).
+
+Generally, only Group A and B powders are considered for fluidized beds in industrial
+applications.
+Fluidization characteristics impact rates of mass and heat transfer within the bed. In particular,
+heat transfer properties of the fluidized bed vary significantly due to factors including:
+• fluid and particle properties
+• superficial gas velocity
+• Geldart particle classification
+
+The coefficient of heat transfer (α) for the fluidized bed can be calculated from empirical
+observations by Equation 6:
+
+α exp =
+
+Q
+Ah ∆T
+
+(6)
+
+where αexp is the empirical fluid bed heat transfer coefficient, Q is heater power, Ah is the surface
+area of the heater, and ΔT is represented by
+
+∆T = Th − Tbed
+
+(7)
+
+where Th is the heater temperature and Tbed is the fluid bed temperature [4].
+4. Experimental
+4.1. Equipment
+The fluidized bed apparatus used in experimentation is shown in Figure 4. A glass cylinder
+(labeled “1”) with a 95 cm2 cross-section contains a bed of α-Al2O3 particles (labeled “2”, dp =
+100 μm, ρp = 4000 kg/m3, ρs = 1760 kg/m3). Compressed air enters the unit from a house air line
+regulated to a pressure of approximately 6 bar. A throttling valve (V2) is used to control inlet
+pressure, which is monitored using a pressure gauge (P3). Air flow rate is controlled by a needle
+valve (V1) and measured using a rotameter (F1) before reaching a gas distributor chamber
+(labeled “3”) below the bed. Pressure in the gas distributor chamber is measured using a pressure
+gauge (P2). A rupture disk (V3) is used as a safety device to limit pressure in the gas distributor
+to 0.5 bar.
+Above the gas distributor chamber is a porous sintered metal frit used to distribute gas evenly
+across the bottom of the bed. The rising air fluidizes the α-Al2O3 bed and exits the cylinder
+through filters (labeled “4”) to prevent particle carryover. An adjustable 100 W heated cylinder
+(labeled “5,” Ah = 13.35 cm2) immersed in the particles is used to provide heat to the
+surrounding bed. A variac (E1) is used to regulate heater power. Heater, bed and inlet air
+temperatures are measured by thermocouples (T1, T2 and T3, respectively).
+4.2. Experimental procedure
+4.2.1. Fluidization study
+1) Supply power by turning the red dial on the left-hand side of the experimental unit.
+2) Verify that the glass cylinder is filled with α-Al2O3 particles to a bed height of
+approximately 9 cm.
+3) Verify that the air regulator (located behind and above the experimental unit) is adjusted
+to a delivery pressure of approximately 6 bar.
+4) Adjust the inlet pressure (P3) to 1 bar by adjust pressure regulator V2.
+
+Figure 4. Schematic of experimental fluidized bed apparatus [1].
+5) Using the flow regulating valve V1, adjust the air flowrate to the minimum reference
+value of 8 L/min (labeled “Ref” on the rotameter). Read the rotameter using the bottom
+of the float as the indicator.
+6) Once the fluid bed pressure reading (P1) is stable, record the pressure, flowrate and bed
+height.
+7) Increase the flowrate to 9 L/min by adjusting V1, then adjust inlet pressure P3 to 1 bar
+using V2 if necessary. Once the fluid bed pressure reading (P1) is stable, record the
+pressure, flowrate and bed height.
+8) Continue the procedure of increasing flowrate in small (~1 L/min) steps while recording
+pressure, flowrate and bed height and observing the bed. After each adjustment, be sure
+to adjust inlet pressure P3 to 1 bar using pressure regulator V2.
+9) As soon as particles on the surface of the bed begin to move (i.e., a bubble escapes or a
+crack is visible in the bed), monitor the pressure P1. If the pressure stays constant or
+begins to fall, it is likely that the bed loosening velocity (uloose) has been reached. Record
+the bed loosening velocity observed during testing. Note: uloose is defined as the velocity
+at which particles begin to fluidize, and is a rough estimation of umf based solely on
+visual observations of particle behavior within the bed while increasing the air flowrate.
+10) Continue the procedure of increasing flowrate in small (~1 L/min) steps while recording
+pressure, flowrate and bed height until a flowrate of 20 L/min is reached. If any of these
+values “jump” continuously (they likely will), record a mean value. Observe the bed
+behavior, taking note of the various fluidization regimes achieved during testing.
+11) Once 20 L/min is reached, continue increasing flowrate in steps, but increase the step size
+to 5 L/min (e.g. 20 L/min, 25 L/min, 30 L/min, etc.). Record pressure, flowrate and bed
+
+height until a flowrate of 70 L/min is reached. Observe the bed behavior, taking note of
+the various fluidization regimes achieved during testing.
+12) Next, begin reducing the flowrate in the same steps (e.g. go from 70 to 20 L/min in 5
+L/min steps, then from 20 to 8 L/min in 1 L/min steps) while recording pressure, flowrate
+and bed height once each reading has stabilized.
+4.2.2. Heat transfer study
+1) Verify that the black mark on the heating rod is at a height of approximately 18 cm.
+2) Adjust air flowrate to 70 L/min using V1 and heater power to 30 W using the variac (E1).
+3) Allow for temperatures to stabilize before recording heater temperature (T1) and fluid
+bed temperature (T2); this will likely take 3-5 minutes.
+4) Decrease the air flowrate to 65 L/min using V1, adjusting pressure regulator V2 to keep
+inlet pressure P3 at a constant value of 1 bar. Maintain heater power at 30 W by adjusting
+variac E1. Allow for temperatures to stabilize before recording heater temperature (T1)
+and fluid bed temperature (T2).
+5) Repeat Step 4 for air flowrates of 60, 55, 50, 45, 40, 35, 30, 25 and 20 L/min, allowing
+ample time for steady state to be reached before recording heater temperature (T1) and
+fluid bed temperature (T2). Note: As the air flowrate is decreased, the heater temperature
+will increase. The heater is equipped with a governor that will temporarily cut off power
+to the heater if the heater temperature exceeds ~85-90℃. As a result, it is not possible to
+test air flowrates below 20 L/min during the heat transfer study.
+5. Data Analysis
+Calculate theoretical ut and umf values for the tested α-Al2O3 particle. Produce a fluidization
+curve showing empirical ΔP and bed height on y-axes and superficial gas velocities on the xaxis. Determine an experimental umf value. Are the theoretical and empirical umf values similar?
+How does umf compare with uloose? Why does the fluidization curve look different depending on
+whether superficial gas velocities were raised from low to high values or lowered from high to
+low values during testing?
+Identify each of the fluidization regimes achieved by the bed during testing. Specify the range of
+superficial gas velocities at which each regime exists as a multiple of umf (e.g. “the bubbling
+regime exists at superficial gas velocities between 5 and 7 times umf”).
+Hypothesize the Geldart group of the tested α-Al2O3 powder. What experimental observations
+and material specifications lead you to this hypothesis?
+Determine the empirical heat transfer coefficients for the bed as a function of u0. How do
+different fluidization conditions affect heat transfer within the bed?
+References
+1. Seoul National University Multiphase and Multiphase Flow LAB, “Multiphase Flow,” at
+http://mffv.snu.ac.kr/research_multiphase.html, last accessed January 8, 2018.
+2. FM 302 Course Notes, located at http://www.che.iitb.ac.in/courses/uglab/cl333n335/
+fm302-fluidisation.pdf, last accessed August 11, 2011.
+
+3. Gunt Hamburg, Installation Literature, Heat Transfer System – Fluid Bed and
+Fluidization, (2009).
+4. Yates, J. G. Fundamentals of fluidized-bed Chemical Processes, Butterworths, London,
+1983.
+
+
+
+## Metadata
+- Source file: junk_drawer/CHE 330 - Evaluation of Fluidized Bed Characteristics (03_24_2021).pdf
+- Extracted: 2026-05-18
+- Category: other

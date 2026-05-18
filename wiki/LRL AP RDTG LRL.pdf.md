@@ -1,0 +1,580 @@
+# LRL AP RDTG LRL.pdf
+
+Source: junk_drawer/LRL AP RDTG LRL.pdf
+
+Category: [[other]]
+
+## Summary
+ROTATING DETONATION TURBINE GENERATOR LIQUID ROCKETRY LAB ADVANCED PROJECTS April 10th 2025 Personnel Donovan Ngum Systems Lead
+
+## Full Content
+ROTATING DETONATION
+TURBINE GENERATOR
+
+LIQUID ROCKETRY LAB ADVANCED PROJECTS
+April 10th 2025
+
+Personnel
+
+Donovan Ngum
+Systems Lead
+
+Trevor Larsen
+Aerodynamics Lead
+
+Lucas Nicol
+Project Manager
+
+Ellie Murray
+Safety & Testing
+Lead
+
+Corey Thunes
+Manufacturing Lead
+
+Jose Barbeito
+Thermal Analysis
+Lead
+
+Rodrigo Dacosta
+Structures Lead
+2
+
+Senior Design - AE
+Plane
+- Budget is 2k
+- Usually about 6 ft wingspan, 5 feet length
+Drone
+- Budget is 1.5k??
+- Quad or Hexacopter is standard
+Space
+- Budget is 2k
+- Usually a Cubesat or a rover
+
+RDE Overview
+Turbofans utilize a deflagration process similar to gasoline engines. RDEs use
+detonation combustion, using shock waves for higher efficiency:
+Turbofans:
+Subsonic combustion, steady operation,
+lower peak efficiency.
+
+RDEs:
+Supersonic detonation, rapid pressure
+rise, and higher thermodynamic
+efficiency.
+
+[1]
+[2]
+
+4
+
+Comparisons - Types of Engines
+Gasoline
+[4]
+[3]
+
+Diesel
+
+[5]
+[6]
+
+5
+
+Turbine Shroud
+Stator
+
+Prestator
+Sensor Shroud
+
+Deﬂector
+Shroud
+Flanges
+
+Exhaust
+
+MK2/15/30/8/8
+Coupling
+
+Motor Mount
+Stator
+Shroud
+
+Deﬂector
+Rotor
+
+Shaft
+Rear Bearing
+
+Forward Bearing
+
+Thermocouple
+Static Pressure
+Static Pressure
+
+Total Pressure
+Air Sealing
+Line
+Torque Sensor
+
+Exhaust
+
+Air Sealing
+Line
+Total Pressure
+Static Pressure
+Thermocouple
+2x Thermocouple
+
+Surface
+Thermocouple
+
+1539/0.5Y/1692 Motor
+
+●
+●
+●
+●
+
+Hierarchy of Controls: Elimination,
+Substitution, Controls, PPE
+FMECA to identify most signiﬁcant
+risks
+VV&T to ensure system meets
+requirements
+Instrumentation monitors operating
+conditions
+
+Safety and
+Instrumentation
+
+Risk Management Techniques
+●
+
+●
+
+●
+●
+No.
+
+Engineering Controls
+○ Safety factors, go/no-go control systems,
+and safety containment systems
+Administrative Controls
+○ Short test times, warning lights and signage
+during RDE tests
+Extensive modeling during design process to
+ensure functionality
+VV&T to check physical components
+
+System Name
+
+Function
+
+Failure Mode
+
+T.1 slips against
+the shaft
+
+T.1
+
+Rotor Section
+
+Cause
+
+Loading is too
+high for the key
+
+Detection
+
+RPM sensor
+
+Effect on System
+
+Effect on
+Function
+
+Severity
+
+T.1 likely experiences
+mechanical failure
+
+No conversion
+of KE to RE
+
+3
+
+3
+
+Converts energy
+in the fluid to
+T.1 breaks
+kinetic energy
+
+Mechanical
+loading
+
+RPM sensor
+
+T.1 needs replacing
+
+No conversion
+of KE to RE
+
+T.1 melts
+
+Excess heat
+
+RPM sensor
+
+T.1 needs replacing
+
+No conversion
+of KE to RE
+
+2
+
+Failure
+Rate
+
+Detection
+Rate
+
+Mitigation
+
+2
+
+During manufacturing, either by the team or by
+outsourced manufacturers, care must be taken to size
+and measure parts precisely. Furthermore, an axial
+loading test should be employed to ensure nut takes
+minimal axial loading.
+
+3
+
+2
+
+Careful design including FEA testing will ensure the
+turbine has an adequate safety factor. A RPM sensor
+will track rotational velocities, while short test times
+reduce the risk.
+
+3
+
+2
+
+Heat analysis utilizing computer aided simulation will
+help drive the decision behind selecting materials to
+survive the temperature conditions at the rotor.
+
+2
+
+Instrumentation
+Location
+
+Parameters
+
+Before Stator
+
+Static and total
+pressure,
+temperature
+
+After Stator
+
+Static pressure,
+temperatures
+
+After Rotor
+
+Static and total
+pressure,
+temperature
+
+Generator
+
+Torque, RPM, power
+
+Starter
+Generator
+
+Starter
+Generator
+
+Starter Generator
+1.
+2.
+
+Prespins shaft and rotor up to operating speed
+(30k RPM)
+Converts mechanical energy of the rotating
+assembly into electrical energy.
+
+Key Elements
+❏
+Inrunner BLDC Motor
+❏
+200A VESC Motor Controller
+❏
+Anti Spark Switch
+❏
+Safety Key Switch
+❏
+DC Power Meter
+❏
+6x Regen Clamps
+❏
+1000W 36V Power Supply
+
+Anti Spark Switch
+DC Power Meter
+
+Flipsky 75200 Pro VESC
+
+NeuMotors 1539/0.5Y/1692
+
+Regen Clamp
+
+Power Supply
+
+Starter Generator System Diagram
+
+Static
+Mechanical
+
+Static
+Mechanical
+
+Design Solution - Static Mechanical
+Static Mechanical
+Rigidly ﬁxes the positions of the stator, turbine,
+shaft, and motor relative to one another. Protect
+critical components from exhaust, heat, or
+shrapnel damage. Guides exhaust.
+Key elements
+❏
+Rigid assembly
+❏
+Protects components from exhaust and
+shrapnel
+❏
+Guides Exhaust
+
+Centerbody
+
+Motor Mount
+Prestator Shroud
+
+Torque Transducer Flange
+
+Deﬂector
+Shroud/Outlet
+
+Motor Mount Flange
+
+Stator Shroud
+
+Manufacturing - Static Mechanical
+Lathe Operations
+❏
+303 stainless steel stock
+❏
+Major diameters turned down from stock
+❏
+Micrometer, bore gauges, calipers for
+measurements
+❏
+Surface plate measurements to check parallelism
+of opposing faces
+❏
+Indicator for checking runout
+CNC Mill Operations
+❏
+Bolt tap/clearance drilling
+❏
+Thread milling
+❏
+Instrumentation hole milling
+❏
+3D contour milling
+
+Manufacturing - Static Mechanical
+
+Rotary
+Mechanical
+
+Design Solution - Rotary Mechanical
+Shaft
+Transfers power from the turbine to the motor and
+vice versa.
+Key elements
+❏
+420 stainless steel - case hardened, linear
+motion shaft
+❏
+Shaft length: 130.25 mm (5.12 in)
+❏
+2 mm shaft key
+❏
+Miniature bellows coupling
+❏
+Angular contact pair
+❏
+M6 threaded end with serrated ﬂange nut
+❏
+Spacer ring preloading mechanism
+
+Shaft
+
+Angular Contact Bearing x2
+
+Coupling
+
+Preload Ring
+Rotor Clip
+
+Flange Nut
+
+Design Process - Rotary Mechanical
+Design Validation and Feasibility
+❏
+Test equations against FEM
+❏
+Low stress values
+❏
+Low critical shaft velocity
+❏
+Stiﬀer shaft = higher critical
+velocity
+
+Key Changes
+❏
+Increased length for torque
+transducer
+❏
+Addition of keyways and
+preload clip
+❏
+Thicker shaft diameter
+❏
+1055 Carbon → 420 SS
+❏
+Spacer ring preloading
+mechanism added
+
+Analysis - Rotary Mechanical
+Simple Analysis
+❏
+Euler-Bernoulli Beam Theory
+❏
+Rayleigh-Ritz Equation
+❏
+Critical velocity: 48,000 RPM
+Simulink Veriﬁcation
+❏
+Simscape driveline tools used
+❏
+RPM sensor to determine stability
+❏
+Motor and shaft properly speciﬁed.
+Finite Element Analysis
+❏
+Static Structural and Modal Analysis
+❏
+1st natural frequency: 76,000 RPM
+❏
+Gravity, rot. velocity
+❏
+Design of experiment for rot. axis position
+❏
+Latin Hypercube Sampling (50 samples)
+❏
+Adhere to G2.5 balance per ISO 1940-1
+❏
+Max. Imbalance: 1.2 mg per mm of length
+
+Manufacturing - Rotary Mechanical
+Lathe Operations
+❏
+420 stainless steel shaft blank
+❏
+10 mm 5C collet
+❏
+Toleranced within a few micron
+❏
+Finished with high grit sandpaper
+❏
+Micrometer for veriﬁcation
+❏
+Indicator for checking runout
+CNC Mill Operations
+❏
+Thread milling
+❏
+Milling for keyways
+❏
+2 mm shaft key
+
+Turbine
+
+Design Solution - Turbine
+Turbine Stage
+Extracts work from exhaust gas and converts it to
+mechanical power
+Key elements
+❏
+Stator
+❏
+Redirect gas ﬂow at optimal angle into rotor
+❏
+Custom camber airfoil with 15 blades
+❏
+Inconel 718
+❏
+Rotor
+❏
+Rotating component that extracts work
+❏
+NACA 0020 airfoil with 15 blades
+❏
+303 Stainless
+❏
+Designed for high inlet mach number, low
+pressure ratio, targets 3kW
+
+Further Work - Turbine
+Optimized Blade Design
+❏
+
+Thinner blades created to reduce ﬂow
+separation from previous design
+
+Further Work
+❏
+❏
+
+Modifying blade shapes for improved
+eﬃciency
+Changing blade count & RPM to
+characterize performances changes and
+oﬀ-design operation
+
+A Special Thanks to…
+
+29
+
+Questions?
+
+Links for Images
+[1] https://leehamnews.com/2016/12/02/bjorns-corner-turbofan-engine-challenges-part-5/
+[2] https://arc.aiaa.org/doi/10.2514/1.B37959
+[3] https://www.amazon.com/15HP-Stroke-Cooled-Gasoline-Splitter/dp/B0CPXP21DH
+[4] https://aeroreport.de/en/good-to-know/wie-funktioniert-ein-turbofan-triebwerk-aufbau-eines-triebwerk
+[5] https://www.uti.edu/blog/diesel/diesel-engines-explained
+[6] https://arc.aiaa.org/doi/10.2514/1.B37959
+
+
+
+## Metadata
+- Source file: junk_drawer/LRL AP RDTG LRL.pdf
+- Extracted: 2026-05-18
+- Category: other

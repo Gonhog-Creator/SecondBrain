@@ -1,0 +1,3296 @@
+# LNLA4MA341.pdf
+
+Source: junk_drawer/LNLA4MA341.pdf
+
+Category: [[other]]
+
+## Summary
+Introduction to Linear Algebra Lecture Notes Introduction - What is Linear Algebra? It is well-known that the total cost of a purchase of amounts g1 , g2 , g3 of some goods at prices p1 , p2 , p3 , respectively, is an expression p1 g1 + p2 g2 + p3 g3 = 3 X
+
+## Full Content
+Introduction to Linear Algebra
+Lecture Notes
+
+Introduction - What is Linear Algebra?
+It is well-known that the total cost of a purchase of amounts g1 , g2 , g3 of some goods at
+prices p1 , p2 , p3 , respectively, is an expression
+p1 g1 + p2 g2 + p3 g3 =
+
+3
+X
+
+p i gi .
+
+i=1
+
+Expressions of this kind,
+a1 x1 + · · · + an xn
+are called linear forms in variables x1 , . . . , xn with coefficients a1 , . . . , an .
+ Linear Algebra studies the mathematics of linear forms.
+ Over the course, we shall develop increasingly compact notation for operations of
+
+Linear Algebra. In particular, we shall discover that
+p1 g1 + p2 g2 + p3 g3
+can be very conveniently written as
+
+h
+
+p1 p2
+
+and then abbreviated
+h
+
+where
+
+p1 p2
+
+ 
+i g1 
+
+p3 
+g2 
+g3
+
+ 
+i g1 
+T
+
+p3 
+g2  = P G,
+g3
+
+ 
+ 
+g
+p1
+ 1
+ 
+
+ 
+P =
+p2  and G = g2 
+p3
+g3
+
+are vectors and T (transposition) turns row vectors into column vectors, and vice
+1
+
+M. Medvinsky
+
+versa:
+
+Introduction to Linear Algebra
+
+ T
+p
+h
+i
+ 1
+T
+
+=
+P =
+p1 p2 p3 ,
+p2 
+p3
+
+and
+
+h
+
+p1 p2
+
+ 
+iT p1 
+
+p3 = 
+p2  .
+p3
+
+ Unlike, say, Calculus, Linear Algebra focuses more on the development of a special
+
+mathematics language rather than on procedures.
+
+1
+
+Linear Equations in Linear Algebra
+
+1.1
+
+Systems of linear equations
+
+A linear equation in the variables x1 , . . . , xn is an equation that can be written in the
+form
+a1 x1 + a2 x2 + · · · + an xn = b
+where b and the coefficients a1 , . . . , an are real numbers. The subscript n can be any
+natural number.
+A system of simultaneous linear equations is a collection of one or more linear
+equations involving the same variables, say x1 , . . . , xn . For example,
+x1 + x2 = 3
+x1 − x2 = 1
+We shall abbreviate the words “a system of simultaneous linear equations” just
+to “a linear system”.
+A solution of the system is a list (s1 , . . . , sn ) of numbers that makes each equation
+a true identity when the values s1 , . . . , sn are substituted for x1 , . . . , xn , respectively. For
+example, in the system above (2, 1) is a solution.
+The set of all possible solutions is called the solution set of the linear system.
+Two linear systems are equivalent if the have the same solution set.
+Elementary Operations: We shall be use the following elementary operations on systems od simultaneous liner equations:
+ Replacement: Replace one equation by the sum of itself and a multiple of another
+
+equation.
+
+2
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+ Interchange: Interchange two equations.
+ Scaling: Multiply all terms in a equation by a nonzero constant.
+
+Note: The elementary operations are reversible.
+Theorem 1.1 ( Elementary operations preserve solutions.). If a system of simultaneous linear equations is obtained from another system by elementary operations, then the
+two systems have the same solution set.
+We shall prove later that a system of linear equations has either
+ no solution, or
+ exactly one solution, or
+ infinitely many solutions,
+
+under the assumption that the coefficients and solutions of the systems are real or complex
+numbers.
+A system of linear equations is said to be consistent it if has solutions (either one or
+infinitely many), and a system in inconsistent if it has no solution.
+Example 1.2 (Two equations in two variables).
+
+3
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+Example 1.3. Three equations in three variables Each equation determines a plane
+in 3-space.
+
+EXAMPLE: Three equations in three variables. Each equation determines a plane in 3-space.
+i) The planes intersect in ii) The planes intersect in one
+one point. (one solution)
+
+1.1.1
+
+iii) There is not point in common
+
+line. (infinitely many solutions) to all three planes. (no solution)
+
+Solving a linear system
+
+The basic strategy is
+to replace one system with an equivalent system (that is, with the same solution
+set) which is easier to solve.
+Existence and uniqueness questions
+ Is the system consistent?
+ If a solution exist, is it unique?
+
+Equivalence of linear systems
+ When are two linear systems equivalent?
+
+Checking solutions Given a solution of the system of linear equations, how to check
+that it is correct?
+
+4
+
+M. Medvinsky
+
+1.2
+
+Introduction to Linear Algebra
+
+Row reduction and echelon forms
+
+Matrix notation
+It is convenient to write coefficients of a linear system in the form of a matrix, a rectangular
+table. For example, the system
+x1 − 2x2 + 3x3 = 1
+x1 + x2
+
+= 2
+
+x2 + x3 = 3
+has the matrix of coefficients
+
+
+
+1 −2 3
+
+
+1 1 0
+
+
+0 1 1
+
+and the augmented matrix
+
+
+1 −2 3 1
+
+
+1 1 0 2 ;
+
+
+0 1 1 3
+notice how the coefficients are aligned in columns, and how missing coefficients are replaced
+by 0.
+The augmented matrix in the example above has 3 rows and 4 columns; we say that it
+is a 3 × 4 matrix.
+Definition 1.4. Consider linear system of m equations with n variables
+a11 x1 + · · ·+
+..
+.
+
+a1n xn =
+
+b1
+
+am1 x1 + · · ·+ amn xn = bm
+A matrix of the coefficients of the system above is an m × n matrix
+
+
+a11 · · ·
+ .
+.
+Mm.n ≡ 
+ .
+am1 · · ·
+
+5
+
+
+a1n
+.. 
+. 
+
+amn
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+Similarly, for the augmented matrix we add a right hand side vector b = (b1 , . . . , bm )T
+
+
+a11 · · ·
+ .
+f
+
+Mm.n+1 ≡ [Mm.n | b ] =  ..
+am1 · · ·
+
+a1n
+..
+.
+amn
+
+
+b1
+.. 
+. 
+
+bm
+
+Elementary row operations:
+ Replacement: Replace one row by the sum of itself and a multiple of another row.
+ Interchange: Interchange two rows.
+ Scaling Multiply all entries in a row by a nonzero constant.
+
+Theorem 1.5. The two matrices are row equivalent if there is a sequence of elementary
+row operations that transforms one matrix into the other.
+Note:
+ The row operations are reversible.
+ Row equivalence of matrices is an equivalence relation on the set of matrices.
+
+Theorem 1.6 (Row Equivalence). If the augmented matrices of two linear systems are
+row equivalent, then the two systems have the same solution set.
+A nonzero row or column of a matrix is a row or column which contains at least one
+nonzero entry.
+We can now formulate a theorem (to be proven later).
+Theorem 1.7 (Equivalence of linear systems). Two linear systems are equivalent if
+and only if the augmented matrix of one of them can be obtained from the augmented
+matrix of another system by frow operations and insertion / deletion of zero rows.
+A nonzero row or column of a matrix is a row or column which contains at least one
+nonzero entry. A leading entry of a row is the leftmost nonzero entry (in a non-zero row).
+Definition 1.8 (Row Echelon Form). A matrix is in (row) echelon form if it has the
+following three properties:
+1. All nonzero rows are above any row of zeroes.
+2. Each leading entry of a row is in column to the right of the leading entry of the row
+above it.
+6
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+3. All entries in a column below a leading entry are zeroes.
+If, in addition, the following two conditions are satisfied,
+4. All leading entries are equal 1.
+5. Each leading 1 is the only non-zero entry in its column
+then the matrix is in reduced echelon form.
+An echelon matrix is a matrix in echelon form.
+Any non-zero matrix can be row reduced (that, transformed by elementary row operations) into a matrix in echelon form (but the same matrix can give rise to different echelon
+forms).
+Definition 1.9. The following is a schematic presentation of an echelon matrix:
+
+
+■ ∗ ∗ ∗ ∗
+
+
+ 0 ■ ∗ ∗ ∗
+
+
+0 0 0 ■ ∗
+and this is a reduced echelon matrix:
+
+
+1 0 ∗ 0 ∗
+
+
+0 1 ∗ 0 ∗
+
+
+0 0 0 1 ∗
+Theorem 1.10 (Uniqueness of the reduced echelon form). Each matrix is row equivalent to one and only one reduced echelon form.
+Definition 1.11. A pivot position in a matrix A is a location in A that corresponds to a
+leading 1 in the reduced echelon form of A. A pivot column is a column of A that contains
+a pivot position.
+Example 1.12 (The Row Reduction Algorithm).
+
+0
+
+1
+
+1
+
+1
+
+
+1
+
+
+
+
+0
+1 1 1 1
+→
+
+
+1 1 3 3
+0
+1 1 2 2
+0
+2 2 2 2
+
+
+
+7
+
+
+0 0 0 0
+
+1 1 0 0
+
+0 0 1 1
+
+0 0 0 0
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+Definition 1.13. A pivot is a nonzero number in a pivot position which is used to create
+zeroes in the column below it.
+Definition 1.14 (A rule for row reduction).
+
+[]
+
+1. Pick the leftmost non-zero column and in it the topmost nonzero entry; it is a pivot.
+2. Using scaling, make the pivot equal 1.
+3. Using replacement row operations, kill all non-zero entries in the column below the
+pivot.
+4. Mark the row and column containing the pivot as pivoted.
+5. Repeat the same with the matrix made of not pivoted yet rows and columns.
+6. When this is over, interchange the rows making sure that the resulting matrix is in
+echelon form.
+7. Using replacement row operations, kill all non-zero entries in the column above the
+pivot entries.
+1.2.1
+
+Solution of Linear Systems
+
+When we converted the augmented matrix of a linear system into its reduced row echelon
+form, we can write out the entire solution set of the system.
+Example 1.15. Let
+
+
+1 0 −5 1
+
+
+0 1 1 4
+
+
+0 0 0 0
+be the augmented matrix of a a linear system; then the system is equivalent to
+x1
+
+− 5x3 = 1
+x2 +
+
+x3 = 4
+0 = 0
+
+The variables x1 and x2 correspond to pivot columns in the matrix and a re called basic
+variables (also leading or pivot variables). The other variable, x3 is a free variable.
+
+8
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+Free variables can be assigned arbitrary values and then leading variables expressed in
+terms of free variables:
+x1 = 1 + 5x3
+x2 = 4 − x3
+x3
+
+is free
+
+Theorem 1.16 (Existence and Uniqueness). A linear system is consistent if and only
+if the rightmost column of the augmented matrix is not a pivot column—that is, if and
+only if an echelon form of the augmented matrix has no row of the form
+h
+
+0 ···
+
+i
+0 b with b nonzero
+
+If a linear system is consistent, then the solution set contains either
+(i) a unique solution, when there are no free variables, or
+(ii) infinitely many solutions, when there is at least one free variable.
+Definition 1.17 (Using row reduction to solve a linear system).
+1. Write the augmented matrix of the system.
+2. Use the row reduction algorithm to obtain an equivalent augmented matrix in echelon
+form. Decide whether the system is consistent.
+3. if the system is consistent, get the reduced echelon form.
+4. Write the system of equations corresponding to the matrix obtained in Step 3.
+5. Express each basic variable in terms of any free variables appearing in the equation.
+Example 1.18 (System of Linear Equations - unique solution).
+
+−2x1 − 4x2 + 17x3 = 20
+
+
+
+
+
+
+
+10x1 − 4x2 +
+
+x3 =
+
+3x1 + 5x2 −
+
+2x3 = 14
+
+Solution
+(x1 , x2 , x3 ) = (1, 3, 2)
+
+9
+
+0
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+Example 1.19 (System of Linear Equations - unique solution, solved). Solve the
+following problem
+
+
+
+
+
+x1 − 2x2 +
+
+x3 =
+
+0
+
+2x2 − 8x3 =
+8
+
+
+
+−4x1 + 5x2 + 9x3 = −9
+Solution:
+−
+
+
+
+
+
++
+
+
+
+
+
+
+
+−
+
+
+
+
+
+−
+
+
+
+
+
+−
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+−
+
+
+
++
+
+
+
+−
+
+
+
+
+
+−
+
+
+
+
+
+
+
+
+
+
+
+-
+
+=
+
+
+
+
+
+−
+
+
+
+
+
+d
+
+-
+
+
+
+
+
+−
+
+-
+
+−
+
+,
+
+d
+
+−
+
+,
+
+
+
+−
+
+,
+
+-
+
+
+
+
+
+-
+
+=
+
+
+
+
+
+.
+
+−
+,
+
+,
+
+-
+
+=
+
+
+
+.
+
+
+
+d
+
++
+
+
+
+
+
+-
+
+
+
+−
+
+,
+
+d
+
+,
+
+
+
+= −
+
+
+
+,
+
+
+
+
+
+
+
+−
+
+
+−
+
+-
+
+-
+
+=
+
+
+
+.
+
+−
+
+,
+
+-
+
+.
+
+= −
+
+
+
+.
+
+d
+
+−
+
+,
+
+d
+
++
+
+
+
+
+
+.
+
+
+
+,
+
+
+
+-
+
+=
+
+
+
+
+
++
+
+
+
+−
+
+=
+
+
+
+−
+
+-
+
+
+
+−
+
+d
+
+
+
+,
+
+-
+
+.
+
+= −
+
+
+
+
+
++
+
+
+
+
+
+.
+
+d
+
+−
+
+,
+-
+
+=
+
+
+
+
+
++
+
+
+
+
+
+
+
+=
+
+
+
+
+
+−
+
+
+
+
+
+−
+
++
+
+
+
+
+
+
+
+−
+
+,
+
+
+
+
+
+-
+
+-
+
+= −
+
+,
+
+
+
+
+
+−
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+`
+
+
+
+
+
+#
+
+,
+
+
+
+#
+
+d
+
+#
+
+,
+
+,
+
+
+
+,
+
+-
+
+-
+
+,
+
+,
+
+-
+
+,
+
+d
+
+-
+
+,
+
+
+
+
+
+-
+
+-
+
+,
+
+
+
+
+
+#
+
+d
+
+-
+
+-
+
+d
+
+=
+
+
+
+
+
+,
+
+-
+
+=
+
+
+
+−
+
+-
+
+
+
+=
+
+
+
+
+
+
+
+-
+
+,
+
+=
+
+
+
+
+
+−
+
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e
+
+f
+
+g
+
+h
+
+g
+
+i
+
+j
+
+k
+
+
+
+
+
+
+
+
+
+−
+
+
+
+
+
+
+
++
+
+
+
+−
+
+
+
+
+
+
+
+
+
+ −  +
+ −  
+−  +  +  
+
+
+d
+
+,
+
+
+
+,
+
+.
+
+
+
+
+
+d
+
+
+
+,
+
+d
+
+"
+
+
+
+l
+
+
+
+
+
+
+
+
+
++
+
+
+
+−
+
+=
+
+
+
+.
+
++
+
+.
+
+= −
+
+
+
+
+
+-
+
+=
+
+
+
+
+
+d
+
+d
+
+=
+− +
+=
+−
+=−
++ +
+
+
+
+
+d
+
+,
+
+,
+
+.
+
+-
+
+=
+=
+=−
+-
+
+
+
+
+
+.
+
+
+
+d
+
+m
+
+10
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+Example 1.20 (System of Linear Equations - no solution).
+
+
+
+−2 3 1 3
+1 0
+
+
+
+ 11 5 7 4 → 0 1
+
+
+
+1 20 12 1
+0 0
+
+
+0
+
+0
+
+1
+
+16
+43
+25
+43
+
+0
+
+Example 1.21 (System of Linear Equations - ∞ solutions).
+
+
+
+−2 3 1 3
+1 0
+
+
+
+ 11 5 7 4  → 0 1
+
+
+
+0 0
+1 20 12 19
+
+16
+43
+25
+43
+
+3
+− 43
+
+0
+
+0
+
+
+
+
+41 
+43 
+
+Example 1.22. Solve the following problem
+
+
+x
+
+
+
+
+
+
+ 2x
+
+−
+
+y
+
++
+
+−
+
+3w
+
++
+
+4t
+
+=
+
+−5
+
+−
+
+y
+
++ 13z +
+
+6w
+
+−
+
+2t
+
+=
+
+−1
+
+5z
+
+x
+− 2y + 2z − 15w + 14t = −14
+
+
+
+
+7x − 5y + 41z + 7w + 20t = −29
+
+
+
+ −5x + 2y − 34z − 25w − 2t =
+10
+
+
+
+
+1
+
+0
+
+0
+
+
+0
+
+1
+
+−1
+
+
+ 2
+
+ 1
+
+
+ 7
+−5
+
+−1
+
+
+
+1
+−5
+
+
+13
+6 −2 −1 R2 ←R2 −2R1 0
+ R3 ←R3 −R1 
+========⇒ 
+2 −15 14 −14
+0
+=
+4 ←R4 −7R1
+
+ R
+R
+←R
++5R
+1
+41
+7 20 −29 5 5
+0
+5
+
+−2
+−5
+
+−3
+
+4
+
+2 −34
+−6
+
+0 8
+
+9
+
+1 3
+
+12 −10
+
+0 0
+
+0
+
+0
+
+0 0
+
+4
+
+12
+
+−25 −2
+10
+
+
+4
+1
+
+
+9
+0
+ R3 ↔R4 /4 
+
+0 ========⇒ 
+0
+ R5 ←R5 +R4 
+−12
+0
+
+0 0 0 −4 −12 −12
+
+0
+0 8
+
+9
+
+−6
+
+1 3 12 −10
+0 0
+
+1
+
+3
+
+0 0
+
+0
+
+0
+
+0 0 0
+
+0
+
+0
+
+−1
+
+5
+
+−3
+
+4
+
+1
+
+3
+
+12
+
+−10
+
+−1
+
+−3
+
+−12
+
+10
+
+2
+
+6
+
+28
+
+−8
+
+−3
+9 −40
+18
+
+
+4
+1
+
+
+9
+0
+ R1 ↔R1 −9R3 
+
+−3 =========⇒ 
+0
+ R2 ←R2 −12R3 
+0
+0
+0
+
+0
+
+Thus, we arrived at
+
+
+
+ x
+
+
+
+
++ 8z
+
+− 33t =
+
+31
+
+y + 3z
+
+− 46t =
+
+45
+
+w +
+
+solve it for x, y, w to get
+11
+
+3t
+
+= −3
+
+−5
+
+
+
+
+9 R1 ←R1 +R2
+ R3 ←R1 −R3
+========⇒
+−9
+=
+4 ←R4 −2R2
+ R
+R
+6 5 ←R5 +3R2
+−15
+
+0 8 0 −33 31
+
+1 3 0 −46 45
+
+0 0 1
+3 −3
+
+
+0 0 0
+0
+0
+0 0 0
+0
+0
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+
+
+
+ x
+
+=
+
+31
+
+− 8z + 33t
+
+y = 45 − 3z + 46t
+
+
+ w = −3
+− 3t
+We may expression in future this solution as following
+  
+    
+ 
+x
+31 − 8s + 33p
+31
+−8
+33
+  
+    
+ 
+ y   45 − 3s + 46p  45  −3
+ 46 
+  
+    
+ 
+  
+    
+ 
+z  = 
+ =  0  +  1 s +  0 p
+s
+  
+    
+ 
+w −3
+ −3  0 
+−3
+−
+3p
+  
+    
+ 
+t
+p
+0
+0
+1
+We don’t have enough information to solve for all variables, therefore we have left with
+two, so called, free variables. This means we have infinitely many solution, a solution per
+each choice of s and p.
+For example choose s = 0 and p = 0 for the solution is (x, y, z, w, t) = (31, 45, 0, −3, 0),
+substitute it in first equations to get
+x − y + 5z − 3w + 4t = 31 − 45 + 5 · 0 + 9 + 0 + 0 = −5.
+Another choice s = −1/3 and p = −1 gives x, y, z, w, t) = (2/3, 0, −1/3, 0, −1) with the
+same first equations gives
+x − y + 5z − 3w + 4t = 2/3 − 0 − 5/3 − 3 · 0 − 4 = −5
+You can verify with other choices of z and t or more equations.
+Example 1.23. For which value of a the following system has unique solution, no solution,
+infinitely many solutions.
+
+ax +
+
+
+ 1
+
+x2 +
+
+x3 = 1
+
+x1 − ax2 +
+
+x3 = 1
+
+
+
+
+
+x2 − ax3 = 1
+
+x1 +
+
+Solution: If a = 1 the system has only one equation x + y + z = 1 which has 2 free
+
+12
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+variables, i.e. infinitely many solutions:
+     
+ 
+x
+1
+−1
+−1
+     
+ 
+y  = 0 +  1  s +  0  t
+     
+ 
+z
+0
+0
+1
+Assuming a ̸= 1
+
+
+
+1
+a 1 1 1
+ R1 ↔R3 
+
+=
+=
+=
+=
+=
+⇒
+1
+a
+1
+1
+a
+
+
+
+1 1 a 1
+1
+
+
+
+1
+1
+a 1
+1
+
+ R2 ↔R3 
+1 1 =====⇒ 0
+0 1 + a
+1 −1
+
+0
+
+1 0
+
+0 1
+0
+
+0
+
+a+1
+−1
+1
+
+
+
+
+1
+1
+a
+1
+1
+1
+ R2 ←R2 −aR3 
+ R2 ← 1−a R2
+1 1 =========⇒ 0 1 − a2 1 − a 1 − a ========⇒
+1
+R3 ←R3 −R1
+R3 ← a−1 R3
+1 1
+0 a−1 1−a
+0
+
+
+
+1
+a 1
+1 0 a+1 1
+1
+R1 ←R1 −R2
+
+
+ R3 ← 2+a R3
+1 −1 0 ============⇒ 0 1
+−1 0 ========⇒
+
+1 a
+1
+a
+
+R3 ←R3 −(1+a)R2
+
+0
+0 1+a
+1 1
+
+
+1 0 0
+1
+ R1 ←R1 −(a+1)R3 
+0 ============⇒ 0 1 0
+
+1
+2+a
+
+0
+
+0
+
+2+a 1
+
+
+
+1
+2+a
+1 
+2+a 
+1
+2+a
+
+R2 ←R2 +R3
+
+0
+
+assume a̸=2
+
+0
+
+1
+
+Thus, the system has a contradiction if a = 2 and so no solution. There is unique
+solution for every a ̸= −2, 1 and as we found before infinitely many solutions for a = 1.
+Example 1.24. For which value of a, b, c, d the following system has unique solution, no
+solution, infinitely many solutions.
+
+x− y+ 3z = a
+
+
+
+
+
+2x+ y+ 3z = b
+
+
+x+ y+
+
+
+
+
+y−
+
+z=
+
+c
+
+z= d
+
+Solution
+
+1
+
+2
+
+1
+
+0
+
+
+
+1
+3 a
+
+
+
+1
+3 b
+0
+R2 ←R2 −2R1 
+=
+========⇒ 
+1
+1 c
+ R3 ←R3 −R1 0
+1 −1 d
+0
+
+−1
+
+−1
+
+3
+
+3 −3
+2 −2
+1 −1
+
+
+
+a
+1
+
+
+
+b − 2a
+0
+R2 ←R2 /3
+=
+======⇒ 
+
+
+c − a R3 ←R3 /2 0
+d
+0
+
+Thus, in order the system be consistent it should satisfy
+c−a
+b − 2a
+=
+=d
+3
+2
+
+13
+
+−1
+
+3
+
+1 −1
+1 −1
+1 −1
+
+
+a
+
+b−2a 
+3 
+c−a 
+2 
+d
+
+M. Medvinsky
+
+1.3
+
+Introduction to Linear Algebra
+
+Vector equations
+
+A matrix with only one column is called a column vector, or simply a vector.
+Rn is the set of all column vectors with n entries.
+A row vector: a matric with one row.
+Two vectors are equal if and only if they have
+ the same shape,
+ the same number of rows,
+ and their corresponding entries are equal.
+
+The set of al vectors with n entries is denoted Rn .
+The sum u+v of two vectors u and v in Rn is obtained by adding corresponding entries
+in u and v. For example in R2
+" #
+1
+2
+
++
+
+" #
+−1
+−1
+
+=
+
+" #
+0
+1
+
+.
+
+The scalar multiple cv of a vector v and a real number (“scalar”) c is the vector
+obtained by multiplying each entry in v by c. For example in R3 ,
+
+
+
+
+ 
+1
+1.5
+
+  
+
+
+
+1.5  0 =  0 
+.
+−3
+−2
+The vector whose entries are all zeroes is called the zero vector and denoted 0:
+ 
+0
+ 
+0
+ 
+0 = . .
+ .. 
+ 
+0
+Operations with row vectors are defined in a similar way.
+Example 1.25. Vector Equation 1
+Consider
+
+     
+ 
+x
+1
+2
+1
+     
+ 
+y  = 2 + 1 t + 1 s
+ 
+     
+z
+3
+5
+1
+14
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+express z as z = ax + by + c.
+We have
+
+     
+ 
+
+
+x
+1
+2
+1
+1 + 2t + s
+     
+ 
+
+
+y  = 2 + 1 t + 1 s =  2 + t + s 
+     
+ 
+
+
+z
+3
+5
+1
+3 + 5t + s
+
+Thus x = 1 + 2t + s, y = 2 + t + s and z = 3 + 5t + s. We want to express
+z = 3 + 5t + s = a(1 + 2t + s) + b(2 + t + s) + c = a + 2b + c + (a + b)s + (b + 2a)t
+We arrive at
+
+−a+ 2b+ c = 3
+
+
+
+a+ b
+= 1
+
+
+
+2a+ b
+= 5
+which solution (a, b, c) = (4, −3, 4) therefore
+z = 4x − 3y + 4
+Example 1.26. Vector Equation 2 Consider z = x + y − 3, rewrite it in vector form.
+(x, y, z) = (s, t, s + t − 3)
+Definition 1.27 (Linear combinations). Given vectors v1 , v2 , . . . , vp in Rn and scalars
+c1 , c2 , . . . , cp , the vector
+y = c1 v1 + · · · cp vp
+is called a linear combination of v1 , v2 , . . . , vp with weights c1 , c2 , . . . , cp .
+1.3.1
+
+Rewriting a linear system as a vector equation
+
+Consider an example: the linear system
+x2 + x3 = 2
+x1 + x2 + x3 = 3
+x1 + x2 − x3 = 2
+
+15
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+can be written as equality of two vectors:
+
+
+ 
+2
+  
+
+x1 + x2 + x3  = 3
+  
+
+x1 + x2 − x3
+2
+
+
+which is the same as
+
+x2 + x3
+
+ 
+ 
+   
+0
+1
+1
+2
+ 
+ 
+   
+
+
+
+
+
+
+
+x1 1 + x2 1 + x3  1  = 3
+
+1
+1
+−1
+2
+
+Let us write the matrix
+
+
+0 1
+
+1 1
+
+1 1
+
+
+1 2
+
+1 3
+
+−1 2
+
+in a way that calls attention to its columns:
+h
+i
+a1 a2 a3 b
+Denote
+
+ 
+ 
+ 
+0
+1
+1
+ 
+ 
+ 
+
+
+
+
+
+a1 = 1 , a2 = 1 , a3 =  1 
+
+1
+1
+−1
+
+and
+
+ 
+2
+ 
+
+b=
+3 ,
+2
+
+then the vector equation can be written as
+x1 a1 + x2 a2 + x3 a3 = b.
+Notice that to solve this equation is the same as express b as a linear combination of a1 ,
+a2 , a3 , and find all such expressions.
+Therefore, solving a linear system is the same as finding an expression of the vector of
+the right part of the system as a linear combination of columns in its matrix of coefficients.
+
+16
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+Theorem 1.28. A vector equation
+x1 a1 + x2 a2 + · · · + xn an = b.
+has the same solution set as the linear system whose augmented matrix is
+h
+a1 a2 · · ·
+
+i
+an b
+
+In particular b can be generated by a linear combination of a1 , a2 , . . . , an if and only if
+there is a solution of the corresponding linear system.
+
+1.4
+
+The matrix equation Ax = b
+
+Definition 1.29. If A is an m × n matrix, with columns a1 , . . . , an , and if x is in Rn , then
+the product of A and x, denoted Ax, is the linear combination of the columns of A using
+the corresponding entries in x as weights:
+
+
+
+x1
+h
+i 
+.. 
+Ax = a1 a2 · · · an 
+ . 
+xn
+= x1 a1 + x2 a2 + · · · + xn an
+Example 1.30. The system
+x2 + x3 = 2
+x1 + x2 + x3 = 3
+x1 + x2 − x3 = 2
+was written as
+x1 a1 + x2 a2 + x3 a3 = b.
+where
+
+ 
+ 
+ 
+0
+1
+1
+ 
+ 
+ 
+
+ 
+ 
+a1 = 
+1 , a2 = 1 , a3 =  1 
+1
+1
+−1
+
+17
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+and
+
+ 
+2
+ 
+
+b = 3
+.
+2
+
+In the matrix product notation it becomes
+
+0 1
+
+1 1
+
+1 1
+
+   
+x
+2
+  1  
+   
+1
+ x2  = 3
+−1
+x3
+2
+1
+
+or
+Ax = b
+where
+
+ 
+x
+ 1
+
+x = x2 
+.
+x3
+
+h
+i
+A = a1 a2 a3 ,
+
+Theorem 1.31. If A is an m × n matrix, with columns a1 , . . . , an , and if x is in Rn , the
+matrix equation
+Ax = b
+has the same solution set as the vector equation
+x1 a1 + x2 a2 + · · · + xn an = b
+which has the same solution set as the system of linear equations whose augmented matrix
+is
+h
+
+Existence of solutions:
+
+a1 a2 · · ·
+
+i
+an b .
+
+The equation Ax = b has a solution if and only if b is a linear
+
+combination of columns of A.
+Row-vector rule for computing Ax.
+
+If the product Ax is defined then the ith entry
+
+in Ax is the sum of products of corresponding entries from the row i of A and from the
+vector x.
+Theorem 1.4.5: Properties of the matrix-vector product Ax.
+If A is an m × n matrix, u, v ∈ Rn , and c is a scalar, then
+18
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+(a) A(u + v) = Au + Av;
+(b) A(cu) = c(Au).
+
+Homogeneous linear systems: A linear system is homogeneous if it can be written
+as
+Ax = 0.
+A homogeneous system always has at least one solution x = 0 (trivial solution).
+Therefore for homogeneous systems an important question os existence of a nontrivial
+solution, that is, a nonzero vector x which satisfies Ax = 0:
+The homogeneous system Ax = b has a nontrivial solution if and only if the equation
+has at least one free variable.
+Example 1.32.
+x1 + 2x2 − x3 = 0
+x1 + 3x3 + x3 = 0
+
+1.5
+
+Solution sets of linear equations
+
+Nonhomogeneous systems
+When a nonhomogeneous system has many solutions, the general solution can be written
+in parametric vector form a one vector plus an arbitrary linea combination of vectors that
+satisfy the corresponding homogeneous system.
+Example 1.33.
+x1 + 2x2 − x3 = 0
+x1 + 3x3 + x3 = 5
+Theorem 1.34. Suppose the equation
+Ax = b
+is consistent for some given b, and p be a solution. Then the solution set of Ax = b is the
+set of all vectors of the form
+w = p + vh ,
+19
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+where vh is any solution of the homogeneous equation
+Ax = 0.
+
+2
+
+Matrix operations
+
+2.1
+
+Matrix Addition
+
+Labeling of matrix entries. Let A be an m × n matrix.
+A =
+
+h
+
+a1 a2 · · ·
+
+an
+
+
+
+a11 · · ·
+ .
+ .
+ .
+
+= 
+ ai1 · · ·
+ .
+ ..
+
+am1 · · ·
+
+i
+
+a1j
+..
+.
+
+···
+
+aij
+..
+.
+
+···
+
+amj
+
+···
+
+
+a1n
+.. 
+
+. 
+
+ain 
+
+.. 
+. 
+
+amn
+
+Notice that in aij the first subscript i denotes the row number, the second subscript j the
+column number of the entry aij . In particular, the column aj is
+
+
+
+a1j
+ . 
+ . 
+ . 
+
+
+
+aj = 
+ aij  .
+ . 
+ .. 
+
+
+amj
+Diagonal matrices, zero matrices. The diagonal entries in A are
+a11 , a22 , a33 , . . .
+For example, the diagonal entries of the matrix
+
+
+1 2 3
+
+
+
+A=
+4 5 6
+7 8 9
+
+20
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+are 1, 5, and 9.
+A square matrix is a matrix with equal numbers of rows and columns.
+A diagonal matrix is a square matrix whose non-diagonal entries are zeroes.
+Matrices
+"
+#
+1 0
+0 2
+
+,
+
+
+
+1 0 0
+
+
+0 0 0 ,
+
+
+0 0 2
+
+
+
+π 0 0
+
+
+√
+
+0
+2
+0
+
+
+0 0 3
+
+are all diagonal. The identity matrices
+
+h i
+1 ,
+
+"
+
+1 0
+
+
+
+1 0 0
+
+
+0 1 0 , . . .
+
+
+0 0 1
+
+#
+,
+
+0 1
+
+are diagonal.
+Zero matrix. By definition, 0 is a m×n matrix whose entries are all zero. For example,
+matrices
+h
+i
+0 0 ,
+
+"
+
+0 0 0
+
+#
+
+0 0 0
+
+are zero matrices. Notice that zero square matrices, like
+"
+#
+0 0
+0 0
+
+,
+
+
+
+0 0 0
+
+
+0 0 0
+
+
+0 0 0
+
+are diagonal!
+Sums. If
+h
+A = a1 a2 · · ·
+
+an
+
+i
+
+h
+B = b1 b2 · · ·
+
+bn
+
+and
+
+are m × n matrices then we define the sum A + B as
+
+21
+
+i
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+h
+i
+a1 + b1 a2 + b2 · · · an + bn
+
+
+a11 + b11 · · · a1j + b1j · · · a1n + b1n
+
+
+..
+..
+..
+
+
+.
+.
+.
+
+
+
+
+
+=  ai1 + bi1 · · ·
+aij + bij · · ·
+ain + bin 
+
+
+
+..
+..
+..
+
+
+.
+.
+.
+
+
+am1 + bm1 · · · amj + bmj · · · amn + bmn
+
+A+B =
+
+Scalar multiple. If c is a a scalar then we define
+cA =
+
+h
+
+ca1 ca2 · · ·
+
+
+
+ca11 · · ·
+ .
+ .
+ .
+
+= 
+ cai1 · · ·
+ .
+ ..
+
+cam1 · · ·
+
+can
+
+i
+
+ca1j
+..
+.
+
+···
+
+caij
+..
+.
+
+···
+
+camj
+
+···
+
+
+ca1n
+.. 
+
+. 
+
+cain 
+
+.. 
+. 
+
+camn
+
+Theorem 2.1.1: Properties of matrix addition. Let A, B, and C be matrices of
+the same size and r and s be scalars.
+1. A + B = B + A
+2. (A + B) + C = A + (B + C)
+3. A + 0 = A
+4. r(A + B) = rA + rB
+5. (r + s)A = rA + sA
+6. r(sA) = (rs)A.
+
+2.2
+
+Matrix multiplication
+
+Multiplication of matrices. To answer the above question, we need to compute A(Bx)
+in matrix form.
+22
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+Write x as
+
+
+x1
+ . 
+. 
+x=
+ . 
+xn
+
+
+and observe
+Bx = x1 b1 + · · · + xn bn .
+Hence
+A(Bx) = A(x1 b1 + · · · + xn bn )
+= A(x1 b1 ) + · · · + A(xn bn )
+= x1 A(b1 ) + · · · + xn A(bn )
+h
+i
+= Ab1 Ab2 · · · Abn x
+Therefore multiplication by the matrix
+h
+C = Ab1 Ab2 · · ·
+
+Abn
+
+i
+
+transforms x into A(Bx). Hence C is the matrix of the linear transformation S ◦ T and it
+will be natural to call C the product of A and B and denote
+C =A·B
+(but the multiplication symbol “·” is frequently skipped).
+Definition: Matrix multiplication. If A is an p × m matrix and B is an m × n
+matrix with columns
+b1 , . . . , bn
+then the product AB is the p × n matrix whose columns are
+Ab1 , . . . , Abn :
+
+h
+i
+AB = A b1 · · · bn
+h
+i
+= Ab1 · · · Abn .
+
+23
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+Columns of AB. Each column Abj of AB is a linear combination of columns of A
+with weights taken from the jth column of B:
+
+b1j
+i
+.. 
+
+am 
+ . 
+bmj
+
+
+Abj
+
+=
+
+h
+
+a1 · · ·
+
+= b1j a1 + · · · + bmj am
+Mnemonic rules
+[m × n matrix] · [n × p matrix] = [m × p matrix]
+
+columnj (AB) = A · columnj (B)
+
+rowi (AB) = rowi (A) · B
+Theorem 2.1.2: Properties of matrix multiplication. Let A be an m × n matrix
+and let B and C be matrices for which indicated sums and products are defined. Then the
+following identities are true:
+1. A(BC) = (AB)C
+2. A(B + C) = AB + AC
+3. (B + C)A = BA + CA
+4. r(AB) = (rA)B = A(rB) for any scalar r
+5. Im A = A = AIn
+Powers of matrix. As it is usual in algebra, we define, for a square matrix A,
+Ak = A · · · A
+If A ̸= 0 then we set
+A0 = I
+
+24
+
+(k times)
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+The transpose of a matrix. The transpose AT of an m × n matrix A is the n × m
+matrix whose rows are formed from corresponding columns of A:
+
+
+1 4
+
+
+
+=
+2 5
+3 6
+
+"
+#T
+1 2 3
+4 5 6
+
+Theorem 2.1.3: Properties of transpose. Let A and B denote matrices whose sizes
+are appropriate for the following sums and products. Then we have:
+1. (AT )T = A
+2. (A + B)T = AT + B T
+3. (rA)T = r(AT ) for any scalar r
+4. (AB)T = B T AT
+
+2.3
+
+The inverse of a matrix
+
+Invertible matrices
+An n × n matrix A is invertible if there is an n × n matrix C such that
+CA = I and AC = I
+C is called the inverse of A.
+The inverse of A, if exists, is unique (!) and is denoted A−1 :
+A−1 A = I and AA−1 = I.
+Singular matrices. A non-invertible matrix is called a singular matrix.
+An invertible matrix is nonsingular.
+Theorem 2.2.4: Inverse of a 2 × 2 matrix. Let
+"
+A=
+
+a b
+c d
+
+25
+
+#
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+If ad − bc ̸= 0 then A is invertible and
+"
+
+a b
+c d
+
+#−1
+
+"
+#
+d −b
+1
+=
+ad − bc −c
+a
+
+The quantity ad − bc is called the determinant of A:
+det A = ad − bc
+Theorem 2.2.5: Solving matrix equations. If A is an invertible n × n matrix, then
+for each b ∈ Rn , the equation Ax = b has the unique solution
+x = A−1 b.
+
+Theorem 2.2.6: Properties of invertible matrices.
+(a) If A is an invertible matrix, then A−1 is also invertible and
+(A−1 )−1 = A
+(b) If A and B are n × n invertible matrices, then so is AB, and
+(AB)−1 = B −1 A−1
+(c) If A is an invertible matrix, then so is AT , and
+(AT )−1 = (A−1 )T
+
+2.4
+
+Matrix determinant
+
+The determinant det A of a square matrix A is a certain number assigned to the matrix; it
+is defined recursively, that is, we define first determinants of matrices of sizes 1 × 1, 2 × 2,
+and 3 × 3, and then supply a formula which expresses determinants of n × n matrices in
+terms of determinants of (n − 1) × (n − 1) matrices.
+h i
+The determinant of a 1 × 1 matrix A = a11 is defined simply as being equal its
+26
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+only entry a11 :
+h i
+det a11 = a11 .
+The determinant of a 2 × 2 matrix is defined by the formula
+
+det
+
+#
+"
+a11 a12
+a21 a22
+
+= a11 a22 − a12 a21 .
+
+The determinant of a 3 × 3 matrix
+
+
+a11 a12 a13
+
+
+
+A=
+a21 a22 a23 
+a31 a32 a33
+is defined by the formula
+
+
+
+"
+#
+"
+#
+"
+#
+a11 a12 a13
+
+
+a
+a
+a
+a
+a
+a
+22
+23
+21
+23
+21
+22
+
+det 
+− a12 ·
++ a13 ·
+a21 a22 a23  = a11 · a
+a31 a33
+a31 a32
+32 a33
+a31 a32 a33
+Example. The determinant det A of the matrix
+
+
+2 0 7
+
+
+
+A=
+0
+1
+0
+
+
+1 0 4
+equals
+"
+2 · det
+
+1 0
+0 4
+
+#
++ 7 · det
+
+"
+#
+0 1
+1 0
+
+which further simplifies as
+2 · 4 + 7 · (−1) = 8 − 7 = 1.
+Submatrices. By definition, the submatrix Aij is obtained from the matrix A by
+crossing out row i and column j.
+For example, if
+
+
+1 2 3
+
+
+
+A=
+4 5 6 ,
+7 8 9
+
+27
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+then
+
+"
+A22 =
+
+1 3
+
+#
+
+7 9
+
+,
+
+A31 =
+
+"
+#
+2 3
+5 6
+
+Theorem 3.1.2: The determinant of a triangular matrix. If A is a triangular
+n × n matrix then det A is the product of the diagonal entries of A.
+Corollary. The determinant of a diagonal matrix equals is the product of its diagonal
+elements:
+
+
+d1 0 · · ·
+
+ 0 d2
+
+det  .
+..
+ ..
+.
+
+0
+···
+
+0
+
+
+
+
+0
+
+= d1 d2 · · · dn .
+.. 
+.
+
+dn
+
+Corollary. The determinant of the identity matrix equals 1:
+det In = 1.
+Corollary. The determinant of the zero matrix equals 0:
+det 0 = 0.
+
+3
+
+Cramer’s Rule
+
+Cramer’s Rule is an explicit (closed) formula for solving systems of n linear equations with
+n unknowns and nonsigular (invertible) matrix of coefficients. It has important theoretical
+value, but is unsuitable for practical application.
+For any n × n matrix A and any b ∈ Rn , denote by Ai (b) the matrix obtained from A
+by replacing column i by the vector b:
+h
+Ai (b) = a1 · · ·
+
+ai−1 b ai+1 · · ·
+
+i
+an .
+
+Theorem 3.3.7: Cramer’s Rule. Let A be an invertible n × n matrix. For any
+
+28
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+b ∈ Rn , the unique solution x of the linear system
+Ax = b
+is given by
+xi =
+
+det Ai (b)
+,
+det A
+
+i = 1, 2, . . . , n.
+
+For example, for a system
+x1 + x2 = 3
+x1 − x2 = 1
+Cramer’s rule gives the answer
+det
+x1 =
+det
+
+"
+3
+
+1 −1
+"
+#
+1 3
+
+"
+det
+
+4
+
+#
+
+1 −1
+−4
+"
+#=
+=2
+−2
+1
+1
+
+det
+x2 =
+
+1
+
+1 1
+1
+
+1
+
+#=
+
+−2
+=1
+−2
+
+1 −1
+
+Eigenvalues and eigenvectors
+
+Quiz
+What is the value of this determinant?
+
+
+1 2 3
+
+
+
+∆ = det 
+0
+2
+3
+
+
+1 2 6
+Quiz
+Is Γ positive, negative, or zero?
+
+29
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+
+
+0
+
+0 71
+
+
+Γ = det 
+ 0 93
+87
+
+0
+
+
+
+
+0
+
+0
+
+Eigenvectors. An eigenvector of an n × n matrix A is a nonzero vector x such that
+Ax = λx
+for some scalar λ.
+Eigenvalues. A scalar λ is called an eigenvalue of A if there is a non-trivial solution
+x of
+Ax = λx;
+x is called an eigenvector corresponding to λ.
+Eigenvalue. A scalar λ is an eigenvalue of A iff the equation
+(A − λI)x = 0
+has a non-trivial solution.
+Eigenspace. The set of all solutions of
+(A − λI)x = 0
+is a subspace of Rn called the eigenspace of A corresponding to the eigenvalue λ.
+Theorem: Linear independence of eigenvectors. If v1 , . . . , vp are eigenvectors
+that correspond to distinct eigenvalues of λ1 , . . . , λp of an n × n matrix A, then the set
+{ v 1 , . . . , vp }
+is linearly independent.
+
+4.1
+
+How to find eigenvectors and eigenvalues
+
+Characteristic polynomial
+The polynomial
+det(A − λI)
+
+30
+
+M. Medvinsky
+
+Introduction to Linear Algebra
+
+in variable λ is characteristic polynomial of A.
+For example, in the 2 × 2 case
+"
+det
+
+#
+
+a−λ
+
+b
+
+c
+
+d−λ
+
+= λ2 − (a + d)λ + (ad − bc).
+
+det(A − λI) = 0
+is the characteristic equation for A.
+Characterisation of eigenvalues
+Theorem. A scalar λ is an eigenvalue of an n × n matrix A if and only if λ satisfies
+the characteristic equation
+det(A − λI) = 0
+
+Zero as an eigenvalue. λ = 0 is an eigenvalue of A if and only if det A = 0.
+Theorem: Eigenvalues of a triangular matrix. The eigenvalues of a triangular
+matrix are the entries on its main diagonal.
+Proof. This immediately follows from the fact the the determinant of a triangular
+matrices is the product of its diagonal elements. Therefore, for example, for the 3 × 3
+triangular matrix
+
+
+d1 a b
+
+
+
+A=
+0
+d
+c
+2
+
+
+0 0 d3
+its characteristic polynomial det(A − λI) equals
+
+
+d1 − λ
+a
+b
+
+
+
+det 
+0
+d
+−
+λ
+c
+2
+
+
+0
+0
+d3 − λ
+and therefore
+det(A − λI) = (d1 − λ)(d2 − λ)(d3 − λ)
+has roots (eigenvalues of A)
+λ = d1 , d2 , d3 .
+
+31
+
+
+
+## Metadata
+- Source file: junk_drawer/LNLA4MA341.pdf
+- Extracted: 2026-05-18
+- Category: other

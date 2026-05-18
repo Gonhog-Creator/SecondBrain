@@ -1,0 +1,1120 @@
+# thermalpowerplant.pdf
+
+Source: junk_drawer/thermalpowerplant.pdf
+
+Category: [[other]]
+
+## Summary
+International Journal of Mechanical Sciences 188 (2020) 105918 Contents lists available at ScienceDirect International Journal of Mechanical Sciences journal homepage: www.elsevier.com/locate/ijmecsci Thermal power plant upgrade via a rotating detonation combustor and retroﬁtted turbine with optimized endwalls Zhe Liu, James Braun∗, Guillermo Paniagua
+
+## Full Content
+International Journal of Mechanical Sciences 188 (2020) 105918
+
+Contents lists available at ScienceDirect
+
+International Journal of Mechanical Sciences
+journal homepage: www.elsevier.com/locate/ijmecsci
+
+Thermal power plant upgrade via a rotating detonation combustor and
+retroﬁtted turbine with optimized endwalls
+Zhe Liu, James Braun∗, Guillermo Paniagua
+Purdue University, 500 Allison Rd, West Lafayette, IN 47907, United States
+
+a r t i c l e
+
+i n f o
+
+Keywords:
+Pressure gain combustion
+Turbines
+Engine model
+
+a b s t r a c t
+In the past decade, pressure gain combustion research has promised over 10 percentage-points of increase in
+power plant thermal eﬃciency. Alas, to realize such potential gain, one must eﬀectively couple the turbine with
+the detonation combustor, whose exhaust conditions diﬀer substantially from current state of the art gas turbines.
+This paper presents a modeling approach that enables a superior thermodynamic cycle with a rotating detonation
+combustor and a retroﬁtted gas turbine by including a diﬀuser downstream of the combustor and by contouring the turbine endwall, while preserving the airfoil geometry. We propose a multi-step optimization strategy,
+parametrizing the endwall geometry with a few control points, without altering the airfoil geometry, and with the
+stage turbine eﬃciency as objective function. In a ﬁrst step the turbine performance is assessed with steady inlet
+conditions by solving the steady three-dimensional Reynolds-Averaged Navier-Stokes equations. In a second step,
+the inlet conditions are unsteady, as predicted from a detonation combustor and a diﬀuser, and three-dimensional
+full unsteady simulations are performed with an unsteady Reynolds-Averaged Navier-Stokes solver. By altering
+the vane endwall, the steady optimization yielded an eﬃciency increase of 12% relative to the baseline, while
+the unsteady optimization resulted in 21% increase compared to the datum turbine. Finally, a full engine analysis
+demonstrated the superiority of pressure gain combustion which included a realistic thermodynamic cycle of the
+combustor, the diﬀuser and the optimized turbine components.
+
+1. Introduction
+The U.S. Energy Information Administration calculated that around
+10.59 trillion cubic feet of natural gas was used for power generation
+in 2018 and accounts for the largest share of greenhouse gas emissions
+(Data source: U.S. EPA, 2016). Currently, eﬃciencies for combined cycle
+gas-ﬁred plants lie around 56-64% and are based on deﬂagrative combustion. A potential candidate for fuel-reduction lies in replacing the
+conventional combustor with a pressure gain combustor which oﬀers
+less fuel consumption compared to the conventional deﬂagration-based
+engines in which combustion occurs through an isobaric process [1].
+Two of the most promising combustion architectures to realize pressure gain are the pulse detonation combustors (PDC), in which a tube
+is cyclically ﬁlled with fuel-oxidizer mixture and is then detonated, and
+rotating detonation combustors (RDC) in which the combustion mixture
+is injected axially and the ignition is self-sustained by a rotating detonation wave. Although performance beneﬁts with pressure gain combustion with idealized components have been reported since early 2000 and
+demonstrated values over 20 percentage-points of eﬃciency increase
+[2], the characterization of the turbine interaction with pressure gain
+combustors to measure the actual performance of the turbine has only
+
+∗
+
+started recently. Alternative architectures rely on organic Rankine cycles coupled with radial turbo-expanders [3–5].
+Xisto et al. [6] numerically characterized a coupled axial turbinepulse detonation tube system. The inlet of the turbine in this conﬁguration was exposed to transonic ﬂow at the occurrence of the detonation
+wave and decreased to low subsonic values downstream. Results indicated that ﬂuctuations of the rotor incidence angle were the main contributors to the losses. Additionally, the turbine eﬃciency was highest
+during the purge conditions and suggestive of improved performance
+with ad-hoc turbines. Anand et al. [7] experimentally assessed a system
+consisting of an axial turbine and six pulse detonation tubes. The thermal eﬃciency of the system showed an increase compared to the Brayton cycle but the turbine eﬃciency was highly reduced due to presumed
+ﬂow angle variations across the rotor passages. The practical integration
+of PDCs into gas turbines is however constrained by the cyclic reﬁll and
+detonation ignition and lower power density [8] compared to rotating
+detonation combustors (RDCs).
+These RDCs have been studied with increased modeling complexity,
+with two-dimensional Euler [9] to three-dimensional premixed unsteady
+Reynolds averaged Navier Stokes solvers [10] to explain the complex
+ﬂow physics. Meng et al. [11] proposed unsteady RANS simulations to
+
+Corresponding author.
+E-mail address: jamesbraun91@gmail.com (J. Braun).
+
+https://doi.org/10.1016/j.ijmecsci.2020.105918
+Received 17 January 2020; Received in revised form 18 June 2020; Accepted 3 July 2020
+Available online 15 July 2020
+0020-7403/© 2020 Elsevier Ltd. All rights reserved.
+
+Z. Liu, J. Braun and G. Paniagua
+
+Nomenclature
+A
+C
+Cp
+f
+𝑓̄
+g
+F
+ṁ
+M
+𝜂 thermo
+𝜂c
+P0
+Ql
+𝜋
+R
+Re
+S
+t
+tperiodic
+T0
+Ts
+V
+x
+y+
+𝜆
+
+Oscillating amplitude of stator inlet total pressure ﬂuctuations [-]
+Chord length [mm]
+Constant pressure speciﬁc heat [J/(kg.K)]
+Oscillating frequency of stator inlet total pressure ﬂuctuations [kHz]
+Reduced frequency [-]
+Pitch [mm]
+Thrust [N]
+Mass ﬂow rate [kg/s]
+Absolute Mach number [-]
+Turbine eﬃciency [-]
+Compressor eﬃciency [-]
+Total pressure [bar]
+Lower heating value [J/kg]
+Compression ratio [-]
+Radius [mm]
+Reynolds number [-]
+Area [mm2 ]
+time [s]
+time to form a periodic cycle [s]
+Total temperature [K]
+Static temperature [K]
+Flow velocity in the absolute frame of reference [m/s]
+Design parameter [-]
+Non-dimensional wall distance
+Normalized torque residual [-]
+
+Abbreviation
+CADO
+Computer Aided Design and Optimization
+DoE
+Design of Experiments
+GCI
+Grid convergence index
+RANS
+Reynolds-Averaged Navier-Stokes
+RDC
+Rotating detonation combustor
+RPM
+Revolutions per minute
+SST
+Shear stress transport
+URANS Unsteady Reynolds-Averaged Navier-Stokes
+T-MATS The Toolbox for the Modeling and Analysis of Thermodynamic Systems
+Subscripts
+ax
+axial direction
+c
+chord
+f
+fuel
+R
+Relative frame of reference
+h
+Hub
+is
+isentropic
+m
+mean value
+t
+Tip
+0
+Engine inlet
+1
+Stator inlet
+2
+Stator outlet
+3
+Rotor outlet
+5
+Engine outlet
+
+study non-premixed rotating detonation combustors. In addition to a
+primary rotating shock, several other RDC modes exist such as counter
+rotating shocks as highlighted by Bohon et al. [12]. Other additional
+shock-reﬂections could occur, as explained by Zhou et al. [13] and depend on chamber geometry such as chamber width. Kawasaki et al.
+[14] found a minimal inner diameter for eﬃcient thrust generation.
+Hence, a set of optimal parameters that deﬁne the geometry and inlet
+conditions could exist. To identify those parameters, reduced models for
+
+International Journal of Mechanical Sciences 188 (2020) 105918
+
+the RDC are proposed by Sousa et al. [15] and Fievisohn et al. [16] based
+on one-dimensional reaction models and the method of characteristics.
+Sousa et al. [15] identiﬁed the optimal radius-over-detonation-height
+that yields minimal entropy generation across the RDC. Kaemming et al.
+[17] proposed a reduced-order model including several loss mechanisms
+such as deﬂagrative burning. Mizener et al. [18] performed a parametric study of the RDC to include waveriders for high-speed applications.
+Most RDC research involves annular architectures. However, Najagami
+et al. [19] discussed other geometries such as disk-shaped rotating detonation combustors or hollow rotating detonation combustors [20]. The
+exhaust of rotating detonation combustors can be altered via various
+nozzles and diﬀusers as demonstrated by Goto et al. [21]. To deﬁne
+the outlet characteristics of those combustors and nozzles, Braun et al.
+[22] calculated that Mach number at the outlet of RDCs with a straight
+nozzle section periodically ﬂuctuates around the transonic region. This
+poses a serious issue for turbine designers, as typically, inlet Mach numbers to the turbine are around 0.1. Direct coupling of a subsonic turbine
+with an RDC will result in an unstarted operation because of the high
+inlet Mach numbers, which leads to an unsteady shock wave that moves
+upstream and causes signiﬁcant total pressure loss as demonstrated in
+[23].
+Several solutions can be proposed to overcome these unstarting phenomena and to eﬃciently harness the power from the transonic ﬂow out
+of RDCs, as depicted in Fig. 1. A ﬁrst option is to mount a supersonic
+axial turbine, characterized by slender airfoil shapes and low turning.
+In this case, a nozzle [22] is attached upstream of the turbine to accelerate the ﬂow to Mach 2 and to reduce the ﬂuctuations. Paniagua
+et al. [23] proposed a new class of high-speed supersonic axial turbines
+and Sousa and Paniagua [24] implemented a method of characteristics
+solver to optimize these supersonic internal passages with minimum entropy. Liu et al. [25] characterized the performance of a supersonic axial
+turbine exposed to periodic oblique shocks and results revealed that the
+leading edge shock loss was the main contributor to the loss mechanism and greatly reduce the eﬃciency. To estimate fuel savings, Sousa
+et al. [1] demonstrated via a detonation-based engine model equipped
+with a supersonic turbine that the thermal eﬃciency could be increased
+by up to 8 percentage-points at low pressure ratios compared to the
+deﬂagration-based engine.
+A second option is to mount a high-eﬃcient subsonic axial turbine.
+Therefore, a diﬀuser is required upstream of the turbine to decelerate
+the ﬂow from supersonic to the high subsonic regime. To operate axial turbines at high subsonic inﬂow (an inlet Mach number of 0.6), Liu
+et al. [26] suggested to open the stator endwalls by 70 percentage-points
+and obtained a turbine eﬃciency of 80% while a constant endwall design showed a deﬁcient performance of less than 50% due to the failure
+of respecting the isentropic limit. However, the increased area opening
+introduced ﬂow separation close to the stator endwalls. Unsteady recirculation bubbles interacted with the stator secondary ﬂow under pulsating environments and consequently penalized the turbine aerodynamic
+performance. Other studies about axial turbines exposed to inlet ﬂuctuations [27,28] highlight a wide span of turbine eﬃciency depending
+on the frequency and amplitude of inlet ﬂuctuations, from 61% for high
+amplitudes [27] to 83% for low amplitudes [28]. In addition, Fernelius
+et al. [28] identiﬁed the ﬂuctuating amplitude to be the main cause
+of the eﬃciency decrease. Naples et al. [29] tested a turbine conﬁguration downstream of a rotating detonation combustor with a dilution
+over RDC air ﬂow in excess of 350% and found eﬃciencies below 80%,
+similar to the conventional deﬂagration combustor. The values reported
+in these studies are well below state-of-the-art turbine design, in which
+turbines are designed with eﬃciencies in excess of 90% [30,31].
+Hence, in this paper, a multi-step optimization strategy [32] is proposed to boost the eﬃciency of turbines for rotating detonation combustors by retroﬁtting the endwall of a subsonic axial turbine to achieve the
+promised increase in cycle eﬃciency. The stator endwall is parametrized
+while turbine airfoils are unchanged. First, a baseline proﬁle with endwall diﬀusion [26] is optimized with steady-inlet Reynold Averaged
+
+Z. Liu, J. Braun and G. Paniagua
+
+International Journal of Mechanical Sciences 188 (2020) 105918
+
+Fig. 1. Fluid expansion systems downstream a rotating detonation combustor: a) supersonic turbine + nozzle and b) subsonic turbine + diﬀuser.
+
+Navier Stokes (RANS) simulations. The objectives are to enhance turbine eﬃciency and speciﬁc work. Second, the selected optimized proﬁles for steady inlet are further improved using unsteady RANS simulations with a ﬂuctuating inlet. Afterwards, full unsteady simulations
+are performed on selected optimized turbines to retrieve the stage efﬁciency, power and damping. Finally, an engine analysis that includes
+a realistic detonation-diﬀuser-subsonic turbine model is used to predict
+the enhancement of the retroﬁtted turbine for high Mach number inﬂows and pressure gain combustor by comparing this to the baseline
+design and to the traditional Brayton cycle engine.
+2. Methodology of turbine optimization
+2.1. Diﬀuser outlet conditions/turbine inlet conditions
+Prior research [26] demonstrated that inlet Mach numbers of 0.3
+yielded eﬃciencies up to 90% at the expense of lengthy diﬀusers upstream of the turbine, but eﬃciencies below 80% for higher inlet Mach
+numbers than 0.6 with shorter diﬀusers. In the current optimization, the
+stator inlet Mach number is 0.6, as delivered by a short diﬀuser. In the
+relative frame of reference, the rotor inlet relative Mach number is 0.45,
+to enable a turning of 100 deg. The span increases from inlet to outlet
+about 10% to ensure the rotor transonic operation at a turbine total-tostatic pressure ratio of 3. Throughout this optimization the rotor passage
+is unaltered.
+2.2. Turbine optimization strategy
+The multi-step optimization strategy [32] is outlined in Fig. 2: The
+steady optimization starts with a turbine parametrization via an inhouse code [33]. In this case, seven design parameters were selected
+for the stator and rotor endwalls. The blade and enwall proﬁles are
+parametrized with Bezier curves and 3D blades are obtained by stacking
+the 2D proﬁle at certain radius [32]. Consequently, the turbine geometry
+is meshed via Autogrid of Numeca and the RANS equations are solved.
+The objective functions (thermodynamic eﬃciency and speciﬁc work)
+are extracted from the post-processing tools and are fed to a diﬀerential evolution optimizer, CADO [34]. In the second step, the three most
+inﬂuential design parameters of the end wall proﬁles from the steady optimization are selected for the next step unsteady optimization. During
+the unsteady optimization, the parametrization and meshing follow the
+
+same methodology as the steady routine. The URANS equations were
+solved with the large turbine inlet ﬂuctuations as inlet boundary conditions, delivered by the short diﬀuser. The vane exit conditions are pitchwise averaged at the mixing plane, and subsequently transposed to the
+rotor inlet [32]. As ﬁnal veriﬁcation, full unsteady simulations of the turbine stage were carried out on a few selected optimized conﬁgurations
+by modeling two stator passages and three rotor passage without tangential averaging at the stator-rotor interface to resolve the stator-rotor
+interaction. Two amplitudes of the unsteadiness were modeled and are
+indicative of the turbine passage sensitivity to unsteadiness. The main
+driver to loss creation is ﬂow separation occurring across the vane passage endwalls [26]. Hence, the present optimization strategy focuses on
+stator endwall contouring. For the optimal turbine conﬁguration, the
+V2
+
+vane kinetic energy losses ( 22_is − 1) are reduced three times more than
+V2
+
+the rotor kinetic losses. An alternative optimization strategy that could
+potentially provide higher eﬃciency should involve the control of the
+rear vane diﬀusion rate along the entire span vane, which in turn would
+require the optimization of the rotor shape to accommodate the diﬀerent
+radial distribution of rotor inlet ﬂow angle.
+2.3. Selection of the turbine vane geometry and endwall parameterization
+The turbine geometry was obtained by scaling a high-pressure transonic turbine, with a pitch-to-chord ratio of 0.75 [35]. Fig. 3 illustrates
+the turbine channel parametrization [32] for the steady optimization.
+The vanes and rotor blade proﬁles were unaltered during the optimization and the stage had a degree of reaction of 0.3 [34]. This airfoil design
+was selected for its adequate performance at on and oﬀ-design condition and was validated in various experimental and numerical studies
+[30,31,34,36] in contrast to impulse blades which trade turbine eﬃciency for work extraction and perform poorly at oﬀ-design conditions.
+Table 1 provides the geometric parameters of the turbine airfoils and
+the entire stage encompasses a total-to-static pressure ratio of 3.
+Four free control points (x1 , x2 , x3 , and x4 ) deﬁned the contour of the
+stator endwall and were free to move in the radial direction with a certain degree of variability. Three free control points (x5 , x6 , and x7 ) were
+assigned to contour the rotor hub. The ﬁxed points were constrained in
+both radial and axial direction to allow for a Mach 0.6 ﬂow at the inlet of the turbine. The endwalls were contoured with a Bezier curve
+to ensure a smooth endwall design and axisymmetry was assumed. The
+steady optimization was initialized with a Design of Experiment through
+
+Z. Liu, J. Braun and G. Paniagua
+
+International Journal of Mechanical Sciences 188 (2020) 105918
+
+Fig. 2. Multi-step optimization strategy: step 1 – steady optimization
+via RANS simulations; step 2 – unsteady optimization via URANS simulations with critical design parameters identiﬁed from step 1; step 3-full
+unsteady evaluation of selected optimized proﬁles.
+
+Fig. 3. Turbine endwall parametrization with seven design parameters for the steady optimization.
+
+Table 1
+Mid-span geometric parameters of the investigated transonic turbine stage.
+
+vane/blade count
+Cax [mm]
+h/Cax [-]
+Rt /Rh [-]
+Stagger [deg]
+RPM [-]
+ReC [-]
+
+stator
+
+rotor
+
+43
+55.73
+1.23
+1.15
+52
+2.23∗ 106
+
+64
+51.08
+1.36
+1.16
+32
+10421
+-
+
+a fractional factorial method [37] to generate 128 individuals. The individuals per population of the multi-objective optimizer, based on the
+NSGA-II algorithm [38], were set to 40.
+2.4. Description of the computational domain and solver
+CFD++ from Metacomp Technologies [39] was chosen to solve the
+3D URANS equations. The turbulence closure was provided by the k-𝜔
+
+SST model and the ﬁrst layer thickness, y+ , was lower than 1 to resolve
+the viscous sublayer. The solver was previously validated for a transonic
+stator case to demonstrate the prediction of the shock location [24] and
+a Mach 5 ramp case to predict the shear stress [25]. Braun et al [40] used
+CFD++ with the k-omega-SST turbulence model for a Mach 2 bladeless turbine and could accurately track the shocks and separation onset.
+However, due to the limitations of URANS, the separation region was
+mispredicted by up to 13%. The original cross-section of the channel
+along the stator and rotor row is visualized in Fig. 4a and across the rotor, the channel is slightly opened. Fig. 4b shows a proﬁle in which the
+inlet area is diﬀused by 70 percentage-points and allows to ingest inlet
+Mach numbers of around 0.6 [26]. From a steady analysis, the thermodynamic eﬃciency was below 80% [26] and this proﬁle (Fig. 4b)
+is deﬁned as the baseline proﬁle. Fig. 5 illustrates the computational
+domain of the baseline turbine with a detailed mesh topology on the
+stator trailing edge and rotor leading edge. A structured grid was generated with Autogrid5 from NUMECA International, and contained around
+7 million cells. A mixing plane at the stator-rotor interface performs a
+tangential averaging on the ﬂuctuations from the upstream stator and
+then conveys them to the downstream rotor [32]. The mesh indepen-
+
+Z. Liu, J. Braun and G. Paniagua
+
+International Journal of Mechanical Sciences 188 (2020) 105918
+
+Fig. 4. Turbine enwall variation with a) constant stator endwall and b) modiﬁed stator endwall (‘baseline’).
+Fig. 5. Computational domain of the baseline turbine stage for an inlet Mach number
+of 0.6, with snapshots of the stator trailing
+edge and the rotor leading edge mesh topology.
+
+dence study was reported in [32]. For the steady optimization, constant
+total pressure and total temperature were prescribed at the stator inlet,
+while constant static pressure was imposed at the rotor outlet.
+2.5. Description of the diﬀuser outlet boundary conditions
+To generalize the unsteady results, the reduced frequency [26,32] is
+used which compares the inlet excitation frequency to the frequency at
+which convective properties propagate across the stator passage. The axial velocity is instantaneously mass-ﬂow-averaged over all grid points (i)
+at the stator inlet (Eq. (1)) and afterwards, a cycle-mass-averaged evaluation is performed (Eq. (2)) over one pulsating period. Unsteady convergence was ensured with the method described by Clover and Clark [41].
+Finally, the reduced frequency (Eq. (3)) was evaluated via the ratio of
+the excitation frequency and the frequency at which convective characteristics traverse. The Purdue Rice cluster includes 580 HP nodes and
+each node has 20 cores Intel Xeon-E5 processors with 64 GB of memory [42]. The convergence time is 10 hours on one node for a RANS
+stage simulation, 48 hours on one node for a URANS simulation with
+the mixing plane approach, and around 170 hours on three nodes for a
+full unsteady simulation.
+∑𝑛
+| ⃖⃖⃖⃖⃖⃖⃖⃗ ⃖⃖⃖⃗|
+𝑖=1 𝑉𝑎𝑥_𝑖𝑛 (𝑡)𝜌𝑖 ||𝑉𝑎𝑥_𝑖 ⋅ 𝑆𝑖 ||
+𝑉̄𝑎𝑥_𝑖𝑛 (𝑡) =
+(1)
+∑𝑛
+| ⃖⃖⃖⃖⃖⃖⃖⃗ ⃖⃖⃖⃗|
+𝑖=1 𝜌𝑖 ||𝑉𝑎𝑥_𝑖 ⋅ 𝑆𝑖 ||
+∫ 𝑡 𝑚(𝑡)𝑉̄𝑎𝑥_𝑖𝑛 (𝑡)𝑑𝑡
+𝑉𝑎𝑥_𝑖𝑛 = 0 𝑡
+(2)
+∫0 𝑚(𝑡)𝑑𝑡
+𝑓̄ =
+
+𝑓
+𝑉1_𝑎𝑥 ∕𝐶𝑎𝑥_𝑆
+
+(3)
+
+The mean-to-peak amplitude of the inlet ﬂuctuations (the diﬀerence
+between the maximum and mean value during one period) is computed
+
+by Eq. (4) and is a quantitative measurement of the strength of the pulsations [32].
+𝐴=
+
+𝑀𝑎𝑥 − 𝑀𝑒𝑎𝑛
+𝑀𝑒𝑎𝑛
+
+(4)
+
+The boundary conditions were provided via Eq. (5). Typical frequencies for RDCs are in the kHz frequency range for h2 -air [43], natural gashydrogen fuel blends [44] for syngas-air mixtures [45]. For the baseline
+conﬁguration [26], the turbine had the lowest eﬃciency (72%) when
+the stator inlet was exposed to pulsations at the intermediate reduced
+frequencies (0.1<f<1) and highest investigated amplitudes. Within this
+frequency band, the speed of inlet excitation traveling across the stator has the same order of magnitude as the propagation of convective
+properties and this operation was most sensitive to eﬃciency drop [26],
+hence, this excitation level was selected as boundary condition for the
+unsteady optimization.
+𝑃01 = 𝑃0𝑚 + sin (2𝜋𝑓 )𝐴𝑃0𝑚
+
+(5)
+
+3. Results
+3.1. Turbine steady optimization
+During the steady optimization, six populations were generated with
+a total of 368 geometries. Fig. 6 depicts the 368 geometries that were
+evaluated, with a color-level related to the speciﬁc work. Turbine efﬁciency and speciﬁc work are evaluated via Eqs. (6) and (7). Proﬁles
+with high inlet Mach numbers in the upper right area also show high
+eﬃciency and speciﬁc work and optimal inlet Mach numbers range between 0.63 and 0.65. Optimized endwall geometries have around 13%
+enhancement in eﬃciency and speciﬁc work. In addition, the position
+of the control points from the superior endwall designs suggest that the
+free control point x1 of the stator endwalls (Fig. 3) should be radially
+
+Z. Liu, J. Braun and G. Paniagua
+
+International Journal of Mechanical Sciences 188 (2020) 105918
+
+assessed with Eq. (10) [32].
+𝐷𝑎𝑚𝑝𝑖𝑛𝑔𝑃0 =
+
+Fig. 6. Results of the steady endwall optimization plotted by turbine eﬃciency
+and inlet Mach number.
+
+close to the ﬁrst ﬁxed control point and the rotor hub endwall control
+points (points x5 , x6 , and x7 in Fig. 3) have a minor eﬀect on the turbine
+performance. Hence, three major design parameters (x2 , x3 , and x4 ) are
+selected for the unsteady optimization.
+𝜂𝑡ℎ𝑒𝑟𝑚𝑜 =
+
+𝑇01 − 𝑇03
+𝑇01 − 𝑇03_ 𝑖𝑠
+
+(6)
+
+(
+)
+𝑤 = 𝐶𝑝 𝑇01 − 𝑇03
+
+(7)
+
+Where the turbine outlet isentropic total temperature T03_is is assessed
+via Eq. (8):
+(
+𝑇03_𝑖𝑠 = 𝑇01
+
+𝑃03
+𝑃01
+
+) 𝛾−1
+𝛾
+
+(8)
+
+Separation due to endwall diﬀusion causes total pressure loss and
+negatively impacts the eﬃciency and work potential of the turbine
+stage. This eﬀect is ampliﬁed for increased diﬀusion across the stator
+[26]. Therefore, the amount of separation at a cross-section plane within
+the stator passage was assessed and is deﬁned in Eq. (9) as the amount
+of area that contained separated ﬂow [32]. Separated ﬂow area was deﬁned as a mesh cell in which the axial velocity is less than 0.01 m/s.
+
+𝑟𝑒𝑙𝑎𝑡𝑖𝑣𝑒 𝑠𝑖𝑧𝑒 𝑜𝑓 𝑠𝑒𝑝𝑎𝑟𝑎𝑡𝑒𝑑 𝑓 𝑙𝑜𝑤 =
+
+𝑆(𝑉 𝑎𝑥<0.01)
+𝑆
+
+(9)
+
+Fig. 7a describes a pitch-wise cut within the baseline stator passage
+contoured by the axial velocity. A signiﬁcant separation occurs for the
+baseline stator with a relative size of separated ﬂow of 19.5% while
+the steady-optimized conﬁguration shows a value of only 0.2%. Fig. 7b
+displays the separation quantiﬁcation. The upper right zone, featured
+by proﬁles with high eﬃciency and speciﬁc work, is also characterized
+by small separated ﬂow areas.
+
+𝐴1 − 𝐴3
+𝐴1
+
+(10)
+
+Fig. 8a displays the damping and eﬃciency of the same 37 turbine
+conﬁgurations, and the color level designates the speciﬁc work. Proﬁles
+with highest eﬃciency and damping appear in the upper right area,
+with a maximum damping of around 85%. Stage damping of proﬁle 2
+is more than 5 percentage-points higher than that of proﬁle 3 at the
+expense of the turbine eﬃciency of proﬁle 2 which is 1.4 percentagepoints lower. For further analysis, proﬁle 2 was selected. Compared to
+the baseline proﬁle [26], the turbine eﬃciency increased by approximately 21.4% for the optimized endwall geometries. The speciﬁc work
+from the optimized conﬁgurations was augmented by more than 22%.
+From the baseline to the optimized proﬁles, damping of the total pressure ﬂuctuations increased by up to 30 percentage-points. Fig. 8b plots
+the total pressure signature extracted from the stator inlet and rotor outlet for both baseline and unsteady-optimized turbine (proﬁle 2, Fig. 8a)
+for two pulsating periods, where the stage damping across proﬁle 2 was
+83% and was 29 percentage-points higher than the baseline case.
+For the baseline proﬁle, the endwall opening only occurs across the
+stator passage. As a result, ﬂow experiences diﬀusion at the beginning
+and is then accelerated until the stator trailing edge. However, for both
+the steady and unsteady optimized proﬁles, ﬂow is diﬀused upstream
+of the stator in such a way that ﬂow turning is enhanced and full acceleration is achieved in the stator passage. Fig. 9a–c display the channel
+for the baseline, the steady-optimized (proﬁle 3, Fig. 6), and unsteadyoptimized (proﬁle 2, Fig. 8a) stator, and the stator throat-to-local area
+ratio for each case is plotted in Fig. 9d. For the baseline stator, the local cross-section area keeps increasing from the leading edge till the
+mid-axial chord during which diﬀusion is dominant and ﬂow separation
+occurs whereas the channel keeps converging for both optimized conﬁgurations from the stator leading edge till the trailing edge. In addition, at
+steady state, the Mach number in front of the stator leading edge is 0.64
+for the baseline, 0.3 for the steady-optimized, and 0.35 for the unsteadyoptimized proﬁle. This indicates that the unsteady-optimized endwall is
+diﬀused to a lesser extent upstream of the stator leading edge, which
+helps to suppress the growth of the unsteady recirculation bubbles for
+the pulsating inlet condition compared to the steady-optimized endwall
+geometry. Under such large inlet ﬂuctuating conditions, the unsteadyoptimized turbine signiﬁcantly outperforms the baseline, the vane timeaveraged of the mass-ﬂow-averaged total pressure loss was reduced by
+6.7 percentage-points. Two steady simulations were performed in which
+the turbine was subjected to the highest and lowest pressure ratio of the
+pulsating period. An eﬃciency variation of around 0.5 percentage-point
+was retrieved for the unsteady optimized turbine while this increased to
+8.4 percentage-points for the steady optimized proﬁle and 8 percentagepoints for the baseline turbine, suggesting that a multi-point optimization could provide a cost-eﬀect intermediate solution by performing a
+steady evaluation for each steady-optimized geometry at three diﬀerent inlet total pressures (lowest, mass-ﬂow averaged mean and highest).
+However, the unsteady-optimized turbine (proﬁle 2, Fig. 8a), when operating at a large amplitude ﬂuctuation, displays an eﬃciency decrease
+of 7.7 percentage-points due to the unsteadiness compared to the steady
+state, which cannot be accounted for by a series of steady evaluations.
+
+3.2. Turbine unsteady optimization
+3.3. Full unsteady assessment of optimized endwall geometries
+Seven populations were created which resulted in 37 endwall geometries. To evaluate the objective functions for the unsteady cases,
+all parameters of Eq. (8) were ﬁrst instantaneously mass-ﬂow-averaged
+and then cycle-mass-averaged over a periodic cycle to derive the turbine
+outlet isentropic total temperature. Afterwards, the turbine outlet isentropic total temperature (Eq. (8)) was evaluated and used to determine
+the thermodynamic eﬃciency (Eq. (6)), together with other cycle-massaveraged of mass-ﬂow-averaged quantities. Damping is used to quantify
+the residual ﬂuctuations at the outlet of the ﬁrst turbine stage and was
+
+Full unsteady simulations with two stator passages and three rotor
+passages are performed at a reduced frequency of 0.23 for two peakto-mean amplitudes on selected optimized turbines without tangential
+averaging at the stator-rotor interface to resolve the stator-rotor interaction. The entire computational domain contains two stator passages and
+three rotor passages. Consequently, the computational burden increased
+to 170 hours on three Intel Xeon-E5 nodes compared to 48 hours for the
+mixing plane approach with only one node. Proﬁle 3 from Fig. 6 was
+
+Z. Liu, J. Braun and G. Paniagua
+
+International Journal of Mechanical Sciences 188 (2020) 105918
+
+Fig. 7. a) Axial velocity contour at a certain pitch-wise cut within the stator passage of the baseline endwall design. b) Relative size of separated ﬂow (log scale)
+from the steady endwall optimization.
+
+Fig. 8. a) Results from the unsteady endwall
+optimization colored by speciﬁc work. b) Total
+pressure traces at the stator inlet and rotor outlet
+for the baseline and optimized endwall proﬁle.
+
+Fig. 9. Endwall variation of a) baseline stator, b) steady optimized
+proﬁle (proﬁle 3 in Fig. 6), and c) unsteady optimized proﬁle (proﬁle
+2 in Fig. 8a). d) Throat-to-local area ratio in function of the normalized
+stator chord length.
+
+Z. Liu, J. Braun and G. Paniagua
+
+International Journal of Mechanical Sciences 188 (2020) 105918
+
+Fig. 10. a) Flow ﬁeld from a full unsteady turbine simulation (proﬁle 3, Fig. 6) at A=37.5% and
+𝑓̄=0.23. b) Turbine eﬃciency of the baseline and
+selected optimized conﬁgurations in function of the
+amplitude of the inlet total pressure oscillations.
+
+Table 2
+Total pressure loss of the stator and rotor of the baseline and unsteady-optimized
+proﬁle.
+1-P02 /P01
+
+steady state
+A=15%
+A=37.5%
+
+1-P03R /P02R
+
+baseline
+
+unsteady-optimized
+
+baseline
+
+unsteady-optimized
+
+11.6%
+12.7%
+15.5%
+
+4.5%
+5.2%
+8.8%
+
+7.6%
+6.7%
+8.1%
+
+5.2%
+5.6%
+7.8%
+
+selected for the steady-optimized proﬁle while proﬁle 2 from Fig 8a
+was chosen for the unsteady-optimized proﬁle. In all sections, the degree of reaction was evaluated using Eq. (11). For the unsteady calculation, the static and total enthalpy were ﬁrst massﬂow averaged at
+each plane and then time averaged. Under the large amplitude ﬂuctuating condition (A=37.5%), the degree of reaction for the baseline
+is 0.27, increases to 0.36 for the steady-optimized turbine (proﬁle 3,
+Fig. 6), and increases to 0.29 for the unsteady-optimized turbine (proP
+ﬁle 2, Fig. 8a). Table 2 lists the total pressure loss of the stator (1 − P02 )
+01
+
+P
+
+and rotor (1 − P03R ), evaluated for selected proﬁles at steady and full
+02R
+
+unsteady simulations. With increasing inlet ﬂuctuation amplitude, the
+vane and rotor total pressure losses increase, due to appearance of unsteady recirculation regions. The endwall optimization provides an improvement in the vane performance and the improvement in the vane
+is remarkably higher than in the rotor. Additionally, preliminary unsteady evaluations indicate that diﬀuser loss may be 30% depending on
+ﬂow speed and damping. Hence, there is a need for a well-designed upstream diﬀuser that reduces the ﬂow ﬂuctuations. Fig. 10a depicts the
+mid-span relative Mach contour of the steady-optimized turbine (pro-
+
+ﬁle 3, Fig. 6) during one period of the inlet ﬂuctuations and turbine
+eﬃciencies are plotted in Fig. 10b. The steady-optimized turbine (proﬁle 3, Fig. 6) outperforms the baseline (by 10 percentage-points) and
+unsteady-optimized turbine (by 0.4 percentage-point) when operating
+at steady state. However, under pulsating conditions, the full unsteady
+assessment demonstrates that the unsteady-optimized turbine (proﬁle 2,
+Fig. 8a) outperforms the baseline and steady-optimized turbine (proﬁle
+3, Fig. 6) by up to 13 percentage-points. The deviation in terms of turbine eﬃciency between the full unsteady analysis and the mixing plane
+approach was 4.4 percentage-points, which demonstrates the validity of
+using the mixing plane approach for the unsteady optimization.
+𝑅=
+
+ℎ2 − ℎ3
+ℎ01 − ℎ03
+
+(11)
+
+3.4. Thermal powerplant analysis
+To assess the beneﬁts of rotating detonation engines with the
+retroﬁtted turbine, the engine core of several engine conﬁgurations were
+analyzed via an engine model with T-MATS [46]. T-MATS is a NASA developed open source toolkit to model thermodynamic systems such as
+engines and turbomachinery components. Three diﬀerent components
+of the engine core were implemented. A compressor, which requires a
+compression ratio (Π) and eﬃciency (𝜂 is ) as input, the RDC and the turbine. The triangles in Fig. 11 depict the pressure gain (P0,outle t /P0,inlet -1)
+of the rotating detonation combustor for several overall compression ratios for stoichiometric fuel-air mixture, calculated with a reduced order
+model [15] (veriﬁed through 2D URANS simulations). This RDC model
+is based on Cantera (open-source chemical kinetics library) to model the
+detonation properties across the shock and a method of characteristics
+to model the expansion region downstream of the shock. The model pro-
+
+Z. Liu, J. Braun and G. Paniagua
+
+International Journal of Mechanical Sciences 188 (2020) 105918
+
+Fig. 11. Pressure gain and cycle eﬃciency for several engine cores.
+
+vides the unsteady RDC outlet and the mass-ﬂow averaged values. The
+diﬀuser, mentioned in Section 2.5, is modeled with a 30% total pressure
+loss. The last component is the high-pressure turbine which in contrast
+to supersonic turbines [1], has an outlet Mach number of 0.36.
+Fig. 11 details the thermal eﬃciency (
+
+(ṁ 0 +ṁ 5 )V25 −ṁ 0 V20
+2ṁ f Ql
+
+) of the engine
+
+core for a turbojet application in function of the overall compression
+ratio for several engine layouts. This engine core is evaluated with two
+diﬀerent turbines: a turbine with an eﬃciency of 86.3%, proﬁle 2 in
+Fig. 8a with 25% mean-to-max amplitude; and a second one with an
+eﬃciency of 76%, the baseline proﬁle with 25% mean-to-max amplitude. At low pressure ratios, beneﬁts are almost 10 percentage-points.
+At intermediate compression ratios, the turbine eﬃciency becomes increasingly important.
+Let us consider as baseline engine the Rolls-Royce M250-C20B series,
+a turboshaft for helicopters. The overall pressure ratio is 7.2:1 an airﬂow
+rate of 1.8 kg/s. At this pressure ratio, the pressure gain is 0.62 (Fig. 11).
+The required compressor pressure ratio can be reduced to 6.35 to deliver
+the same work to the low pressure turbine. According to (Eq. (12)) the
+compressor power demand can therefore be reduced by up to 8% compared to the deﬂagration engine implying a similar reduction in fuel
+consumption.
+( γ−1
+)
+T0, inlet
+compressor power ∼ ṁ cp
+Π γ −1
+(12)
+ηc
+
+tion. In a ﬁrst step, the baseline proﬁle is optimized for a steady inlet
+using 3D RANS simulations. An eﬃciency increase of 12.5% is obtained
+with reduced ﬂow separation and total pressure loss, compared to the
+baseline geometry. The critical design parameters are identiﬁed and fed
+to the second optimization step in which the turbine inlet is submitted to large amplitude ﬂuctuations from a diﬀuser. The endwall proﬁles
+are further optimized by solving the 3D URANS equations and a mixing
+plane method. An eﬃciency increase of 21.4% is achieved compared to
+the baseline. Finally, full unsteady simulations, which account for the
+fully resolved stator-rotor interactions, are carried out on selected optimized proﬁles and demonstrated that the unsteady-optimized proﬁle
+outperforms the baseline design by up to 13 percentage-points. In contrast to the baseline turbine, where the stator passage acts as a divergingconverging channel, the diﬀusion is initiated upstream of the stator for
+the optimized proﬁles resulting in a converging channel along the stator
+passage so that ﬂow turning can be maximized without separating the
+ﬂow.
+Declaration of Competing Interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂuence
+the work reported in this paper.
+
+This lower demand in compressor power could lead to overall
+smaller and lighter components and additionally the eﬃciency of the
+compressor and high-pressure turbine can be improved. Finally, lower
+compression ratios across the compressor could also further boost pressure gains due to a decrease in total temperature at the inlet of the
+combustor.
+
+CRediT authorship contribution statement
+
+4. Conclusions
+
+Acknowledgements
+
+This article presents a comprehensive study to upgrade current thermal power plants based on deﬂagration combustion to a pressure gain
+combustion system. Speciﬁcally, a novel design method is proposed to
+increase the turbine eﬃciency downstream of pressure gain combustors
+with a short diﬀuser. The performance beneﬁts of adapting the current
+thermal power plants to a conﬁguration based on an RDC, diﬀuser, and
+optimized turbine are demonstrated through an engine model of the
+upgraded power plant, which yielded an increase of thermal eﬃciency
+almost 10 percentage-points at low pressure ratios and power reduction
+of the compressor for a turboshaft by 8%.
+The baseline turbine exhibits ﬂow separation near the endwalls,
+hence the turbine endwalls should be optimized while ensuring that
+the turbine passage is started. Inspired by this challenge, we propose
+a multi-step optimization approach that allows the retroﬁt of a turbine,
+without altering the shape of the turbine airfoil and only changing the
+end-wall proﬁle, with the turbine eﬃciency as primary objective func-
+
+This material is based upon work supported by the U.S. Department
+of Energy under Award Number DE-FE0023983 (Aerojet Rocketdyne
+Log Number 077-17). The authors would like to acknowledge the US
+Department of Energy for the part-time faculty appointment of Prof. Paniagua to the Faculty Research Participation Program at the National
+Energy Technology Laboratory. The authors wish to acknowledge the
+Belgian American Educational Foundation for the ﬁnancial support of
+James Braun as well as the support in part by an appointment to the National Energy Technology Laboratory Research Participation Program,
+sponsored by the U.S. Department of Energy and administered by the
+Oak Ridge Institute for Science and Education. The authors would like
+to thank Valeria Andreoli for her help with the engine model simulations and Paht Juangphanich for his help with turbine parametrization
+and Dr. Ferguson for the fruitful discussions on the overall power plant
+integration. Part of this material was presented at the 2018 Propulsion
+and Energy Forum and Exposition.
+
+Zhe Liu: Formal analysis, Investigation, Writing - original draft.
+James Braun: Methodology, Investigation, Writing - original draft.
+Guillermo Paniagua: Supervision, Conceptualization, Methodology,
+Writing - original draft.
+
+Z. Liu, J. Braun and G. Paniagua
+
+International Journal of Mechanical Sciences 188 (2020) 105918
+
+Table 3
+Sutherland law parameters for viscosity and thermal conductivity of air.
+
+Air
+
+Tref
+
+𝜎 viscosity,ref
+
+Cte viscosity
+
+kref
+
+Cte thermal conducitvity
+
+273.11
+
+1.716e−5
+
+111.0
+
+0.0241
+
+194.0
+
+Annex. Governing equations, constitutive equations and gas
+thermodynamic properties
+(
+)
+(
+)
+(
+)
+𝜕 F2 + G2
+𝜕 F3 + G3
+𝜕Q 𝜕 F1 + G1
++
++
++
+= ̇S
+𝜕t
+𝜕x
+𝜕y
+𝜕z
+
+(13)
+
+Q describes the dependent variable vector, F the inviscid ﬂux vectors,
+and G the viscous ﬂux vector:
+⎛ 𝑒 ⎞
+⎛𝑢(e + p)⎞
+⎛𝑣(e + p)⎞
+⎛𝑤(e + p)⎞
+⎜𝜌⎟
+⎜ 𝜌𝑢 ⎟
+⎜ 𝜌𝑣 ⎟
+⎜ 𝜌𝑤 ⎟
+⎜ ⎟
+⎜ 2
+⎟
+⎜
+⎟
+⎜
+⎟
+Q = ⎜ 𝜌𝑢 ⎟F1 = ⎜ 𝜌u + 𝑝 ⎟ F2 = ⎜ 𝜌𝑢𝑣 ⎟ F3 = ⎜ 𝜌𝑢𝑤 ⎟
+⎜ 𝜌𝑣 ⎟
+⎜ 𝜌𝑣𝑢 ⎟
+⎜ 𝜌v2 + 𝑝 ⎟
+⎜ 𝜌𝑣𝑤 ⎟
+⎜ ⎟
+⎜
+⎟
+⎜
+⎟
+⎜ 2
+⎟
+⎝𝜌𝑤⎠
+⎝ 𝜌𝑤𝑢 ⎠
+⎝ 𝜌𝑤𝑣 ⎠
+⎝ 𝜌w + 𝑝 ⎠
+
+(14)
+
+⎛q̇ x − 𝑢τxx − 𝑣τxy − 𝑤τxz ⎞
+⎛q̇ y − 𝑢τyz − 𝑣τyy − 𝑤τyz ⎞
+⎜
+⎟
+⎜
+⎟
+0
+0
+⎜
+⎟
+⎜
+⎟
+−τyx
+G1 = ⎜
+−τxx
+⎟G2 = ⎜
+⎟G3
+⎜
+⎟
+⎜
+⎟
+−τxy
+−τyy
+⎜
+⎟
+⎜
+⎟
+−τxz
+−τyz
+⎝
+⎠
+⎝
+⎠
+⎛q̇ z − 𝑢τzx − 𝑣τzy − 𝑤τzz ⎞
+⎜
+⎟
+0
+⎜
+⎟
+=⎜
+−τzx
+⎟
+⎜
+⎟
+−τzy
+⎜
+⎟
+−τzz
+⎝
+⎠
+
+(15)
+
+𝝉 represents the shear stress vector, q the heat ﬂux vector and ̄km the
+thermal conductivity:
+𝜕v
+txx = 2 ̄μm 𝜕u
+− 2 ̄μm ∅, tyy = 2 ̄μm 𝜕y
+− 23 ̄μm ∅, tzz = 2 ̄μm 𝜕w
+− 23 ̄μm ∅, txy = tyx
+𝜕z
+( 𝜕x 3 )
+𝜕u
+= ̄μm 𝜕y
++ 𝜕v
+( 𝜕x
+)
+(
+)
+𝜕w
+𝜕w
+𝜕v
++
+t
+=
+t
+=
+μ
+̄
++
+,
+,∅
+txz = tzx = ̄μm 𝜕u
+yz
+zy
+m
+𝜕z
+𝜕y
+𝜕z
+(
+)𝜕x
+𝜕v
+𝜕w
+𝜕T
+̄
+̇
+q
+,
++
++
+=
+−
+k
+= 𝜕u
+x
+m 𝜕x
+𝜕x
+𝜕y
+𝜕z
+q̇ y = −̄km 𝜕T , q̇ z = −̄km 𝜕T
+𝜕y
+
+𝜕z
+
+(16)
+The thermodynamic properties were evaluated based on a real gas
+model with a temperature-dependent coeﬃcient polynomial for working ﬂuid with the coeﬃcients found in Bride et al. [47]. The Sutherland
+Law was used for the viscosity calculations. Table 3 lists the values of
+temperature-dependent parameters for air.
+References
+[1] Sousa J, Paniagua G, Morata E. Thermodynamic analysis of a gas turbine
+engine with a rotating detonation combustor. Appl Energy 2017;195:247–56.
+doi:10.1016/j.apenergy.2017.03.045.
+[2] Heiser W, Pratt D. Thermodynamic cycle analysis of pulse detonation engines. J
+Propul Power 2002;18(1):68–76. doi:10.2514/2.5899.
+[3] Alshammari F, Usman M, Pesyridis A. Expanders for organic rankine cycle technology. IntechOpen 2018. doi:10.5772/intechopen.78720.
+[4] Alshammari F, Pesyridis A. Experimental study of organic Rankine cycle system
+and expander performance for heavy-duty diesel engine. Energy Convers Manage
+2019;199:111998. doi:10.1016/j.enconman.2019.111998.
+[5] Alshammari F, Kontakiotis AK, Pesyridis A, Alatawi I. Design and
+study of back-swept high pressure ratio radial turbo-expander in automotive organic Rankine cycles. Appl Therm Eng 2020;164:114549.
+doi:10.1016/j.applthermaleng.2019.114549.
+[6] Xisto C, Petit O, Gronstedt T, Rolt A, Lundbladh A, Paniagua G. The eﬃciency of a
+pulse detonation combustor-axial turbine integration. Aerosp Sci Technol 2018;8283:80–91. doi:10.1016/j.ast.2018.08.038.
+[7] Anand V, St George A, Knight E, Gutmark E. Investigation of pulse detonation combustors-axial turbine system. Aerosp Sci Technol 2019;93:105350.
+doi:10.1016/j.ast.2019.105350.
+
+[8] Anand V, Gutmark E. Rotating detonation combustors and their similarities to rocket instabilities. Prog Energy Combust Sci 2019;73:184–234.
+doi:10.1016/j.pecs.2019.04.001.
+[9] Schwer D, Kailasanath K. Numerical investigation of the physics of
+rotating-detonation-engines.
+Proc
+Combust
+Inst
+2011;33(2):2195–202.
+doi:10.1016/j.proci.2010.07.050.
+[10] Frolov S, Dubrovskii A, Ivanov V. Three-dimensional numerical simulation of operation process in rotating detonation engine. Proc Progr Propul Phys 2013;4:467–88.
+doi:10.1051/eucass/201304467.
+[11] Meng Q, Zhao N, Zheng H, Yang J, Qi L. Numerical investigation of the eﬀect of inlet
+mass ﬂow rates on H2 /air non-premixed rotating detonation wave. Int J Hydrogen
+Energy 2018;43(29):13618–31. doi:10.1016/j.ijhydene.2018.05.115.
+[12] Bohon MD, Bluemner R, Paschereit CO, Gutmark E. High-speed imaging of wave modes in an RDC. Exp Therm Fluid Sci 2019;102:28–37.
+doi:10.1016/j.expthermﬂusci.2018.10.031.
+[13] Zhou R, Wang JP. Numerical investigation of shock wave reﬂections near the
+head ends of rotating detonation engines. Shock Waves 2013;23(5):461–72.
+doi:10.1007/s00193-013-0440-0.
+[14] Kawasaki A, Inakawa T, Kasahara J, Goto K, Matsuoka K, Matsuo A, et al. Critical condition of inner cylinder radius for sustaining rotating detonation waves
+in rotating detonation engine thruster. Proc Combust Inst 2019;37(3):3461–9.
+doi:10.1016/j.proci.2018.07.070.
+[15] Sousa J, Braun J, Paniagua G. Development of a fast evaluation tool
+for rotating detonation combustors. Appl Math Modell 2017;52:42–52.
+doi:10.1016/j.apm.2017.07.019.
+[16] Fievisohn RT, Yu KH. Steady-state analysis of rotating detonation engine ﬂowﬁelds with the method of characteristics. J Propul Power 2016;33(1):89–99.
+doi:10.2514/1.B36103.
+[17] Kaemming T, Fotia ML, Hoke J, Schauer F. Thermodynamic modeling of a rotating detonation engine through a reduced-order approach. J Propul Power
+2017;33(5):1170–8. doi:10.2514/1.B36237.
+[18] Mizener AR, Lu FK, Rodi PE. Performance sensitivities of rotating detonation engines installed onto Waverider Forebodies. J Propul Power 2019;35(2):289–302.
+doi:10.2514/1.B37033.
+[19] Najagami S, Matsuoka K, Kasahara J, Kumazawa Y, Fujii J, Matsuo A, et al. Experimental visualization of the structure of rotating detonation waves in a disk-shaped
+combustor. J Propul Power 2017;33(1):80–8. doi:10.2514/1.B36084.
+[20] Anand V, St George A, Farbos de Luzan C, Gutmark E. Rotating detonation wave
+mechanics through ethylene-air mixtures in hollow combustors, and implications
+to high frequency combustion instabilities. Exp Therm Fluid Sci 2018;92:314–25.
+doi:10.1016/j.expthermﬂusci.2017.12.004.
+[21] Goto K, Nishimura J, Kawasaki A, Matsuoka K, Kasahara J, Matsuo A, et al. Propulsive performance and heating environment of rotating detonation engine with various nozzles. J Propul Power 2018;35(1):213–23. doi:10.2514/1.B37196.
+[22] Braun J, Saracoglu B, Paniagua G. Unsteady performance of rotating detonation engines with diﬀerent exhaust nozzles. J Propul Power 2016;33(1):121–30.
+doi:10.2514/1.B36164.
+[23] Paniagua G, Lorio M, Vinha N, Sousa J. Design and analysis of pioneering high supersonic axial turbines. Int J Mech Sci 2014;89:65–77.
+doi:10.1016/j.ijmecsci.2014.08.014.
+[24] Sousa J, Paniagua G. Entropy minimization design approach of supersonic internal
+passages. Entropy 2015;17:5593–610. doi:10.3390/e17085593.
+[25] Liu Z, Braun J, Paniagua G. Characterization of a supersonic turbine downstream of
+a rotating detonation combustor. J Eng Gas Turbines Power 2019;141(3):031501.
+doi:10.1115/1.4040815.
+[26] Liu Z, Braun J, Paniagua G. Integration of a transonic high-pressure turbine with a
+rotating detonation combustor and a diﬀuser. Int J Turbo Jet Engines 2020 Accepted
+Manuscript. doi:10.1515/tjeng-2020-0016.
+[27] Fernelius M, Gorrell S, Hoke J, Schauer F. Eﬀect of periodic pressure pulses on axial turbine performance. In: Proceedings of the 49th
+AIAA/ASME/SAE/ASEE Joint Propulsion Conference, July 14-17, San Jose,
+CA; 2013. https://doi.org/10.2514/6.2013-3687.
+[28] Fernelius H, Gorrell E. Mapping eﬃciency of a pulsing ﬂow driven turbine. J Fluid
+Eng 2020 Accepted Manuscript. doi:10.1115/1.4045993.
+[29] Naples A, Hoke J, Battelle R, Schauer F. T63 turbine response to rotating detonation combustor exhaust ﬂow. J Eng Gas Turbines Power 2019;141(2):021029.
+doi:10.1115/1.4041135.
+[30] Paniagua G, Yasa T, de la Loma A, Castillon L, Coton T. Unsteady strong shocks
+interactions in a transonic turbine: experimental and numerical analysis”. J Propul
+Power 2008;24(4):722–31. doi:10.2514/1.34774.
+[31] Yasa T, Paniagua G, Bussolin A. Performance analysis of a transonic highpressure turbine. Proc Inst Mech Eng Part A J Power Energy 2007;221(6):769–78.
+doi:10.1243/09576509JPE467.
+[32] Liu Z, Braun J, Paniagua G. Three dimensional optimization for subsonic axial turbines operating at high unsteady inlet mach number. Propulsion & Energy Forum.
+July 9-11, Cincinnati, OH; 2018. doi:102514/62018-4480.
+[33] Juangphanich P, Maesschalck CD, Paniagua G. Turbine passage design methodology to minimize entropy production-a two-step optimization strategy. Entropy
+2019;21(6):604. doi:10.3390/e21060604.
+[34] Verstraete T, Alsalihi Z, Van den Braembussche R. Multidisciplinary optimization of a radial compressor for microgas turbine applications. J Turbomach
+2010;132(3):031004. doi:10.1115/1.3144162.
+[35] Denos R, Arts T, Paniagua G, Michelassi V, Martelli F. Investigation of the unsteady
+rotor aerodynamics in a transonic turbine stage. J Turbomach 2001;123(1):81–9.
+doi:10.1115/1.1314607.
+
+Z. Liu, J. Braun and G. Paniagua
+[36] Sieverding C, Arts T, Denos R, Martelli F. Investigation of the ﬂow ﬁeld downstream
+of a turbine trailing edge cooled nozzle guide vane. J Turbomach 1996;118:291–
+300. doi:10.1115/1.2836639.
+[37] Montgomery D. Design and analysis of experiments, New York: John Wiley and Sons;
+1997. ISBN: 978-1118146927.
+[38] Deb K. A fast and elitist multiobjective genetic algorithm: NSGA-II. IEEE Trans Evol
+Comput 2002;6(3):182–97. doi:10.1109/4235.996017.
+[39] Chakravarthy S, Peroomian O, Goldberg U, Palaniswamy S. The CFD++ computational ﬂuid dynamics software suite. AIAA and SAE. World Aviation Conference
+Anaheim, CA; 1998. doi:102514/61998-5564.
+[40] Braun J, Paniagua G, Falempin F, Le Naour B. Design and experimental assessment
+of bladeless turbines for axial inlet supersonic ﬂows. J. Eng. Gas Turbines Power
+2020;142(4):041024. doi:10.1115/1.2720504. https://asmedigitalcollection.asme.
+org/gasturbinespower/article/142/4/041024/1066208/Design-and-ExperimentalAssessment-of-Bladeless.
+[41] Clark JP, Grover EA. Assessing convergence in predictions of periodic-unsteady ﬂowﬁelds. J Turbomach 2007;129(4):740–9. doi:10.1115/1.2720504.
+
+International Journal of Mechanical Sciences 188 (2020) 105918
+[42] https://www.rcac.purdue.edu/compute/rice/
+[43] Bykovskii FA, Zhdan SA, Vedernikov EF. Continuous spin detonation. J Propul Power
+2006;22(6):1204–16. doi:10.2514/1.17656.
+[44] Roy A, Bedick CR, Ferguson DH, Sidwell T, Strakey PA. Investigating instabilities in a rotating detonation combustor operating with natural gas–
+hydrogen fuel blend—eﬀect of air preheat and annulus width. ASME J
+Eng Gas Turb Power 2019;141(October (11)):111017. November 2019
+https://doi-org.ezproxy.lib.purdue.edu/10.1115/1.4044980 .
+[45] Bykovskii FA, Zhdan SA, Vedernikov EF, Samsonov AN. Scaling factor in continuous spin detonation of syngas-air mixtures. Combust Explos Shock Waves
+2017;53(2):187–98. doi:10.1134/S0010508217020095.
+[46] Chapman J., Lavelle T., May R., Litt J., Guo T. Toolbox for the modeling and analysis
+of thermodynamic systems (T-MATS) user’s guide. 2014; NASA/TM-2014-216638
+[47] McBride BJ, Gordon S, Reno M. Thermodynamic data for ﬁfty reference elements. NASA Technical Memorandum 3287/REV1; 2001.
+https://www.grc.nasa.gov/www/CEAWeb/TP-3287-REV1.pdf.
+
+
+
+## Metadata
+- Source file: junk_drawer/thermalpowerplant.pdf
+- Extracted: 2026-05-18
+- Category: other

@@ -1,0 +1,536 @@
+# Elastic deformation.pdf
+
+Source: junk_drawer/Elastic deformation.pdf
+
+Category: [[academic-lab]]
+
+## Summary
+MSE 380: Microstructure of Organic Materials Module 3: Mechanical Properties of Polymers 1 Objectives: By the end of the module, we should: i) Explain stress-strain responses of different polymeric materials
+
+## Full Content
+MSE 380: Microstructure of Organic Materials
+
+Module 3:
+Mechanical Properties of Polymers
+
+1
+
+Objectives:
+By the end of the module, we should:
+i) Explain stress-strain responses of different polymeric materials
+including block polymers (solids)
+ii) Be able to demonstrate why chain or fiber alignment induces
+anisotropy in mechanical behavior of a material
+iii) Estimate the chain-direction Young’s modulus of a polymer based
+on its crystal structure and IR/Raman spectra
+iv) Extend our approaches to modelling complex polymer systems
+v) Understand how E changes with T over multiple polymer classes
+vi) Relate elasticity to thermodynamics
+
+2
+
+Start with the Polymer Chains
+• We observed that the properties of the polymer
+depend on its thermal/processing history
+• Why is this important (who cares)?
+• Induces anisotropy in polymeric materials
+• How does this affect stress-strain responses?
+
+Warm >Tg
+& cool
+rapidly
+
+3
+
+Example: Interaction with Light
+• Suppose polymer chains are aligned along the Z-axis, what
+happens when plane polarized light is passed through the polymer
+in the y-direction?
+• Refractive indices perpendicular, n⊥, or parallel, n∥, are different.
+• For most polymers n∥> n⊥. The difference is birefringence (Dn).
+Dn = n∥ - n⊥
+• Orientation factor, f, and birefringence, Dn, are related by;
+∆𝑛 = ∆𝑛! 𝑓
+• ∆𝑛! is the birefringence when all molecules are perfectly aligned
+and is specific to any particular chemical structure
+
+4
+
+Recall: Polymers reptate in the solid state
+1. Rouse-Bueche Theory:
+
+•
+
+We have the beads, so;
+• Adopting this model, can we use Hooke’s law to understand
+the mechanical properties of polymer?
+
+2. De Gennes Theory:
+
+•
+
+Propagation of defect currents induce reptation (movement in the solid state)
+•
+•
+
+This would imply that the polymers ‘flow’
+Should we then consider them Newtonian?
+
+P. E. Rouse, J. Chem. Phys., 21, 1272 (1953).; F. Bueche, J. Chem. Phys., 22, 1570 (1954).; W. L. Peticolas, Rubber Chem. Tech., 36, 1422 (1963). M. Tirrell,
+Rubber Chem. Tech., 57, 523 (1984).; M. Doi and S. F. Edwards, J. Chem. Soc. Faraday Trans. 2, 74, 1789, 1802, 1818 (1978); 75, 38 (1979).
+
+6
+
+Mechanical Properties of Polymers
+i) Stress
+ii) Strain
+iii) Molecular basis
+
+7
+
+Hooke’s Law
+• Hooke’s law of springs:
+
+• Δx = change in spring length
+
+• Many materials respond in a linear elastic
+way under small load
+when load is taken off, materials “coils”
+back (elastic change)
+the “response” and load are linearly related
+
+•
+•
+
+8
+
+Stress
+• Forces can be applied on a body in two ways;
+• Body forces – act on all atoms/molecules of a body e.g. gravity, inertia
+• Surface/contact forces –act on the surface of the body but their effect is
+transmitted to atoms/molecules through bonds e.g. pressure, stress
+• For analytical purposes, consider the body as a macro-scale continuum but
+remember response is at the atomic/molecular level.
+• Apply a force, F, on an area, A
+• Stress is force/area
+
+The units of stress are:
+force/area = 1 N/m2 = 1 Pa
+N = mass times acceleration = kg m/s2
+Most often expressed in MPa (106 Pa) and GPa (109 Pa)
+
+The unit of energy/volume = J/m3 = (N m)/m3 = N/m2 = Pa.
+
+9
+
+Normal Stress
+• Tension:
+
+• Compression:
+
+F
+F
+
+F
+
+A o = cross sectional
+area (when unloaded)
+
+s
+
+s
+
+10
+
+Shear Stress
+
+• Shear:
+
+11
+
+Stress
+• Consider a body as a macro-scale
+continuum whose response to force is
+directional (due to order)
+• Let’s consider a cube (a simple
+system)
+• Each force is divided by the area on
+which it acts (recall; s=F/A), then
+resolved into components parallel to
+the 3 coordinates
+
+• This gives nine components of stress
+12
+
+Stress notation
+• The first subscript = normal to the plane on which the stress acts
+• Second subscript = direction of the stress
+•
+
+𝜎!! , 𝜎"" , 𝜎## , are the normal stresses i.e ⊥ to the surface they are acting on.
+
+All others are shear stresses
+
+x-axis => 1, y-axis => 2, z-axis => 3
+
+𝜎##
+𝜎!" = 𝜎$#
+𝜎%#
+
+𝜎#$
+𝜎$$
+𝜎%$
+
+𝜎#%
+𝜎$%
+𝜎%%
+13
+
+But the object is not rotating:
+• A body under stress is considered
+not to be under a torque (i.e. not
+rotating)
+• Therefore, the stress tensor must be
+symmetric, i.e.,
+i.e. s12 = s21, s23 = s32, s13 = s31
+• This reduces the stress tensor to 6 independent stress
+components
+
+𝜎$$
+𝜎"# = 𝜎%$
+𝜎&$
+
+𝜎$%
+𝜎%%
+𝜎&%
+
+𝜎$&
+𝜎$$
+𝜎%& = 𝜎%$
+𝜎&&
+𝜎&$
+
+𝜎%$
+𝜎%%
+𝜎&%
+
+𝜎&$
+𝜎&%
+𝜎&&
+
+14
+
+Stress in polymeric materials
+• When considering polymers, stress tensor is divided into
+Hydrostatic pressure, p
+Deviatoric components, 𝜎!",
+
+•
+•
+
+• Hydrostatic pressure (only longitudinal stresses, are all the same) is given by;
+1
+𝑝 = 𝜎$$ + 𝜎%% + 𝜎&&
+3
+• Deviatoric (stress-p) stress tensor is given by;
+𝜎!", =
+
+𝜎$$ − 𝑝
+𝜎%$
+𝜎&$
+
+𝜎$%
+𝜎%% − 𝑝
+𝜎&%
+
+σ′ = σ − σHydrostat
+
+𝜎$&
+𝜎%&
+𝜎&& − 𝑝
+
+15
+
+Why ”hydrostatic” pressure?
+
+16
+
+Strains
+• Consider a macroscopic rod of material:
+
+• Initially its length is
+• Suppose that under load
+• Its new length is
+• The strain is defined as the fractional change in length
+a dimensionless number
+17
+
+Strain
+•
+•
+
+When a force is applied to a material, atoms change position wrt the force = strain
+Consider a small rod of length, l, extended by dl. The strain is;
+𝛿𝑙
+𝑒=
+𝑙
+
+•
+
+The general strain tensor, eij, is expressed as a sum of an anti-symmetrical and a
+symmetrical tensor, i.e.
+
+or simply;
+
+1
+1
+𝑒$% =
+𝑒 − 𝑒%$ + 𝑒$% + 𝑒%$
+2 $%
+2
+𝑒$% = 𝜔$% + 𝜀$%
+
+where; 𝜔$% = rotational strain, 𝜀$% = pure strain
+•
+
+The strain tensor, 𝑒$% , can be extended over 3D – i.e. into 9 components (recall the
+stress tensor matrix)
+18
+
+Strain in 3D
+•
+
+Given that pure strain is;
+
+•
+
+Then, the matrix can be extended to;
+𝜀""
+𝜀#"
+𝜀$"
+
+𝜀"#
+𝜀##
+𝜀$#
+
+1
+𝜀$% = 𝑒$% + 𝑒%$
+2
+
+𝑒""
+
+𝜀"$
+1
+𝜀#$ =
+𝑒#" + 𝑒"#
+2
+𝜀$$
+1
+𝑒 + 𝑒"$
+2 $"
+
+1
+𝑒 + 𝑒#"
+2 "#
+𝑒##
+1
+𝑒 + 𝑒#$
+2 $#
+
+1
+𝑒 + 𝑒$"
+2 "$
+1
+𝑒 + 𝑒$#
+2 #$
+𝑒$$
+
+•
+
+But 𝜀!" =𝜀"! , 𝜀"# =𝜀#" , and 𝜀!# =𝜀#! , hence like the stress tensor, sij, the pure
+strain tensor, eij, has only 6 unique components
+
+•
+
+Diagonal components correspond to tensile strain, while off-diagonal ones are the
+shear strain.
+21
+
+Stress-strain relations
+•
+
+For very small strains, stress and strain are
+linearly proportional.
+
+•
+
+For longitudinal strain, the proportionality
+constant is, E, (Young’s modulus)
+𝝈 = 𝑬𝜺
+
+•
+
+For shear strain, the proportionality constant
+is, G, (Shear modulus)
+𝜎$% = 2𝐺𝜀$%
+
+•
+
+Note: we used sij and eij to denote stress and strain, but shear strain is sometimes
+defined as gij (i.e. ‘Engineering strain’) such that;
+𝛾$% = 2𝜀$%
+hence, shear strain can be expressed as;
+𝜏$% = 𝐺𝛾$%
+NB: I expect you keep track of where strain is abbreviated as gij or εij
+
+22
+
+Engineering Strain
+• Tensile strain (εz):
+
+• Lateral strain (εx):
+Δl/2
+
+Δl
+εz =
+lo
+
+do
+
+lo
+
+ε x = Δd
+d0
+
+Δd/2
+• Shear strain (γ):
+
+θ
+Dx
+y
+
+γ = Δx/y = tan θ
+Both tensile and shear strain
+are dimensionless
+23
+
+Why 𝛾#$ = 2𝜀#$ ?
+
+24
+
+Stress-Strain Behavior
+• How can we relate these to the modulus?
+
+25
+
+Bulk constants from Hooke’s law
+Generalized Hooke’s law:
+
+𝜎** = 𝐴𝜀** + 𝐵𝜀++ + 𝐶𝜀,, + 𝐷𝜀*+ + ⋯
+𝜎++ = 𝐴′𝜀** + 𝐵′𝜀++ + 𝐶′𝜀,, + 𝐷′𝜀*+ + ⋯
+A, A’, B, B’, … are stiffness constants. Subsequently expressed with
+contracted notation in tensor form
+
+𝜎-. = 𝑐-. 𝜀-.
+Full derivation in textbook (chapter 19.2)
+
+26
+
+Bulk constants from Hooke’s law
+NB: Applies only to elastically isotropic solids
+• Glassy polymers
+• Randomly oriented semi-crystalline polymers
+Only 2 independent elastic constants:
+
+Full derivation in textbook (chapter 19.2)
+
+𝑐** and 𝑐*+
+
+27
+
+Bulk constants from Hooke’s law
+NB: Applies only to elastically isotropic solids
+• Glassy polymers
+• Randomly oriented semi-crystalline polymers
+Only 2 independent elastic constants:
+
+2𝑐// = 𝑐** − 𝑐*+
+
+𝑐** and 𝑐*+
+𝑐"# represents the coupling between
+normal stresses and normal strains
+in perpendicular directions
+
+𝑐&& is easy to interpret:
+
+𝐺 = 𝑐//
+
+do
+Full derivation in textbook (chapter 19.2)
+
+28
+
+Bulk constants from Hooke’s law
+NB: Applies only to elastically isotropic solids
+• Glassy polymers
+• Randomly oriented semi-crystalline polymers
+We can express all bulk constants (G, K, E, 𝜈)
+in terms of 𝑐&& and 𝑐!" .
+
+Full derivation in textbook (chapter 19.2)
+
+29
+
+Bulk constants from Hooke’s law
+NB: Applies only to elastically isotropic solids
+• Glassy polymers
+• Randomly oriented semi-crystalline polymers
+We can express all bulk constants (G, K, E, 𝜈)
+in terms of 𝑐&& and 𝑐!" . And therefore relative to one another!
+For example:
+
+𝐸
+𝐺=
+2 1+𝜈
+
+Full derivation in textbook (chapter 19.2)
+
+𝐸
+𝐾=
+3 1 − 2𝜈
+
+30
+
+Elastic deformation of Polymers
+• E can be determined from the
+initial slope of these curves
+• Polymer fibers are anisotropic,
+hence, the need to consider
+directions. E‖ ~1011 and E⊥
+~109
+•
+
+~109 Pa
+
+Comparable to stee! (E ~ 1011
+
+~ 108–109 Pa
+
+Pa)
+~ 106–107 Pa
+
+So, how do we understand deformations in polymers?
+Ø Start with the polymer chains
+
+31
+
+Why is E‖ > E⊥ in polymer fibers?
+
+GROUP ACTIVITY!
+
+
+
+## Metadata
+- Source file: junk_drawer/Elastic deformation.pdf
+- Extracted: 2026-05-18
+- Category: academic-lab

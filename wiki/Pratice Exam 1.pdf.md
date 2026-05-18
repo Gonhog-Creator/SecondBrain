@@ -1,0 +1,181 @@
+# Pratice Exam 1.pdf
+
+Source: junk_drawer/Pratice Exam 1.pdf
+
+Category: [[academic-homework]]
+
+## Summary
+Name: ________________________________________ Instructor: ________________________________________ CHE 225 – Introduction to Chemical Engineering Analysis Test #1. Closed book – closed notes. Write all your answers in the provided paper. Begin each
+
+## Full Content
+Name:
+
+________________________________________
+
+Instructor:
+
+________________________________________
+
+CHE 225 – Introduction to Chemical Engineering Analysis
+Test #1. Closed book – closed notes. Write all your answers in the provided paper. Begin each
+numbered problem on a new page, show all your work, and box your final numerical answers.
+Only write your answers on the front of each page and start each problem on a fresh page.
+HONOR PLEDGE: “I have neither given nor received unauthorized aid on this test. I will not discuss
+the exam with anyone until after 5 pm on Friday, February 8, 20xx.”
+__________________________________________________________________________
+Your name (printed)
+__________________________________________________________________________
+Your signature
+
+Problem 1: _______ / 23
+
+Problem 2: _______ / 27
+
+Problem 3: _______ / 25
+
+Problem 4: _______ / 25
+
+Total: ___________ / 100
+
+Problem 1 (23 points)
+A fuel gas containing 80 mole% of methane (CH4) and the balance of ethane (C2H6) is burned
+completely using 50% excess dry air (~79 mole% N2, ~21 mole% O2). Assume complete
+combustion.
+a) (5 points) Draw and label the complete flow chart.
+b) (5 points) Perform the degree of freedom analysis using either extent of reaction (EOR) or
+atomic balances.
+c) (5 points) Given your result in part b) do you have enough information to calculate the molar
+composition of the product gas? If yes, state why. If not, what information you need or can
+assume on your own?
+d) (8 points) Write down all balance equations you need to calculate the molar composition of
+the product gas. Do not solve.
+
+Problem 2 (27 points)
+Linearization is a useful strategy to fit nonlinear dependencies to a line. For each of the functions
+listed below,
+1) How would you plot the data to obtain a straight line?
+2) What is the slope and the intercept (both expressed in terms of the constants)?
+The variables on the left- and right-hand sides in the equations below represent the dependent and
+independent variables, respectively. The equations also contain some constants (those are noted in
+the assignment). The independent variable is to be plotted on the x-axis (i.e., abscissa) while the
+dependent variable will be displayed on the y-axis (i.e., ordinate). Equation a) is used as an
+example for the answer format. Complete your response for b) to g).
+a) y = ax2 + b.
+
+Answer: Plot y versus x2; slope = a, intercept = b.
+
+b) (4.5 points) y = a*√𝑥+b
+c) (4.5 points) q = a*exp(b*g)
+d) (4.5 points) w = (a*t2-b)1/3
+e) (4.5 points) sin (y) = x*(a*x+b)-2
+
+(a, b…constants)
+(a, b…constants)
+(a, b…constants)
+(a, b…constants)
+!
+
+f) (4.5 points) Boltzmann distribution, 𝑝 = 𝐴𝑒 ! "# , where k is the Boltzmann's constant, and A
+and E are constants.
+g) (4.5 points) Power-law fluid, Γ = 𝑘𝛾̇ # , where k and n are constants.
+Problem 3 (25 points)
+Least squares regression (without linearization) is to be used to estimate parameters K and a in
+equation (1),
+
+S=
+
+a[ L]initial
+K + [ L]initial
+
+(1)
+
+Use the experimental data shown in Figure 1 as a reference. Describe the steps you will carry out
+to obtain estimates of the parameters K and a in cells B15 and B16, respectively, using Solver in
+Excel.
+a) (10 points) Two new columns (column C and D) are needed in order to complete the least
+square process, as shown in Figure 1 (black box). What are the variables you will need to
+calculate in column C and D? What are the specific formulas you will enter in cell C2 and
+D2, respectively? Use cell ID (e.g., C2) instead of actual number (e.g., 17) for your formulas.
+For instance: C2=D2+3*$B$15 (note: this is only an example how to write the answer).
+b) (5 points) If you want to calculate your final least square in the Objective cell (D15), what
+would be the formula you will enter in D15?
+c) (10 points) Now you have opened the Solver user interface as shown in Figure 1. What
+would you enter in the “Set Objective” box (indicate cell ID)? What will be your
+computational goal, max, min, or value of __? What would you enter in the “By Changing
+Variable Cells” box (indicate cell ID)? Finally, which button would you hit to get the results?
+
+Figure 1: Finding K and a using Solver.
+
+Problem 4 (25 points)
+Consider the van der Waals equation of state:
+$ '
+
++𝑝 + 𝑎 .%& / 0 1𝑉3 − 𝑏6 = 𝑅𝑇
+
+(2)
+
+where p is pressure (atm), T is absolute temperature (K), V̂ is molecular volume, V/n (L/mol), R
+is the universal gas constant (L*atm/(mol*K)), and a, b are system-dependent constants.
+a) (5 points) What are the units of a and b in the above expression?
+b) (10 points) What is the expression of p = fxn(T), assuming that V̂ is constant? What would
+you plot on the ordinate (i.e., y-axis) and abscissa (i.e., x-axis), in order to linearize the
+expression to determine a and b? What is the slope? What is the intercept?
+c) (10 points) Assume that you are given T in °F and want to calculate p in Pa. How would
+you modify the expression of p = fxn(T), if the units of V̂ , R, a, and b remain the stated
+before?
+
+Unit conversions & constants
+Quantity
+
+Conversion
+7
+
+7
+
+Energy
+
+1 J = 1 Nm = 10 ergs = 10 dyne.cm = 2.778 x 10-7 kW.h
+
+Force
+
+1 N = 1 kg.m/s2 = 105 dyne (or g*m/s2)
+
+Length
+
+1 m = 100 cm = 39.37 in = 3.2808 ft
+
+Mass
+
+1 kg = 1000 g = 2.20462 lbm
+
+Power
+
+1 W = 1 J/s = 0.23901 cal/s
+
+Pressure
+
+1 atm = 1.01325 x 105 Pa (or N/m2) = 760 mm Hg = 14.696 lbf/in2 (or psi) =
+1.01325 bars
+
+Temperature
+
+T(K) = T(ºC)+273.15; T(ºF) = 1.8.T(ºC)+32
+
+Volume
+
+1 m3 = 1000 liters = 106 cm3 = 35.3145 ft3
+
+Time
+
+1 h = 60 min = 3600 s
+
+Universal gas constant
+
+8.314 J/K/mol 8.206 m3*atm/K/mol 1.987 kcal/K/mol
+
+
+
+## Metadata
+- Source file: junk_drawer/Pratice Exam 1.pdf
+- Extracted: 2026-05-18
+- Category: academic-homework

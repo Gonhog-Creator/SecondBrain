@@ -1,0 +1,61 @@
+# index.html
+
+Source: junk_drawer/github/DeltaVision/frontend/public/index.html.txt
+
+Category: [[github-code]]
+
+## Summary
+<!DOCTYPE html> <html lang="en"> <head> <meta charset="utf-8" /> <link rel="icon" href="%PUBLIC_URL%/favicon.ico" /> <meta name="viewport" content="width=device-width, initial-scale=1" /> <meta name="theme-color" content="#000000" /> <meta name="description" content="DeltaVision - Factory Analytics for Bulletproof Vest Manufacturing"
+
+## Full Content
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="DeltaVision - Factory Analytics for Bulletproof Vest Manufacturing"
+    />
+    <title>DeltaVision - Factory Analytics</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+          'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+          sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        background-color: #f5f5f5;
+      }
+      
+      code {
+        font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+          monospace;
+      }
+      
+      .loading {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        font-size: 18px;
+        color: #1976d2;
+      }
+    </style>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root">
+      <div class="loading">Loading DeltaVision...</div>
+    </div>
+  </body>
+</html>
+
+
+## Metadata
+- Source file: junk_drawer/github/DeltaVision/frontend/public/index.html.txt
+- Extracted: 2026-05-18
+- Category: github-code

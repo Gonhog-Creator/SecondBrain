@@ -1,0 +1,397 @@
+MA341
+Applied ODE’s
+Handout 7
+Definition 1. Matrix-vector product is defined as following: 1
+
+
+
+
+v1
+
+
+
+
+
+a11
+
+
+
+
+
+a12
+
+
+
+
+
+a1n
+
+
+
+
+
+a1→ · v
+
+
+
+a11
+
+a12
+
+...
+
+a1n
+
+
+a
+ 21
+Av = 
+ ..
+ .
+
+an1
+|
+
+a22
+
+...
+
+ 
+
+
+
+
+
+
+
+
+a 
+a 
+a
+
+ 
+a 
+a2n 
+ 22 
+ 2n 
+ 2→ · v 
+  v2 
+ 21 
+ + · · ·+vn 
+ = 
+ +v2 
+
+   = v1 
+..
+ .. 
+ ..  also 
+
+  .. 
+ .. 
+ . 
+ . 
+
+
+ . 
+ . 
+.
+
+
+
+
+
+
+
+ 
+
+an→ · v
+vn
+ann
+an2
+ann
+an1
+| {z }
+| {z }
+| {z }
+} | {z }
+
+an2
+
+...
+{z
+
+v
+
+=A
+
+=a↓1
+
+=a↓2
+
+=a↓n
+
+The last equality is a column of dot product (like in calc III) of rows of A with
+v.
+Definitionh 2. An n n-dimensional
+vectors vj are linearly independent if and
+i
+only if det v↓1 v↓2 . . . v↓n 6= 0.??0
+Definition 3. (Higher order ODEs as a system of ODEs:) Consider
+y (n) = an−1 y (n−1) + an−2 y (n−2) + · · · + a0 y + f (t)
+Let
+
+
+x1 (t)
+
+
+
+
+
+y(t)
+
+
+
+
+ 
+
+ x2 (t)   y 0 (t) 
+
+ 
+
+x(t) =  .  = 
+
+..
+ ..  
+
+.
+
+ 
+
+(n−1)
+xn (t)
+y
+(t)
+then
+
+
+0
+
+
+
+x01 (t)
+
+
+
+
+
+0
+
+1
+
+0
+
+···
+
+
+
+ 0  
+ x2 (t) 
+ x2 (t)   0
+
+
+
+ 
+ .  = x(t) =  .  =  .
+ .. 
+ ..   ..
+
+
+
+ 
+0
+xn (t)
+xn (t)
+a0
+
+0
+
+1
+
+···
+
+a1
+
+a2
+
+···
+
+x1 (t)
+
+0
+
+
+
+x1 (t)
+
+
+
+
+
+0
+
+
+
+
+ 
+
+
+ 
+
+0 
+  x2 (t)   0 
+ .  +  . .
+  ..   .. 
+
+ 
+
+an−1
+xn (t)
+f (t)
+
+vfill
+1 For more about matrices - read Intro to Matrix Algebra on Moodle.
+
+Definition 4. (Euler’s Method for Linear System of ODEs:) Consider
+system of n ODEs with n unknown functions xj (t):2
+x01 (t) = a11 x1 + a12 x2 + · · · + a1n xn + f1 (t)
+x02 (t) = a21 x1 + a22 x2 + · · · + a2n xn + f2 (t)
+..
+.
+x0n (t) = an1 x1 + an2 x2 + · · · + ann xn + fn (t),
+
+where aij ∈ R. One write it in a matrix form
+x0 (t) = Ax(t) + f (t),
+
+(1)
+
+where A is the matrix of the coefficients of the system above, often denoted as
+[A]ij = ai,j .
+Solution of the equation (??) is given by a sum of solution of the homogeneous
+equation (f (t) = 0) and a private solution, as we used to have in second order
+ODEs, i. e. x = xh + xp .
+Homogeneous: Assuming xh in the form of x(t) = vert and substituting it
+into equation one get rvert = Aert or Av = rv, thus r is an eigenvalue of A and
+v its associated eigenvector. Hence, to find solution to yh of (??) one need:
+1. The eigenvalues - the n roots of characteristic polynomial p(r) = det(A −
+rI), where I is the identity matrix. For example
+
+
+
+
+a11 a12
+1 0
+−r
+
+p(r) = det 
+a21 a22
+0 1
+
+
+a11 − r
+a12
+
+= det 
+a21
+a22 − r
+= (a11 − r)(a22 − r) − a21 a12 = 0
+2. The eigenvectors associated with the eigenvalues rj ’s - normally, the solutions to (A − rj I)vj = 0.
+Pn
+The solution to homogeneous equation is xh = j=1 cj Xj (t), where cj are
+the coefficients to be determined using IC’s, and Xj (t) ∈ S are the n linearly
+independent3 fundamental solutions given as following:
+• If rj ∈ R solves p(r), and p(r) = (r − rj )q(r), q(rj ) 6= 0, then Xj (t) =
+erj t vj ∈ S.
+• If complex rj ∈ C solves p(r), (so also its complex conjugate r̄j = rj̃ ) and
+p(r) = (r − rj )(r − r̄j )q(r), q(rj ) 6= 0. Instead of using complex valued
+2 In this course n ≤ 3.
+3 When you solve system of ODEs - verify your S is actually a set of n linearly independent
+solutions! (how?)
+
+2
+
+functions erj t vj , er̄j t v̄j (vj̃ = v̄j ), we (must!) use two real valued functions
+are given by Xj (t) = Re(erj t vj ) ∈ S and Xj̃ (t) = Im(erj t vj ) ∈ S. Here
+Re(z) =
+
+1
+(z + z̄) = a
+z=a+ib
+2
+
+and Im(z) =
+
+1
+(z − z̄) = b.
+z=a+ib
+2
+
+• If eigenvalue rj has multiplicity k > 1, i. e. p(r) = (r − rj )k q(r), q(rj ) 6= 0,
+there are two options
+i. rj has exactly K linearly independent eigenvectors vj,1 , vj,2 , . . . , vj,n ,
+and so Xj,k (t) = erj t vj,k ∈ S, k = 1, 2, . . . K.
+ii. rj has less than K linearly independent eigenvectors. In this case we
+construct k linearly independent solutions Xj,k (t) ∈ S as following.
+Xj,1 = vj,1 erj t
+Xj,2 = (vj,1 t + vj,2 )erj t
+..
+.
+Xj,1 = (vj,1
+
+tk−2
+tk−1
++ vj,2
++ · · · + vj,K )erj t
+(k − 1)!
+(k − 2)!
+
+where the eigenvectors vj,k are obtained by solving:
+(A − rI)vj,1 = 0
+(A − rI)vj,k = vj,k ,
+
+k = 2, 3, . . . , K.
+
+h
+i
+Private: Let X = X↓1 (t) X↓2 (t) . . . X↓n (t) . be a fundamental matrix,
+which columns Xj (t) ∈ S are fundamental solutions. One writes xh = X(t)c,
+where c is a vector of the coefficients cj from above. With the matrix form of
+variation of parameters we assume xp = X(t)u(t). Substituting it into equation
+leads to X(t)u0 (t) = f (t). Thus, denote y = u0 and solve linear system of
+equations X(t)y(t) = f (t), for example y(t) = X −1 (t)f (t).??0 Finally,
+R
+Z
+xp = X
+
+y1 (t)dt
+
+
+
+R
+
+ y2 (t)dt 
+
+
+y(t)dt = X 
+
+..
+
+
+.
+
+
+R
+yn (t)dt
+
+3
+
+

@@ -1,0 +1,52 @@
+# TurnItIn Submission Instructions (CHE 450 Fall 2024) (1).pdf
+
+Source: junk_drawer/TurnItIn Submission Instructions (CHE 450 Fall 2024) (1).pdf
+
+Category: [[academic-syllabus]]
+
+## Summary
+TurnItIn Submission Instructions (CHE 450 Fall 2024) As stated in the course syllabus, CHE 450 deliverables will be screened for plagiarism using the TurnItIn.com service. Only one member of your team should submit your team’s materials to TurnItIn.com - it is suggested that the same designated team member submit all team deliverables to TurnItIn.com to avoid misunderstandings regarding the submission process. Please follow this procedure for submitting your deliverables to TurnItIn.com: Browse 
+
+## Full Content
+TurnItIn Submission Instructions (CHE 450 Fall 2024)
+As stated in the course syllabus, CHE 450 deliverables will be screened for plagiarism using the
+TurnItIn.com service. Only one member of your team should submit your team’s materials to
+TurnItIn.com - it is suggested that the same designated team member submit all team
+deliverables to TurnItIn.com to avoid misunderstandings regarding the submission process.
+Please follow this procedure for submitting your deliverables to TurnItIn.com:
+Browse to www.turnitin.com
+Click the Create Account link located in the upper-right of the page.
+Under "Create New Account," select Student.
+Enter in your name, etc. in the boxes located on the Create Account page. Use the
+following log-in information specific for CHE 450:
+1. Class ID: 45358842
+2. Class Enrollment Password: NCSU2425
+5. Read the User Agreement, confirm your age and click the "I Agree" button.
+6. The next page will show the TurnItIn homepage for the course. Click on the name of the
+course.
+7. The following page will show the assignments you will need to submit to TurnItIn over
+the course of the semester. When ready to upload your report for an assignment, click the
+Submit button located next to the particular assignment.
+8. Upload the file containing your report by selecting Single File Upload from the dropdown box and selecting the desired file. TurnItIn.com accepts MS Word, WordPerfect,
+PostScript, PDF, HTML, RTF and plain text files. If your file is larger than 20 MB,
+consider submitting the file in PDF format.
+9. On the following page, confirm via the preview window that you uploaded the correct
+file and click Submit.
+10. The next page will show a digital receipt of your submission to TurnItIn. Keep this
+receipt in case Dr. Cooper has any problems viewing your submission.
+
+1.
+2.
+3.
+4.
+
+Additional information for student users is provided by TurnItIn on their website, including
+tutorials on software use. Please email Dr. Cooper if you have any questions about using
+TurnItIn.
+
+
+
+## Metadata
+- Source file: junk_drawer/TurnItIn Submission Instructions (CHE 450 Fall 2024) (1).pdf
+- Extracted: 2026-05-18
+- Category: academic-syllabus

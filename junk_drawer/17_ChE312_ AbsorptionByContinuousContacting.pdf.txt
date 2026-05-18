@@ -1,0 +1,865 @@
+ChE 312 – Transport Processes II
+III. Separations: Absorption / Stripping / (Humidification).
+Transfer a component from gas to liquid (absorption) or from liquid to
+gas (stripping).
+Previously: Absorption/stripping with equilibrium stages.
+Continued today: Continuous countercontacting within packed columns.
+Absorber/stripper design by integrating the continuous mass transfer.
+***Phase equilibrium at the interface!!!***
+Gives stripper / absorber packed-column equations to be integrated.
+“Transfer-units” approach; analytical methods and z=NTU*HTU.
+Continuous-contacting design.
+Examine packings, pressure drop, sizing the diameter to avoid
+flooding.
+© 2024, ChE 312-001 (PRW)
+
+Example 22.7-1 is a comprehensive example,
+which you’ll re-work in PS16.
+
+2
+
+© 2024, ChE 312-001 (PRW)
+
+2
+
+Step 1: Sketch of what you know and what you don’t.
+In air: y2=2% SO2
+V´ unchanging
+
+2
+T=293K, P=1.013·105 Pa;
+25.4mm ceramic rings;
+Tower CSA=0.0929 m2;
+k´ya=0.0594Gy0.7Gx0.25
+k´xa=0.152Gx0.82
+with
+k´a in kmol/(s·m3·mol frac);
+G in kg·s-1m-2
+
+Packing height z?
+
+1
+In air: y1=20% SO2
+V´=6.53·10-4 kmol/s air
+(“inert”)
+
+x2=0% SO2 in H2O;
+L´=4.20·10-2 kmol water /s
+(“inert”)
+
+x1=?% SO2 in water
+L´ unchanging
+
+3
+
+© 2024, ChE 312-001 (PRW)
+
+3
+
+Step 2: Next, apply overall balance to get x1.
+Total flows: 𝐿 =
+
+2
+
+𝐿′
+1−𝑥
+
+and 𝑉 =
+
+𝑉′
+1−𝑦
+
+Overall SO2: 𝐿2 𝑥2 + 𝑉1 𝑦1 = 𝐿1 𝑥1 + 𝑉2 𝑦2
+
+𝐿′
+𝑉′
+𝐿′
+𝑉′
+𝑥2 +
+𝑦1 =
+𝑥1 +
+𝑦
+1 − 𝑥2
+1 − 𝑦1
+1 − 𝑥1
+1 − 𝑦2 2
+[Also, operating line gives 𝑥 and 𝑦 SO2 at any height z:]
+𝑥
+𝑦1
+𝐿′
++ 𝑉′
+1−𝑥
+1 − 𝑦1
+𝑥1
+𝑦
+= 𝐿′
++ 𝑉′
+1 − 𝑥1
+1−𝑦
+
+1
+
+4
+
+© 2024, ChE 312-001 (PRW)
+
+4
+
+Next, apply overall balance to get x1.
+In air: y2=2% SO2
+V´ unchanging
+T=293K, P=1.013·105 Pa;
+25.4mm ceramic rings;
+Tower CSA=0.0929 m2;
+k´ya=0.0594Gy0.7Gx0.25
+k´xa=0.152Gx0.82
+with
+k´a in kmol/(s·m3·mol frac);
+G in kg·s-1m-2
+
+In air: y1=20% SO2
+V´=6.53·10-4 kmol/s air
+(“inert”)
+
+x2=0% SO2 in H2O;
+L´=4.20·10-2 kmol water /s
+(“inert”)
+
+Total flows: 𝐿 =
+
+𝐿′
+1−𝑥
+
+and 𝑉 =
+
+𝑉′
+1−𝑦
+
+Overall SO2: 𝐿2 𝑥2 + 𝑉1 𝑦1 = 𝐿1 𝑥1 + 𝑉2 𝑦2
+
+𝐿′
+𝑉′
+𝐿′
+𝑉′
+𝑥2 +
+𝑦1 =
+𝑥1 +
+𝑦
+1 − 𝑥2
+1 − 𝑦1
+1 − 𝑥1
+1 − 𝑦2 2
+Packing height z?
+
+Solving
+x1=?% SO2 in water
+L´ unchanging
+
+æ 0 ö
+æ 0.20 ö
+-4
+4.20·10-2 ç
++
+6.53·10
+÷
+ç
+÷
+è 1- 0 ø
+è 1- 0.20 ø
+æ x ö
+æ 0.02 ö
+= 4.20·10-2 çç 1 ÷÷ + 6.53·10-4 ç
+÷
+è 1- 0.02 ø
+è 1- x1 ø
+gives x1 = 0.00355
+5
+
+© 2024, ChE 312-001 (PRW)
+
+5
+
+Step 3: Use the operating-line equation (mass balance).
+In Air:
+y2=2% SO2
+
+x2=0% SO2 in H2O;
+L´=4.20·10-2 kmol/s
+water (“inert”)
+
+• Relate
+x and y using
+Relate
+mole fractions
+𝑥 andbalance:
+𝑦 SO2 at any height z:
+æ′ y 𝑥ö
+æ x′ ö 𝑦1 æ y ö
+æ x ö
+1
+𝐿
++
+¢
+¢
+L¢ç
++
+V
+=
+L
+ç
+÷
+çç 𝑉 1 ÷÷ + V ¢ç
+÷
+÷
+ç
+÷
+1
+−
+𝑥
+è 1- x ø
+è 1- y ø
+è 1- y1 ø
+è 1- x1 ø1 − 𝑦
+𝑥1
+𝑦
+= 𝐿′
++ 𝑉′
+æ x ö 1 − 𝑥1 æ 0.20 ö1 − 𝑦
+-4
+4.20·10-2 ç
+÷ + 6.53·10 ç
+÷
+è 1- x ø
+è 1- 0.20 ø
+æ 0.00355 ö
+æ y ö
+-4
+= 4.20·10-2 ç
+÷ + 6.53·10 ç
+÷
+è 1- 0.00355 ø
+è 1- y ø
+
+In air:
+y1=20% SO2
+V´=6.53·10-4
+kmol/s air
+(“inert”)
+
+x1=0.355% SO2
+in water
+
+6
+
+© 2024, ChE 312-001 (PRW)
+
+6
+
+Step 4: Compose the differential MT equation for any z.
+
+𝑑𝑧 =
+
+d (Vy) =
+
+VdyAG
+1- yAG
+
+= N A dA = N A × a × S × dz =
+
+k¢y a
+( yAG - yAi ) × S × dz
+(1- yA )iM
+
+d ( Lx ) =
+
+Ldx AL
+1- x AL
+
+= N A dA = N A × a × S × dz =
+
+k¢x a
+( x Ai - x AL ) × S × dz
+1x
+( A )iM
+
+𝑉 ∙ 𝑑𝑦𝐴
+∙
+1 − 𝑦𝐴
+
+1
+𝑘′ 𝑦 𝑎
+𝑦 − 𝑦𝐴𝑖 ∙ 𝑆
+1 − 𝑦𝐴 𝑖𝑀 𝐴
+
+=
+
+𝑉
+𝑘′ 𝑦 𝑎 ∙ 𝑆
+1 − 𝑦𝐴 𝑦𝐴 − 𝑦𝐴𝑖
+1 − 𝑦𝐴 𝑖𝑀
+
+𝑑𝑦𝐴
+
+• Strategy: For each in a series of x values, get y and tabulate.
+• At each position, get and tabulate V=V´/(1-y)
+• Likewise L, Gy, Gx to get k´ya and k´xa.
+© 2024, ChE 312-001 (PRW)
+
+7
+
+Step 5: Get xi ,yi interface values.
+• Using k´ya and k´xa with x,y
+and trial xi ,yi , get new
+estimates of xi ,yi using:
+slope(PM ) =
+
+yi - y
+k ¢ a / (1- x)iM
+=- x
+xi - x
+k ¢y a / (1- y)iM
+
+( )
+
+where yi = yequil xi
+
+and find xi ,yi for each x,y by
+trial and error.
+• Or solve for xi with Solver or
+fzero:
+
+( )
+
+yequil xi - y
+xi - x
+
++
+
+k x¢ a / (1- x)iM
+=0
+k ¢y a / (1- y)iM
+8
+
+© 2024, ChE 312-001 (PRW)
+
+8
+
+Step 6: Integrate numerically using the collected numbers:
+d (Vy) =
+
+VdyAG
+1- yAG
+
+= N A dA = N A × a × S × dz =
+
+k¢y a
+( yAG - yAi ) × S × dz
+(1- yA )iM
+
+d ( Lx ) =
+
+Ldx AL
+1- x AL
+
+= N A dA = N A × a × S × dz =
+
+k¢x a
+( x Ai - x AL ) × S × dz
+(1- xA )iM
+
+z= ò [
+y1
+
+y2
+
+© 2024, ChE 312-001 (PRW)
+
+V
+
+k¢y a·S
+(1- y)(y - yi )
+(1- yi )iM
+
+]×dy =1.59 m
+
+9
+
+Numerical integration: ‫ ≅ 𝑥𝑑 ∙ 𝑥 𝑦 ׬‬σ
+
+𝑦 𝑥𝑖 +𝑦 𝑥𝑖+1
+2
+
+∙ 𝑥𝑖+1 − 𝑥𝑖
+
+• Easiest numerical approach is to use trapezoidal increments on 𝑥 values:
+– 𝐴𝑣𝑒𝑟𝑎𝑔𝑒 𝑜𝑓 𝑦 𝑥0 𝑎𝑛𝑑 𝑦 𝑥1
+
+∙ 𝑥1 − 𝑥0
+
+– Plus 𝐴𝑣𝑒𝑟𝑎𝑔𝑒 𝑜𝑓 𝑦 𝑥1 𝑎𝑛𝑑 𝑦 𝑥2
+
+∙ 𝑥2 − 𝑥1
+
+– Plus 𝐴𝑣𝑒𝑟𝑎𝑔𝑒 𝑜𝑓 𝑦 𝑥2 𝑎𝑛𝑑 𝑦 𝑥3
+– And so on to the end.
+
+∙ 𝑥3 − 𝑥2
+
+𝑦 𝑥1
+
+𝑦 𝑥0 •
+
+𝑥0
+
+•
+
+𝑦 𝑥2
+
+•
+
+• 𝑦 𝑥3
+𝑥1 𝑥2 𝑥3
+
+𝑥
+
+– The 𝑥𝑛 values don’t have to be equally spaced; the smaller ∆𝑥 is, the better.
+
+• In MATLAB, you can use ode solvers.
+• Or you can program numerical methods like Runge-Kutta.
+© 2024, ChE 312-001 (PRW)
+
+10
+
+Observe the general form of the balance equations, and use it.
+
+𝑉 ∙ 𝑑𝑦𝐴
+න 𝑑𝑧 = න
+∙
+1 − 𝑦𝐴
+=න
+
+𝑘′𝑦 𝑎 ∙ 𝑆
+1 − 𝑦𝐴 𝑖𝑀
+
+1
+
+𝑘′𝑦𝑎
+𝑦 − 𝑦𝐴𝑖 ∙ 𝑆
+1 − 𝑦𝐴 𝑖𝑀 𝐴
+𝑉
+𝑉
+1 − 𝑦𝐴 𝑖𝑀 ∙ 𝑑𝑦𝐴
+𝑑𝑦𝐴 = ′
+∙න
+𝑘 𝑦𝑎 ∙ 𝑆
+1 − 𝑦𝐴 𝑦𝐴 − 𝑦𝐴𝑖
+1 − 𝑦𝐴 𝑦𝐴 − 𝑦𝐴𝑖
+𝑚𝑜𝑙/𝑠
+=𝑚
+𝑚𝑜𝑙/𝑠
+𝑚2
+∙ 𝑚2
+𝑚2 𝑚𝑜𝑙 𝑓𝑟𝑎𝑐 𝑚3
+≡ ”Height of a transfer unit”
+
+Units:
+
+© 2024, ChE 312-001 (PRW)
+
+“Number of
+transfer units”
+
+11
+
+12
+
+© 2024, ChE 312-001 (PRW)
+
+12
+
+“What ifs”:
+What variations can happen?
+• Calculate pinch point (flow that causes op line and eq line to intersect between x1,y1 and x2,y2)
+and estimate optimal flow.
+• Base the integrand on k´xa if dominant resistance is in the liquid.
+– Or overall K´xa or K´ya.
+
+• Different packings and packing density.
+• Use flooding velocities to find diameter.
+
+13
+
+© 2024, ChE 312-001 (PRW)
+
+13
+
+Another absorber example.
+• In a fermentation process, ethanol is being produced from cane-sugar extract.
+• Part of the product is ethanol in a CO2-rich gas stream: approximately 180 kmol/hr of
+2 mol % ethanol (“A”), 98% CO2, at 30°C and 110 kPa.
+– [Because these conditions are nominal design values, we can treat them as exact numbers
+and recognize their limits.]
+
+• Countercurrent absorption into water (also at 30°C and 110 kPa) is to be used for 97%
+ethanol recovery.
+• The packed column uses 1.5” Pall rings with HOG=2.0 ft.
+• Design the process.
+
+14
+
+© 2024, ChE 312-001 (PRW)
+
+14
+
+Step 1: Sketch what you know.
+?% ethanol
+
+T=30°C,
+P=110 kPa;
+1.5-in. Pall
+rings with
+HOG=2.0 ft
+
+2% Ethanol
+98% CO2
+V=180 kmol/h
+
+0% ethanol in H2O
+
+Water flowrate L?
+Packing height z?
+Diameter D?
+
+?% ethanol; 97%
+recovery from feed
+
+15
+
+© 2024, ChE 312-001 (PRW)
+
+15
+
+22.3-1.
+
+Get info
+about the
+packing.
+
+16
+
+© 2024, ChE 312-001 (PRW)
+
+22.8B.
+
+16
+
+Step 2: Apply overall balances.
+?% ethanol
+
+T=30°C,
+P=110 kPa;
+1.5-in. Pall
+rings with
+HOG=2.0 ft
+
+2% Ethanol
+98% CO2
+V=180 kmol/h
+
+0% ethanol in H2O
+
+Water flowrate L?
+Packing height z?
+Diameter D?
+
+• “97% recovery” means 97% of the
+fed ethanol (0.02x180 kmol/h) is
+absorbed; i.e., 3.5 kmol/h ethanol in
+the exiting H2O.
+• That determines the ethanol in the
+exiting gas: 0.03(0.02x180 kmol/h)
+=0.11 kmol/h, or y=0.11/(1803.5)=0.0006
+• L to be determined
+
+?%
+ethanol;
+97%
+recovery
+from feed
+17
+
+© 2024, ChE 312-001 (PRW)
+
+17
+
+Step 3: Determine (L’/V’)minimum
+0.11 kmol/h,
+0.06% ethanol
+
+T=30°C,
+P=110 kPa;
+1.5-in. Pall
+rings with
+HOG=2.0 ft
+
+2% Ethanol
+98% CO2
+V=180 kmol/h
+
+0% ethanol in H2O
+
+Water flowrate L?
+Packing height z?
+Diameter D?
+
+?% ethanol;
+97% recovery
+from feed
+=>3.5 kmol/h
+
+• (L’/V’)minimum where operating line
+intersects equil line; pinch pt.
+• Equil line is yAP=γAxAPvap,A
+– At 30°C, Pvap,EtOH=10.5 kPa.
+– From infinite-dilution data,
+γEtOH=6.
+– So equilibrium line is yA=0.57 xA.
+
+• Operating line
+æ y1 ö
+æ x1 ö
+æ y ö
+æ x ö
+¢
+¢
+L¢ ç
++
+V
+=
+L
+ç
+÷
+ç
+÷ + V ¢ç
+÷
+÷
+è 1- x ø
+è 1- y ø
+è 1- y1 ø
+è 1- x1 ø
+goes through (x1,y1)=(0,0.0006)
+• Solve for intersection of the
+equilibrium and operating-line
+equations, such as with Excel
+Goal Seek or Solver.
+18
+
+© 2024, ChE 312-001 (PRW)
+
+18
+
+19
+
+© 2024, ChE 312-001 (PRW)
+
+19
+
+Step 4: Use 1.5 𝐿′ /𝑉′ 𝑚𝑖𝑛𝑖𝑚𝑢𝑚 .
+0.11 kmol/h,
+0.06% ethanol
+
+T=30°C,
+P=110 kPa;
+1.5-in. Pall
+rings with
+HOG=2.0 ft
+
+2% Ethanol
+98% CO2
+V=180 kmol/h
+
+0% ethanol in H2O
+
+Water flowrate L?
+Packing height z?
+Diameter D?
+
+?% ethanol;
+97% recovery
+from feed
+=>3.5 kmol/h
+
+•
+
+1.5 𝐿′ /𝑉′ 𝑜𝑝𝑡𝑖𝑚𝑢𝑚 =
+1.5 𝐿′ /𝑉′ 𝑚𝑖𝑛𝑖𝑚𝑢𝑚 =
+
+1.5*0.540 =0.81
+• V’=0.98*180 = 176 kmol/h, so
+L’=143 kmol/h.
+• Now you can determine x2:
+3.5/(3.5+143)=0.024 or 2.4%
+and L=147 kmol/h.
+• Continue as in previous
+example to integrate the masstransfer equation; then
+multiply by HOG for height z.
+
+20
+
+© 2024, ChE 312-001 (PRW)
+
+20
+
+Flooding is an operational problem to avoid,
+but it is a useful reference for design.
+• We discussed flooding before in distillation.
+• If L/V is too low, liquid will back up and not flow down, stopping operation.
+– Gas flow is too high if (pressure drop)x(cross sectional area) exceeds the weight of
+the liquid: ∆𝑝𝑝𝑎𝑐𝑘𝑒𝑑 𝑏𝑒𝑑 𝑆 > 𝑚𝑔 ∙ ∆ℎ
+
+• However, knowing the flooding velocity allows the designer to find a limiting
+cross-sectional area (or limiting diameter) at which flooding would occur.
+– Then make the diameter safely bigger.
+
+• The key is calculating pressure drop.
+
+21
+
+© 2024, ChE 312-001 (PRW)
+
+21
+
+Use flooding velocities to find diameter.
+
+22
+
+© 2024, ChE 312-001 (PRW)
+
+22
+
+Similar correlation for structured packings.
+
+23
+
+© 2024, ChE 312-001 (PRW)
+
+23
+
+Table 22.3-1
+compares
+packing
+parameters.
+Note size,
+void fraction,
+interfacial area 𝑎,
+𝐹𝑝 (important for
+flooding
+correlation),
+𝑓𝑝 (important for
+mass transfer
+coefficient
+correlations).
+24
+
+© 2024, ChE 312-001 (PRW)
+
+24
+
+Aids to fixes and improvements:
+
+25
+
+© 2024, ChE 312-001 (PRW)
+
+25
+
+Apply coefficients to design separators.
+
+or
+
+or
+
+or
+26
+
+© 2024, ChE 312-001 (PRW)
+
+26
+
+If A is dilute, analytical methods can be applied.
+•
+
+When yeq=mx and A=L/mV :
+
+•
+
+If also the operating and equilibrium lines are straight and not parallel:
+
+•
+
+In some cases (GC!) you need to be able to report “height equivalent to a theoretical plate”:
+
+27
+
+© 2024, ChE 312-001 (PRW)
+
+27
+
+Get mass transfer coefficients from correlations or measurements.
+•
+•
+•
+
+Infer height of a transfer unit HOG or HOL from separation measured for a
+height of packing.
+Single-phase k usually isn’t available or meaningful; even overall K has to
+be measured or inferred from H.
+Very useful correlations: Gas-phase HOG from:
+
+•
+
+And likewise for liquid HOL:
+
+•
+
+Giving:
+
+HOL = H L + ( L / mV ) HG
+28
+
+© 2024, ChE 312-001 (PRW)
+
+28
+
+The big view:
+1. Design or analyze these processes: Size the height 𝑧 (or number of
+stages) and the diameter (pressure drop) and choose packings.
+2. Obtain the needed mass-transfer coefficients.
+3. Understand how to use:
+a) Single-phase mass-transfer coefficients (𝑘𝑐 , 𝑘𝑥 , 𝑘𝑦′ , etc.)
+b) Overall mass-transfer coefficients (𝐾𝑦 , 𝐾𝑦′ , 𝐾𝑥 , 𝐾𝑥′ )
+
+c) Kremser equations.
+d) Height of transfer unit and number of transfer units (HTU/NTU) approach.
+e) Understand to use “A through nondiffusing B” (𝑘𝑥 , 𝐾𝑦 , etc.) unless A is very dilute,
+when equations reduce to “Equimolar counterdiffusion” forms (𝑘𝑥′ , 𝐾𝑦′ , etc.)
+
+29
+
+© 2024, ChE 312-001 (PRW)
+
+29
+
+Remarks on Humidification: Continuous countercontacting flow but with
+heat transfer and with MT only through gas.
+
+where 𝐻𝑦 is
+enthalpy of air-vapor
+mixture
+30
+
+© 2024, ChE 312-001 (PRW)
+
+30
+
+

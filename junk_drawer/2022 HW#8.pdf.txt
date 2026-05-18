@@ -1,0 +1,41 @@
+NE235 - PULSTAR REACTOR OPERATIONS
+
+NAME:
+
+HW#8
+REF: READ THEORY MANUAL SECTIONS §2.3-§2.6
+MODULE 8 – LECTURE SLIDES
+
+1. Reactor Theory Manual - Chapter 2 (page 2-31 §2.14), DO QUESTION #1
+Hint: For #1 – reference §2.5 ‘Exponential Power Equations’. Use the InHour curve or ‘One-Group’
+approximation to relate ρ to τ. Please show all work!
+
+2. Define Reactor Period ‘τ'.
+
+3. Given the “One-Group Approximation” to the InHour Equation (Eq. #2.10), if λeff ~ 0.1 sec-1
+(approximation for “slightly critical”) & βeff = 730 pcm:
+a) What is the period τ (sec) if ρnet = 0.0030 ∆k/k (300 pcm)?
+
+b) What is the Startup Rate (SUR) in Decades-per-minute (DPM)? How long will it take for reactor
+power to increase by a factor of ten (10)?
+
+NUCLEAR ENGINEERING
+
+FALL 2022
+
+NE235 - PULSTAR REACTOR OPERATIONS
+4.
+
+From the InHour curve:
+a) What is the period τ (sec) if ρnet = 0.0030 ∆k/k?
+
+b) Using this period, how long would it take to increase reactor power from 1 W to 1 kW?
+
+5. What is the difference (in seconds) for how long (t) it would take to increase power from 1 Watt to
+1 kW using the two different periods from Problems #3a & #4a above?
+
+NUCLEAR ENGINEERING
+
+FALL 2022
+
+

@@ -1,0 +1,1372 @@
+# 11_ChE312_Diffusivities_SSMT_ContinuityEqns.pdf
+
+Source: junk_drawer/11_ChE312_Diffusivities_SSMT_ContinuityEqns.pdf
+
+Category: [[academic-lecture]]
+
+## Summary
+ChE 312 – Transport Processes II II. Fundamentals of mass transfer. II.c. Diffusivities ("diffusion coefficients") from data, correlation, and theory. • Examine diffusivity variations, magnitudes, and trends. II.d. Mass-transfer equivalents of the Navier-Stokes equations. • •
+
+## Full Content
+ChE 312 – Transport Processes II
+II. Fundamentals of mass transfer.
+II.c. Diffusivities ("diffusion coefficients") from data, correlation, and theory.
+•
+
+Examine diffusivity variations, magnitudes, and trends.
+
+II.d. Mass-transfer equivalents of the Navier-Stokes equations.
+•
+•
+•
+
+The continuity equation(s) for mass transfer.
+Need initial conditions and boundary conditions for mass transfer (diffusion or convective mass
+transfer to an interface).
+De-dimensionalize species-conservation equations and boundary conditions.
+• De-dimensionalizing gives useful dimensionless parameters.
+
+© 2024, ChE 312-001 (PRW)
+
+Fundamental relations to remember.
+• NA (total flux) = JA (diffusion flux) + vCA (convective flux)
+• Fick’s Law of Diffusion (1855):
+– Same form as Fourier’s Law of Conduction:
+
+𝐽𝐴 = −𝐷𝐴𝐵
+𝑞
+𝐴
+
+= −𝑘
+
+z1
+
+𝑑𝐶𝐴
+𝑑𝑧
+
+Velocity
+v
+
+𝑑𝑇
+𝑑𝑧
+
+Flux
+area
+CA1
+
+∑𝑁𝑖
+𝐶
+
+• Bulk convection of species A:
+
+𝑣𝐶𝐴 =
+
+• Components of total flux 𝑁𝐴 :
+
+𝑁𝐴 = 𝑣𝐶𝐴 + 𝐽𝐴
+
+z2
+
+𝑁𝐴 = 𝑣𝐶𝐴 + 𝐽𝐴
+mol•s-1 m-2
+CA2
+
+𝐶𝐴
+𝑏𝑖𝑛𝑎𝑟𝑦 𝑁𝐴 +𝑁𝐵
+𝐶
+𝑫𝑨𝑩
+∆𝒛
+
+• Ref. Case 1: Equimolar counterdiffusion 𝑁𝐴 =
+𝟏
+
+𝑫𝑨𝑩
+𝒙𝑩 𝒍𝒐𝒈 𝒎𝒆𝒂𝒏 ∆𝒛
+
+𝐶𝐴 − 𝐷𝐴𝐵
+
+𝑑𝐶𝐴
+𝑑𝑧
+
+∆𝑪𝑨
+
+• Ref. Case 2: A through nondiffusing B
+
+𝑁𝐴 =
+
+• Convective MT to/from a surface:
+
+𝑁𝐴,𝑐𝑜𝑛𝑣𝑒𝑐𝑡𝑖𝑣𝑒 = 𝑘 • 𝐶𝐴,𝑏𝑢𝑙𝑘 − 𝐶𝐴,𝑠𝑢𝑟𝑓𝑎𝑐𝑒
+
+© 2024, ChE 312-001 (PRW)
+
+∆𝑪𝑨 where 𝒙𝑩 𝒍𝒎 =
+
+𝒙𝑩𝟐 −𝒙𝑩𝟏
+ln 𝒙𝑩𝟐 /𝒙𝑩𝟏
+
+2
+
+Review data tables,
+examining trends
+and magnitudes:
+First, gas-phase
+diffusivities…
+
+© 2024, ChE 312-001 (PRW)
+
+3
+
+Compare diluteliquid diffusivities:
+~105 lower, but
+concentration C is
+~103 higher.
+(Gas is 1/22,414
+mol/cm3 at STP, vs.
+1 g/cm3 for H2O or
+1/18 mol/cm3 ).
+Proportional to
+absolute T!
+© 2024, ChE 312-001 (PRW)
+
+4
+
+For solutes in liquids:
+“Stokes-Einstein Equation”
+For infinitely dilute spherical
+molecules in solvent:
+𝐷𝐴𝐵 =
+
+9.96 × 10−16 𝑇
+1/3
+
+𝜇𝑉𝐴
+
+With 𝐷𝐴𝐵 in m2/s,
+𝑇 in K,
+𝜇 in Pa•s,
+𝑉𝐴 , the solute molar volume at its
+normal boiling point, m3/kmol
+
+Wilke-Change correlation for solute A in solvent B:
+
+7.4 × 10−8 𝜙𝐵 𝑀𝐵 𝑇
+𝐷𝐴𝐵 =
+𝜇𝐵 𝑣𝐴0.6
+with 𝐷𝐴𝐵 cm2/s, 𝑇 K, 𝑀𝐵 g/mol, 𝜇𝐵 in centipoise;
+𝑣𝐴 , the solute molar volume at its normal B.P., cm3/mol;
+𝜙𝐵 “solvent association factor” (H2O 2.6, CH3OH 1.9)
+
+For large biological solute A in
+aqueous solution (solvent B),
+“Polson eqn” is easier:
+𝐷𝐴𝐵 =
+
+9.40 • 10−15 • 𝑇
+1/3
+
+𝜇𝑀𝐴
+
+© 2024, ChE 312-001 (PRW)
+
+5
+
+For solutes in liquids, use Wilke-Change correlation :
+for solute A in solvent B:
+
+7.4 × 10−8 𝜙𝐵 𝑀𝐵 𝑇
+𝐷𝐴𝐵 =
+𝜇𝐵 𝑣𝐴0.6
+
+Table 18.2-4. Atomic and Molar Volumes
+18.2-4.
+at the Normal Boiling Point
+
+with 𝐷𝐴𝐵 cm2/s, 𝑇 K, 𝑀𝐵 g/mol, 𝜇𝐵 in centipoise;
+𝑣𝐴 , the solute molar volume at its normal B.P., cm3/mol;
+𝜙𝐵 “solvent association factor” (H2O 2.6, methanol 1.9,
+ethanol 1.5, non-associating solvents 1.0 ).
+
+18.2-4.
+
+© 2024, ChE 312-001 (PRW)
+
+6
+
+18.2-15
+
+Predict
+diffusivities
+for
+electrolytes
+in liquids:
+
+© 2024, ChE 312-001 (PRW)
+
+18.2-5
+
+18.2-15
+
+18.2-5
+
+7
+
+18.2-6.
+
+Consider diffusivity of biologically
+important solutes.
+----18.2-6
+
+© 2024, ChE 312-001 (PRW)
+
+8
+
+18.2-6.
+
+Consider diffusivity of biological
+nutrients in gels:
+Diffusion through a porous structure.
+
+At right, agar gel used in cellgrowth media, chromatography,
+and gel electrophoresis.
+If a structure is open enough,
+diffusivity is proportional to
+% porosity (void fraction 𝜖), so
+𝐷𝑒𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒,𝐴𝐵 = 𝜖 ∙ 𝐷𝐴𝐵 .
+© 2024, ChE 312-001 (PRW)
+
+9
+
+Diffusivity and permeability through porous media are related.
+
+© 2024, ChE 312-001 (PRW)
+
+10
+
+Diffusion/diffusivity in gas mixtures: The Stefan-Maxwell equation.
+• In gases, 𝐷𝐴𝐵 is normally assumed to be independent of composition.
+• Multi-component diffusion can be described best by the Stefan-Maxwell Equation:
+𝑛
+
+𝑐𝑖 𝑐𝑗 𝐽𝑗 𝐽𝑖
+𝑑𝑥𝑖
+=෍ 2
+−
+𝑑𝑧
+𝑐 𝐷𝑗𝑖 𝑐𝑗 𝑐𝑖
+𝑗=1
+
+• A useful simplification of this equation is Blanc’s Law for mixture diffusivity in dilute gases.
+– If dilute 𝑖 diffuses into a homogeneous mixture, then 𝐽𝑗 ≅ 0, and with
+𝑛
+
+𝑛
+
+𝑗=1
+
+𝑗=1,𝑗≠𝑖
+
+𝑐𝑗
+𝑐
+
+= 𝑥𝑗 :
+
+𝑐𝑖 𝑐𝑗 𝐽𝑗 𝐽𝑖
+𝑥𝑗
+𝑑𝑥𝑖
+=෍ 2
+−
+= −𝐽𝑖 ෍
+𝑑𝑧
+𝑐 𝐷𝑗𝑖 𝑐𝑗 𝑐𝑖
+𝑐𝐷𝑗𝑖
+
+𝐷𝑖,𝑚𝑖𝑥 ≡
+
+© 2024, ChE 312-001 (PRW)
+
+−𝐽𝑖
+=
+𝑑𝑥𝑖ൗ
+𝑑𝑧
+
+𝑛
+
+෍
+𝑗=1,𝑗≠𝑖
+
+−1
+
+𝑥𝑗
+𝐷𝑖𝑗
+11
+
+Compare dilute-liquid
+diffusivities: ~105 lower
+vs gases, but
+concentration C is ~103
+higher.
+(Gas is 1/22414 mol/cm3 at STP,
+vs. 1 g/cm3 H2O, 1/18 mol/cm3 ).
+~Proportional to absolute T.
+
+© 2024, ChE 312-001 (PRW)
+
+12
+
+For solutes in liquids:
+Stokes-Einstein Equation
+For infinitely dilute spherical
+molecules in solvent:
+𝐷𝐴𝐵 =
+
+9.96 × 10−16 𝑇
+1/3
+
+Wilke-Change correlation for solute A in solvent B:
+
+7.4 × 10−8 𝜙𝐵 𝑀𝐵 𝑇
+𝐷𝐴𝐵 =
+𝜇𝐵 𝑣𝐴0.6
+
+𝜇𝑉𝐴
+
+With 𝐷𝐴𝐵 in m2/s,
+𝑇 in K,
+𝜇 in Pa•s,
+𝑉𝐴 , the solute molar volume at its
+normal boiling point, m3/kmol
+
+with 𝐷𝐴𝐵 cm2/s, 𝑇 K, 𝑀𝐵 g/mol, 𝜇𝐵 in centipoise;
+𝑣𝐴 , the solute molar volume at its normal B.P., cm3/mol;
+𝜙𝐵 “solvent association factor” (H2O 2.6, CH3OH 1.9)
+
+For large biological solute A in
+aqueous solution (solvent B);
+Polson eqn is easier:
+𝐷𝐴𝐵 =
+
+9.40 • 10−15 • 𝑇
+
+© 2024, ChE 312-001 (PRW)
+
+1/3
+
+𝜇𝑀𝐴
+
+13
+
+Diffusivities
+18.2-6. for Dilute Biological Solutes in Aqueous Solution
+
+Consider diffusivity of biologically
+important solutes.
+----18.2-6
+
+© 2024, ChE 312-001 (PRW)
+
+Geankoplis, 4th Ed., Table 6.4-1
+
+14
+
+Solute Diffusivities in Dilute Biological Gels in Aqueous Solution
+
+Consider diffusivity of biological
+nutrients in gels:
+Diffusion through a porous structure.
+
+At right, agar gel used in cellgrowth media, chromatography,
+and gel electrophoresis.
+If a structure is open enough,
+diffusivity is proportional to
+% porosity (void fraction 𝜖), so
+𝐷𝑒𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒,𝐴𝐵 = 𝜖 ∙ 𝐷𝐴𝐵 .
+© 2024, ChE 312-001 (PRW)
+
+Geankoplis, 4th Ed., Table 6.4-2
+
+15
+
+Diffusion/diffusivity in gas mixtures: The Stefan-Maxwell equation.
+• In gases, 𝐷𝐴𝐵 is normally assumed to be independent of composition.
+• Multi-component diffusion can then be described by the Stefan-Maxwell Equation:
+𝑛
+
+𝑐𝑖 𝑐𝑗 𝐽𝑗 𝐽𝑖
+𝑑𝑥𝑖
+=෍ 2
+−
+𝑑𝑧
+𝑐 𝐷𝑗𝑖 𝑐𝑗 𝑐𝑖
+𝑗=1
+
+• Blanc’s Law for mixture diffusivity in gases is then a useful simplification.
+– If dilute 𝑖 diffuses into a homogeneous mixture, then 𝐽𝑗 ≅ 0, so
+– Use
+
+𝑐𝑗
+𝑐
+
+= 𝑥𝑗 and 𝐽𝑖𝑗 − 𝐷𝑖,𝑚𝑖𝑥 𝑐
+
+.
+
+𝑑𝑥𝑖
+; then solve to get
+𝑑𝑧
+
+𝐷𝑖,𝑚𝑖𝑥 ≡
+
+© 2024, ChE 312-001 (PRW)
+
+𝑐𝑖 𝑐𝑗 𝐽 𝑗
+𝑑𝑥𝑖
+𝐽
+= ∑𝑛𝑗=1 2
+− 𝑖
+𝑑𝑧
+𝑐 𝐷𝑗𝑖 𝑐𝑗
+𝑐𝑖
+
+−𝐽𝑖
+=
+𝑐 ∙ 𝑑𝑥𝑖ൗ
+𝑑𝑧
+
+𝑛
+
+෍
+𝑗=1,𝑗≠𝑖
+
+−1
+
+𝑥𝑗
+𝐷𝑖𝑗
+16
+
+Transition:
+
+II.e. Differential species-continuity equations for practical use.
+• Constructed from flux-based “shell balances.”
+•
+
+Solve with boundary conditions.
+
+• Set up and examine unsteady-state diffusion problems.
+• Use analytical solutions or Gurney-Lurie graphs to solve problems.
+
+17
+
+© 2024, ChE 312-001 (PRW)
+
+17
+
+Build a basic time-dependent, 1-D shell balance:
+z1
+
+Fluid velocity v
+
+z2
+
+𝑁𝐴 = 𝑣𝐶𝐴 + 𝐽𝐴
+
+Flux
+Area
+a
+CA1
+
+mol•s-1m-2
+
+Can include reaction: Net
+volumetric generation
+rate of A, 𝑅𝐴 𝑧𝑎𝑣𝑒 , 𝑡 in
+(mol/s)/m3
+
+CA2
+
+𝐴𝑐𝑐𝑢𝑚𝑢𝑙𝑎𝑡𝑖𝑜𝑛 𝑟𝑎𝑡𝑒 𝑚𝑜𝑙/𝑠 = 𝑅𝑎𝑡𝑒 𝑖𝑛 − 𝑅𝑎𝑡𝑒 𝑜𝑢𝑡 + 𝑁𝑒𝑡 𝐺𝑒𝑛𝑒𝑟𝑎𝑡𝑖𝑜𝑛
+𝜕 𝐶𝐴 𝑧𝑎𝑣𝑒
+
+∙ 𝑧2 − 𝑧1 𝑎
+= 𝑁𝐴 𝑎 1 − 𝑁𝐴 𝑎 2 + 𝑅𝐴 𝑧𝑎𝑣𝑒 ∙ 𝑧2 − 𝑧1 𝑎
+𝜕𝑡
+𝜕𝐶𝐴 𝑧𝑎𝑣𝑒 , 𝑡
+𝑁𝐴 2 − 𝑁𝐴 1
+𝜕𝐶𝐴 𝑧, 𝑡
+𝜕𝑁𝐴
++
+= 𝑅𝐴 𝑧𝑎𝑣𝑒 , and as ∆𝑧 → 𝑑𝑧,
++
+= 𝑅𝐴 𝑧
+𝜕𝑡
+𝑧2 − 𝑧1
+𝜕𝑡
+𝜕𝑧
+𝜕𝐶𝐴 𝜕𝑣𝐶𝐴
+𝜕𝐽𝐴
+𝜕
+𝜕𝐶𝐴
+𝜕𝐶𝐴
+𝜕𝐶𝐴
+𝜕 2 𝐶𝐴
++
+=−
++ 𝑅𝐴 =
+𝐷
++ 𝑅𝐴 ; can become
++𝑣
+= 𝐷𝐴𝐵
++ 𝑅𝐴
+𝜕𝑡
+𝜕𝑧
+𝜕𝑧
+𝜕𝑧 𝐴𝐵 𝜕𝑧
+𝜕𝑡
+𝜕𝑧
+𝜕𝑧 2
+18
+
+© 2024, ChE 312-001 (PRW)
+
+18
+
+Expanded species-continuity equations
+in rectilinear, cylindrical, & spherical coordinates.
+
+Bird, Stewart, and Lightfoot, Transport Phenomena, 1960, p 559
+© 2024, ChE 312-001 (PRW)
+
+19
+
+Expanded equations: Constant density and Fickian diffusion in
+rectilinear, cylindrical, & spherical coordinates.
+
+Or more concisely & generally,
+𝜕𝐶𝐴
++∇∙ Ԧ
+𝑣𝐶𝐴 = ∇ ∙ 𝐷𝐴𝐵 ∇𝐶𝐴 +𝑅𝐴
+𝜕𝑡
+where for constant 𝐶 and 𝐷𝐴𝐵 ,
+𝜕𝐶𝐴
++ 𝑣Ԧ ∙ ∇𝐶𝐴 = 𝐷𝐴𝐵 ∇2 𝐶𝐴 + 𝑅𝐴
+𝜕𝑡
+
+Bird, Stewart, and Lightfoot, Transport Phenomena, 1960, p 559
+© 2024, ChE 312-001 (PRW)
+
+20
+
+What can we do with these equations?
+• De-dimensionalize them to reveal the governing dimensionless parameters
+and terms.
+• Solve and apply them to answer significant engineering questions.
+
+21
+
+© 2024, ChE 312-001 (PRW)
+
+21
+
+𝜕𝑐𝐴
+𝜕 2 𝑐𝐴
+𝑣𝑧
+= 𝐷𝐴𝐵
+− 𝑘𝐶𝐴
+𝜕𝑧
+𝜕𝑧 2
+BC (Initial condition): 𝑐𝐴 = 𝑐𝐴0 at 𝑧=0. [Would need a second BC to solve.]
+
+Choose dimensionless variables:
+𝑧
+
+𝑐
+
+𝑍 ≡ 𝐿 where 𝐿 is reactor length, so 𝑧 = 𝐿 ∙ 𝑍; 𝐶 ≡ 𝑐 𝐴 , so 𝑐𝐴 = 𝑐𝐴0 ∙ 𝐶
+𝐴0
+
+De-dimensionalize:
+𝑣𝑧 𝑐𝐴𝑜 𝜕𝐶 𝐷𝐴𝐵 𝑐𝐴𝑜 𝜕 2 𝐶
+=
+− 𝑘𝐶𝐴𝑜 𝐶
+𝐿 𝜕𝑍
+𝐿2 𝜕𝑍 2
+
+𝜕𝑐𝐴 𝜕 𝑐𝐴0 ∙ 𝐶
+𝑐𝐴0 𝜕𝐶
+=
+=
+𝜕𝑧
+𝜕 𝐿∙𝑍
+𝐿 𝜕𝑍
+𝜕 𝜕𝑐𝐴
+𝜕
+𝜕 𝑐𝐴0 ∙ 𝐶
+𝑐𝐴0 𝜕𝐶
+=
+= 2
+𝜕𝑧 𝜕𝑧
+𝜕 𝐿∙𝑍 𝜕 𝐿∙𝑍
+𝐿 𝜕𝑍
+
+𝑣𝑧 𝐿 𝜕𝐶 𝜕 2 𝐶
+𝑘𝐿2
+=
+−
+𝐶; 𝐶 = 1 at 𝑍=0
+𝐷𝐴𝐵 𝜕𝑍 𝜕𝑍 2
+𝐷𝐴𝐵
+
+FYI: 𝐷𝑧 is a Peclet number;
+
+𝑣 𝐿
+
+𝐴𝐵
+
+𝑘𝐿2
+is a Damkoehler number
+𝐷𝐴𝐵
+22
+
+© 2024, ChE 312-001 (PRW)
+
+22
+
+Use these equations for time-dependent mass transfer.
+• An important set of cases: “Transient” or “Unsteady-state” mass transfer.
+• How long to dry a product?
+• Release time of an API (active pharmaceutical ingredient) from a pill?
+• Generative AI for images and text…
+
+23
+
+© 2024, ChE 312-001 (PRW)
+
+23
+
+Jascha Sohl-Dickstein, 2015:
+https://arxiv.org/abs/1503.03585
+Denoising diffusion probabilistic models
+Jonathan Ho, Ajay Jain, Pieter Abbeel
+Neural Information Processing Systems,
+2020; https://hojonathanho.github.io/diffusion/
+
+https://openai.com/dall-e-2/
+
+24
+https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/
+
+Consider unsteady-state mass transfer.
+Previously, we did pseudo-SS approach (like rate-of-evaporation problems);
+Now time-dependent C(x,t) due to diffusion.
+(1) Simplify and solve differential equation with boundary conditions.
+(2) Most generally with dimensionless C as dimensionless position, dimensionless time
+DABt/a2, where a is characteristic length, and dimensionless parameters.
+(3) For combined geometries (cube, finite cylinder), multiply dimensionless solutions.
+
+For certain cases, we already have analytic or graphical solutions we can use.
+
+© 2024, ChE 312-001 (PRW)
+
+25
+
+First, let’s review the pseudo-SS diffusion problem…
+• Consider a 6.0-cm-deep beaker,
+filled with liquid benzene to 0.50 cm
+from the top.
+• Dry air at 25°C and 1.000 atm is
+blown gently across the top, keeping
+the benzene vapor concentration
+there at ~zero.
+• What is the initial rate of
+evaporation?
+• How long until benzene drops 2 cm?
+
+26
+
+© 2024, ChE 312-001 (PRW)
+
+26
+
+Approach to the problem:
+• Sketch.
+
+PvapA(25°C)=0.131 atm
+Interface area a
+ρA=0.874 g/cm3
+
+• Identify or develop equations:
+– Benzene vapor (A) diffuses through stagnant air.
+é
+ù
+DABC
+NA = ê
+ú( x A1 - x A )
+êë ( z - z1 ) (xB )logmean úû
+
+27
+
+© 2024, ChE 312-001 (PRW)
+
+27
+
+What is the initial rate of evaporation?
+é
+ù
+DABC
+NA = ê
+ú( x A1 - x A )
+êë ( z - z1 ) (xB )logmean úû
+
+Obtain NA,0:
+• If z=0 is the lip, then (z-z1)=-0.50 cm
+• xA1-xA2 = 0-PvapA = -0.131 atm
+• xB,logmean= (1-0.869)/ln(1/.869) = 0.933
+• C=P/RT = 1.000/(82.06 x 298) = 4.09x10-5 mol/cm3
+• DAB(25°C,1 atm) = 0.0905 cm2/s
+• NA,0 = 1.04x10-6 mol·s-1cm-2
+
+28
+
+© 2024, ChE 312-001 (PRW)
+
+28
+
+How long until benzene drops 2 cm?
+• Write balance at the interface:
+NA·a·dt=(ρ/MW)liq·a·dz
+• Integrate:
+é
+ù
+DABC
+r
+a × dz
+ê
+ú( 0 - x A ) a × dt =
+MW
+êë ( z - 0 ) (xB )log mean úû
+t
+z2
+r (x )
+ò 0 dt = MW DB logCxmean ò z1 z × dz
+AB
+A
+r (xB )log mean 1 é 2 2 ù
+t=
+× ë z2 - z1 û
+MW DABCx A 2
+0.874
+0.939
+1
+=
+× éë2.52 - 0.52 ùû = 17.9 hr
+-5
+78.11 ( 0.0905) ( 4.09 ×10 ) ( 0.131) 2
+29
+
+© 2024, ChE 312-001 (PRW)
+
+29
+
+(
+
+Consider the “What Ifs”:
+• What if there is a T effect from evaporative cooling?
+• What if the container is much narrower?
+• What if air is blown faster across the top?
+• What if the container is wider?
+• What if it starts brimful?
+
+)
+
+M
+êë ( z - 0) (xB )log mean úû
+t
+z2
+r (x )
+z × dz
+ò 0 dt = MW DB logmean
+ò
+z1
+Cx
+AB
+A
+r (xB )log mean 1 é 2 2 ù
+t=
+× ë z2 - z1 û
+MW DABCx A 2
+0.874
+0.939
+=
+78.11 ( 0.0905) ( 4.09 ×10-5 ) ( 0.1
+A
+
+30
+
+© 2024, ChE 312-001 (PRW)
+
+30
+
+For true time dependence, three choices on how to proceed:
+• Easiest: Plug into a pre-solved equation (an analytic solution).
+• If not, get quick estimates by using unsteady-state diffusion graphs.
+– Developed by Gurney and Lurie (1923) and Heisler (1947) from
+solutions to the differential equations – and still useful.
+– Figures provided here.
+• Develop your own numerical solution from the differential equations.
+– Set up the differential equation and BCs; de-dimensionalize & solve.
+– MATLAB has a function for solving partial differential equations.
+– Can also use simulation codes like COMSOL.
+
+31
+
+© 2024, ChE 312-001 (PRW)
+
+31
+
+Easiest is to use an already-solved equation.
+• Solve analytically or by numerical methods
+• For drying a slab, there is an analytical solution
+𝑐
+
+−𝑐
+
+𝐷
+
+𝑡
+
+𝑥
+
+for 𝑌 ≡ 𝑐 𝐴1−𝑐 𝐴 , a Fourier series in 𝜃 ≡ 𝑥𝐴𝐵2 and 𝑋 ≡ 𝑥 :
+𝐴1
+
+𝐴0
+
+1
+
+1
+
+𝑌
+
+4 1
+12 𝜋 2 𝜃
+1𝜋𝑋
+1
+32 𝜋 2 𝜃
+3𝜋𝑋
+1
+52 𝜋 2 𝜃
+5𝜋𝑋
+=
+𝑒𝑥𝑝 −
+sin
++ 𝑒𝑥𝑝 −
+sin
++ 𝑒𝑥𝑝 −
+sin
++…
+𝜋 1
+4
+2
+3
+4
+2
+5
+4
+2
+
+– Equivalent to equation for diffusion into a flat plate.
+– If you can obtain such an analytical solution, it can be used for results and to
+help validate numerical solutions.
+32
+
+© 2024, ChE 312-001 (PRW)
+
+32
+
+Consider diffusion in a semi-infinite (stagnant) medium.
+How deeply will a spill of trichloroethylene penetrate into clay in 1 d?
+𝑧=0
+
+𝜕𝐶
+
+𝐴𝑠
+
+𝑧
+𝐶𝐴 (𝑧, 𝑡)
+
+𝜕2 𝐶
+
+• Use 1-D pure-diffusion case 𝜕𝑡𝐴 = 𝐷𝐴𝐵 𝜕𝑧 2𝐴 (“Fick’s
+Second Law”) with prior ground concentration
+𝐶𝐴0 = 0 and imposed surface concentration 𝐶𝐴𝑠 .
+• Expressing it as “fractional concentration change”
+𝐶 −𝐶
+𝜃 = 𝐶 𝐴 −𝐶𝐴0 , a “deviation variable,” gives 𝜃 =
+𝑒𝑟𝑓𝑐
+
+𝐴0
+
+𝑧
+2 𝐷𝐴𝐵 𝑡
+
+where 𝑒𝑟𝑓𝑐 𝑥 = 1 −
+
+1 𝑥 −𝜂2
+‫𝜂𝑑 𝑒 ׬‬
+𝜋 𝑜
+
+• Define penetration depth 𝑧𝑝 ≡ 4 𝐷𝐴𝐵 𝑡 where
+𝜃=0.0047 or 0.5% of 𝐶𝐴𝑠 .
+• Using that and 𝐷𝐴𝐵 =4•10-10 m2/s, 𝑧𝑝 =0.02 m = 2 cm.
+33
+
+© 2024, ChE 312-001 (PRW)
+
+Test data from https://www.sciencedirect.com/science/article/pii/S0169772222001231
+
+33
+
+For certain cases, we can use pre-solved graphical solutions.
+• Dry a 2.00-inch-thick slab, initially being 30.% H2O by weight. It is
+dried by blowing dry air past it, where the air contains 5.0 wt %
+H2O and the convective mass transfer coefficient of water into the
+blowing air is high.
+– The slab is much longer and wider than 2 inches, so the effects of
+drying through the edges are negligible.
+– Further suppose the drying is by diffusion with a diffusivity of 3.72·10-6
+m2/hr.
+
+• How long will it take to dry the wood to 10% H2O at the center?
+• At center, 𝑋 ≡
+
+𝑥
+= 0; but 𝑌 0
+𝑥1
+
+and 𝑌(1) =
+
+𝑐𝐴1 −𝑐𝐴
+𝑐𝐴0 −𝑐𝐴1
+
+where we
+
+need a value of 𝑐𝐴1 to proceed: 0? 5%?
+34
+
+© 2024, ChE 312-001 (PRW)
+
+34
+
+If the surface boundary condition is phase equilibrium, use Equilibrium
+Distribution Coefficient 𝑲𝒊 ; otherwise, a mass-transfer coefficient 𝒌.
+20.1-3.
+
+For example, Henry’s Law yi=Hixi , so K=HiCL/C
+
+35
+
+© 2024, ChE 312-001 (PRW)
+
+35
+
+20.1-1.
+
+Find the right graph and
+variables.
+• Examine terms.
+• Identify appropriate
+dimensionless parameters for
+analyzing unsteady-state
+transport.
+• For our slab, use flat plate
+model.
+
+=𝑌
+
+=𝜃
+
+=𝑋
+
+If equilibrium at surface,
+𝑘𝑐 𝐴 𝑐𝑎𝑖𝑟 − 𝑐𝑎𝑖𝑟,𝑠 = −𝐷𝐴𝐵 𝐴
+
+𝜕𝑐
+𝜕𝑥
+36
+
+© 2024, ChE 312-001 (PRW)
+
+36
+
+20.1-1.
+
+Find the right graph and
+variables.
+• For the slab,
+L=2.00 in => x1=1.00 in.=0.0254 m;
+• => 𝑛 = 𝑥/𝑥1 = 0 (center).
+• Bulk concn cL=0.050; assume K=1.0
+(maybe?).
+At time t, 𝑌 = (𝑐1 − 𝑐(𝑡))/(𝑐1 − 𝑐0)
+=(0.050-0.10)/(0.050-0.30) =0.20.
+• The convective mass transfer coefficient
+𝐷
+kc is high, so 𝑚 = 𝐴𝐵 ≅ 0 So Y=0.20,
+𝑘𝑐 𝑥1
+
+n=0.0, and m=0.
+
+© 2024, ChE 312-001 (PRW)
+
+37
+
+14.3-5.
+
+Find the right graph and
+variables.
+• For the plank,
+L=2.00 in => x1=1.00 in.=0.0254 m;
+• => 𝑛 = 𝑥/𝑥1 = 0 (center).
+• Bulk concn cL=0.050; assume K=1.0
+(maybe?).
+At time t, 𝑌 = (𝑐1 − 𝑐(𝑡))/(𝑐1 − 𝑐0)
+=(0.050-0.10)/(0.050-0.30) =0.20.
+• The convective mass transfer coefficient
+𝐷
+kc is high, so 𝑚 = 𝐴𝐵 ≅ 0 So Y=0.20,
+𝑘𝑐 𝑥1
+
+n=0.0, and m=0.
+• Figure gives 𝑋 = 𝐷𝐴𝐵𝑡/𝑥12~0.75.
+• 𝐷𝐴𝐵 =3.72·10-6 m2/hr, so t=130. hr
+38
+
+© 2024, ChE 312-001 (PRW)
+
+38
+
+Alternatively, use figure for center value.
+14.3-6.
+
+At Y=0.20 and m=0, figure (n=0.0) gives X~0.70=DABt/x12. Then t=128. hr
+39
+
+© 2024, ChE 312-001 (PRW)
+
+39
+
+14.3-5.
+
+Consider
+complications:
+
+• How does the result change if the air flow
+stops and convective mass-transfer term
+kcL in m decreases to 1.86·10-6 m2/hr?
+(L=x1)
+• Repeat the analysis of (a) with m=DAB/kcx1
+=(3.72·10-6)/(1.86·10-6), so m=2.00.
+• Y=0.20 and n=0.0 still, so X=4.15.
+
+Then t=Xx12/DAB=720 hr (vs
+130 hr before).
+40
+
+© 2024, ChE 312-001 (PRW)
+
+40
+
+Similarly, you can do cylinders.
+14.3-7.
+
+14.3-8.
+
+41
+
+© 2024, ChE 312-001 (PRW)
+
+41
+
+Diffusion into/from a
+semi-infinite slab is a
+little different.
+• There is no reference 𝑥,
+• But the equations give
+dimensionless form as
+𝑥
+
+2 𝐷𝐴𝐵 𝑡
+
+• And for surface mass
+𝑘
+transfer, 𝐷 𝑐 𝐷𝐴𝐵 𝑡
+𝐴𝐵
+
+or
+
+𝑥
+
+2 𝐷𝐴𝐵 𝑡
+
+42
+
+© 2024, ChE 312-001 (PRW)
+
+42
+
+Infinite slab with
+Plane of symmetry
+
+What if you have a different geometry?
+
+Infinite cylinder with
+axis of symmetry
+
+• Multiply the dimensionless solutions.
+– For the first two, 𝑌𝑐𝑦𝑙𝑖𝑛𝑑𝑒𝑟(𝑛𝑐𝑦𝑙 , 𝑋) ∙ 𝑌𝑠𝑙𝑎𝑏(𝑛𝑠𝑙𝑎𝑏, 𝑋)
+– Or the next two, 𝑌𝑠𝑙𝑎𝑏, 𝑥(𝑛𝑠𝑙𝑎𝑏, 𝑥, 𝑋) ∙ 𝑌𝑠𝑙𝑎𝑏, 𝑦(𝑛𝑠𝑙𝑎𝑏, 𝑦, 𝑋) ∙ 𝑌𝑠𝑙𝑎𝑏, 𝑧(𝑛𝑠𝑙𝑎𝑏, 𝑧, 𝑋)
+– Because diffusivity is in 𝑋 = 𝐷𝑡/𝑥12, you can even use a different diffusivity in each
+direction if that is the case.
+
+43
+
+© 2024, ChE 312-001 (PRW)
+
+43
+
+Consider an example for pharma mfg:
+• A spherical pill, 6.0 mm diameter, contains an active ingredient that diffuses out
+when the pill becomes wet. The pill is made by mixing the dose of 25.0 mg with an
+inactive, non-dissolving powder (that makes up most of the pill) and compacting it
+into a semi-porous, spherical pill, V=(4/3)π r3. Assume the active ingredient is mixed
+very uniformly.
+• The active ingredient’s effective diffusivity through the pill is determined by putting
+the pill in a container of stirred, clean water held at 37°C, removing the pill after a
+specified time period, and analyzing the concentration of active ingredient
+remaining at the center: 55 mg/cm3 after 80 min. Experimentally, the pill size didn’t
+change; assume negligible external mass-transfer resistance.
+• For design of optimal drug release, find the diffusivity.
+44
+
+© 2024, ChE 312-001 (PRW)
+
+44
+
+20.1-1.
+
+Approach to the problem:
+• Sketch.
+Ccenter,0 = 25 mg/[1.33π(0.30cm)3]
+=220 mg/cm3
+Ccenter,80min = 55 mg/cm3
+Csurface~0 for all time
+
+r=3.0 mm
+
+• Compute 𝑌, 𝑚, 𝑛; find 𝑋.
+• Identify which graph to use:
+– Un-SS conduction in a sphere.
+
+45
+
+© 2024, ChE 312-001 (PRW)
+
+45
+
+14.3-9.
+
+Apply parameters:
+x=0; x1=3.0mm
+K=CL/Csurf=1.0 (?)
+m=DAB/kcx1 ->0
+n=x/x1=0
+Y=(C1-C)/(C1-C0) =(0-55)/(0-220) =0.25
+From graph, read
+X=DABt/x12=0.26
+or
+DAB=0.26x12/t = 4.9x10-4 cm2/s
+
+46
+
+© 2024, ChE 312-001 (PRW)
+
+46
+
+Contrast to truly unsteady-state diffusion:
+Concentration gradients inside the object. An example:
+• A spherical pill, 6.0 mm diameter, contains an active ingredient that diffuses out when the pill
+becomes wet. The pill is made by mixing the dose of 25.0 mg with an inactive, non-dissolving
+powder (that makes up most of the pill) and compacting it into a semi-porous, spherical pill,
+V=(4/3)π r3. Assume the active ingredient is mixed very uniformly.
+• The active ingredient’s effective diffusivity through the pill is determined by putting the pill in
+a container of stirred, clean water held at 37°C, removing the pill after a specified time period,
+and analyzing the concentration of active ingredient remaining at the center: 55 mg/cm3 after
+80 min. Experimentally, the pill size didn’t change; assume negligible external mass-transfer
+resistance.
+• For design of optimal drug release, infer the diffusivity. Start with graphical solutions.
+47
+
+© 2024, ChE 312-001 (PRW)
+
+47
+
+How to use the species continuity equations?
+• More commonly, analyze numerically with computational fluid dynamics.
+• De-dimensionalizing helps reveal the appropriate dimensionless variables.
+• Develop differential equations for unsteady-state diffusion in a slab & sphere:
+
+48
+
+© 2024, ChE 312-001 (PRW)
+
+48
+
+𝑥1 0 −𝑥1
+
+Use the species continuity equations for drying a slab.
+• This equation assumes constant density and diffusivity.
+
+• Infinite slab of thickness 2𝑥1 , where 𝑥1 is the half-thickness.
+– Why? Assume and use symmetry: 𝑥1 is the distance from
+the plane of symmetry to the surface, so 𝑐𝐴 𝑥 = 𝑐𝐴 −𝑥 .
+• Account for (1) no 𝑦 or 𝑧 dependence;
+(2) Solid or no-convection fluid;
+(3) No reaction.
+2𝑐
+𝜕𝑐
+𝜕
+𝐴
+𝐴
+• To leave the governing equation:
+= 𝐷𝐴𝐵
+𝜕𝑡
+𝜕𝑥 2
+49
+
+© 2024, ChE 312-001 (PRW)
+
+49
+
+2
+
+𝑥1 0 −𝑥1
+
+Need boundary conditions for 𝜕𝑐𝐴 = 𝐷𝐴𝐵 𝜕 𝑐𝐴
+𝜕𝑡
+
+𝜕𝑥 2
+
+• One for 𝑐𝐴 𝑡, 𝑥 and two for 𝑐𝐴 𝑡, 𝑥
+
+• For 𝑡, usually an initial condition:
+𝒄𝑨 𝒕, 𝒙 = 𝒄𝑨𝟎 for 𝒕 = 𝟎− and 𝑥1 ≥ 𝑥 ≥ −𝑥1 (i.e., “all 𝑥”)
+• For 𝑥, usually surface condition and symmetry:
+𝒄𝑨 𝒕, 𝒙 = 𝒄𝑨𝟏 for 𝒙 = 𝒙𝟏 (i.e., ± 𝑥1 ) and 𝑡 ≥ 0 (i.e., “all 𝑡”)
+[or possibly 𝑐𝐴 𝑡, 𝑥 = a convective mass-transfer function;
+more explanations later]
+𝜕2 𝑐
+
+𝐷𝐴𝐵 𝜕𝑥 2𝐴 = 0 ⇒
+
+𝝏𝒄𝑨 𝒕,𝒙
+𝝏𝒙
+
+= 𝟎 for 𝒙 = 𝟎 and 𝑡 ≥ 0 (i.e., “all 𝑡”)
+50
+
+© 2024, ChE 312-001 (PRW)
+
+50
+
+𝑥1 0 −𝑥1
+
+Choose and name the dimensionless variables.
+• Start with the dimensional equation and BCs:
+𝑐𝐴 𝑡, 𝑥1 = 𝑐𝐴1
+𝜕𝑐𝐴
+𝜕 2 𝑐𝐴
+𝑐𝐴 0, 𝑥 = 𝑐𝐴0
+= 𝐷𝐴𝐵
+𝜕𝑐𝐴 𝑡, 0 /𝜕𝑥 = 0
+𝜕𝑡
+𝜕𝑥 2
+• For 𝑐𝐴 𝑡, 𝑥 , could use 𝑐𝐴 /𝑐𝐴0 , but a “deviation variable” is
+𝑐
+
+−𝑐
+
+often better, like 𝑌 ≡ 𝑐 𝐴1−𝑐 𝐴 , where 𝑐𝐴 = 𝑐𝐴1 − 𝑐𝐴0 𝑌 + 𝑐𝐴1
+𝐴1
+
+𝐴0
+
+𝑥
+
+• For 𝑥, use 𝑋 ≡ 𝑥 , where 𝑥 = 𝑥1 ∙ 𝑋
+1
+
+• To get normalizing form θ = 𝑡/?, substitute & solve the rest:
+𝑐𝐴1 −𝑐𝐴0 𝜕𝑌
+𝑐𝐴1 −𝑐𝐴𝑜 𝜕2 𝑌
+𝜕𝑌
+=
+𝐷
+⇒
+𝐴𝐵
+1
+𝜕𝑡
+𝑥1 2
+𝜕𝑥 2
+𝜕 𝐷𝐴𝐵 𝑡/𝑥1 2
+
+• And 𝒀 𝟎, 𝑿 = 𝟏; 𝒀 𝜽, 𝟏 = 𝟎;
+
+𝝏𝒀 𝜽,𝟎
+𝝏𝒙
+
+𝝏𝒀
+𝝏𝟐 𝒀
+= 𝝏𝜽 = 𝝏𝒙𝟐
+𝐷
+
+𝑡
+
+= 𝟎 where 𝜃 = 𝑥𝐴𝐵2
+1
+
+51
+
+© 2024, ChE 312-001 (PRW)
+
+51
+
+Example: Pure reactant is fed into an isothermal tubular reactor with steady-state
+diffusion, convection, and 1st-order isomerization A→B (molar consumption rate of
+A is -kCA mol/s /m3). Assume CA is a function only of axial distance z. There is no [In “plug
+flow”, there
+change in the molar flow rate due to reaction, so molar density is constant.
+
+Write the species continuity equation for A and a boundary condition for CA(z=0),
+and then de-dimensionalize them.
+
+Steady
+state
+
+© 2024, ChE 312-001 (PRW)
+
+CA(z only)
+
+would be no
+axial
+diffusion.]
+
+−𝑘𝐶𝐴
+
+52
+
+
+
+## Metadata
+- Source file: junk_drawer/11_ChE312_Diffusivities_SSMT_ContinuityEqns.pdf
+- Extracted: 2026-05-18
+- Category: academic-lecture

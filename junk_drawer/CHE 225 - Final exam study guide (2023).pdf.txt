@@ -1,0 +1,107 @@
+CHE 225 – Introduction to Chemical Engineering Analysis
+
+Spring 2023
+
+STUDY GUIDE FOR THE FINAL EXAM
+Instructions: The final exam will be closed book/closed notes covering all topics from the entire
+semester. The test will last 2.5 hours.
+While the exam is closed notes, you can bring two “torpedo” sheets from the previous 2 tests and a
+new torpedo for this final exam with any information of your choosing (8.5” x 11”, you can use both
+sides). The torpedoes must be created by you. At the end of the exam, staple your torpedo sheets to
+the back of the exam.
+Review the two previous study guides as well as your exams. In addition to these, you should be
+prepared to address the following:
+•
+
+Deriving differential equations for transient reactive systems. Apply molar balances
+to derive the differential equations for a closed or open system in which chemical reactions
+take place. Identify initial conditions. One reaction may take place or multiple reactions may
+take place concurrently. Be able to use the given order of chemical reaction information to
+calculate the generation (G) and consumption (C) terms in the general material balance.
+Example: A continuously stirred tank reactor (CSTR) is filled with 10 L of a 1 M solution of
+species A. Liquid continuously enters and exits the tank at a constant flow rates of 𝑣!̇
+and 𝑣̇ , respectively. Starting at t=0, species A decomposes into species B and species C
+according to the following reactions and reaction rates:
+2A ® B,
+rA,1 = -2*k1*CA2
+A ® C,
+rA,2 = -k2*CA
+In the above equations, rA,i is rate of generation of A in reaction i. Assume that all species
+are in the liquid state, and the density of the liquid ρ remains constant. Use initial conditions
+to generate the set of differential equations describing how the concentration of each species
+changes with time. Show your work.
+
+•
+
+Numerical solution of differential equations. Apply numerical methods (e.g., Euler,
+Predictor-Corrector, and 2nd order or 4th order Runge-Kutta methods) discussed in class to
+solve individual or coupled differential equations numerically.
+Example: Write the equations for Ci+1, k1, and k2 if you use the 2nd order Runge-Kutta method
+to numerically solve the following coupled differential equations:
+• dCA/dt = …
+• dCB/dt = …
+Note: always using corresponding k for updating the matched variables (e.g., use CA’s k1
+and k2 to update CA, and CB’s k1 and k2 to update CB)
+
+•
+
+Numerical integration and differentiation. Given a set of data, perform numerical
+integration using the rectangular rule, trapezoidal rule, Romberg integration, and Simpson’s
+1/3 and 3/8 rule. For the same data, perform numerical differentiation using the forward,
+backward, and central methods. Graphically illustrate each rule or method.
+
+Example: Apply the Romberg rule to integrate across the following data set representing
+the concentration of species A over time:
+t (min)
+CA (mM)
+0
+100
+1
+70
+2
+35
+3
+50
+4
+65
+•
+
+Excel VBA. We will not ask you to write a VBA code without using a computer. However,
+we may give you a simple code and ask to interpret what is does, fill in blank lines, identify
+bugs and provide corrections. Know what is a macro and VBA, and how to record a macro.
+Be able to perform the following in VBA:
+• Define a new variable with correct data format (single, double, integer,
+string, etc.)
+• Read variable values from textbox or spreadsheet
+• Output results to textbox or spreadsheet
+• If/Else and If/Elseif statement
+• Select Case statement
+• For loop
+• Do loop
+• Use GoTo command to exit For loop
+• Use Exit Do command to exit Do loop
+
+•
+
+Matlab. Basic syntax for creating .m files (script and function files). Define a new function
+or multiple functions at the same time. Call a function in a script. Create and manipulate
+matrices in Matlab. Use Matlab to solve series of linear equations. Use the fzero and fsolve
+functions to solve individual or multiple nonlinear equations. Use the ode45 function to
+numerically solve individual and coupled ordinary differential equations.
+Example: What is the objective of entering fsolve(@example1, [0 0]) on the command line,
+where example1.m has the following code:
+function y = example1(x)
+y = [x(1) – x(2) – 2; x(1) + x(2) – 4];
+end
+
+•
+
+Do not forget to review the earlier content and examples covered in class (e.g., steady state
+CSTR with multiple reactions, transient CSTR with multiple reactions, tanks of different shapes
+being filled, and so on, going back through the semester).
+
+•
+
+Do not forget to review all homework assignments and midterm tests.
+
+

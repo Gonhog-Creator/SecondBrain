@@ -1,0 +1,63 @@
+# shot_data.ts
+
+Source: junk_drawer/github/DeltaDash/frontend/src/api/shot_data.ts.txt
+
+Category: [[github-code]]
+
+## Summary
+import { apiClient } from './client'; export interface ShotData { id: string; test_session_id: string; vest_number: string | null; side: string | null; shot_number: string | number; protection_level: string | null; caliber: string | null;
+
+## Full Content
+import { apiClient } from './client';
+
+export interface ShotData {
+  id: string;
+  test_session_id: string;
+  vest_number: string | null;
+  side: string | null;
+  shot_number: string | number;
+  protection_level: string | null;
+  caliber: string | null;
+  trauma_mm: number | null;
+  velocity_m_s: number | null;
+  bfd_mm: number | null;
+  measured_velocity_m_s: number | null;
+  temperature_c: number | null;
+  humidity_percent: number | null;
+  created_at: string;
+}
+
+export interface ShotDataUpdate {
+  vest_number?: string | null;
+  side?: string | null;
+  angle_degrees?: number | null;
+  shot_number?: string | null;
+  protection_level?: string | null;
+  caliber?: string | null;
+  trauma_mm?: number | null;
+  trauma_qualitative?: string | null;
+  velocity_m_s?: number | null;
+  temperature_c?: number | null;
+  humidity_percent?: number | null;
+}
+
+export const shotDataApi = {
+  list: (params?: { skip?: number; limit?: number; test_session_id?: string }) => {
+    const searchParams = new URLSearchParams();
+    if (params?.skip) searchParams.append('skip', params.skip.toString());
+    if (params?.limit) searchParams.append('limit', params.limit.toString());
+    if (params?.test_session_id) searchParams.append('test_session_id', params.test_session_id);
+    const query = searchParams.toString();
+    return apiClient.get<ShotData[]>(`/api/v1/shot-data${query ? `?${query}` : ''}`);
+  },
+
+  update: (id: string, shotData: ShotDataUpdate) => {
+    return apiClient.put<ShotData>(`/api/v1/shot-data/${id}`, shotData);
+  },
+};
+
+
+## Metadata
+- Source file: junk_drawer/github/DeltaDash/frontend/src/api/shot_data.ts.txt
+- Extracted: 2026-05-18
+- Category: github-code

@@ -1,0 +1,47 @@
+# Neuralink Coverletter.pdf
+
+Source: junk_drawer/Neuralink Coverletter.pdf
+
+Category: [[other]]
+
+## Summary
+Jose M. Barbeito 919-667-4663 · jbarbei@ncsu.edu josebarbeito.com March 16th, 2025 To whom it may concern, I am writing to apply for the Materials Internship opportunity in Fremont, California. I have been following Neuralink with great interest since my very good family friend Fransico Romano joined the team several years ago, and have always been fascinated by the goal of the team and the problems it had to solve, whether it be biological, material, electrical, or software.
+
+## Full Content
+Jose M. Barbeito
+919-667-4663 · jbarbei@ncsu.edu
+
+josebarbeito.com
+March 16th, 2025
+To whom it may concern,
+I am writing to apply for the Materials Internship opportunity in Fremont, California. I have been
+following Neuralink with great interest since my very good family friend Fransico Romano
+joined the team several years ago, and have always been fascinated by the goal of the team and
+the problems it had to solve, whether it be biological, material, electrical, or software.
+After two years working in the semiconductor industry, I have learned one thing: I’m good at
+learning how to solve problems. I may not know how to solve something at first, but I will read
+papers, make connections, and dig up answers with ruthless pursuit. At my current role at
+Wolfspeed, I’m often tasked with addressing operator issues and handling tool repairs—areas in
+which I received minimal formal training but have succeeded through persistence and
+collaboration. I work exceptionally well with co-workers and have been told I am an invaluable
+asset to the team.
+My minor in material science gives me a solid foundation for the challenges Neuralink faces,
+particularly in testing the properties of implant materials. My understanding of biocompatibility
+across semiconductor, electrical, and biological contexts provides me with a unique
+interdisciplinary perspective that would be valuable in your work.
+
+Alongside my interest and skills, I am an avid learner, working great in high pressure
+environments that teach me new things. I have hands-on experience with both machines and lab
+equipment, which would enable me to add value to Neuralink's mission. Put together, I believe I
+am a strong candidate for this position, and would be ecstatic to join the team.
+
+Thank you for your consideration.
+Sincerely,
+Jose Barbeito
+
+
+
+## Metadata
+- Source file: junk_drawer/Neuralink Coverletter.pdf
+- Extracted: 2026-05-18
+- Category: other

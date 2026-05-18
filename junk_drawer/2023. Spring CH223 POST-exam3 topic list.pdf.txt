@@ -1,0 +1,51 @@
+2023 Spring CH223 Organic Chemistry II. Topic list for the POST exam-3 materials. (The
+final exam questions will come/derive from POST exam3 materials + three mid-term
+exams + practice problems).
+The concepts, reaction conditions (e.g. reagents), reaction product structure, and arrow-pushing
+reaction mechanisms of the following topics should be mastered for the exam (unless otherwise
+noted). See the exam practice problem to see how those will be asked in the exam.
+The topics of the previous exams will not be the main focus of this exam, but some
+concepts/terms/reactions of the previous topics may be involved for this exam (e.g. benzene is
+the 6-member ring aromatic compound which was learned in the exam1 topics).
+A topic highlighted in cyan is about reaction mechanisms. The cyan highlight does NOT indicate
+that it is more important than other topics.
+
+Class33 amine intro (Loudon 23, Carey 22)
+Amines are basic and nucleophilic.
+Alkylation of amines with alkyl halide (e.g. methyl iodide).
+Mechanism of alkylation of amines with alkyl halide (SN2 reactions)
+Other alkylation methods with epoxide (three member ring with oxygen) and alpha,betaunsaturated carbonyl/nitrile.
+
+Class34 reductive amination (Loudon 23, Carey 22)
+Reductive amination (also called reductive alkylation) by amine and aldehyde/ketone with
+hydride.
+Mechanism of the reductive amination (Schiff base/imine formation first, and then hydride
+reduction of the imine).
+Hofmann elimination occurs with a quaternary ammonium salt with hydroxide ion to provide
+alkene.
+Mechanism of Hofmann elimination.
+Amines react with sodium nitrite, NaNO2 (not nitrate which is NaNO3) to produce diazonium
+salt. (the formation of the diazonium is called diazotization)
+Mechanism of the formation of the diazonium salt.
+Alkyl (also called aliphatic) diazonium salts releases N2 gas and generate carbocation that
+produces SN1 or E1 product (i.e. alcohol or alkene)
+Aryl diazonium can be replaced with halide such as chloride and bromide using copper halide
+(Sandmeyer reaction).
+
+Reactions of aryl diazonium with cyano, iodide, H2O/Cu2O (hydrolysis), H2PO2 (replacement
+with hydrogen) will NOT be asked in the final exam.
+
+Class35 azo compounds (Loudon 23, Carey 22)
+Reaction of diazonium with (activated) benzene derivatives produces azo compounds.
+Mechanism for azo compound formation.
+Gabriel synthesis to make primary amine with phthalimide from alkyl halide without secondary
+and tertiary amine side products
+Staudinger reaction to make primary amine with sodium azide (NaN3) followed by phosphine
+(PPh3) from alkyl halide without secondary and tertiary amine side products.
+Reduction of nitro group with Sn/HCl or Fe/HCl produces primary amine groups
+
+Class36 Pd amination (Loudon 23, Carey 22)
+Buchwald-Hartwig amination is another Pd cross coupling of ayrl halide but with amines (instead
+of boronic acid in Suzuki coupling or alkene in Heck coupling).
+
+

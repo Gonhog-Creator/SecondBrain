@@ -1,0 +1,942 @@
+1
+Theorizing technology and
+its role in crime and
+law enforcement
+Philip Brey
+
+1. Introduction
+Virtually any human practice or institution that exists in society has been seriously affected
+by the use of technology. However, the role of technology in society is little understood.
+Decision-making processes concerning technology are often driven by false and naïve images
+of technology and its interaction with society. A sound understanding of technology and its role
+in human practices and institutions requires specialist knowledge. Such knowledge is developed
+in several fields in the social sciences and humanities, including science and technology studies
+(STS), philosophy of technology, ergonomics, management of technology, and others. In this
+chapter, I will review these fields, with particular reference to approaches and theories in STS
+and the philosophy of technology, and I will report on their main findings regarding the role of
+technology in society. This review will be carried out in Section 2.
+A second aim of this chapter is to introduce a particular theory of technology and to apply it
+to an analysis of the role of technology in crime and law enforcement. The theory in question,
+extension theory, provides a powerful perspective for understanding the role of technology in
+society, in particular the powers that technological artifacts give to their users (individuals,
+groups and organizations) and how these powers help them further their aims. After introducing
+extension theory in Section 3, I will use it in an analysis of the use of technology in crime
+and law enforcement in Section 4. This analysis intends to show how new technologies have
+extended the powers of both criminals and law enforcement, and how these new powers play
+out against each other. The chapter ends with a concluding section that reviews the chapter’s
+main findings.
+
+2. Understanding technology
+Technology is a key driver of social change. The industrial revolution and the technologies it
+has yielded have radically transformed a great number of societies. Modern societies are shaped
+by modern technology, which has caused revolutionary changes in work, the economy, social
+organization and the way of life. The ever increasing pace of technological innovation promises
+more such changes for the future. Because of the profoundly influential role of technology in
+17
+
+Philip Brey
+
+every sector and institution of society, whether it is healthcare, education, government, law,
+business, the arts, or any other, an adequate understanding of these sectors nowadays requires
+an understanding of the role and impact on them of technology.
+Several academic fields have emerged to study technology and its role in society, including
+the nature of technology, its design, development, and historical evolution, its dependence on
+social and economic developments, its impact on individuals, society, and the environment,
+and the governance of technology. Most centrally, technology is studied in the interdisciplinary
+field of science and technology studies (STS), sometimes also called science, technology and
+innovation studies (STIS) (Hackett et al. 2007; Sismondo 2009). This field aims to study the
+evolution of the institutions and practices of science and technology in society, their impacts on
+society, and their governance and regulation. STS emerged in the 1970s, and has established itself
+as a field with departments and programs around the world, as well as specialized conferences
+and journals.
+STS is a loosely knit field, with a wide variety of contributing disciplines, such as sociology,
+history, cultural studies, anthropology, policy studies, urban studies and economics. It is fair
+to say, however, that it is dominated by sociological, historical and governance approaches.
+Sociological approaches are concerned with an understanding of institutions, modes of
+organization and practices of science and technology, and their interactions with other sectors
+of society. Historical approaches study the historical development of science and technology
+and the social context in which its institutions and actors operated.1 Governance approaches,
+finally, investigate how science and technology and its impacts can be governed or managed
+in society, by government agencies as well as by the private sector and other relevant actors
+(Smits et al. 2010).
+Several other fields exist that study some aspect or dimension of technology and its role
+in society. They are either closely associated with STS, or have developed along a largely
+separate trajectory. They include, amongst others, economics of technology, ergonomics,
+material culture studies, internet psychology, design studies, technology management,
+innovation management, and the philosophy of technology. I will now further introduce
+one of these fields, the philosophy of technology. The philosophy of technology is a field
+that, next to STS, aims to develop theories of technology and society of a general nature. It
+is also the source of the theoretical perspective on technology that I will be developing in
+Sections 3 and 4 of this chapter.
+The philosophy of technology emerged in the course of the twentieth century, largely as
+a response to the major impacts of technology on society during that century, many of them
+perceived to be negative by philosophers. These include the unprecedented destruction and
+carnage during the First and Second World Wars, the rationalization and automation of work
+which brings alienation, the rise of a consumer culture that promotes materialism and shallow
+consumption, and the destruction of the environment due to modern technology. Philosophers
+like Martin Heidegger, Jacques Ellul, Herbert Marcuse and Günther Anders developed extensive
+critiques of modern technology based on these perceived social consequences.
+Since the 1990s, the broad critiques of these classical authors have made way for more
+pragmatic and empirically oriented philosophical studies that aim to better understand specific
+technologies and their role in society. This new orientation has been called the empirical turn in
+the philosophy of technology (Kroes and Meijers 2000; Brey 2010a). Studies after the empirical
+turn tend to be more descriptive, more informed by empirical results from their own case studies
+and from empirical studies in other fields, more focused on concrete technologies and social
+problems, less pessimistic about technology, and less determinist about technological change
+and impacts of technology. In addition to this descriptivist empirical turn, the 1990s also saw
+18
+
+Theorizing technology’s role in crime and law
+
+the emergence of ethics of technology as a major field of study, including new specializations
+like computer ethics, nanoethics and ethics of design. Due to the empirical turn, the philosophy
+of technology has moved closer to STS, a field from which it has incorporated methods and
+ideas. In spite of this alignment, the philosophy of technology has largely retained a status
+separate from that of STS.
+
+What is technology?
+Let us now turn to the insights into technology and society that can be gained from these fields.
+A proper understanding of these matters should begin with an adequate understanding of the
+concept of technology. Unfortunately, definitions of technology in dictionaries and professional
+textbooks differ widely in their meaning and scope. Technology is variably defined as a process
+of making things, a type of knowledge for making things, or the very things that are made
+(Reydon 2012; Li-Hua 2009). In addition, many definitions hold that technology involves
+the application of science to useful ends, but there are also definitions that make no reference
+to science and define technology as the application of knowledge for practical ends, where
+presumably this knowledge can be of any kind (Mitcham and Schatzberg 2009). Moreover,
+some definitions hold that technology involves the manipulation of matter for practical ends,
+whereas others merely hold that it involves the creation of practical value, so that presumably
+applications of the social sciences would also qualify as technology (“social technology” or “soft
+technology”) (Jin 2011).
+Most commonly, however, technology is related to engineering, and definitions incorporate
+three elements: technology is something that involves the manipulation of matter, has an
+orientation towards practical ends, and has a basis in the sciences. Technology can, according
+to this conception, be defined as the development, through the application of science and
+mathematics, of physically defined or implemented means (devices, systems, methods,
+procedures) that can serve practical ends. This assumes that technology is the mere application
+of science, whereas convincing arguments have been made that, although science is applied
+in engineering, engineering also involves the application and creation of unique engineering
+knowledge, which is a highly formalized, evidence-based and systematic type of knowledge
+(Vincenti 1990). So probably the definition should be amended to hold that technology is
+developed through the application of science, mathematics and engineering knowledge.2
+This definition of technology characterizes it as a process that is carried out by engineers
+and applied scientists. However, in other contexts, “technology” appears to refer instead to the
+means created in this process, as when it is said that a store sells office technology, or to a form
+of knowledge, namely knowledge of the techniques for the production of artifacts and other
+useful means. Technology is hence defined as a process, a set of objects, or form of knowledge,
+depending on context (Mitcham 1994).
+Subclasses of technology are often defined in relation to engineering branches. The main
+branches of engineering are chemical engineering, civil engineering, electrical engineering
+and mechanical engineering, and they produce chemical, civil, electrical and mechanical
+technologies, respectively. More specialized branches, such as software engineering and
+biomedical engineering, also yield corresponding technologies. Note that engineering branches
+are sometimes defined in terms of technological features (e.g. mechanical engineering), and
+sometimes in terms of application areas (e.g. environmental engineering).
+For a consideration of consequences of technology for society, the most relevant aspects of it
+are not technological knowledge or technology development processes carried out by engineers,
+but rather the technological products that result from engineering: devices, systems, procedures
+19
+
+Philip Brey
+
+and methods that are used for practical purposes and through this use, impact society. The
+products of technology development are of two basic kinds: objects (tools, devices, systems)
+and instructions for carrying out processes (procedures, methods). The latter includes methods
+and procedures for processes like food irradiation, iron smelting and automated assembly of laser
+diodes. The focus of theorists has, however, mostly been on the objects produced by engineers:
+technological artifacts, which are the physical products of technology.
+The notion of a “technological artifact” or “technological product” is usually associated
+with electronic and technologically complex devices, such as computers, mobile phones and
+automobiles. However, there are many human-made products that are the result of sciencebased technological production processes but that are not themselves machines or electronic
+devices. A nylon jacket is not generally seen as a piece of technology; it is not a device with
+mechanical parts and does not run on electricity. However, it is a technological artifact in the
+sense that it is a product of advanced technological processes of production of nylon polymers out
+of chemical compounds which are subsequently mechanically melted, spun and fused together
+into wearable items. Most products that people buy in stores are technological artifacts in this
+sense, including hammers, cups, tables and even many foods. It is often difficult to distinguish
+between technologically produced artifacts and craft-based artifacts; a wooden chair could be
+of either type. For this reason, theorists sometimes for convenience refer to any human-made
+artifact as a technological artifact, although in other contexts it may be appropriate to restrict
+the scope to engineering-based products, machines or electronic devices.
+The most exemplary class of technological artifacts consists of (electronic) machines. A
+machine is a tool that consists of parts with different functions and that receives energy from
+a source and transforms it, through the interoperation of its parts, into useful actions. In the
+evolution of technology, one sees the evolution from simple tools and devices to mechanical
+machines (machines powered by natural forces like wind and water, or human and animal
+labor), followed by electrical machines (powered by electricity, or converting mechanical to
+electric energy), electronic machines (electric machines with active electrical components)
+and computing machines (electronic machines in which the store and flow of electrons is
+interpreted as information).
+New technologies and fields of engineering emerge regularly, and new technological
+products and methods, often incorporating multiple technologies, are developed at an ever
+increasing rate. The constant emergence of new technologies means that technologies exist in
+society at different stages. A rough distinction can be made between entrenched and emerging
+technologies. Entrenched technologies are established technologies with long histories that have
+yielded many products that are broadly used in society. Automotive technology is an example.
+Emerging technologies are new technologies that have not yet yielded many concrete products and
+applications, if any, and that are still mostly defined in terms of fundamental research. Examples
+are nanotechnology (although it is yielding more applications every year) and synthetic biology.
+This distinction is important because in assessing future impacts of technology on society,
+one should not only consider innovations within entrenched technologies, but also potential
+applications of emerging technologies.
+
+The mutual shaping of technology and society
+Majority support has emerged in STS and philosophy of technology for a number of positions
+concerning the way in which technology is developed and interacts with society, which I will
+now attempt to spell out. A first point of agreement is that technology does not evolve in a
+deterministic fashion, but rather evolves along a path that is strongly influenced by a wide
+20
+
+Theorizing technology’s role in crime and law
+
+variety of social factors. Technology is socially shaped, meaning that technological change is
+conditioned by social factors, and technological designs and functions are the outcome of social
+processes rather than of internal standards of scientific-technological rationality (Mackenzie and
+Wajcman 1999).
+The social shaping thesis denies the technological determinist idea that technological change
+follows a fixed, linear path that can be explained by reference to some inner technological ‘logic,’
+or perhaps through economic laws. Instead, technological change is radically underdetermined
+by such constraint, and involves technological controversies, disagreements and difficulties, that
+involve different actors or relevant social groups that engage in strategies to shape technology
+according to their own insights. The thesis implies that technologies will evolve differently in
+different societies (assuming that they are developed separately in them), and that society can
+exert strong influence over the way in which technologies develop.
+Against a linear path model of technological change, proposals have been made for a variation
+and selection model, according to which technological change is multidirectional: there are always
+multiple varieties of particular design concepts; some die, and others, which have a good fit
+with social context, survive (e.g. Pinch and Bijker 1987; Ziman 2000; Brey 2008). Many studies
+have been performed to show how users, regulators, civil society organizations and other actors
+affect the development and design of technology and the way in which technological artifacts
+are interpreted and used (Bijker et al. 1987; MacKenzie and Wajcman 1999; Oudshoorn and
+Pinch 2003).
+Theorists also agree that the meaning and use of technologies is not pre-given, but that
+instead technology has interpretive flexibility, meaning that technological products can be
+interpreted and used in different ways (Pinch and Bijker 1987). Different actors in society
+will attribute different meanings, functions and uses to technologies, and engage in processes
+of social negotiation. If such negotiations are successful, they come to a close and interpretive
+flexibility diminishes because the technology is said to stabilize, along with its co-evolved
+meanings and social relations. This implies the embedding of the technology in a stable network
+consisting of humans and other technologies, and the acceptance of a dominant framework
+on how to interpret and use the technology. It implies that the contents of the technology are
+‘black-boxed’ and no longer a site for controversy, although black boxes can be opened at any
+time. The history of technology shows how artifacts like the telephone, the Internet and the
+automobile take on particular functions and societal roles that vary from time to time and from
+place to place.
+A second major point of agreement between scholars of technology is that society is shaped by
+technology, meaning that technologies shape their social contexts. This is converse to the earlier
+claim that technology is socially shaped. The claim is not just that particular uses of technology
+have an influence of society, but also that technological innovations and products themselves
+shape their social contexts. This claim goes against a naïve conception of technology as a neutral
+means that does not itself affect society, and according to which it is the choices made by its users
+that determine its impacts on society (Feenberg 2002). The technological shaping thesis holds
+that technological innovations and products engender a multiplicity of functions, meanings and
+effects that always, often quite subtly, accompany their use. Technologies become part of the
+fabric of society, of its social structure and culture, and have a deep and lasting impact on social
+structure and human behavior (Callon 1987; Latour 1992). Naturally, such an impact could also
+involve effects on criminality and responses to this.
+The idea that society is technologically shaped means, according to many scholars, that
+technology seriously affects social roles and relations, political arrangements, organizational
+structures, and cultural beliefs and practices. Scholars have argued that technical artifacts
+21
+
+Philip Brey
+
+sometimes have built-in political consequences (Winner 1980), that they may contain gender
+biases (Wajcman 1991), that they may subtly guide the behavior of their users (Sclove 1995;
+Latour 1992), that they may support or hinder the realization and implementation of moral
+values and norms (Brey 2010b), that they may presuppose certain types of users and may fail to
+accommodate non-standard users (Akrich 1992) and that they may modify fundamental cultural
+categories used in human thought (Akrich 1992; Turkle 1984).
+Let us consider some examples. Bruno Latour (1992) has aimed to show how mundane
+artifacts, like seat belts and hotel keys, induce their users towards certain behaviors. A hotel
+key, for example, has heavy weights attached to them in an attempt to compel hotel guests to
+bring their key to the reception desk upon leaving their room. Langdon Winner (1980) has
+argued that nuclear power plants require centralized, hierarchical managerial control for their
+proper operation, unlike, for example, solar energy technology. In this way, nuclear plants
+shape society by requiring a particular mode of social organization for their operation.
+Richard Sclove (1995) has pointed out that modern sofas with separate seat cushions
+define distinct personal spaces, and thus work to both respect and perpetuate modern
+Western culture’s emphasis on individuality and privacy, in contrast to Japanese futon sofabeds, for example. Sherry Turkle (1984), finally, discusses how computers and computer
+toys affect conceptions of life, since due to their intelligent behavior, they lead children to
+reassess the traditional dividing lines between ‘alive’ and ‘not alive’ and hence to develop a
+different concept of ‘alive’. Most authors would not want to claim that technological artifacts
+have inherent powers to affect such changes. Rather, it is technologies-in-use, technologies
+that are already embedded in a social context and have been assigned an interpretation, that
+generate such consequences.
+To conclude, many scholars have proposed that the development of technologies, and
+therefore these technologies themselves, is shaped by society, and that technological innovations
+and products shape social and organizational structures and arrangements, and human practices
+and beliefs. Taken together, these claims can be summarized to say that society and technology
+co-shape or co-construct each other. Technological change is moreover held not to be linear
+but to proceed through a quasi-evolutionary process of variation and selection. In addition,
+technologies have interpretive flexibility, implying that their meanings, functions and capabilities
+are constantly open to renegotiation by users and other social actors.
+
+3. The extension view
+Extension theories of technology provide a perspective on technology and its relation to
+human beings that has significant explanatory power and that can be usefully applied in the
+analysis of the role of technology in society. Extension theories are based on the idea that
+technological artifacts can be understood as means that build upon, and extend, capabilities
+of the human body and mind; they are extensions of the human organism. An analysis of
+technology and its function in society should take into account how technological artifacts
+extend, enhance, augment, supplement or replace human body parts and organs and their
+capabilities. Classical versions of extension theory have been put forward in the nineteenth
+and twentieth centuries by thinkers like Marshall McLuhan, Arnold Gehlen, Henry Bergson
+and Ernst Kapp. In recent years, philosophers, including myself, have attempted to further
+systematize and improve extension theory (Brey 2000, 2005; Lawson 2010; Heersmink 2012;
+Steinert 2015).
+The most influential classical version of extension theory has been put forward by Marshall
+McLuhan. In his famous Understanding Media, subtitled The Extensions of Man, McLuhan depicts
+22
+
+Theorizing technology’s role in crime and law
+
+technologies as extensions of human beings that extend beyond the skin and various body
+parts and organs of humans (McLuhan 1964). McLuhan made a basic distinction between
+two kinds of extensions: those of the body and those of cognitive functions, including the
+senses, the central nervous system, and the brain. Extensions of the body are technologies
+that augment or aid parts of the body that are used for acting on or protecting oneself from
+the environment, or regulating bodily functions. These include our limbs, teeth, skin, and
+bodily heat control systems. He theorized that during the mechanical age, technologies were
+developed that extended our bodies: bows, spears and knives extended our hands, nails and
+teeth; the wheel extended our feet; and clothing extended the function of bodily heat control
+and protection of the skin.
+During the electrical age, McLuhan claimed, our senses and central nervous system were
+extended. He analyzed media as extensions of the senses, particularly those of sight and sound.
+The radio and telephone are long-distant ears, and visual media are extensions of vision. Electric
+media, in particular, are extensions of the information processing functions of the central nervous
+system in that they take over functions of information management, storage and retrieval
+normally performed by it. McLuhan foresaw another age of digital computer technology in
+which creative cognition and higher thought, or “consciousness” is also extended and taken
+over by technology. He envisioned that these cognitive functions would be automated and
+translated into information functions performed by digital computers.
+McLuhan’s account provides an interesting perspective on technologies as the externalization
+and partial replacement of human bodily and mental faculties. However, when considered
+as comprehensive theory of technology, there are problems with it. The main problem is
+that McLuhan holds that every technological artifact is functionally similar to some human
+organ and serves to augment or complement this organ’s function. There are, however, many
+technological artifacts that appear to have functions that are not similar to any found in human
+organs. For example, electric lighting serves to emit light, but there is no human organ that has
+a similar function. Likewise, magnets, ionizers, roads and nuclear reactors do not seem to have
+functional analogues in the human body or mind.
+If not all technological artifacts extend human organs, can extension theory still be maintained?
+I have proposed a version of it which categorizes all technological artifacts as extensions of the
+person, but not necessarily in a one-on-one relation with human faculties (Brey 2000). In my
+account, persons come equipped with a set of means, or capabilities, that is provided to them
+by the unaided body and mind. Technological artifacts add to, or extend, this set of means.
+Some do this by replicating, strengthening or enhancing means that are already present in the
+human body and mind. Others do this by providing qualitatively new means to people, such as
+the means to illuminate one’s environment, to fly, or to magnetize iron.
+I have also emphasized, in my account, that by extending our means, technologies extend our
+ability to attain ends, that is, to realize our intentions. Linking technology to human intention
+is important because it helps explain the evolution and application of technology: technological
+artifacts are developed and used because they are believed to help unaided persons realize their
+intentions. My extension theory can therefore be summed up as follows: all technological
+artifacts extend the set of naturally given means (i.e., human bodily and mental faculties) by
+which human intentions are realized, either by replicating or augmenting human faculties, or
+by introducing qualitatively novel capabilities.
+I have since come to believe that this account, though true, is not complete, because
+it ignores the fact that people are always situated in an environment, and in virtually any
+environment, people have more means available to them than just their bodily and mental
+faculties. Environments contain various elements that can also serve as means: natural objects
+23
+
+Philip Brey
+
+such as rocks and plants, technological artifacts and infrastructures, and people and animals that
+could serve as means to one’s ends. So in any given situation, the total set of means available
+to a person does not just consist of those means provided by her body and mind and any
+technological artifacts that she has in possession, but also includes the means that she has access
+to in her environment. Therefore, any technological artifact that is provided to a person does
+not merely extend the means provided to her by her faculties, but should rather be seen as
+extending the set of means that is defined by the human faculties and environmental elements
+that are available to her for use. The added value of a technological artifact for a person depends
+on its added functionality relative to the already available set of means, and relative to the
+intentions that the person wants to realize.
+The fact that things in the environment other than technological artifacts can serve as means
+to realize our intentions also serves to broaden the notion of extension. Many things can serve
+to extend the abilities of the unaided body and mind, not just technological artifacts. Natural
+objects are frequently used as means to realize our intentions: a rock is used to crack a nut, a tree
+is used to provide us with wood for building a home. Other people can serve as a (temporary)
+means to ends, when we ask someone to pass the salt or when we hire someone to do work for
+us. In addition, we have devised modes of social organization and social expression that help us
+realize our intentions. A language, for example, is a shared system of symbols and conventions
+that help us communicate. Social roles and relations confer means to people that help them
+reach ends. For example, someone’s appointment as teacher or accountant gives him the ability
+to contribute to society with his skills and to earn an income. The establishment of a friendship
+between persons provides them both with means to have rewarding interactions and to get
+emotional and practical support.
+Organizational and institutional structures, procedures, and regulations can also directly
+or indirectly provide people with means that they otherwise would not have, including
+means to reach joint ends, and to help direct one’s actions and make them more effective.
+In addition, acquired knowledge and skills also serve to extend the means or abilities that
+are available to persons. Acquired physical or social skills, like maintaining good balance,
+typing, driving, speaking French, solving differential equations, or greeting people, can help
+people further one’s intentions. The acquisition of (factual) knowledge has a similar role,
+as it can help people make decisions, guide actions, and function as a useful resource for
+others. It can be concluded that there are many things other than technological artifacts
+that can serve to extend the set of means available to people to realize their intentions:
+natural objects and structures, people and animals, social conventions and procedures, social
+and organizational structures, and acquired knowledge and skills. Any consideration of the
+function of a technological artifact for a person should consider how it adds to all of these
+means that are already available to him or her.
+Extension theory also needs to take into account that although the primary role of
+technological artifacts is to serve as extensions for human users to further their intentions,
+technological artifacts are also found in different roles. Notably, sometimes technological
+artifacts are mere elements in the environment that are not used by persons to serve their ends.
+For a particular person, a car or computer system owned by someone else may merely be an
+encountered object that does not serve any ends for her, although it may indirectly benefit the
+realization of her ends or harm them. Technological artifacts can also serve as (part of) the target
+or goal of actions, rather than as a means by which goals are reached. They may be objects
+that someone seeks to observe, study, damage, dispose of, repair, develop or acquire. In such
+actions, the artifact does not serve as a means for realizing goals, but rather as an object at which
+one’s means are directed.
+24
+
+Theorizing technology’s role in crime and law
+
+Types of technological extensions
+So far, I have only considered cases of technology use in which artifacts are used by one person
+in order to further his or her intentions. However, artifacts can also be used by collectives and
+organizations. For example, the roof, central heating system and sewer system of an apartment
+building do not serve as means for one particular person, but rather serve as means for a group
+or collective: the inhabitants of apartments in the building. Likewise, a computer network or
+website used by an organization is not in place to serve the needs of any particular person, but
+rather to serve the needs and objectives of the organization as a whole. The organization should
+be seen as an agent with its own intentions and objectives, and technologies are used by it to
+further these objectives.
+A distinction therefore needs to be made between technological artifacts that serve as
+individual extensions and those that function as collective and organization extensions, of groups and
+organizations. Collective and organizational extensions are also used by individuals, and help
+further their intentions. For example, the sewer system in an apartment building is also used
+by its inhabitants considered as individuals, and employees of a firm make individual use of its
+computer network, even when their intention in doing so is to further the objectives of the
+firm. However, such individual uses derive from the collective or organizational function of
+the artifact or system.
+Note, also, that artifacts may serve different functions for different persons, collectives or
+organizations at the same time, simultaneously extending them in different ways. For example,
+an organization’s computer network may simultaneously serve the individual ends of employees
+when they use it for private messaging. Seat belts protect drivers from physical harm, but
+simultaneously also help protect insurers from financial loss. A pair of jeans extends the skin of
+the wearer, but the logo it displays also furthers the intentions of the manufacturer by serving
+as an advertisement of the brand. The latter two examples also show that an artifact can further
+an agent’s intentions without the agent being an end-user of the artifact. Both the insurance
+company and the jeans manufacturer have however taken prior actions to ensure that these
+artifacts serve as means that further their ends, even if used by others.
+Another useful distinction is between physical and social extensions, where physical extensions
+extend physical capabilities of agents and social extensions extend social capabilities. A physical
+capability is one that enables non-social physical actions such as cutting, transporting, repairing
+and cooking. A social capability enables social actions, which are actions that have as their
+primary intent to impact social phenomena, such as communicating, becoming friends, starting
+an organization, taking up a new profession, firing someone, and purchasing something. Social
+actions may centrally involve physical objects, as when someone purchases a dishwasher, but
+what makes such action social is that they are about altering the socially constituted status of
+such objects, which, in the case of the dishwasher, is its property relation to an owner.
+Technological artifacts may either function as physical extensions, as social extensions, or as
+both. Mechanical tools and devices, such as drills, automobiles, heaters, and binoculars, generally
+serve as physical extensions. They extend physical capabilities of persons, including those
+of physical manipulation and alteration, movement, temperature regulation and perception.
+Technologies that function as social extensions depend on socially constructed meanings and
+statuses that have been granted to them. As philosopher John Searle (1995) has argued, artifacts
+can acquire powers that do not (solely) derive from their physical properties but rather from
+collectively imposed status functions. Status functions are socially agreed meanings or statuses that
+are bestowed upon things, events or persons in virtue of which they are able to perform certain
+social function or roles. Dollar bills, for example, are able to function as a medium of exchange
+25
+
+Philip Brey
+
+not because they have inherent physical powers to perform this function, but because people
+have collectively assigned the function of being a medium of exchange to them. Without
+this assigned function, dollar bills could not function as such. Likewise, a text editor can only
+function as a text editor because people have agreed that the squiggles manipulated by them
+constitute words and sentences that have meanings. Otherwise, it would only be a device for
+manipulating meaningless squiggles.
+Technological artifacts that constitute social extensions include information and
+communication technologies, as well as other artifacts that are used to serve social, cultural,
+organizational and institutional roles. A clock, for example, serves to display time, where time
+is itself a social convention. Technological artifacts can also serve multiple physical and social
+functions simultaneously. For example, an expensive car can have both a physical function of
+transportation, and a social function of signaling status and wealth.
+Within the class of physical and technological extensions, further distinctions can be made
+between several subclasses. Within the class of physical extensions, artifacts can be distinguished
+that have a function for physical action (e.g. cutting, welding, refining, heating), for transportation
+(e.g. automobiles, airplanes), for perception (e.g. microscopes, telescopes), for regulation (e.g.
+thermostats, cooling systems), and for protection (e.g. clothing, walls, landmines) against
+others. Within the class of social extensions, some artifacts serve a communication function
+(e.g. telephone), others an information function (e.g. web browser), and yet others may serve
+functions of play, friendship, work collaboration, and creative expression, as well as various
+organizational and institutional functions.
+A special class is constituted by so-called cognitive artifacts (Brey 2005; Norman 1991) that
+extend cognitive capabilities of persons and organizations. A cognitive artifact is an artifact
+capable of displaying, storing, retrieving or operating upon information, and having this as
+its primary function. Computers are, of course, cognitive artifacts, but so are thermometers,
+newspapers, clocks, and measuring rods. Cognitive artifacts mainly belong to the class of social
+extensions, because most of them depend on socially defined conventions to assign meanings
+to signs and symbols. Arguably, one could also include devices like telescopes and hearing aids
+that enhance perceptual information and that have been categorized as physical extensions.
+Cognitive artifacts extend human cognitive function by extending human cognitive abilities like
+memorization and information storage, interpretation, reasoning, calculating, and conceptual
+thought.
+In Brey (2005), I argued that computers initially qualified as cognitive artifact, since their
+function in the 1960s and 1970s was to process and produce information within scientific
+research, education, administration, and defense, amongst other fields. Since the introduction
+of computers with graphical user interfaces and multimedia capabilities in the late 1970s and
+early 1980s, and the World Wide Web in the early 1990s, computers acquired functions that
+are noncognitive and non-informational, such as playing computer games, listening to and
+composing music, watching movies, and communicating with other users. I call these activities
+noncognitive and non-informational even though they involve cognition and information
+processing. I do so because their primary function is not to process or display of information,
+but rather to enable activities in which performance of these information functions is not the
+central purpose.
+So what is extended by computers when they adopt these noncognitive functions? All
+kinds of abilities. Computers have become extremely versatile, multifunctional devices that can
+perform or support many very different actions and processes, such as drawing, playing music,
+banking, chatting, operating external devices like heating systems and refrigerators, and live
+streaming of camera images from remote places. Almost any social action can be performed
+26
+
+Theorizing technology’s role in crime and law
+
+with or mediated by a computer, like chatting, paying, becoming friends, and signing a
+contract, and some physical actions, like playing music, watching movies, and turning one’s
+heater up, can also be performed with computers. Computers have therefore become very
+powerful technological extensions that replicate in virtual, informational form the capabilities
+of ordinary technological artifacts and other extensions.
+
+4. Crime and technological extensions
+Extension theory can help illuminate the role of technology in crime and law enforcement.
+I will now perform a general analysis of this role from the point of view of extension theory.
+The analysis proceeds as follows. First, I will identify the main classes of actors in crime and law
+enforcement, their intentions, and the relation between these intentions. Next, I will survey
+and classify technologies used by these actors and their role in realizing the actor’s intentions.
+Finally, I will provide a historical analysis of the role of technology in crime and law enforcement
+that aims to assess how technologies strengthen the powers of criminals and law enforcement.
+For the first step in the analysis, we will consider the main classes of actors in crime and
+law enforcement, their intentions, and the relations between these intentions. The dialectic
+of crime and law enforcement involves three main classes of actors: criminals, human crime
+targets and law enforcement officers (cf. Cohen and Felson 1979). Let us consider them in
+turn. Criminals are individuals that habitually or incidentally commit crimes. Crimes are acts
+committed in violation of law and punishable by the state. A criminal normally has two kinds of
+intentions relative to an impending criminal act. First, he normally has the intention to commit
+the act in question. I say “normally”, because there are crimes in which the intent to commit
+the act in question was not there, for example in involuntary manslaughter. I will not consider
+such cases here. I will also restrict my discussion to cases in which the perpetrator knows that
+the act he intends to commit is unlawful, even though there are cases of criminal behavior in
+which the perpetrator is unaware that the act he commits is unlawful. In most cases, however,
+the perpetrator has an intention to commit an act that he knows to be unlawful. This intention
+is normally accompanied by a second intention, which is to escape punishment for committing
+this act.
+The second class of actors, within which I will make no further differentiations, is that of
+law enforcement officers, by which I mean individuals sanctioned by the state to enforce the
+law, particularly criminal law. This includes anyone with a state-sanctioned duty to prevent,
+detect and investigate crimes and apprehend and persecute criminals. The intentions of law
+enforcement officers directly oppose those of criminals. They aim to prevent unlawful acts
+from being committed, and once such acts have been committed, they intend to ensure that
+the perpetrator does not escape punishment for committing the act.
+A third and final class that should be considered is that of people and organizations that are
+targets of crime, and therefore its potential victims. Persons are potential targets of so-called
+crimes against persons, such as murder, aggravated assault, rape and kidnapping. Both persons
+and organizations are potential targets of crimes against property, such as burglary, larceny,
+robbery, vandalism, arson and fraud. Crime targets have an interest and therefore normally an
+intent to prevent themselves from being a victim of crimes against persons and against property.
+In other words, they have an intent to prevent criminal acts from taking place with them or
+their property as the target. They may also have an interest in the punishment of the perpetrators
+once a criminal act has been committed against them, but this is not invariably the case.
+In comparing the intents of criminals, law enforcement officers and human crime targets,
+we see, first of all, that they have opposing intentions regarding the perpetration of criminal
+27
+
+Philip Brey
+
+acts: criminals have an intent to commit criminal acts, law enforcement officers have an intent
+to prevent criminal acts from being committed, and crime targets have an intent to prevent
+criminal acts from being committed against them and their property.3 Second, criminals and
+law enforcement officers have opposing intents regarding punishment: criminals have an intent
+to escape punishment for criminal acts committed by them, whereas law enforcement officers
+have an intent to ensure that such punishment is meted out.4
+These intentions by the three classes of actors induce them to acquire and use technological
+and non-technological extensions that are believed by them to make these intentions come
+true. These extensions may include technological artifacts, knowledge, skills, persons who
+provide assistance and support, social conventions and procedures, and social and organizational
+structures. For example, to ensure a successful robbery of a liquor store, a criminal may mobilize
+and use relevant technological artifacts (for example, a gun and a getaway car), knowledge (of
+the layout of the liquor store, its security features, and its contents), skills (in using a gun, or
+in breaking open a cash registry), accomplices (other persons who help in the holdup or drive
+the getaway car), and social conventions and procedures (for example, hand signals that can be
+made to accomplices, and agreed-on procedures for carrying out the robbery).
+
+Technological extensions for and against crime
+The technologies sought by criminals for their criminal pursuits come in two main types:
+technologies for committing crimes, and technologies for escaping punishment.5 (Some
+technologies may fall into both categories.) What the relevant technologies are in these categories
+depends on the type of crime. Let us first consider technologies for committing crimes. These
+are technological artifacts and processes that enable a criminal act to be committed at all or that
+enable it to be committed more reliably, effectively and safely. (Premeditated) crimes against
+persons, such as murder, aggravated assault and rape, may include technological artifacts to help
+perpetrators get near the victim, to threaten or restrain them, to hide the crime from bystanders
+and observers so that it is not interrupted, and to commit the physical act that constitutes
+the crime. Crimes against property, such as burglary and robbery, include technologies to get
+close to the crime target and get access to it, to avoid detection while doing so, to coerce or
+restrain persons on the premises, and to transport the property to a safe place. Crimes against
+society, finally, such as prostitution, narcotics violations, gambling and weapons law violations,
+constitute a diverse group that involves a variety of technologies for committing the crime.6
+Artifacts for committing crimes include the following:7
+•
+•
+•
+•
+•
+•
+
+28
+
+Artifacts for getting information about crime targets and for planning a crime: cameras,
+eavesdropping equipment, hacking software, etc.
+Artifacts for getting access to crime targets: burglary tools like crowbars, lock picks, bolt
+cutters, torches, and explosives.
+Artifacts to disable or block security systems and cameras: wire cutters, signal jammers,
+hacking tools, etc.
+Artifacts for threatening, restraining or coercing persons: knives, guns, handcuffs, sedatives,
+artifacts such as nude photos that are used for blackmail, etc.
+Artifacts for maintaining communication between criminals: mobile telephones, computers,
+etc.
+For cybercrime: software tools and services for breaking into computers, causing damage,
+and stealing data, such as exploit kits, botnets, fake fingerprint kits and Trojan horses.
+
+Theorizing technology’s role in crime and law
+
+Artifacts for escaping punishment include the following:
+•
+
+•
+
+Artifacts for preventing, altering, destroying, concealing or falsifying physical evidence
+(fingerprints, tire tracks, bodies, DNA, camera images, physical evidence of break-in, etc.):
+gloves, masks, cleaning products, disposable phones, data-erasing software, encryption
+software, web anonymizers, artifacts that are used to manufacture or constitute false
+evidence (e.g. fabricated DNA evidence, false Internet alibis, a murder weapon planted on
+a victim to suggest suicide), etc.
+Artifacts for a secure escape from a crime scene or from a police pursuit: fast cars, weapons,
+bullet-proof vests, mobile phones, door reinforcements (in hideouts), alarm systems, false
+digital trails, etc.
+
+Criminals have increasingly powerful technologies at their disposal to effectively commit crimes
+and escape punishment for them. The technologies used in law enforcement have exactly the
+opposite aim: preventing crime and ensuring that criminals are punished for their crimes. Their
+first intent, that of preventing crime, is aided by artifacts that include the following:
+•
+
+•
+
+•
+
+Databases with information on crime targets, (potential) criminals, and the possession and
+the distribution of (illegal) means for committing crimes, which help law enforcement
+determine where to mobilize its resources to prevent crime.
+Artifacts that aid live surveillance and investigation of (potential) criminals, their preparatory
+activities, and crime targets: surveillance cameras, wiretaps, satellite feeds, live maps,
+helicopters, etc.
+Artifacts for hardening crime targets against crime (to the extent that this is seen as the
+responsibility of law enforcement): locks, fences, alarm system, firewalls, etc.
+
+The intent of punishing crime is aided by artifacts such as the following:
+•
+
+•
+•
+
+Artifacts to support the detection, processing and matching of physical evidence: fingerprint
+kits, cameras, databases (for convicts and their fingerprints and DNA data, licensed drivers,
+stolen and found property, vehicles, and so forth), etc.
+Artifacts for effectively locating and interrogating witnesses and suspects: GPS trackers,
+databases, lie detectors, etc.
+Artifacts for the pursuit and apprehension of suspects: fast police cars, weapons, bullet-proof
+armor, two-way radios, arrest cars, thermal imaging cameras, battering rams, handcuffs, etc.
+
+Crime targets, finally, invest in artifacts and systems that prevent them from becoming the
+victim of crimes. They do not normally engage in surveillance of potential criminals and
+criminal activity, but focus on the immediate protection of themselves and their property.
+Artifacts used therein may include the following:
+•
+•
+
+Artifacts for physically protecting oneself and one’s property and for deterrence: weapons,
+locks, fences, firewalls, reinforcements, safe rooms, etc.
+Artifacts for surveillance of crime targets and for signaling criminal activity: surveillance
+cameras, alarm systems, etc.
+
+The employment of these technological artifacts by criminals, law enforcement and human crime
+targets should be understood as part of their strategies to optimize the set of means (extensions)
+29
+
+Philip Brey
+
+that they have available to realize their intentions. Since these intentions are diametrically
+opposed between criminals on the one hand and law enforcement and human crime targets on
+the other, we see that an increase in one party’s capability of realizing its intentions corresponds
+with a decrease in the opposing party’s capability of realizing its intentions. This decrease is
+either achieved by employing means that can damage or destroy the opposing party’s means
+(e.g. wire cutters that incapacitate an alarm), means that leave opposing means intact but that
+create conditions to render them less effective or irrelevant (e.g. a bullet-proof vest that partially
+neutralizes the advantage of a gun, a signal-jamming device, gloves that make fingerprint
+collection irrelevant), and means that otherwise add new capabilities that cannot be effectively
+countered at the time (e.g. a Trojan horse that can pass through any firewall).
+The process of adding better and better means that iteratively negate the advantage of the
+opposing parties or exploits their weaknesses makes the process of extension resemble an arms
+race (Ekblom 1997). As criminals equip themselves with better, more powerful technological
+and other extensions to support their criminal intent, law enforcement and human crime targets
+respond in kind, and vice versa. This includes the iterative development and deployment of
+technologies to thwart the advantage of the opponent: criminals build Trojan horses to infect
+computers, which are then countered by firewalls, which are then in turn countered by Trojan
+horses that can disable or circumvent firewalls, etc. What one sees in countries in which crime is
+rampant is that criminals have won the arms race between criminals and law enforcement: they
+have the best technologies, modes of organization, information, training for skills, and other
+extensions. This, however, is not to say that systemic corruption, social deprivation, or high
+levels of inequality might not also contribute to high crime societies.
+
+The evolving impact of technology on crime and law enforcement
+To expand the above analysis, I will now briefly consider the evolution of technologies for
+crime and law enforcement in historical perspective, from the point of view of extension
+theory. Throughout history, technological advances have altered the targets of crime, the
+kinds of crimes that are committed against them, the ways in which they are committed, and
+the way in which law enforcement operates to prevent and respond to these crimes. Prior
+to the late nineteenth century, the means for protecting crime targets mostly consisted of
+physical devices and structures like locks, fences, and weapons, and surveillance was limited
+to observation by law enforcement officers walking the streets and limited keeping of physical
+records that were difficult to search and reproduce. There was no developed forensic science,
+and so persecution of crimes based on physical evidence was often difficult, which frequently
+made it difficult to persecute crimes at all. In this context, societies tended to choose harsh
+methods of punishment, often in public, as a deterrent and used torture to extract confessions.
+In this way, the lack of other means of law enforcement to prevent crime and persecute
+criminals could be partially redressed.
+Crime and law enforcement entered a new stage in the late nineteenth and twentieth centuries,
+with the introduction of electric and electronic devices and the establishment in the early
+twentieth century of forensic science. Electricity and electronics gave electronic communications,
+which benefited both criminals and law enforcement, and electronic surveillance, which
+mainly benefited the latter. Advances in forensics gave law enforcement powerful new tools
+for apprehending and persecuting criminals. On balance, the new technologies benefited law
+enforcement more than they did criminals. However, the increasing complexity of society,
+especially of cities, and the rise of organized crime (which constitutes a type of social extension of
+30
+
+Theorizing technology’s role in crime and law
+
+the individual criminal) partially offset this advantage. Many of the technological products of the
+twentieth century also became targets of crime themselves, because of their value and expense.
+Products like cars, televisions and stereos became prime targets of theft.
+With the introduction of computers in society in the twentieth century, computer crime
+became an issue. Its real breakthrough came in the 1990s, with the emergence of the Internet
+as a mass medium. The emergence of the Internet and computer networks made it possible for
+criminals to break into computers from a distance and therefore made computer crime much
+easier than it was before their emergence. Computer crime, or cybercrime, is crime in which
+the computer is used as a target or tool. The emergence of information technology has not
+only resulted in computer hardware becoming a target of crime (e.g. computers, smartphones,
+tablets) but also software and data have become a frequent crime target (e.g. digitally encoded
+credit card numbers, electronic money, downloadable digital content, personal information
+records and personal identities). When persons and organizations are the target of cybercrime,
+or when society is the target, the computer functions as a tool rather than the target (Wall 2007;
+Brenner 2010). Computers are nowadays used as tools for a wide variety of crimes, such as
+harassment, extortion, identity theft, drug trafficking, and child pornography.
+As argued in Section 3, computers reproduce in electronic form many social actions, objects,
+practices and institutions, from communicating to listening to music to banking. The Internet
+has become itself a kind of society, an electronic environment in which people work, play,
+form social relations, and engage in many of the practices that they also engage in in physical
+environments. It is for this reason that cybercrime should not be understood as just a new type
+of crime on top of all the others. Because the institutions and structures of society have moved
+for a significant part online, the Internet has become the new frontier for a broad range of
+previously existing criminal pursuits, including theft, fraud, extortion, harassment, vandalism,
+prostitution, child pornography, drug trafficking, and many more.
+Cybercrime is more difficult to combat than ordinary crime. In cybercrime, criminals are
+able to maintain a large distance between themselves and the crime scene (McGuire 2009;
+Yar 2013). They have strong means for remaining undetected and erasing their tracks, such as
+anonymizers, strong encryption software, and darknets. Criminal law is usually running behind
+the latest technological developments and cybercrime often crosses international legal borders,
+which requires strong international cooperation between law enforcement agents. Internet
+service providers often do not want to cooperate to protect the privacy of their clients, and laws
+that protect civil liberties may limit the abilities of law enforcement to do surveillance. Law
+enforcement has in recent years made heavy investments in means to fight cybercrime, which
+include setting up monitoring systems and databases to track and investigate suspicious activity
+over digital networks; strong collaborations between jurisdictions and the private sector; gaining
+access to national and global surveillance programs for espionage and combating terrorism
+such as ECHELON; and efforts to outlaw software tools and practices that aid cybercrime.
+Nevertheless, cybercriminals are still at an advantage.
+Although law enforcement is still at a disadvantage on the playing field for cybercrime,
+information technology has given it powerful tools to combat ordinary (non-computer) crimes.
+The creation of large, searchable databases for individuals, past crimes, and forensic evidence,
+and the introduction of data mining techniques have provided law enforcement with powerful
+tools to track and sometimes even predict crime. Security cameras, sometimes equipped with
+facial recognition and other tracking software, have provided new sources of evidence and
+detection. Information technology has also made new forensic techniques possible, such
+as odor-detecting devices that can find buried human bodies and imaging technologies for
+examining hidden features in documents. On the whole, information technology may have
+31
+
+Philip Brey
+
+given law enforcement the advantage in ordinary crime, but it has opened up a new frontier of
+cybercrime where criminals have the advantage.
+
+5. Conclusion
+This chapter had two objectives: to review the major theories and approaches for the analysis
+of the role of technology in society, and to introduce a particular theory within this category
+– extension theory – and apply it to an analysis of the role of technology in crime and law
+enforcement. The review was carried out in Section 2. There, I introduced and reviewed the
+fields of science and technology studies (STS) and the philosophy of technology, which are
+arguably the two fields most concerned with providing general theories of technology and
+its relation to society. I reviewed discussions of the nature of technology and technological
+artifacts, and of the ways in which society impacts the development of technology, and
+technology impacts social practices and institutions. Some main findings were that technology
+development is not a linear, deterministic process but involves an evolutionary process of
+variation and selection that is shaped by social factors and interests, that technological artifacts
+have interpretive flexibility and have different meanings and uses for different actors, and that
+technologies are not neutral but shape their social context, including human behaviors and
+practices, social and political arrangements and institutions, and human culture.
+In Sections 2 and 3, I introduced the extension theory of technology, as a powerful account
+for the analysis of the role of technology in society, and I applied it to the analysis of crime and
+law enforcement. The extension theory holds that technological artifacts should be analyzed as
+means that extend the ability of persons, groups and organizations to carry out their intentions
+or goals, along with non-technological extensions such as skills, knowledge, human resources,
+and organizational structures. Analyses of the role of technological artifacts as extensions,
+or added means, for realizing intentions can provide for assessments of the added value of
+technology in certain practices and of assessments of the way in which technologies transform
+and improve these practices.
+In the analysis of the role of technology in crime and law enforcement, it was found that
+criminals on the one hand and law enforcement and human crime targets on the other have
+diametrically opposed objectives. Technological artifacts used by these groups, such as guns,
+Trojan horses, surveillance databases and alarm systems, were analyzed as means that are added to
+an existing set of means and that, in relation to this set, may or may not enhance the ability of one
+group to reach its objectives and weaken the ability of the opposing group. I ended with a brief
+analysis of different stages in the evolution of the role of technology in crime and law enforcement,
+including the introduction of electric and electronic technology and the establishment of forensic
+science in the late nineteenth and twentieth centuries, and the introduction of information
+technology and cybercrime in the late twentieth century. I hope to have shown that extension
+theory provides a powerful tool for the analysis and assessment of the role of technology in crime
+and law enforcement that invites further studies within its framework.
+
+Notes
+1 In Chapter 2 of this volume, M. R. McGuire offers one of the few socio-legal/criminological accounts
+of the historical development of technology crime and control.
+2 Another problem with the definition is that it does not allow for the creation of technological means
+that are not based in science, even though there seem to be cases of technological invention that are
+not science-based, such as James Watt’s invention of the steam engine, which was hardly based on
+scientific principles. This example shows that it is difficult to arrive at a definition of technology that
+32
+
+Theorizing technology’s role in crime and law
+
+3
+4
+
+5
+6
+7
+
+captures all of our intuitions. However, even if Watt’s invention did not, twentieth- and twentyfirst-century technology invariably finds its basis in science, mathematics, and formalized engineering
+knowledge.
+McCord (2004) offers some good discussions of the role of intentions in offending.
+There are additional, less influential, intentions that shape the extensions of the three classes of actors.
+For example, it is an intention of society as a whole that law enforcement does not abuse its powers.
+The extensions of law enforcement are to some extent shaped to prevent such abuse. For example,
+some jurisdictions nowadays require police to wear bodycams, motivated in large part for their ability
+to expose police abuses.
+There is not an extensive literature on the technologies of crime and control, but notable works
+include Byrne and Rebovich (2007), McGuire (2012), and Marx (2016).
+The classification of crimes into crimes against persons, against property and against society is taken
+from the classification system used in the United States (National Incident Based Reporting System).
+The notion of artifact is conceived broadly to include both technological and non-technological
+products.
+
+References
+Akrich, M. (1992). The De-Scription of Technical Objects, in Bijker, W., and Law, J. (eds), Shaping
+Technology/Building Society: Studies in Sociotechnical Change. Cambridge, MA: MIT Press.
+Bijker, W., Hughes, T., and Pinch, T. (eds) (1987). The Social Construction of Technological Systems: New
+Directions in the Sociology and History of Technology. Cambridge, MA: MIT Press.
+Brenner, S.W. (2010). Cybercrime: Criminal Threats from Cyberspace. Santa Barbara, CA: Praeger.
+Brey, P. (2000). Theories of Technology as Extension of Human Faculties, in Mitcham, C. (ed.),
+Metaphysics, Epistemology, and Technology. Research in Philosophy and Technology, vol. 19. London:
+Elsevier/JAI Press.
+Brey, P. (2005). The Epistemology and Ontology of Human-Computer Interaction. Minds and Machines,
+15, 3–4: 383–98.
+Brey, P. (2008). Technological Design as an Evolutionary Process, in Vermaas, P., Kroes, P., Light, A. and
+Moore, S. (eds), Philosophy and Design: From Engineering to Architecture. Springer (Netherlands).
+Brey, P. (2010a). Philosophy of Technology after the Empirical Turn. Techné: Research in Philosophy and
+Technology, 14, 1: 36–48.
+Brey, P. (2010b), Values in Technology and Disclosive Computer Ethics, in Floridi. L. (ed.), The Cambridge
+Handbook of Information and Computer Ethics. Cambridge: Cambridge University Press, 41–58.
+Byrne, J.M., and Rebovich, D.J. (2007). The New Technology of Crime, Law and Social Control. Monsey,
+NY: Criminal Justice Press.
+Callon, M. (1987). Society in the Making: The Study of Technology as a Tool for Sociological Analysis,
+in Bijker, W., Hughes, T. and Pinch, T. (eds), The Social Construction of Technological Systems: New
+Directions in the Sociology and History of Technology. Cambridge, MA: MIT Press.
+Cohen, L.E. and Felson, M. (1979). Social change and crime rate trends: A routine activity approach.
+American Sociological Review, 44, 4: 588–608.
+Ekblom, P (1997). Gearing up against crime: A dynamic framework to help designers keep up with the
+adaptive criminal in a changing world, International Journal of Risk, Security and Crime Prevention, 2, 4:
+249–65.
+Feenberg, A. (2002). Transforming Technology: A Critical Theory Revisited. Oxford: Oxford University Press.
+Hackett, E., Amsterdamska, O., Lynch, M. and Wajcman, J. (eds) (2007). The Handbook of Science and
+Technology Studies, 3rd edition. Cambridge, MA: MIT Press.
+Heersmink, R. (2012). Defending extension theory: A response to Kiran and Verbeek, Philosophy &
+Technology, 25, 1: 121–8.
+Jin, Z. (2011). Global Technological Change. From Hard Technology to Soft Technology, 2nd ed. Bristol, UK
+and Portland, USA: Intellect Books.
+Kroes, P. and Meijers, A. (eds) (2000). The Empirical Turn in the Philosophy of Technology. Amsterdam: JAI.
+Latour, B. (1992). Where are the missing masses? The sociology of a few mundane artifacts, in Bijker,
+W., and Law, J. (eds), Shaping Technology/Building Society: Studies in Sociotechnical Change. Cambridge,
+MA: MIT Press.
+
+33
+
+Philip Brey
+
+Lawson, C. (2010). Technology and the extension of human capabilities, Journal for the Theory of Social
+Behaviour, 40, 2: 207–23.
+Li-Hua, R. (2009): Definitions of Technology, in Olsen, J.K.B., Pedersen, S.A., and Hendricks, V.F.
+(eds), A Companion to the Philosophy of Technology. Chichester: Wiley-Blackwell, 18–22.
+MacKenzie, D., and Wajcman, J. (eds) (1999). The Social Shaping of Technology, 2nd edn, Open University
+Press.
+Marx, G.T. (2016). Windows into the Soul: Surveillance and Society in an Age of High Technology. Chicago:
+University of Chicago Press.
+McCord, J. (2004). Beyond empiricism: Institutions and Intentions in the Study of Crime. New Brunswick, N.J:
+Transaction Publishers.
+McGuire, M. (2009). Hypercrime: The New Geometry of Harm. Oxford: Routledge-Cavendish.
+McGuire, M. (2012). Technology, Crime & Justice: The Question Concerning Technomia. Oxford: Routledge,
+Taylor & Francis.
+McLuhan, M. (1964). Understanding Media: The Extensions of Man. New York: The New American
+Library, Inc.
+Mitcham, C. (1994). Thinking through Technology: The Path Between Engineering and Philosophy. University
+of Chicago Press.
+Mitcham, C., and Schatzberg, E. (2009). Defining Technology and the Engineering Sciences, in Gabbay,
+D.M., Meijers, A., and Woods, J. (eds), Philosophy of Technology and Engineering Sciences, Vol. 9.
+Amsterdam: Elsevier, 27–65.
+Norman, D. (1991). Cognitive Artifacts, in Carroll, J. (ed.), Designing Interaction: Psychology at the HumanComputer Interface. Cambridge: Cambridge University Press.
+Oudshoorn, N., and Pinch, T. (eds) (2003). How Users Matter: The Co-Construction of Users and Technology.
+Cambridge, MA: MIT Press.
+Pinch, T., and Bijker, W. (1987). The Social Construction of Facts and Artifacts: Or How the Sociology
+of Science and the Sociology of Technology Might Benefit Each Other, in Bijker, W., Hughes, T.,
+and Pinch, T. (eds), The Social Construction of Technological Systems: New Directions in the Sociology and
+History of Technology. Cambridge, MA: MIT Press, 17–50.
+Reydon, T.A.C. (2012). Philosophy of Technology, in Fieser, J. and Dowden, B. (eds), Internet Encyclopedia
+of Philosophy.
+Sclove, R. (1995). Democracy and Technology. New York: Guilford Press.
+Searle, J.R. (1995). The Construction of Social Reality. New York: Free Press.
+Sismondo, S. (2009). An Introduction to Science and Technology Studies, 2nd ed. Toronto: Wiley-Blackwell.
+Smits, R., Kuhlmann, S., and Shapira, P. (eds) (2010). The Theory and Practice of Innovation Policy. An
+International Research Handbook. Cheltenham, UK: Edward Elgar.
+Steinert, S. (2015). Taking stock of extension theory of technology, Philosophy & Technology, 1–18. doi:
+10.1007/s13347-014-0186-3.
+Turkle, S. (1984). The Second Self: Computers and the Human Spirit. New York: Simon & Schuster.
+Vincenti, W. (1990). What Engineers Know and How They Know It: Analytical Studies from Aeronautical
+History. Baltimore: Johns Hopkins University Press.
+Wajcman, J. (1991). Feminism Confronts Technology. Cambridge, UK: Polity Press.
+Wall, D.S. (2007). Cybercrime: The Transformation of Crime in the Information Age. Cambridge, UK: Polity
+Press.
+Winner, L. (1980). Do artifacts have politics? Daedalus, 109: 121–36.
+Yar, M. (2013). Cybercrime and Society. London: Sage Publications.
+Ziman, J. (ed.) (2000). Technological Innovation as an Evolutionary Process. Cambridge: Cambridge University
+Press.
+
+34
+
+

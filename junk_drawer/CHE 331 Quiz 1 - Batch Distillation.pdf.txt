@@ -1,0 +1,21 @@
+DEPARTMENT OF CHEMICAL & BIOMOLECULAR ENGINEERING
+NORTH CAROLINA STATE UNIVERSITY
+CHE 331 QUIZ #1
+This is a 30 minute closed-book quiz. Write your name and answer the quiz problems related to
+your experiment. Turn in this question sheet with your answer.
+Name: __________________________
+Batch Distillation Experiment
+Problem 1 (15%) Typically the difference between the LHS and RHS of the Rigorous Rayleigh
+equation is ~5%. Name two sources of error in the lab that may contribute to this difference.
+Problem 2 (20%) What are the benefits and drawbacks of using a high reflux ratio? Name one
+benefit and one drawback.
+Problem 3 (50%) On a SINGLE, clearly labeled figure, sketch the profiles of the following two
+variables as a function of time for the batch distillation of a methanol-isopropanol mixture at two
+different reflux settings: moles of liquid mixture in the still and methanol mole fraction of the
+distillate (there should be a total of four graphs on a single figure). Assume the same initial
+charge to the still in the two reflux runs. Be sure to indicate which of the two reflux settings is
+higher.
+Problem 4 (15%) What advantage did using a temperature-controlled refractometer provide in
+the experiment (compared to a refractometer without temperature control)? Explain.
+
+

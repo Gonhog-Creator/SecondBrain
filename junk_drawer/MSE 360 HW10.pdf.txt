@@ -1,0 +1,22 @@
+MSE 360: Kinetic Processes in Materials
+Homework #10
+Instructions: Answer the following questions on a separate piece of paper. Be sure that your name
+and date are on the first page. Upload your work as a PDF to Moodle for credit. All work must be
+done individually.
+A silicon wafer is being oxidized in an atmosphere of pure oxygen at 1200 K. The thickness of the
+oxide, x (in µm), as a function of time, t (in seconds) is given by the parabolic oxidation law:
+x2 + Bx = Ct
+where B = 0.040 µm and C = 0.045 µm2/s.
+a) On a separate sheet, make a computer-drawn plot of the oxide thickness x as a function of
+time t for oxide thicknesses between 0 and 20 µm.
+b) What is the rate of change of the oxide thickness (um/s) when the oxide is 10 µm thick?
+c) When the oxide is 10 µm thick, is the oxidation reaction controlled by diffusion through
+the oxide film or by the reaction at the Si/SiO2 interface? Justify your answer.
+d) If air is used in the reaction chamber instead of pure oxygen, do you expect the oxidation
+rate to change when x = 10 µm? If so, will it increase or decrease? Fully explain your
+answer.
+e) If the temperature in the reaction chamber is decreased to 1000 K, do you expect the
+oxidation rate to change when x = 10 µm? If so, will it increase or decrease? Fully explain
+your answer.
+
+

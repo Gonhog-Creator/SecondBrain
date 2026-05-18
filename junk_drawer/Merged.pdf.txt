@@ -1,0 +1,44 @@
+Cstar = 0; % given
+Ci0 = 1; % random C0
+L = 10; % random thickness
+D = 0.1;
+x_vals = linspace(0, L, 100);
+t1 = 0.01*(L^2/(pi()^2*D));
+t2 = 0.1*(L^2/(pi()^2*D));
+t3 = 1*(L^2/(pi()^2*D));
+times = [t1, t2, t3];
+figure('Position', [100 100 800 600]);
+titles = {['t = ', num2str(t1)], ['t = ', num2str(t2)], ['t = ',
+num2str(t3)]};
+Ci_function = @(x, t, j_max) Cstar + (Ci0 - Cstar) * (4/pi) * ...
+sum(arrayfun(@(j) (1/(2*j + 1)) * sin((2*j + 1) * pi * x / L) * ...
+exp(-((2*j + 1)^2 * pi^2 * D * t) / L^2), 0:j_max));
+% plot
+for k = 1:length(times)
+t = times(k);
+subplot(3,1,k);
+Ci_j1 = arrayfun(@(x) Ci_function(x, t, 1), x_vals);
+Ci_j3 = arrayfun(@(x) Ci_function(x, t, 3), x_vals);
+Ci_j10 = arrayfun(@(x) Ci_function(x, t, 10), x_vals);
+plot(x_vals, Ci_j1, 'r--', 'LineWidth', 1.5);
+hold on;
+plot(x_vals, Ci_j3, 'g--', 'LineWidth', 1.5);
+plot(x_vals, Ci_j10, 'm-', 'LineWidth', 1.5);
+hold off;
+xlabel('x (cm)');
+ylabel('Ci(x,t)');
+title(titles{k});
+legend('j=1', 'j=3', 'j=10');
+grid on;
+end
+% Comment on results: its clear that a higher J term is needed at lower
+% times to approximate it. it seems that past t2, a single j term is
+% acceptable.
+
+1
+
+Published with MATLAB® R2024b
+
+2
+
+
