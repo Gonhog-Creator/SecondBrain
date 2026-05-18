@@ -1,0 +1,28 @@
+(?d).DS_Store
+(?d)Thumbs.db
+
+# Obsidian volatile state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/workspaces.json
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node modules
+node_modules/
+
+# AI temp output
+AI/Scratchpad/temp/
+
+# Syncthing conflict files
+*.sync-conflict*
