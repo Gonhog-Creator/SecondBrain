@@ -1,5 +1,5 @@
 # This directory is a Syncthing folder marker.
 # Do not delete.
 
-folderID: slcug-tgybd
-created: 2026-05-18T10:27:14-03:00
+folderID: su9cq-fordg
+created: 2026-05-18T10:34:33-03:00
