@@ -1,435 +1,0 @@
-# 19 The Cold war at Home S20 posted.pdf
-
-Source: junk_drawer/19 The Cold war at Home S20 posted.pdf
-
-Category: [[academic-homework]]
-
-## Summary
-The Eisenhower Years: 1953-1961 • Beyond Korea: DDE’s foreign policy • Defanging McCarthy • Overview of decade: Complexity • Civil Rights in the 1950s Brown decision Emmet Till Montgomery Bus Boycott Martin Luther King, Jr & non-violence • Problems at the end of the Decade
-
-## Full Content
-The Eisenhower Years: 1953-1961
-• Beyond Korea: DDE’s foreign policy
-• Defanging McCarthy
-• Overview of decade: Complexity
-• Civil Rights in the 1950s
-Brown decision
-Emmet Till
-Montgomery Bus Boycott
-Martin Luther King, Jr & non-violence
-• Problems at the end of the Decade
-
-The “Forgotten War”
-There was no memorial in Washington to the Korean War until 1995
-
-Ike’s other Foreign Policy dilemmas:
-He needed to “square the circle” -pay for expanding US global commitments
-while cutting taxes
-
-Emphasizes most cost-effective
-ways to contain Soviet expansion
-(1) nuclear weapons
-US had
-many
-more –
-and
-bigger –
-bombs
-than USSR
-
-(2) Relied on CIA
-1953: toppled Iranian
-Prime Minister Mossadegh
-
-1954: toppled Guatemalan
-President Arbenz
-
-(3) “Pactomania”
-Most
-important is
-NATO
-
-West
-Germany
-enters NATO,
-1955
-
-The Cold War at Home: the 1950s
-
-By 1960, 87% of American households had at least one television.
-
-A Complex Decade – like the ‘20s
-The image: “Father Knows Best”
-
-The Image: Nothing Happened
-
-DDE golfing
-
-The Reality: More complex
-
-1955
-
-https://www.y
-outube.com/w
-atch?v=MMmlj
-Ykdr-w
-1956
-Start at 1 min
-
-Complexity of decade: “The Beats”
-
-On the Road
-
-Complexity:
-beginnings of Information Revolution
-The transistor
-
-and
-
-an early computer
-
-McCarthy oversteps:
-accuses Army of communism, 1954
-
-Congress hold hearings – on TV
-
-Roy Cohn was McCarthy’s lawyer &
-right-hand man
-
-“Have you no sense of decency, sir, at
-long last? Have you left no sense of
-decency?”
-
-Joseph Welch, the lawyer for the Army
-
-&
-
-Sen. Joseph McCarthy
-
-[[http://www.youtube.com/watch?v=fqQD4dzVkwk ]]
-1:16:52 – 1:22:20 1:24:15 -- 1:25 https://youtu.be/wJHsur3HqcI
-
-McCarthy is defanged.
-• Senate votes
-censure, Dec. 1954
-• Dies, 1956, of
-alcoholism.
-
-Sen. Flanders led fight for censure.
-
-This does NOT
-mean US is
-less anticommunist
-
-The Image: Everyone was white
-
-The Reality: The Civil Rights Movement
-
-Remember: Failure of Reconstruction 1865-1877
-
-• 1910 - only 1%
-southern Blacks in
-high school
-• 1900-1914: more
-than 1000
-lynchings
-
-The Rise of "Jim Crow"
-1870s - 1960s
- made legal by Supreme Court ruling in Plessy v.
-Ferguson: separate but equal, 1896
-
-Disenfranchisement
-Wilmington "Race Riot," 1898
-
-The Vampire That Hovers Over North Carolina
-
-Remember: Black Reaction to Jim Crow:
-W.E.B. Du Bois
-• 1909 - form NAACP,
-emphasizes legal battles.
-
-The 1920s:
-anti-lynching campaign fails
-
-NAACP supported the Dyer Bill, 1921
-
-Ida B. Wells, crusader
-
-Remember: WW2: 2.5 million Blacks serve
-in segregated units & white officers
-
-Changes after WW2:
-Jackie Robinson integrates baseball, 1947
-
-July 1948:
-HST integrates US armed forces
-
-Integrated unit in Korea
-
-Yet Jim Crow segregation persisted
-
-Durham, 1940
-
-Jim Crow
-
-Durham, 1940
-
-Beginning in 1930s,
-NAACP focus on overturning Plessy
-
-NAACP lawyers.
-
-Thurgood Marshall
-is center (lead NAACP
-attorney, 1938-67)
-
-NAACP challenge Plessy (1896):
-separate is NOT equal.
-Focus on schools
-
-Black school, 1949
-
-and
-
-white school, 1949
-
-99% southern Blacks in segregated schools
-
-In 1950, for every $1.00
-for SC white schools
-
-only 24¢ for black schools.
-
-No electricity or running water
-
-Black schools got “hand-me-downs.”
-
-The “doll test,” 1951
-“Which doll is nice?”
-“Which doll is bad?”
-
-63% of Southern black children
-said the black doll was “bad.”
-NAACP argue segregation
-harmed children.
-
-Psychologist Dr. Kenneth Clark
-
-http://www.youtube.com/watch?v=z0BxF
-Ru_SOw 3:23-5:00
-
-Brown vs Board of Education, 1954
-• NAACP argues school
-segregation is
-unconstitutional
-• convinces Supreme Court
-to reconsider Plessy
-decision
-
-Oliver Brown,
-R R w e l d e r & a s s t A M E p a s t o r,
-tried to enroll his daughter in
-all-white school in Kansas
-
-Brown vs Board of Education, 1954
-overturns Plessy
-
-“Segregation of white and colored children in
-public schools has a detrimental effect upon
-the colored children. The impact is greater
-when it has the sanction of the law, for the
-policy of separating the races is usually
-interpreted as denoting the inferiority of the
-Negro group…Separate educational facilities
-are inherently unequal.”
--- Earl Warren, Chief Justice, US Supreme Court
-
-A landmark decision –
-the cornerstone of the modern civil
-rights movement –
-
-BUT…
-
-“with all deliberate speed.”
-
-Massive resistance to integration
-
-DDE was displeased with decision
-Says it set progress
-back 15 years.
-A law “can't change a
-man's heart.”
-
-Progress was
-slow.
-
-Filling
-Station,
-1950s
-
-Emmett Till & mother, 1955 in Chicago
-
-Till, 14 years old, visits uncle in Money,
-Mississippi
-In a grocery
-store, he
-whistles at a
-white woman.
-
-He is kidnapped,
-brutally beaten, shot,
-and thrown in Tallahatchie river.
-His mother decided to have
-an open casket funeral.
-
-Jet published photographs.
-
-This is Till before he was killed
-
-Warning: the next image is upsetting
-
-His mother at the funeral
-
-Till’s uncle, Moses Wright, identifies
-the kidnappers in court
-
-but the all white, male jury acquits them.
-
-Worldwide protest rallies.
-
-World press (including in Soviet Union)
-covers trial.
-German paper: "The life
-of a Negro in the United
-States isn't worth a
-whistle."
-
-100 days later, Rosa Parks refused to move
-to the back of the bus in
-Montgomery, Alabama
-
-1955
-
-She was arrested.
-
-Martin
-Luther
-King, Jr.
-leads a bus
-boycott
-
-The boycott lasts 385 days –
-surprising all “pundits”
-
-Finally, in 1956, court rules segregation on buses is illegal.
-
-Martin Luther King, Jr.
-
-• 1929: born, Atlanta
-• 1955: PhD in
-theology, Boston U
-• 1954: pastor in
-Montgomery, AL
-
-MLK believes in non-violence.
-Non-violence takes courage.
-
-Young people attacked by fire hoses in Birmingham
-
-The courage of non-violence
-
-A lone protestor stops the tanks in TiananmanSquare, China, 1989
-
-Civil Disobedience means accepting
-the consequences
-
-Beaten in Birmingham
-MLK Jailed in Montgomery
-
-It requires
-discipline,
-faith, and
-leadership.
-
-Civil Rights leaders
-(Andrew Young, standing)
-lead marchers in prayer
-before the Selma to
-Birmingham march, 1965.
-
-For MLK, non-violence is
-(1) Christian
-
-(2) most
-effective
-weapon of an
-oppressed
-minority
-
-MLK believes in cooperation,
-negotiation, integration.
-He worked within the system
-
-MLK was savvy about power of TV
-
-Difficulties in the late 1950s
-(1) 1957 - Sputnik
-
-(2) Missile Gap
-Khrushchev,
-leader of
-USSR
-
-(3) Castro in Cuba, 1959
-
-Remember:
-Spanish American War, 1898
-
-Results of war -- For Cuba:
-Cuba expected independence
-
-“No room for him [Spain] on this side.”
-The boot of Uncle Sam kicks Spain out of Cuba and back to Europe.
-The Cuba Libre Flag is waving – before the US intervenes.
-
-Instead, it got US domination.
-
-and a pro-American Dictator
-
-Castro overthrew Batista,
-January 1959
-Castro was critical of
-USA but was not
-– yet –
-a communist.
-
-Remember: Ike relied on CIA
-1953: toppled Iranian
-Prime Minister Mossadegh
-
-1954: toppled Guatemalan
-President Arbenz
-
-He told the CIA begin plotting to
-overthrow Castro
-All were confident
-that it could be
-done easily.
-
-This was the backdrop to the
-1960 election
-Sputnik & the missile gap
-Castro in Cuba
-
-The perception was that
-while Khrushchev built weapons
-
-Ike was playing golf.
-
-
-
-## Metadata
-- Source file: junk_drawer/19 The Cold war at Home S20 posted.pdf
-- Extracted: 2026-05-18
-- Category: academic-homework

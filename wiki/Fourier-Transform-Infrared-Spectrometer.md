@@ -1,17 +1,12 @@
-# Fourier Transform Infrared Spectrometer
+# Fourier Transform Infrared Spectrometer (FTIR)
 
-Type: [[technologies]]
+Analytical instrument that identifies chemical composition by measuring infrared absorption across a range of frequencies simultaneously.
 
-## Description
-Fourier Transform Infrared Spectrometer is a key concept/entity found across multiple documents in the knowledge base.
+## In SiC/materials context
+- Used to characterize thin films, identify contaminants, measure layer thickness
+- Non-destructive inline measurement option
 
-## Related Files
-
-- [[Jose Resume - March 2025.pdf]]
-- [[Jose-Barbeito-Resume.pdf]]
-- [[Jose Barbeito Resume 1.pdf]]
-- [[resume 1.pdf]]
-- [[Jose Barbeito Resume.pdf]]
-- [[Fourier-Transform-Infrared-Spectrometer]]
-- [[Jose Resume - 2025 December.pdf]]
-- [[resume.pdf]]
+## Related
+- [[Chemical-Vapor-Deposition]]
+- [[Silicon-Carbide]]
+- [[work-wolfspeed]]

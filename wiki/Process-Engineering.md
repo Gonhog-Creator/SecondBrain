@@ -1,20 +1,15 @@
 # Process Engineering
 
-Type: [[concepts]]
+Engineering discipline focused on designing, optimizing, and controlling manufacturing and chemical processes.
 
-## Description
-Process Engineering is a key concept/entity found across multiple documents in the knowledge base.
+## Relevant context
+- Chemical process design (NCSU ChE coursework)
+- Semiconductor manufacturing process control (Wolfspeed)
+- Ballistic vest manufacturing and testing (DeltaV)
 
-## Related Files
-
-- [[Intro to Polymers_3rd ed_Young and Lovell.pdf]]
-- [[Jose Resume - March 2025.pdf]]
-- [[Jose Resume - September 2023.pdf]]
-- [[Jose-Barbeito-Resume.pdf]]
-- [[Ava Rec Letter.pdf]]
-- [[Jose Barbeito Resume 1.pdf]]
-- [[Jose Resume - September 2023 1.pdf]]
-- [[resume 1.pdf]]
-- [[Christie_John_Geankoplis__A._Allen_Hersel__Daniel_H._Lepek_-_Transport_Processes_and_Separation_Process_Principles-Prentice_Hall_2018Z-Lib.io 1.pdf]]
-- [[Process-Engineering]]
-- ... and 4 more files
+## Related
+- [[Chemical-Engineering]]
+- [[Design-of-Experiment]]
+- [[Statistical-Process-Control]]
+- [[work-wolfspeed]]
+- [[work-deltav]]

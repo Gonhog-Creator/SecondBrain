@@ -1,17 +1,13 @@
-# Measurement Systems Analysis
+# Measurement Systems Analysis (MSA)
 
-Type: [[technologies]]
+Evaluating the quality of a measurement system — how much variation comes from the measurement process vs the actual process.
 
-## Description
-Measurement Systems Analysis is a key concept/entity found across multiple documents in the knowledge base.
+## Key studies
+- Gauge R&R (see [[Gauge-Repeatability-and-Reproducibility]])
+- Linearity and bias studies
+- Stability studies
 
-## Related Files
-
-- [[Jose Resume - March 2025.pdf]]
-- [[Jose-Barbeito-Resume.pdf]]
-- [[Measurement-Systems-Analysis]]
-- [[Jose Barbeito Resume 1.pdf]]
-- [[resume 1.pdf]]
-- [[Jose Barbeito Resume.pdf]]
-- [[Jose Resume - 2025 December.pdf]]
-- [[resume.pdf]]
+## Related
+- [[Gauge-Repeatability-and-Reproducibility]]
+- [[Statistical-Process-Control]]
+- [[work-wolfspeed]]

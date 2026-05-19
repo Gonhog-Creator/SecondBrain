@@ -1,44 +1,7 @@
-# academic-syllabus
+# Course Syllabi
 
-Category page for 38 files.
+Syllabi from NCSU ChE, MSE, MA, and humanities courses.
 
-## Files in this category
-
-- [[CHE 450 Syllabus Fall 2024_v1.pdf]]
-- [[SkyFactory 4 Multiplayer Instructions.pdf]]
-- [[syllabus-MSE 201Spring2023 2.pdf]]
-- [[CHE 330 Syllabus Spring 2024_v3.pdf]]
-- [[TurnItIn Submission Instructions CHE 331 Fall 2024.pdf]]
-- [[ENG 288 Syllabus Spring 2025_004.pdf]]
-- [[MSE 360 S25 Syllabus.pdf]]
-- [[2023. CH223 Syllabus JunOhata.pdf]]
-- [[NE235 Fall 2022 Syllabus 1.pdf]]
-- [[CHE 331 Syllabus Fall 2024_v5.pdf]]
-- [[Syllabus CH224 Spring 2023.pdf]]
-- [[DS 2032 Statement of Registration Instructions 05012025.pdf]]
-- [[NE235 Fall 2022 Syllabus 2022-10-17 1.pdf]]
-- [[CHE 331 Syllabus Fall 2024_v6.pdf]]
-- [[Syllabus_2025.pdf]]
-- [[NE235 Fall 2022 Syllabus.pdf]]
-- [[CHE 450 Syllabus Fall 2024_v1 1.pdf]]
-- [[ENG 288 Syllabus Spring 2025_005 Revised_1 3.pdf]]
-- [[CHE 331 Syllabus Fall 2024_v6 1.pdf]]
-- [[ENG 288 Syllabus Spring 2025_005 Revised_1 2.pdf]]
-- [[MSE 360 S25 Syllabus 1.pdf]]
-- [[khan 311H syllabus fall 2023.docx.pdf]]
-- [[PHI_347_Syllabus_Fall2024.pdf]]
-- [[Fall2022Syllabus 1.pdf]]
-- [[ENG 288 Syllabus Spring 2025_005 Revised_1.pdf]]
-- [[ENG 288 Syllabus Spring 2025_005 Revised_1 1.pdf]]
-- [[CHE 450 Syllabus Fall 2024_v1 3.pdf]]
-- [[MSE 360 S25 Syllabus 2.pdf]]
-- [[TurnItIn Submission Instructions CHE 450 Fall 2024.pdf]]
-- [[CHE 450 Syllabus Fall 2024_v1 2.pdf]]
-- [[TurnItIn Submission Instructions CHE 450 Fall 2024 1.pdf]]
-- [[NE235 Fall 2022 Syllabus 2022-10-17 2.pdf]]
-- [[Syllabus_2025 1.pdf]]
-- [[NE235 Fall 2022 Syllabus 2.pdf]]
-- [[syllabus-MSE 201Spring2023.pdf]]
-- [[NE235 Fall 2022 Syllabus 2022-10-17.pdf]]
-- [[syllabus-MSE 201Spring2023 1.pdf]]
-- [[CHE 450 Syllabus Fall 2024_v1 4.pdf]]
+## Related
+- [[academic-homework]]
+- [[North-Carolina-State-University]]

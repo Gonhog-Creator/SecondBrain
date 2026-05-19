@@ -1,20 +1,14 @@
-# Chemical Vapor Deposition
+# Chemical Vapor Deposition (CVD)
 
-Type: [[technologies]]
+Thin film deposition process — precursor gases react on a heated substrate to deposit a solid layer.
 
-## Description
-Chemical Vapor Deposition is a key concept/entity found across multiple documents in the knowledge base.
+## In SiC context
+- Epitaxial SiC grown via CVD on SiC substrates
+- Key parameters: temperature, pressure, gas flow ratios (C/Si ratio), growth rate
+- Defect types: micropipes, basal plane dislocations, triangular defects
 
-## Related Files
-
-- [[Jose Resume - March 2025.pdf]]
-- [[MSE 360 HW9.pdf]]
-- [[Jose-Barbeito-Resume.pdf]]
-- [[MSE Masters Personal Statement - Jose Barbeito.pdf]]
-- [[Jose Barbeito Resume 1.pdf]]
-- [[Chemical-Vapor-Deposition]]
-- [[resume 1.pdf]]
-- [[Jose Barbeito Resume.pdf]]
-- [[George W. Roberts - Chemical Reactions and Chemical Reactors 2008, Wiley - libgen.li.pdf]]
-- [[George W. Roberts - Chemical Reactions and Chemical Reactors 2008, Wiley - libgen.li_compressed.pdf]]
-- ... and 5 more files
+## Related
+- [[Silicon-Carbide]]
+- [[Process-Engineering]]
+- [[work-wolfspeed]]
+- [[Fourier-Transform-Infrared-Spectrometer]]

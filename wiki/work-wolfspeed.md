@@ -1,10 +1,17 @@
-# work-wolfspeed
+# Wolfspeed
 
-Category page for 4 files.
+Internship at Wolfspeed (SiC semiconductor manufacturer). Process engineering / quality engineering role.
 
-## Files in this category
+## Work done
+- Applied DOE, SPC, and MSA to wafer fabrication processes
+- CVD process monitoring and change review (PCRB)
+- Safety documentation for lab chemicals
 
-- [[C-Zero Cover Letter.pdf]]
-- [[Wolfspeed Completed Form.pdf]]
-- [[C-Zero Company Summary.pdf]]
-- [[C-Zero Cover Letter 1.pdf]]
+## Related
+- [[Silicon-Carbide]]
+- [[Chemical-Vapor-Deposition]]
+- [[Design-of-Experiment]]
+- [[Statistical-Process-Control]]
+- [[Measurement-Systems-Analysis]]
+- [[Process-Change-Review-Boards]]
+- [[technical-safety]]

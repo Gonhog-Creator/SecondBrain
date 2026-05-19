@@ -2,6 +2,15 @@
 
 Chronological record of wiki operations.
 
+## [2026-05-19] cleanup | Removed auto-generated source extractions from wiki/
+- Deleted ~1,460 auto-generated per-file extraction pages (*.pdf.md, *.java.md, *.tsx.md, etc.)
+- Deleted 122 crash log files (crash-*.md from TheAncientWorld Minecraft mod dev)
+- Deleted noise files: CMakeCache.md, LICENSE.md, README.md, nginx.conf.md, etc.
+- 46 real concept/category pages retained
+- Rebuilt wiki/index.md as a clean catalog of actual knowledge pages
+- Updated CASCADE.md INGEST rules to prevent regenerating extraction dumps
+- Motivation: per the second-brain principle, wiki/ is for synthesis not extraction
+
 ## [2026-05-19] create | Daily research paper suggestion system
 - Created Scripts/automation/daily_research_paper.py
 - Analyzes wiki coverage across 7 knowledge domains:

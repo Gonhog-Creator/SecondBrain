@@ -1,10 +1,6 @@
-# personal-document
+# Personal Documents
 
-Category page for 4 files.
+Travel documents, personal notes, miscellaneous personal records.
 
-## Files in this category
-
-- [[Iceland Itinerary.pdf]]
-- [[Things I Learned.pdf]]
-- [[percorso_formativo.pdf]]
-- [[Iceland Itinerary 1.pdf]]
+## Related
+- [[other]]

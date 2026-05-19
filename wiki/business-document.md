@@ -1,8 +1,6 @@
-# business-document
+# Business Documents
 
-Category page for 2 files.
+General business documents not tied to a specific entity.
 
-## Files in this category
-
-- [[Team Contract - Descriptions of Senior Design Project Deliverables 1.pdf]]
-- [[Team Contract - Descriptions of Senior Design Project Deliverables.pdf]]
+## Related
+- [[business-deltav]]

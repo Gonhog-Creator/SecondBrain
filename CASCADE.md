@@ -56,13 +56,15 @@ When the user adds a new source to raw-sources/ or junk_drawer/ and asks to proc
 **Workflow:**
 1. Read the source completely
 2. Discuss key takeaways with the user
-3. Write a summary page in wiki/
-4. Update wiki/index.md with a link and one-line description
+3. Write a synthesis page in wiki/ only if the source adds meaningful new knowledge — not a raw extraction or list of filenames
+4. Update wiki/index.md with a link and one-line description **only for real concept/synthesis pages**
 5. Update any existing concept/entity pages that this source connects to
 6. Flag contradictions with existing knowledge
 7. Append an entry to wiki/log.md in format: `## [YYYY-MM-DD] ingest | Source Name`
 
-**Important:** A single source might touch 10-15 wiki pages. Stay involved — read the summaries, check the updates, and guide the AI on what to emphasize.
+**Critical constraint:** Do NOT create one wiki page per source file. Do NOT dump raw text extractions or filename lists into wiki/. The wiki/ folder is for knowledge synthesis only — concept pages, topic overviews, comparisons, and project summaries written in your own words. Source files live in junk_drawer/ and raw-sources/ and are accessed directly when needed.
+
+**Important:** A single source might touch 1-3 wiki pages. Stay involved — read the summaries, check the updates, and guide the AI on what to emphasize.
 
 **For raw-sources/chatgpt/ and raw-sources/claude/:**
 - Extract key insights, questions asked, and answers received

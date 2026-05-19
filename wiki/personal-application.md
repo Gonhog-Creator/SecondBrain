@@ -1,6 +1,7 @@
-# personal-application
+# Personal Applications
 
-Category page for 12 files.
+Graduate school applications and related materials.
 
-## Files in this category
-
+## Related
+- [[personal-resume]]
+- [[North-Carolina-State-University]]

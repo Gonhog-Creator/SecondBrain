@@ -1,20 +1,18 @@
-# Design of Experiment
+# Design of Experiment (DOE)
 
-Type: [[technologies]]
+Statistical method for efficiently understanding how input factors affect process outputs.
 
-## Description
-Design of Experiment is a key concept/entity found across multiple documents in the knowledge base.
+## Key types
+- Full factorial, fractional factorial
+- Response surface methods (RSM)
+- Taguchi designs
 
-## Related Files
+## Applications
+- Used at Wolfspeed to optimize CVD process parameters
+- Taught in CHE 330 (coursework)
 
-- [[Jose Resume - March 2025.pdf]]
-- [[academic-lecture]]
-- [[Jose-Barbeito-Resume.pdf]]
-- [[CHE 330 Exam 2 Study Guide.pdf]]
-- [[Design-of-Experiment]]
-- [[CHE 330 - Design of Experiments Supplemental Notes.pdf]]
-- [[Jose Barbeito Resume 1.pdf]]
-- [[resume 1.pdf]]
-- [[Jose Barbeito Resume.pdf]]
-- [[LRL AP RDTG AIAA.pdf]]
-- ... and 4 more files
+## Related
+- [[Statistical-Process-Control]]
+- [[Measurement-Systems-Analysis]]
+- [[Process-Engineering]]
+- [[work-wolfspeed]]

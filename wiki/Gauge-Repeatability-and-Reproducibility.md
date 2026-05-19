@@ -1,13 +1,12 @@
-# Gauge Repeatability and Reproducibility
+# Gauge Repeatability & Reproducibility (GR&R)
 
-Type: [[concepts]]
+Subset of MSA. Quantifies how much of total process variation is attributable to the measurement system.
 
-## Description
-Gauge Repeatability and Reproducibility is a key concept/entity found across multiple documents in the knowledge base.
+## Components
+- Repeatability: variation from the gauge itself (EV)
+- Reproducibility: variation between operators (AV)
+- %GR&R < 10% = acceptable; 10–30% = marginal; >30% = unacceptable
 
-## Related Files
-
-- [[Jose Resume - March 2025.pdf]]
-- [[Jose-Barbeito-Resume.pdf]]
-- [[Gauge-Repeatability-and-Reproducibility]]
-- [[Jose Resume - 2025 December.pdf]]
+## Related
+- [[Measurement-Systems-Analysis]]
+- [[Statistical-Process-Control]]

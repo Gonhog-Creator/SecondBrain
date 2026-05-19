@@ -1,18 +1,13 @@
-# work-deltav
+# DeltaV Work
 
-Category page for 12 files.
+Work at DeltaV — ballistics and body armor engineering.
 
-## Files in this category
+## Projects
+- [[DeltaDash]] — ballistics test data dashboard and trauma estimation system
+- Vest testing data (6 shots/side, 12 shots/vest), velocity and BFD measurements
+- Material composition analysis for multi-layer armor systems
 
-- [[DELTA V - PARA RF2 - Construction Document.pdf]]
-- [[DELTA V – PARA RF1 Product Sheet 1.pdf]]
-- [[DELTA V – PARA RF1 English.pdf]]
-- [[DELTA V – PARA RF2 English 2.pdf]]
-- [[DELTA V – PARA RF2 English.pdf]]
-- [[DELTA V – PARA RF1 Product Sheet.pdf]]
-- [[DELTA V – PARA RF2 English 1.pdf]]
-- [[DELTA V – PARA RF1 English 1.pdf]]
-- [[Production Label DeltaV.pdf]]
-- [[Production Label ASP.pdf]]
-- [[Element Defense Belcamp OH000032344-0 DeltaV.pdf]]
-- [[Element Defense Belcamp OH000032344-0 DeltaV1.pdf]]
+## Related
+- [[ballistics-armor]]
+- [[DeltaDash]]
+- [[Doble-W-Servicios]]

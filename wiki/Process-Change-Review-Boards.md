@@ -1,17 +1,15 @@
-# Process Change Review Boards
+# Process Change Review Boards (PCRB)
 
-Type: [[concepts]]
+Formal engineering change control process — any modification to a qualified manufacturing process must go through PCRB review and approval before implementation.
 
-## Description
-Process Change Review Boards is a key concept/entity found across multiple documents in the knowledge base.
+## Typical workflow
+1. Engineer identifies need for change
+2. DOE/risk assessment performed
+3. PCRB review: cross-functional sign-off (process, quality, reliability, customer)
+4. Qualification run
+5. Production release
 
-## Related Files
-
-- [[Jose Resume - March 2025.pdf]]
-- [[Jose-Barbeito-Resume.pdf]]
-- [[Jose Barbeito Resume 1.pdf]]
-- [[resume 1.pdf]]
-- [[Jose Barbeito Resume.pdf]]
-- [[Jose Resume - 2025 December.pdf]]
-- [[Process-Change-Review-Boards]]
-- [[resume.pdf]]
+## Related
+- [[Process-Engineering]]
+- [[Design-of-Experiment]]
+- [[work-wolfspeed]]

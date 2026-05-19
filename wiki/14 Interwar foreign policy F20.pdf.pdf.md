@@ -1,587 +1,0 @@
-# 14 Interwar foreign policy F20.pdf.pdf
-
-Source: junk_drawer/14 Interwar foreign policy F20.pdf.pdf
-
-Category: [[other]]
-
-## Summary
-Interwar Foreign Policy, 1919-1941 “Isolationism” ➢In what way was the United States “isolationist” in the interwar period? ➢How and why did this change? ➢ the road to war in Europe ➢ the road to war in the Pacific Was the USA “isolationist”?
-
-## Full Content
-Interwar Foreign Policy, 1919-1941
-“Isolationism”
-➢In what way was the United States “isolationist” in
-the interwar period?
-➢How and why did this change?
-➢ the road to war in Europe
-➢ the road to war in the Pacific
-
-Was the USA “isolationist”?
-
-No
-– not in terms of global capitalism
-GERMANY
-Owed Allies
-reparations
-
-US Banks
-lent
-Germany
-money
-
-France & UK
-owed USA war
-debts
-
-No – not in terms of global
-capitalism
-
-US business interests in Central America & Caribbean in interwar period
-
-No – not in terms of global capitalism
-United Fruit Company
-(UFCO)
-in Latin America
-
-Miss Chiquita – Logo of UFCO
-
-No
-– not in terms of global capitalism
-
-No –
-not in terms of hegemony in Latin America
-In 1920s:
-US troops in:
-➢Cuba
-➢Nicaragua
-➢Haiti
-➢Dom Rep
-
-Not “isolationist”: Missionaries
-
-US missionaries in China
-
-… and
-
-travel
-
-Not isolationist:
-international peace movements
-Women’s International League For Peace & Freedom
-
-Balch won the
-Nobel Peace
-Prize, 1946
-Jane Addams and Emily Balch
-
-• So – if US was very involved in the world
-in terms of
-– global capitalism
-– and hegemony in Latin America
-– and missionaries
-– and tourism
-– and international peace movements
-
-• Why would anyone call the US
-“isolationist” in the interwar period
-
-?
-
-After WW1, Americans did not want to get
-drawn into another European war
-
-G e n e r a l S t r i ke f o r P e a c e , 1 9 3 6
-
-“The human cost
-of war”
-
-attempt to create
-a more peaceful
-world
-
-The horror
-
-https://www.youtube.com/watch?v=2SHIY8C-Elc
-Begin 13:22 -18:34 “depression departs”
-
-Peace Movements - nongovernmental:
-Women’s International League For Peace & Freedom
-
-Balch won the
-Nobel Peace
-Prize, 1946
-Jane Addams and Emily Balch
-
-Peace Movements - governmental:
-Geneva Protocol vs Chemical &
-Biological Weapons, 1925
-
-Peace Movements - governmental:
-Kellogg Briand Pact, 1928
-
-President Coolidge, Hoover, Secretary of State Kellog , standing ,
-ratify treaty renouncing war
-
-Neutrality Act 1935
-note: before WW2 breaks out in 1939
-
-Sen. Gerald Nye (R-ND)
-led fight for neutrality
-in Congress
-
-ban shipment
-of war
-materiel to
-belligerents
-
-forbid US
-citizens from
-traveling on
-belligerent
-vessels
-
-Feb. 1936: add prohibition on loans to
-belligerents
-
-But by 1941,
-US was at war in Europe
-–
-What happened
-
-?
-
-What was happening in Europe?
-
-Hitler in Germany, 1933
-
-German irredentism after WW1.
-Note how Germany has shrunk
-
-1914
-
-1919
-
-German “irredentism”
-
-Germany annexes Austria, Mar. 1938
-The Anschluss
-
-“Peace in our Time”
-Munich Conference, Sept. 1938
-Appeasement
-
-Sudetenland
-
-Neville Chamberlain & Hitler
-
-Munich – West appeases Hitler
-and Stalin is dismayed
-
-Stalin to Hitler, Chamberlain & French & Italians at Munich, 1938:
-“What? No chair for me?” (Note map of Czechoslovakia)
-Note that US is not there.
-
-Therefore, Aug. 1939: Nazi-Soviet Pact
-
-Stalin & Hitler, embracing , with legs tied – and with guns behind their backs.
-British cartoon, 1939
-
-Kristallnacht ("Night of Broken Glass")
-November 9–10, 1938
-
-The synagogue in Oberramstadt (a town in SW Germany) burns during Kristallnacht.
-
-Refugees from Nazi Germany on board
-the "St. Louis" en route to Cuba.
-
-Cuba denies entry
-US denies entry
-
-The St. Louis returns to Europe
-June 17, 1939.
-
-August
-1939
-Pro-Germany
-Pact with
-Germany
-Anti-Germany
-What country
-is vulnerable?
-
-Nazis invade Poland, Sept. 1, 1939
-
-Britain & France declare war on Germany
-Sept. 3, 1939
-
-World War Two begins
-
-Because of British & French empires, this means it is a truly
-GLOBAL war.
-
-British
-Empire
-&
-Commonwealth
-French
-Empire
-
-What does
-U.S. do
-
-?
-
-Neutrality Acts, 1935-1939,
-in place
-
-Banned (1) shipment of war materiel to belligerents
-& (2) US citizens from traveling on belligerent vessels
-
-The Senate’s
-Neutrality Act
-neglects the
-reality of
-“American
-commercial
-interests all over
-the world”
-
-“America First”
-• Strongly supported
-Neutrality Acts
-• opposed fighting Nazism
-• proposed a well-armed
-America confined largely
-to the Western
-hemisphere.
-
-Most prominent: Charles Lindbergh
-
-– promoted fascism
-– Wanted US to accommodate Hitler.
-– Proudly accepted a medal from Goering
-“in the name of the Fuehrer” in 1938
-
-Lindbergh Goering 1938
-
-Some Americans were pro-Hitler
-The German-American Bund
-22,000 US Nazis rallied in NYC, Feb. 20, 1939
-
-https://anightatthegarden.com/#post-67
-
-In 1939,
-Congress
-strengthened
-Neutrality
-Laws.
-
-Dr. Seuss satirized
-the isolationists’
-position
-
-Britain & France declare war on Germany
-Sept. 3, 1939
-
-World War Two begins
-
-Then Hitler invades France,
-Fall of France, June 1940
-
-Hitler in Paris, 1940
-
-And he bombs Britain: The London Blitz,
-1940
-
-begins August 1940
-
-London
-
-The London Blitz
-
-St. Paul’s Cathedral
-
-1940:
-Germany
-is winning
-Pro-German or
-occupied by
-Germany
-Pact with
-Germany
-
-Anti-Germany
-
-in
-Washington,
-movement….
-
-Sept. 1940:
-FDR signs Selective Service Act,
-establishing first peacetime draft
-
-US factories at full speed,
-manufacturing munitions for allies
-
-Opened up jobs for women
-
-But not for Blacks – male or female
-
-A. Philip Randolph
-Civil Rights and Labor Leader, socialist
-“The Long Civil Rights Movement”
-
-Fight for arms factory jobs open to Blacks
-(unlike NAACP, which focused on middle class)
-
-Poor Black family, Southern Pines, NC
-
-Also call for end of segregated army
-
-Roosevelt ignored it:
-he didn’t want to alienate Southern whites
-
-Randolph
-proposes a
-March on
-Washington for
-July 1, 1941.
-Expects 100,000
-marchers.
-
-FDR worried about so many blacks
-gathering in Washington.
-“You might have bloodshed & death.”
-Meets with Randolph at White House,
-June 18, 1941
-
-Randolph: “Mr. President, time is
-running out.”
-
-Agrees to executive order “with teeth in it”
-to eliminate discrimination in defense
-industries if Randolph calls off March.
-(refuses to desegregate military)
-
-FDR to Office of Production Management leaders Knudsen & Hillman
-
-Blacks get good jobs in defense industry
-
-Significant:
-The president called
-a Black leader
-to White House for
-serious negotiations
-– direct access.
-The president can
-no longer ignore
-Black leaders.
-
-March 1941-1945:
-Lend Lease
-Amend Neutrality Act
-US “lends” war
-materiel to allies in
-exchange for
-“lease” of basing
-rights.
-In fact, US gave
-allies this materiel
-with no provision
-for repayment –
-unlike war debts of
-WW1.
-
-Where will Hitler go next?
-1940-41
-Pro-German &
-occupied by
-Germany
-Pact with
-Germany
-Anti-Germany
-
-Hitler stabs
-Stalin
-in the back
-
-Nazi invasion of Soviet Union
-June 1941
-
-Winston Churchill
-promises USSR all possible help
-
-FDR extends Lend Lease to USSR
-
-By 1945, US sent $11.3 billion materiel to USSR
-
-July 4, 1941
-FDR : “I tell the
-American people
-solemnly that the
-United States will never
-survive as a happy and
-fertile oasis of liberty
-surrounded by a cruel
-desert of dictatorship.”
-
-http://www.presidency.ucsb.edu/ws/index.php?pid=16139&st=&st1= Begin under “P”roject
-
-FDR is contemplating the US role in
-a post-war world
-
-Atlantic Charter, Aug 1941
-• FDR & Churchill
-discuss “common
-principles. “
-• Both seek:
-– no territory
-– self-government
-– free trade
-– peace
-↑FDR ↑Churchill ↑Europe
-
-Atlantic Charter, Aug 1941
-But Churchill & FDR
-did not have
-identical visions of
-post-war world.
-• Churchill wanted
-UK to keep empire
-• FDR wanted US to
-emerge as the
-global leader
-
-FDR also worried about Japan
-
-Emperor Hirohito
-
-1931: Japanese occupy Manchuria
-
-Establish Manchukuo empire
-
-1937: Japanese attack China proper
-Sino-Japanese War
-
-The Rape of Nanking, 1937-38
-
-Japan
-Occupied by
-Japan by 1931
-Occupied by
-Japan by 1937
-Later in 1937
-
-(Sept 1940: Selective Service Act)
-
-Oct. 1940: US embargo scrap
-metal & aviation fuel to Japan
-Japan’s reliance on US scrap metal
-Year
-
-Percentage
-
-1936
-
-70.0
-
-1937
-
-70.0
-
-1938
-
-55.3
-
-1939
-
-75.0
-
-US did not, yet, embargo oil
-
-Japan's reliance on US oil in 1940
-Country From
-
-Percentage
-
-United States
-
-80%
-
-1940: Japan moves south
-
-June 1940:
-France Falls
-
-Sept. 1940: Japanese occupy
-French Indochina (Vietnam)
-
-July 26, 1941
-
-Pearl Harbor,
-Dec. 7, 1941: “a date that will live in infamy”
-
-In fact, 6 battleships (but no aircraft carriers) were lost,
-and 2,403 people were killed
-
-FDR signs war declaration
-
-Dec. 8: vs. Japan
-Dec. 11: vs. Germany
-
-Why did US go to war
-
-?
-• The trigger: Pearl Harbor
-• The underlying reasons…
-
-(1) SECURITY—
-narrowly
-defined
-Hitler
-contemplates the
-map of S. America.
-A map of the USA
-is on the wall.
-It is labeled
-“Softening up
-operations against
-the United States”
-
-“Europe is getting hot! We’ve got to
-move to the Western Hemisphere!”
-
-(1) Security – broadly defined
-FDR, 1941
-“I tell the American
-people solemnly that
-the United States will
-never survive as a
-happy and fertile oasis
-of liberty surrounded by
-a cruel desert of
-dictatorship.”
-
-(2)
-Economics
-
-(3) Ideas: Shaping the post-war world
-FDR’s
-“Four
-Freedoms”
-1941
-
-of religion
-
-from want
-
-of speech
-
-from fear
-
-
-
-## Metadata
-- Source file: junk_drawer/14 Interwar foreign policy F20.pdf.pdf
-- Extracted: 2026-05-18
-- Category: other

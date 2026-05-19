@@ -1,20 +1,14 @@
-# Material Science Engineering
+# Materials Science & Engineering (MSE)
 
-Type: [[concepts]]
+Study of the relationship between material structure, properties, processing, and performance.
 
-## Description
-Material Science Engineering is a key concept/entity found across multiple documents in the knowledge base.
+## Coursework (NCSU MSE 300, 360)
+- Crystal structure, phase diagrams, diffusion
+- Mechanical properties, failure analysis
+- Electronic and magnetic properties
 
-## Related Files
-
-- [[Jose Resume - March 2025.pdf]]
-- [[Jose Resume - September 2023.pdf]]
-- [[Jose-Barbeito-Resume.pdf]]
-- [[Jose Resume - Jan 2023 1.pdf]]
-- [[Jose Resume - Jan 2022 1.pdf]]
-- [[Material-Science-Engineering]]
-- [[Jose+Resume+-+Jan+2023.pdf]]
-- [[Jose Barbeito Resume 1.pdf]]
-- [[Jose Resume - Jan 2022.pdf]]
-- [[Jose Resume - September 2023 1.pdf]]
-- ... and 9 more files
+## Related
+- [[Silicon-Carbide]]
+- [[Chemical-Vapor-Deposition]]
+- [[materials-science]]
+- [[North-Carolina-State-University]]

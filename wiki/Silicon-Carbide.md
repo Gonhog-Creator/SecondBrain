@@ -1,20 +1,19 @@
-# Silicon Carbide
+# Silicon Carbide (SiC)
 
-Type: [[technologies]]
+Wide-bandgap semiconductor material. Core material at Wolfspeed — used for power electronics (MOSFETs, diodes) and RF devices.
 
-## Description
-Silicon Carbide is a key concept/entity found across multiple documents in the knowledge base.
+## Properties
+- Bandgap: 3.26 eV (vs 1.12 eV for Si)
+- High thermal conductivity, high breakdown field
+- Grown via CVD on SiC substrates (4H-SiC polytype standard)
 
-## Related Files
+## Manufacturing context
+- Grown epitaxially via [[Chemical-Vapor-Deposition]]
+- Wafer quality controlled via [[Statistical-Process-Control]] and [[Design-of-Experiment]]
+- Process changes managed through [[Process-Change-Review-Boards]]
 
-- [[Jose Resume - March 2025.pdf]]
-- [[Materials-Textbook-8th-Edition.pdf]]
-- [[Materials-Textbook-8th-Edition 2.pdf]]
-- [[Jose Resume - September 2023.pdf]]
-- [[Jose-Barbeito-Resume.pdf]]
-- [[MSE Masters Personal Statement - Jose Barbeito.pdf]]
-- [[DELTA V – PARA RF2 English 2.pdf]]
-- [[Jose Barbeito Resume 1.pdf]]
-- [[Silicon-Carbide]]
-- [[technical-safety]]
-- ... and 15 more files
+## Related
+- [[Chemical-Vapor-Deposition]]
+- [[work-wolfspeed]]
+- [[Material-Science-Engineering]]
+- [[Process-Engineering]]

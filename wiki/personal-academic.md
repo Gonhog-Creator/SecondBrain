@@ -1,15 +1,7 @@
-# personal-academic
+# Personal Academic Documents
 
-Category page for 9 files.
+Academic transcripts, degree audits, program materials.
 
-## Files in this category
-
-- [[Essay on Reminicense - Jose Barbeito.pdf]]
-- [[Reflections on Grading the Exams 1.pdf]]
-- [[Reflections on Grading the Exams.pdf]]
-- [[complete Academic Integrity Reflection assignment.pdf]]
-- [[Essay on Reminisence - Rough Draft.pdf]]
-- [[Personal Assessment - Jose Barbeito.pdf]]
-- [[Barbeito, Jose - Final Exam Essay.pdf]]
-- [[Essay-Locker Room Talk by Stephen Dunn 2.pdf]]
-- [[Barbeito, Jose Maria, Fannie Lou Hame Essay Final.pdf]]
+## Related
+- [[North-Carolina-State-University]]
+- [[academic-homework]]

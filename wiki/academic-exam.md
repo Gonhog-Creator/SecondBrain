@@ -1,6 +1,12 @@
-# academic-exam
+# Academic Exams
 
-Category page for 75 files.
+Exams, practice exams, quizzes, and study guides from NCSU coursework.
 
-## Files in this category
+## Courses
+- CHE, MSE, MA, physics, and history/humanities exams
+- Includes answer keys, study guides, and equation sheets
 
+## Related
+- [[academic-homework]]
+- [[academic-lecture]]
+- [[North-Carolina-State-University]]

@@ -1,20 +1,12 @@
 # Chemical Engineering
 
-Type: [[concepts]]
+Core undergraduate major at NCSU. Covers thermodynamics, transport phenomena, reaction engineering, separations, and process control.
 
-## Description
-Chemical Engineering is a key concept/entity found across multiple documents in the knowledge base.
+## Key courses
+- CHE 225 (Thermodynamics), CHE 311H (Transport), CHE 330 (Separations / DOE), CHE 331, CHE 435, CHE 450
 
-## Related Files
-
-- [[CHE 225-001 HW1.pdf]]
-- [[Degree Audit.pdf]]
-- [[Pratice Exam 2.pdf]]
-- [[Wolfspeed Completed Form.pdf]]
-- [[CHE 225-001 HW10.pdf]]
-- [[CHE330 Heat Exchanger Report.pdf]]
-- [[merged-pdf-2022-09-16T14_51_00.pdf]]
-- [[C-Zero Cover Letter.pdf]]
-- [[Jose Resume - March 2025.pdf]]
-- [[Materials-Textbook-8th-Edition.pdf]]
-- ... and 83 more files
+## Related
+- [[North-Carolina-State-University]]
+- [[Design-of-Experiment]]
+- [[Process-Engineering]]
+- [[work-wolfspeed]]

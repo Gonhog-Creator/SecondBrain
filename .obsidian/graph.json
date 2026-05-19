@@ -5,18 +5,54 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:wiki/academic OR path:wiki/lab-coursework OR path:wiki/textbook OR path:wiki/research-paper OR path:wiki/physics-research OR path:wiki/materials-science OR path:wiki/literature-humanities OR path:wiki/history-us-politics OR path:wiki/media-transcript",
+      "color": {
+        "a": 1,
+        "rgb": 4418739
+      }
+    },
+    {
+      "query": "path:wiki/work OR path:wiki/job-application OR path:wiki/personal OR path:wiki/business OR path:wiki/legal-document OR path:wiki/financial-document OR path:wiki/travel",
+      "color": {
+        "a": 1,
+        "rgb": 16744272
+      }
+    },
+    {
+      "query": "path:wiki/Chemical OR path:wiki/Silicon OR path:wiki/Material OR path:wiki/Process OR path:wiki/Design-of-Experiment OR path:wiki/Statistical OR path:wiki/Measurement OR path:wiki/Gauge OR path:wiki/Fourier OR path:wiki/North-Carolina OR path:wiki/Doble OR path:wiki/BEE",
+      "color": {
+        "a": 1,
+        "rgb": 14680319
+      }
+    },
+    {
+      "query": "path:wiki/github OR path:wiki/ballistics-armor OR path:wiki/technical-safety OR path:wiki/DeltaDash OR path:wiki/RoADashboard OR path:wiki/personal-projects",
+      "color": {
+        "a": 1,
+        "rgb": 5636096
+      }
+    },
+    {
+      "query": "path:wiki/index OR path:wiki/log OR path:wiki/other",
+      "color": {
+        "a": 1,
+        "rgb": 8355711
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 9.41666666666667,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1743171669011274,
+  "scale": 1.1681581661255473,
   "close": true
 }
