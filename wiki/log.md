@@ -2,6 +2,44 @@
 
 Chronological record of wiki operations.
 
+## [2026-05-19] create | Daily research paper suggestion system
+- Created Scripts/automation/daily_research_paper.py
+- Analyzes wiki coverage across 7 knowledge domains:
+  - machine_learning, process_engineering, materials_science
+  - ballistics_protection, software_engineering, data_science, history_politics
+- Identifies knowledge gaps based on file coverage
+- Suggests papers from curated lists per domain
+- Logs suggestions to Daily/research-suggestions.md
+- First suggestion: "The Long Civil Rights Movement" (History Politics)
+- Created Daily/README.md with usage guide
+- Updated Templates/daily-note.md with research paper section
+- Replaced "Claude" with "Cascade" throughout (using Windsurf)
+
+## [2026-05-19] setup | Templates and integrations guide
+- Created Templates/ directory with 4 templates:
+  - daily-note.md - Morning check-in, tasks, evening review
+  - weekly-review.md - Completed, in progress, learnings, next week
+  - meeting-note.md - Decisions, action items, participants
+  - project-note.md - Goals, timeline, resources, tasks
+- Created .obsidian/plugins-setup.md with configuration for:
+  - Templater (dynamic dates, variables)
+  - Dataview (queries, dashboards)
+  - Tasks (due dates, recurrence, queries)
+  - Calendar (daily note navigation)
+  - Graph View (customization)
+  - Recommended: Advanced Tables, Excalidraw, Kanban, Marp
+- Created INTEGRATIONS.md with 9 integration categories:
+  - Source Ingestion (Web Clipper, Readwise, Zotero, Kindle)
+  - Conversation Integration (ChatGPT, Claude)
+  - Meeting/Call Integration (Otter.ai, Fireflies, Whisper)
+  - Email Integration (Gmail export, newsletters)
+  - Bookmark Integration (Raindrop, Pinboard)
+  - Code/GitHub Integration (repos, snippets)
+  - Image/Visual Integration (screenshots, PDFs)
+  - Web Research (search, RSS)
+  - API Integrations (Notion, Slack, etc.)
+- Documented 3 quick wins that can be done today
+
 ## [2026-05-18] organize | GitHub projects and other category
 - Created wiki/github-projects.md with summary of 8 GitHub repositories
 - Documented: BudgetTool, DeltaDash, DeltaVision, EvolutionSimSite

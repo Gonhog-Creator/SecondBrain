@@ -16,7 +16,7 @@ In practice, the user has the AI agent open on one side and Obsidian open on the
 
 There are three layers:
 
-**raw-sources/** — Curated collection of source documents. Articles, papers, images, data files, ChatGPT conversations, Claude conversations, meeting transcripts, research notes, book highlights, podcast notes. These are immutable — the AI reads from them but never modifies them. This is the source of truth. Organized into subdirectories by source type.
+**raw-sources/** — Curated collection of source documents. Articles, papers, images, data files, ChatGPT conversations, Cascade conversations, meeting transcripts, research notes, book highlights, podcast notes. These are immutable — the AI reads from them but never modifies them. This is the source of truth. Organized into subdirectories by source type.
 
 **junk_drawer/** — Legacy raw sources from initial wiki setup. Contains 900+ PDF files and other documents. Gradually being migrated to raw-sources/ structure.
 
